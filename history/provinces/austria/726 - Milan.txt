@@ -1,5 +1,5 @@
 owner=LOM
-controller=X06
+controller=TEM
 add_core=GER
 add_core=LOM
 trade_goods = iron

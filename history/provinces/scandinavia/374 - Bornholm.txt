@@ -1,8 +1,8 @@
-owner=X13
-controller=X13
+owner=BRH
+controller=BRH
 add_core=DEN
 add_core=SCA
-add_core=X13
+add_core=BRH
 add_core=HRE
 trade_goods = fish
 life_rating = 35

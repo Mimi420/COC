@@ -1,7 +1,7 @@
-owner=X00
-controller=X00
+owner=VPS
+controller=VPS
 add_core=GER
-add_core=X00
+add_core=VPS
 trade_goods = timber
 life_rating = 35
 terrain = forest

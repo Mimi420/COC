@@ -1,7 +1,7 @@
-owner=X08
+owner=SDR
 controller=GUG
 add_core=TIB
-add_core=X08
+add_core=SDR
 trade_goods = cotton
 life_rating = 32
 terrain = desert

@@ -1,5 +1,5 @@
-owner=X11
-controller=X11
+owner=VLD
+controller=VLD
 add_core=HND
 add_core=OLD
 trade_goods = timber

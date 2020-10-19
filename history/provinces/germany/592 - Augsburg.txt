@@ -1,7 +1,7 @@
-owner=X05
-controller=X05
+owner=SWA
+controller=SWA
 add_core=GER
-add_core=X05
+add_core=SWA
 add_core=HRE
 trade_goods = cattle
 life_rating = 40
