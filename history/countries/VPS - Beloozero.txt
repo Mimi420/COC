@@ -1,12 +1,13 @@
-capital = 738
-primary_culture = french
-culture = south_german
-culture = zzz_religion_protestant
-religion = protestant
+capital = 1000
+primary_culture = south_german
+culture = german
+culture = russian
+culture = zzz_religion_catholic
+religion = catholic
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
-literacy = 0.516253
+literacy = 0.436829
 
 civilized = yes
 
@@ -21,49 +22,44 @@ school_reforms = no_schools
 
 # political reforms
 slavery=yes_slavery
-vote_franschise=none_voting
-upper_house_composition=party_appointed
-voting_system=first_past_the_post
-public_meetings=no_meeting
+vote_franschise=wealth_weighted_voting
+upper_house_composition=appointed
+voting_system=jefferson_method
+public_meetings=yes_meeting
 press_rights=state_press
 trade_unions=no_trade_unions
 political_parties=underground_parties
 
-ruling_party = X06_reactionary
+ruling_party = VPS_reactionary
 upper_house = 
 {
 	fascist = 0
 	liberal = 10
-	conservative = 85
-	reactionary = 5
+	conservative = 84
+	reactionary = 6
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
 }
 
 # Starting Consciousness
-consciousness = 1.15506
-nonstate_consciousness= 0
+consciousness = 1.66667
+nonstate_consciousness= 0.1369
 
 # Technologies
 basic_chemistry = 1
 bronze_muzzle_loaded_artillery = 1
 classicism_n_early_romanticism = 1
-early_classical_theory_and_critique = 1
 enlightenment_thought = 1
 experimental_railroad = 1
 flintlock_rifles = 1
-freedom_of_trade = 1
-guild_based_production = 1
 late_enlightenment_philosophy = 1
 mechanized_mining = 1
 no_standard = 1
 post_napoleonic_thought = 1
 practical_steam_engine = 1
-private_banks = 1
 publishing_industry = 1
 water_wheel_power = 1
-prestige=0.0357562
-oob = "X06_OOB.txt"
-set_country_flag = member_hre
+prestige=0
+oob = "VPS_OOB.txt"
 set_country_flag = religi

@@ -29,7 +29,7 @@ BRU = {
 	monarchy = yes
 	last_dynasty = "Bolkiah"
 }
-X00 = {
+VPS = {
 	monarchy = yes
 	last_dynasty = "Sack"
 }
@@ -160,10 +160,6 @@ DAI = {
 	monarchy = yes
 	last_dynasty = "Huynh"
 }
-X01 = {
-	monarchy = no
-	last_dynasty = "Burilgidai"
-}
 ENL = {
 	monarchy = yes
 	last_dynasty = "Langodick"
@@ -276,7 +272,7 @@ LNG = {
 	monarchy = yes
 	last_dynasty = "Chai"
 }
-X02 = {
+LEO = {
 	monarchy = yes
 	last_dynasty = "Langodick"
 }
@@ -433,19 +429,15 @@ SNA = {
 SLZ = {
 	monarchy = no
 }
-X03 = {
+LAZ = {
 	monarchy = yes
 	last_dynasty = "Árpád"
-}
-X04 = {
-	monarchy = yes
-	last_dynasty = "von Polheim"
 }
 SUL = {
 	monarchy = yes
 	last_dynasty = "Palawan"
 }
-X05 = {
+SWB = {
 	monarchy = yes
 	last_dynasty = "Weber"
 }
@@ -468,7 +460,7 @@ TDO = {
 	monarchy = yes
 	last_dynasty = "Guantu"
 }
-X06 = {
+TEM = {
 	monarchy = yes
 	last_dynasty = "Weber"
 }
@@ -510,15 +502,15 @@ CWU = {
 	monarchy = yes
 	last_dynasty = "Qiu"
 }
-X07 = {
+SCN = {
 	monarchy = yes
 	last_dynasty = "Arenstorff"
 }
-X08 = {
+SDR = {
 	monarchy = yes
 	last_dynasty = "Borjigin"
 }
-X09 = {
+MRV = {
 	monarchy = yes
 	last_dynasty = "Kounic"
 }
@@ -526,7 +518,7 @@ X10 = {
 	monarchy = yes
 	last_dynasty = "Árpád"
 }
-X11 = {
+VLD = {
 	monarchy = yes
 	last_dynasty = "von Silesia-Glogau"
 }
@@ -534,7 +526,7 @@ X12 = {
 	monarchy = yes
 	last_dynasty = "Leiningen"
 }
-X13 = {
+BRH = {
 	monarchy = yes
 	last_dynasty = "Moser"
 }
