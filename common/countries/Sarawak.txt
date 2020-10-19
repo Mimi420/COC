@@ -2,7 +2,7 @@ color = { 219  182  182 }
 graphical_culture = AsianGC
 
 party = {
-	name = "JOR_conservative"
+	name = "JAV_conservative"
 	start_date = 1000.1.1
 	end_date = 2000.1.1
 
@@ -16,7 +16,7 @@ party = {
 }
 
 party = {
-	name = "JOR_liberal"
+	name = "JAV_liberal"
 	start_date = 1680.1.1
 	end_date = 1936.1.1
 
@@ -30,7 +30,7 @@ party = {
 }
 
 party = {
-	name = "JOR_reactionary"
+	name = "JAV_reactionary"
 	start_date = 1680.1.1
 	end_date = 2000.1.1
 
@@ -44,7 +44,7 @@ party = {
 }
 
 party = {
-	name = "JOR_anarcho_liberal"
+	name = "JAV_anarcho_liberal"
 	start_date = 1710.1.1
 	end_date = 2000.1.1
 
@@ -58,7 +58,7 @@ party = {
 }
 
 party = {
-	name = "JOR_socialist"
+	name = "JAV_socialist"
 	start_date = 1790.1.1
 	end_date = 2000.1.1
 
@@ -72,7 +72,7 @@ party = {
 }
 
 party = {
-	name = "JOR_communist"
+	name = "JAV_communist"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -86,7 +86,7 @@ party = {
 }
 
 party = {
-	name = "JOR_fascist"
+	name = "JAV_fascist"
 	start_date = 1900.1.1
 	end_date = 2000.1.1
 

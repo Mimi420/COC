@@ -6,7 +6,7 @@ name = "al-Baretoun's-Greek Imperialist War"
 	add_attacker = X34
 	add_defender = GRE
 	add_defender = AUS
-	add_defender = X11
+	add_defender = VLD
 	add_defender = X26
 	add_defender = SNA
 
