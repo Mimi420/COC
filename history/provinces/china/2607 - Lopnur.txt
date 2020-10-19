@@ -1,7 +1,6 @@
-owner=SDR
-controller=GUG
+owner=TIB
+controller=TIB
 add_core=TIB
-add_core=SDR
 trade_goods = cotton
 life_rating = 32
 terrain = desert

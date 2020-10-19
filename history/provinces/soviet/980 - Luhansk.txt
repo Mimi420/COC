@@ -1,5 +1,5 @@
 owner=VLD
-controller=X32
+controller=EGY
 add_core=VLD
 add_core=HRE
 trade_goods = cattle

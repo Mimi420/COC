@@ -1,8 +1,8 @@
-owner=X32
-controller=YEM
+owner=EGY
+controller=TKS
 add_core=EGY
 add_core=X20
-add_core=X32
+add_core=EGY
 trade_goods = cotton
 life_rating = 35
 terrain = plains

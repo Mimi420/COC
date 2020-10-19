@@ -1,6 +1,5 @@
-owner=GUG
-controller=GUG
-add_core=GUG
+owner=TIB
+controller=TIB
 add_core=TIB
 trade_goods = tea
 life_rating = 25

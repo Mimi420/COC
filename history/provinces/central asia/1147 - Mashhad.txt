@@ -1,6 +1,6 @@
-owner=RAJ
-controller=RAJ
-add_core=GRE
+owner=TAJ
+controller=TAJ
+add_core=TAJ
 trade_goods = coal
 life_rating = 35
 terrain = hills

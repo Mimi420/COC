@@ -1,5 +1,6 @@
-owner=TAB
-controller=TAB
+owner=ALN
+controller=ALN
+add_core=ALN
 trade_goods = silk
 life_rating = 35
 terrain = steppe

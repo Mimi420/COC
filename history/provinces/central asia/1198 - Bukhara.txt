@@ -1,5 +1,6 @@
-owner=TAB
-controller=TAB
+owner=UZB
+controller=UZB
+add_core=UZB
 trade_goods = wool
 life_rating = 35
 terrain = steppe
