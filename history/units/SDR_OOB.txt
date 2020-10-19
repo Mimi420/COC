@@ -5,16 +5,15 @@ AIN = {
 	level = 2
 }
 ANS = {
-	value = 79
-	influence_value = 7
-	level = 3
+	value = 0
+	level = 2
 }
 ARG = {
 	value = 0
 	level = 2
 }
 AUS = {
-	value = -140
+	value = 0
 	level = 2
 }
 AYR = {
@@ -34,7 +33,7 @@ BOL = {
 	level = 2
 }
 BRN = {
-	value = 4
+	value = 0
 	level = 2
 }
 BRU = {
@@ -74,8 +73,7 @@ CRI = {
 	level = 2
 }
 CRS = {
-	value = 88
-	influence_value = 9
+	value = 0
 	level = 2
 }
 CWU = {
@@ -87,7 +85,7 @@ DAK = {
 	level = 2
 }
 ENL = {
-	value = -10
+	value = 0
 	level = 2
 }
 FIN = {
@@ -95,8 +93,7 @@ FIN = {
 	level = 2
 }
 FRA = {
-	value = 105
-	influence_value = 13
+	value = 0
 	level = 2
 }
 GLC = {
@@ -116,11 +113,12 @@ GRA = {
 	level = 2
 }
 GRE = {
-	value = -120
+	value = 0
 	level = 2
 }
 GUG = {
-	value = 0
+	value = 96
+	influence_value = 11
 	level = 2
 }
 HAN = {
@@ -152,9 +150,8 @@ KBO = {
 	level = 2
 }
 KOL = {
-	value = 165
-	influence_value = 28
-	level = 4
+	value = 0
+	level = 2
 }
 KON = {
 	value = 0
@@ -177,7 +174,7 @@ LOM = {
 	level = 2
 }
 LOR = {
-	value = 15
+	value = 0
 	level = 2
 }
 LOU = {
@@ -229,11 +226,15 @@ MNI = {
 	level = 2
 }
 MOR = {
-	value = -90
+	value = 0
+	level = 2
+}
+MTL = {
+	value = 0
 	level = 2
 }
 MUN = {
-	value = 20
+	value = 0
 	level = 2
 }
 NDO = {
@@ -245,7 +246,8 @@ NEW = {
 	level = 2
 }
 NOG = {
-	value = 0
+	value = 69
+	influence_value = 4
 	level = 2
 }
 NOR = {
@@ -285,7 +287,7 @@ QIN = {
 	level = 2
 }
 RAJ = {
-	value = 0
+	value = 3
 	level = 2
 }
 RGS = {
@@ -305,12 +307,11 @@ SIA = {
 	level = 2
 }
 SLZ = {
-	value = 9
+	value = 0
 	level = 2
 }
 SNA = {
-	value = 105
-	influence_value = 13
+	value = 0
 	level = 2
 }
 SUL = {
@@ -318,16 +319,15 @@ SUL = {
 	level = 2
 }
 SVY = {
-	value = 194
-	influence_value = 36
-	level = 4
+	value = 0
+	level = 2
 }
 SWE = {
 	value = 0
 	level = 2
 }
 TAB = {
-	value = -27
+	value = -37
 	level = 2
 }
 TDO = {
@@ -347,12 +347,11 @@ TRS = {
 	level = 2
 }
 TTL = {
-	value = 91
-	influence_value = 10
+	value = 0
 	level = 2
 }
 TUN = {
-	value = -44
+	value = 0
 	level = 2
 }
 UIL = {
@@ -367,19 +366,20 @@ WAL = {
 	value = 0
 	level = 2
 }
-X00 = {
+VPS = {
 	value = 0
 	level = 2
 }
 X01 = {
+	value = 111
+	influence_value = 15
+	level = 2
+}
+LEO = {
 	value = 0
 	level = 2
 }
-X02 = {
-	value = 47
-	level = 2
-}
-X03 = {
+LAZ = {
 	value = 0
 	level = 2
 }
@@ -387,33 +387,31 @@ X04 = {
 	value = 0
 	level = 2
 }
-X05 = {
+SWB = {
 	value = 0
 	level = 2
 }
-X06 = {
-	value = 189
-	military_access = yes
-	influence_value = 84
-	level = 5
-}
-X07 = {
+TEM = {
 	value = 0
 	level = 2
 }
-X08 = {
+SCN = {
 	value = 0
 	level = 2
 }
-X09 = {
-	value = -21
+SDR = {
+	value = 0
+	level = 2
+}
+MRV = {
+	value = 0
 	level = 2
 }
 X10 = {
 	value = 0
 	level = 2
 }
-X11 = {
+VLD = {
 	value = 0
 	level = 2
 }
@@ -421,24 +419,25 @@ X12 = {
 	value = 0
 	level = 2
 }
-X13 = {
-	value = -29
+BRH = {
+	value = 0
 	level = 2
 }
 X14 = {
-	value = 15
+	value = 0
 	level = 2
 }
 X15 = {
-	value = 18
+	value = 0
 	level = 2
 }
 X17 = {
-	value = 0
+	value = -52
 	level = 2
 }
 X18 = {
-	value = 0
+	value = 70
+	influence_value = 5
 	level = 2
 }
 X21 = {
@@ -458,25 +457,24 @@ X24 = {
 	level = 2
 }
 X25 = {
-	value = 182
-	influence_value = 33
-	level = 4
+	value = 0
+	level = 2
 }
 X26 = {
-	value = 181
-	influence_value = 32
-	level = 4
+	value = 0
+	level = 2
 }
 X28 = {
 	value = 0
 	level = 2
 }
 X30 = {
-	value = 0
+	value = 82
+	influence_value = 8
 	level = 2
 }
 X31 = {
-	value = 44
+	value = 0
 	level = 2
 }
 X32 = {
@@ -546,140 +544,20 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Hnabi Gute"
-	date="1787.5.13"
+	name="Chiledu Janid"
+	date="1813.8.20"
 	type=land
-	personality="disciplined"
-	background="cavalry_school"
+	personality="coolminded"
+	background="brownnoser"
+}
+
+leader = {
+	name="Bulughan Shaybanid"
+	date="1813.10.16"
+	type=land
+	personality="coolminded"
+	background="generals_aide"
 }
 
 
 #Armies
-army = {
-	name="Tyrolean Guard"
-	location=728
-	regiment = {
-		name="1st Stuttgart Infantry"
-		type=infantry
-		home=589
-	}
-}
-
-army = {
-	name="Free Company"
-	location=592
-	regiment = {
-		name="1st Brescia Infantry"
-		type=infantry
-		home=728
-	}
-	regiment = {
-		name="2nd Brescia Infantry"
-		type=infantry
-		home=728
-	}
-}
-
-navy = {
-	name="1st Fleet"
-	location=464
-	ship = {
-		name="1st Perpignan Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Perpignan Man'o'war"
-		type=manowar
-	}
-}
-
-army = {
-	name="Dritte Schwäbische Armee"
-	location=592
-	regiment = {
-		name="1st Ulm Infantry"
-		type=infantry
-		home=593
-	}
-	regiment = {
-		name="1st Konstanz Infantry"
-		type=infantry
-		home=588
-	}
-	regiment = {
-		name="1st Brescia Artillery"
-		type=artillery
-		home=728
-	}
-	regiment = {
-		name="1st Stuttgart Artillery"
-		type=artillery
-		home=589
-	}
-	regiment = {
-		name="1st Lugano Artillery"
-		type=artillery
-		home=2568
-	}
-	regiment = {
-		name="2nd Stuttgart Artillery"
-		type=artillery
-		home=589
-	}
-	regiment = {
-		name="2nd Brescia Artillery"
-		type=artillery
-		home=728
-	}
-	regiment = {
-		name="2nd Konstanz Infantry"
-		type=infantry
-		home=588
-	}
-	regiment = {
-		name="2nd Augsburg Artillery"
-		type=artillery
-		home=592
-	}
-}
-
-army = {
-	name="Erste Schwäbische Armee"
-	location=728
-	regiment = {
-		name="2nd Ulm Infantry"
-		type=infantry
-		home=593
-	}
-	regiment = {
-		name="1st Bozen Infantry"
-		type=infantry
-		home=735
-	}
-	regiment = {
-		name="1st Augsburg Artillery"
-		type=artillery
-		home=592
-	}
-	regiment = {
-		name="1st Bregenz Artillery"
-		type=artillery
-		home=614
-	}
-	regiment = {
-		name="1st Sigmaringen Artillery"
-		type=artillery
-		home=594
-	}
-	regiment = {
-		name="1st Sigmaringen Infantry"
-		type=infantry
-		home=594
-	}
-	regiment = {
-		name="3rd Stuttgart Artillery"
-		type=artillery
-		home=589
-	}
-}
-

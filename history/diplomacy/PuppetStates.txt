@@ -104,7 +104,7 @@ vassal=
 
 vassal=
 {
-	first="X02"
+	first="LEO"
 	second="CRB"
 	start_date="1594.12.2"
 	end_date="1936.1.1"
@@ -112,7 +112,7 @@ vassal=
 
 vassal=
 {
-	first="X02"
+	first="LEO"
 	second="HON"
 	start_date="1668.6.2"
 	end_date="1936.1.1"
@@ -120,7 +120,7 @@ vassal=
 
 vassal=
 {
-	first="X02"
+	first="LEO"
 	second="X43"
 	start_date="1690.6.2"
 	end_date="1936.1.1"
@@ -200,8 +200,8 @@ vassal=
 
 vassal=
 {
-	first="X05"
-	second="X06"
+	first="SWB"
+	second="TEM"
 	start_date="1772.7.8"
 	end_date="1936.1.1"
 }
@@ -247,7 +247,7 @@ vassal=
 }
 vassal=
 {
-	first="X02"
+	first="LEO"
 	second="POR"
 	start_date="1766.4.4"
 	end_date="1936.1.1"

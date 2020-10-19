@@ -13,7 +13,7 @@ ARG = {
 	level = 2
 }
 AUS = {
-	value = 0
+	value = -50
 	level = 2
 }
 AYR = {
@@ -113,12 +113,11 @@ GRA = {
 	level = 2
 }
 GRE = {
-	value = 0
+	value = -120
 	level = 2
 }
 GUG = {
-	value = 96
-	influence_value = 11
+	value = 0
 	level = 2
 }
 HAN = {
@@ -174,7 +173,7 @@ LOM = {
 	level = 2
 }
 LOR = {
-	value = 0
+	value = -16
 	level = 2
 }
 LOU = {
@@ -186,7 +185,7 @@ LXA = {
 	level = 2
 }
 MAZ = {
-	value = 0
+	value = -12
 	level = 2
 }
 MCK = {
@@ -242,12 +241,11 @@ NDO = {
 	level = 2
 }
 NEW = {
-	value = 0
+	value = -3
 	level = 2
 }
 NOG = {
-	value = 69
-	influence_value = 4
+	value = 0
 	level = 2
 }
 NOR = {
@@ -287,7 +285,7 @@ QIN = {
 	level = 2
 }
 RAJ = {
-	value = 3
+	value = 0
 	level = 2
 }
 RGS = {
@@ -327,7 +325,7 @@ SWE = {
 	level = 2
 }
 TAB = {
-	value = -37
+	value = -27
 	level = 2
 }
 TDO = {
@@ -366,44 +364,45 @@ WAL = {
 	value = 0
 	level = 2
 }
-X00 = {
-	value = 0
-	level = 2
+VPS = {
+	value = 197
+	influence_value = 36
+	level = 4
 }
 X01 = {
-	value = 111
-	influence_value = 15
-	level = 2
-}
-X02 = {
 	value = 0
 	level = 2
 }
-X03 = {
+LEO = {
 	value = 0
 	level = 2
+}
+LAZ = {
+	value = 185
+	influence_value = 33
+	level = 4
 }
 X04 = {
 	value = 0
 	level = 2
 }
-X05 = {
+SWB = {
+	value = -30
+	level = 2
+}
+TEM = {
 	value = 0
 	level = 2
 }
-X06 = {
+SCN = {
 	value = 0
 	level = 2
 }
-X07 = {
+SDR = {
 	value = 0
 	level = 2
 }
-X08 = {
-	value = 0
-	level = 2
-}
-X09 = {
+MRV = {
 	value = 0
 	level = 2
 }
@@ -411,15 +410,15 @@ X10 = {
 	value = 0
 	level = 2
 }
-X11 = {
+VLD = {
 	value = 0
 	level = 2
 }
 X12 = {
-	value = 0
+	value = 21
 	level = 2
 }
-X13 = {
+BRH = {
 	value = 0
 	level = 2
 }
@@ -428,16 +427,15 @@ X14 = {
 	level = 2
 }
 X15 = {
-	value = 0
+	value = 18
 	level = 2
 }
 X17 = {
-	value = -52
+	value = 0
 	level = 2
 }
 X18 = {
-	value = 70
-	influence_value = 5
+	value = 0
 	level = 2
 }
 X21 = {
@@ -469,8 +467,7 @@ X28 = {
 	level = 2
 }
 X30 = {
-	value = 82
-	influence_value = 8
+	value = 0
 	level = 2
 }
 X31 = {
@@ -482,8 +479,9 @@ X32 = {
 	level = 2
 }
 X33 = {
-	value = 0
-	level = 2
+	value = 242
+	influence_value = 48
+	level = 4
 }
 X34 = {
 	value = 0
@@ -544,20 +542,50 @@ ZIM = {
 
 #Leaders
 leader = {
-	name="Chiledu Janid"
-	date="1813.8.20"
-	type=land
-	personality="coolminded"
-	background="brownnoser"
+	name="Bernhard Volkenstorfer"
+	date="1806.4.29"
+	type=sea
+	personality="intuitive"
+	background="war_college"
 }
 
 leader = {
-	name="Bulughan Shaybanid"
-	date="1813.10.16"
+	name="Bernhard Hayden von Dorff"
+	date="1818.8.2"
 	type=land
-	personality="coolminded"
-	background="generals_aide"
+	personality="persistant"
+	background="bureaucrat_speed"
 }
 
 
 #Armies
+navy = {
+	name="1st Fleet"
+	location=374
+	ship = {
+		name="1st Bornholm Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bornholm Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Bornholm Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=374
+	ship = {
+		name="1st Bornholm Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bornholm Clipper Transport"
+		type=clipper_transport
+	}
+}
+

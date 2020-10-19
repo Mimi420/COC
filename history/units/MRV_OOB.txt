@@ -5,16 +5,18 @@ AIN = {
 	level = 2
 }
 ANS = {
-	value = 0
-	level = 2
+	value = 154
+	influence_value = 26
+	level = 4
 }
 ARG = {
 	value = 0
 	level = 2
 }
 AUS = {
-	value = 10
-	level = 2
+	value = 104
+	influence_value = 13
+	level = 4
 }
 AYR = {
 	value = 0
@@ -33,7 +35,8 @@ BOL = {
 	level = 2
 }
 BRN = {
-	value = 0
+	value = 94
+	influence_value = 11
 	level = 2
 }
 BRU = {
@@ -61,7 +64,7 @@ CAN = {
 	level = 2
 }
 COL = {
-	value = 0
+	value = -1
 	level = 2
 }
 CRB = {
@@ -113,7 +116,7 @@ GRA = {
 	level = 2
 }
 GRE = {
-	value = -8
+	value = -120
 	level = 2
 }
 GUG = {
@@ -121,7 +124,8 @@ GUG = {
 	level = 2
 }
 HAN = {
-	value = 0
+	value = 91
+	influence_value = 10
 	level = 2
 }
 HLL = {
@@ -149,7 +153,8 @@ KBO = {
 	level = 2
 }
 KOL = {
-	value = 0
+	value = 88
+	influence_value = 9
 	level = 2
 }
 KON = {
@@ -173,7 +178,7 @@ LOM = {
 	level = 2
 }
 LOR = {
-	value = 11
+	value = -51
 	level = 2
 }
 LOU = {
@@ -185,8 +190,9 @@ LXA = {
 	level = 2
 }
 MAZ = {
-	value = 0
-	level = 2
+	value = 176
+	influence_value = 31
+	level = 4
 }
 MCK = {
 	value = 0
@@ -228,6 +234,10 @@ MOR = {
 	value = 0
 	level = 2
 }
+MTL = {
+	value = 0
+	level = 2
+}
 MUN = {
 	value = 0
 	level = 2
@@ -257,7 +267,7 @@ ORI = {
 	level = 2
 }
 PAP = {
-	value = 0
+	value = 4
 	level = 2
 }
 PEU = {
@@ -293,7 +303,7 @@ SAX = {
 	level = 2
 }
 SCY = {
-	value = -8
+	value = -6
 	level = 2
 }
 SIA = {
@@ -301,9 +311,9 @@ SIA = {
 	level = 2
 }
 SLZ = {
-	value = 82
-	influence_value = 8
-	level = 2
+	value = 123
+	influence_value = 18
+	level = 3
 }
 SNA = {
 	value = 0
@@ -314,8 +324,9 @@ SUL = {
 	level = 2
 }
 SVY = {
-	value = 0
-	level = 2
+	value = 182
+	influence_value = 33
+	level = 4
 }
 SWE = {
 	value = 0
@@ -361,7 +372,7 @@ WAL = {
 	value = 0
 	level = 2
 }
-X00 = {
+VPS = {
 	value = 0
 	level = 2
 }
@@ -369,11 +380,11 @@ X01 = {
 	value = 0
 	level = 2
 }
-X02 = {
+LEO = {
 	value = 0
 	level = 2
 }
-X03 = {
+LAZ = {
 	value = 0
 	level = 2
 }
@@ -381,45 +392,45 @@ X04 = {
 	value = 0
 	level = 2
 }
-X05 = {
+SWB = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+TEM = {
 	value = 0
 	level = 2
 }
-X06 = {
+SCN = {
 	value = 0
 	level = 2
 }
-X07 = {
+SDR = {
 	value = 0
 	level = 2
 }
-X08 = {
-	value = 0
-	level = 2
-}
-X09 = {
+MRV = {
 	value = 0
 	level = 2
 }
 X10 = {
-	value = 56
-	influence_value = 1
+	value = 0
 	level = 2
 }
-X11 = {
+VLD = {
 	value = 0
 	level = 2
 }
 X12 = {
-	value = 42
+	value = 0
 	level = 2
 }
-X13 = {
+BRH = {
 	value = 0
 	level = 2
 }
 X14 = {
-	value = 0
+	value = 34
 	level = 2
 }
 X15 = {
@@ -451,7 +462,8 @@ X24 = {
 	level = 2
 }
 X25 = {
-	value = 0
+	value = 97
+	influence_value = 11
 	level = 2
 }
 X26 = {
@@ -459,7 +471,8 @@ X26 = {
 	level = 2
 }
 X28 = {
-	value = 0
+	value = 55
+	influence_value = 1
 	level = 2
 }
 X30 = {
@@ -475,8 +488,7 @@ X32 = {
 	level = 2
 }
 X33 = {
-	value = 66
-	influence_value = 4
+	value = 34
 	level = 2
 }
 X34 = {
@@ -539,3 +551,43 @@ ZIM = {
 #Leaders
 
 #Armies
+army = {
+	name="3rd Army"
+	location=632
+	regiment = {
+		name="1st Olomouc Cavalry"
+		type=cavalry
+		home=632
+	}
+	regiment = {
+		name="2nd Olomouc Cavalry"
+		type=cavalry
+		home=632
+	}
+	regiment = {
+		name="3rd Olomouc Cavalry"
+		type=cavalry
+		home=632
+	}
+}
+
+army = {
+	name="1st Army"
+	location=689
+	regiment = {
+		name="1st Olomouc Artillery"
+		type=artillery
+		home=632
+	}
+	regiment = {
+		name="2nd Olomouc Artillery"
+		type=artillery
+		home=632
+	}
+	regiment = {
+		name="1st Tesin Artillery"
+		type=artillery
+		home=689
+	}
+}
+

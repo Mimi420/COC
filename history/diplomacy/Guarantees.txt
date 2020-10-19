@@ -1,6 +1,6 @@
 guarantee=
 {
-	first="X00"
+	first="VPS"
 	second="GLC"
 	start_date="1809.9.8"
 	end_date="1936.1.1"
@@ -64,7 +64,7 @@ guarantee=
 
 guarantee=
 {
-	first="X05"
+	first="SWB"
 	second="ANS"
 	start_date="1774.1.2"
 	end_date="1936.1.1"

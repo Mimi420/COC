@@ -5,15 +5,16 @@ AIN = {
 	level = 2
 }
 ANS = {
-	value = 0
-	level = 2
+	value = 79
+	influence_value = 7
+	level = 3
 }
 ARG = {
 	value = 0
 	level = 2
 }
 AUS = {
-	value = 0
+	value = -140
 	level = 2
 }
 AYR = {
@@ -33,7 +34,7 @@ BOL = {
 	level = 2
 }
 BRN = {
-	value = 0
+	value = 4
 	level = 2
 }
 BRU = {
@@ -73,7 +74,8 @@ CRI = {
 	level = 2
 }
 CRS = {
-	value = 0
+	value = 88
+	influence_value = 9
 	level = 2
 }
 CWU = {
@@ -85,7 +87,7 @@ DAK = {
 	level = 2
 }
 ENL = {
-	value = 0
+	value = -10
 	level = 2
 }
 FIN = {
@@ -93,7 +95,8 @@ FIN = {
 	level = 2
 }
 FRA = {
-	value = 0
+	value = 105
+	influence_value = 13
 	level = 2
 }
 GLC = {
@@ -113,11 +116,11 @@ GRA = {
 	level = 2
 }
 GRE = {
-	value = 0
+	value = -120
 	level = 2
 }
 GUG = {
-	value = -12
+	value = 0
 	level = 2
 }
 HAN = {
@@ -149,8 +152,9 @@ KBO = {
 	level = 2
 }
 KOL = {
-	value = 0
-	level = 2
+	value = 165
+	influence_value = 28
+	level = 4
 }
 KON = {
 	value = 0
@@ -173,7 +177,7 @@ LOM = {
 	level = 2
 }
 LOR = {
-	value = 0
+	value = 15
 	level = 2
 }
 LOU = {
@@ -189,7 +193,7 @@ MAZ = {
 	level = 2
 }
 MCK = {
-	value = 38
+	value = 0
 	level = 2
 }
 MDR = {
@@ -225,11 +229,11 @@ MNI = {
 	level = 2
 }
 MOR = {
-	value = 0
+	value = -90
 	level = 2
 }
 MUN = {
-	value = 0
+	value = 20
 	level = 2
 }
 NDO = {
@@ -241,7 +245,7 @@ NEW = {
 	level = 2
 }
 NOG = {
-	value = -37
+	value = 0
 	level = 2
 }
 NOR = {
@@ -301,11 +305,12 @@ SIA = {
 	level = 2
 }
 SLZ = {
-	value = 0
+	value = 9
 	level = 2
 }
 SNA = {
-	value = 0
+	value = 105
+	influence_value = 13
 	level = 2
 }
 SUL = {
@@ -313,15 +318,16 @@ SUL = {
 	level = 2
 }
 SVY = {
-	value = 0
-	level = 2
+	value = 194
+	influence_value = 36
+	level = 4
 }
 SWE = {
 	value = 0
 	level = 2
 }
 TAB = {
-	value = 34
+	value = -27
 	level = 2
 }
 TDO = {
@@ -341,11 +347,12 @@ TRS = {
 	level = 2
 }
 TTL = {
-	value = 0
+	value = 91
+	influence_value = 10
 	level = 2
 }
 TUN = {
-	value = 0
+	value = -44
 	level = 2
 }
 UIL = {
@@ -360,7 +367,7 @@ WAL = {
 	value = 0
 	level = 2
 }
-X00 = {
+VPS = {
 	value = 0
 	level = 2
 }
@@ -368,11 +375,11 @@ X01 = {
 	value = 0
 	level = 2
 }
-X02 = {
-	value = 0
+LEO = {
+	value = 47
 	level = 2
 }
-X03 = {
+LAZ = {
 	value = 0
 	level = 2
 }
@@ -380,31 +387,33 @@ X04 = {
 	value = 0
 	level = 2
 }
-X05 = {
+SWB = {
 	value = 0
 	level = 2
 }
-X06 = {
+TEM = {
+	value = 189
+	military_access = yes
+	influence_value = 84
+	level = 5
+}
+SCN = {
 	value = 0
 	level = 2
 }
-X07 = {
+SDR = {
 	value = 0
 	level = 2
 }
-X08 = {
-	value = -38
-	level = 2
-}
-X09 = {
-	value = 0
+MRV = {
+	value = -21
 	level = 2
 }
 X10 = {
 	value = 0
 	level = 2
 }
-X11 = {
+VLD = {
 	value = 0
 	level = 2
 }
@@ -412,12 +421,12 @@ X12 = {
 	value = 0
 	level = 2
 }
-X13 = {
-	value = 0
+BRH = {
+	value = -29
 	level = 2
 }
 X14 = {
-	value = 0
+	value = 15
 	level = 2
 }
 X15 = {
@@ -425,7 +434,7 @@ X15 = {
 	level = 2
 }
 X17 = {
-	value = 46
+	value = 0
 	level = 2
 }
 X18 = {
@@ -449,12 +458,14 @@ X24 = {
 	level = 2
 }
 X25 = {
-	value = 0
-	level = 2
+	value = 182
+	influence_value = 33
+	level = 4
 }
 X26 = {
-	value = 0
-	level = 2
+	value = 181
+	influence_value = 32
+	level = 4
 }
 X28 = {
 	value = 0
@@ -465,7 +476,7 @@ X30 = {
 	level = 2
 }
 X31 = {
-	value = 0
+	value = 44
 	level = 2
 }
 X32 = {
@@ -485,6 +496,10 @@ X35 = {
 	level = 2
 }
 X36 = {
+	value = 0
+	level = 2
+}
+X37 = {
 	value = 0
 	level = 2
 }
@@ -530,5 +545,141 @@ ZIM = {
 }
 
 #Leaders
+leader = {
+	name="Hnabi Gute"
+	date="1787.5.13"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
 
 #Armies
+army = {
+	name="Tyrolean Guard"
+	location=728
+	regiment = {
+		name="1st Stuttgart Infantry"
+		type=infantry
+		home=589
+	}
+}
+
+army = {
+	name="Free Company"
+	location=592
+	regiment = {
+		name="1st Brescia Infantry"
+		type=infantry
+		home=728
+	}
+	regiment = {
+		name="2nd Brescia Infantry"
+		type=infantry
+		home=728
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=464
+	ship = {
+		name="1st Perpignan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Perpignan Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="Dritte Schwäbische Armee"
+	location=592
+	regiment = {
+		name="1st Ulm Infantry"
+		type=infantry
+		home=593
+	}
+	regiment = {
+		name="1st Konstanz Infantry"
+		type=infantry
+		home=588
+	}
+	regiment = {
+		name="1st Brescia Artillery"
+		type=artillery
+		home=728
+	}
+	regiment = {
+		name="1st Stuttgart Artillery"
+		type=artillery
+		home=589
+	}
+	regiment = {
+		name="1st Lugano Artillery"
+		type=artillery
+		home=2568
+	}
+	regiment = {
+		name="2nd Stuttgart Artillery"
+		type=artillery
+		home=589
+	}
+	regiment = {
+		name="2nd Brescia Artillery"
+		type=artillery
+		home=728
+	}
+	regiment = {
+		name="2nd Konstanz Infantry"
+		type=infantry
+		home=588
+	}
+	regiment = {
+		name="2nd Augsburg Artillery"
+		type=artillery
+		home=592
+	}
+}
+
+army = {
+	name="Erste Schwäbische Armee"
+	location=728
+	regiment = {
+		name="2nd Ulm Infantry"
+		type=infantry
+		home=593
+	}
+	regiment = {
+		name="1st Bozen Infantry"
+		type=infantry
+		home=735
+	}
+	regiment = {
+		name="1st Augsburg Artillery"
+		type=artillery
+		home=592
+	}
+	regiment = {
+		name="1st Bregenz Artillery"
+		type=artillery
+		home=614
+	}
+	regiment = {
+		name="1st Sigmaringen Artillery"
+		type=artillery
+		home=594
+	}
+	regiment = {
+		name="1st Sigmaringen Infantry"
+		type=infantry
+		home=594
+	}
+	regiment = {
+		name="3rd Stuttgart Artillery"
+		type=artillery
+		home=589
+	}
+}
+

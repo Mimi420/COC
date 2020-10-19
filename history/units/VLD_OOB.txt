@@ -5,18 +5,16 @@ AIN = {
 	level = 2
 }
 ANS = {
-	value = 154
-	influence_value = 26
-	level = 4
+	value = 0
+	level = 2
 }
 ARG = {
 	value = 0
 	level = 2
 }
 AUS = {
-	value = 104
-	influence_value = 13
-	level = 4
+	value = -37
+	level = 2
 }
 AYR = {
 	value = 0
@@ -35,8 +33,7 @@ BOL = {
 	level = 2
 }
 BRN = {
-	value = 94
-	influence_value = 11
+	value = 0
 	level = 2
 }
 BRU = {
@@ -52,7 +49,7 @@ BUR = {
 	level = 2
 }
 BYZ = {
-	value = 0
+	value = -10
 	level = 2
 }
 CAL = {
@@ -60,11 +57,11 @@ CAL = {
 	level = 2
 }
 CAN = {
-	value = 0
+	value = -3
 	level = 2
 }
 COL = {
-	value = -1
+	value = -5
 	level = 2
 }
 CRB = {
@@ -72,7 +69,8 @@ CRB = {
 	level = 2
 }
 CRI = {
-	value = 0
+	value = 84
+	influence_value = 8
 	level = 2
 }
 CRS = {
@@ -92,8 +90,9 @@ ENL = {
 	level = 2
 }
 FIN = {
-	value = 0
-	level = 2
+	value = 141
+	influence_value = 22
+	level = 3
 }
 FRA = {
 	value = 0
@@ -116,16 +115,16 @@ GRA = {
 	level = 2
 }
 GRE = {
-	value = -120
-	level = 2
+	value = 173
+	influence_value = 30
+	level = 4
 }
 GUG = {
 	value = 0
 	level = 2
 }
 HAN = {
-	value = 91
-	influence_value = 10
+	value = 0
 	level = 2
 }
 HLL = {
@@ -153,8 +152,7 @@ KBO = {
 	level = 2
 }
 KOL = {
-	value = 88
-	influence_value = 9
+	value = 0
 	level = 2
 }
 KON = {
@@ -178,7 +176,7 @@ LOM = {
 	level = 2
 }
 LOR = {
-	value = -51
+	value = 0
 	level = 2
 }
 LOU = {
@@ -190,8 +188,8 @@ LXA = {
 	level = 2
 }
 MAZ = {
-	value = 176
-	influence_value = 31
+	value = 236
+	influence_value = 46
 	level = 4
 }
 MCK = {
@@ -199,8 +197,9 @@ MCK = {
 	level = 2
 }
 MDR = {
-	value = 0
-	level = 2
+	value = 170
+	influence_value = 30
+	level = 3
 }
 MEI = {
 	value = 0
@@ -255,7 +254,7 @@ NOG = {
 	level = 2
 }
 NOR = {
-	value = 0
+	value = 49
 	level = 2
 }
 NSS = {
@@ -267,7 +266,7 @@ ORI = {
 	level = 2
 }
 PAP = {
-	value = 4
+	value = -13
 	level = 2
 }
 PEU = {
@@ -291,7 +290,7 @@ QIN = {
 	level = 2
 }
 RAJ = {
-	value = 0
+	value = 29
 	level = 2
 }
 RGS = {
@@ -303,7 +302,7 @@ SAX = {
 	level = 2
 }
 SCY = {
-	value = -6
+	value = 0
 	level = 2
 }
 SIA = {
@@ -311,9 +310,8 @@ SIA = {
 	level = 2
 }
 SLZ = {
-	value = 123
-	influence_value = 18
-	level = 3
+	value = 0
+	level = 2
 }
 SNA = {
 	value = 0
@@ -324,16 +322,15 @@ SUL = {
 	level = 2
 }
 SVY = {
-	value = 182
-	influence_value = 33
-	level = 4
+	value = 0
+	level = 2
 }
 SWE = {
 	value = 0
 	level = 2
 }
 TAB = {
-	value = -27
+	value = -112
 	level = 2
 }
 TDO = {
@@ -369,22 +366,23 @@ VNZ = {
 	level = 2
 }
 WAL = {
-	value = 0
+	value = -10
 	level = 2
 }
-X00 = {
-	value = 0
-	level = 2
+VPS = {
+	value = 176
+	influence_value = 31
+	level = 4
 }
 X01 = {
+	value = 43
+	level = 2
+}
+LEO = {
 	value = 0
 	level = 2
 }
-X02 = {
-	value = 0
-	level = 2
-}
-X03 = {
+LAZ = {
 	value = 0
 	level = 2
 }
@@ -392,24 +390,24 @@ X04 = {
 	value = 0
 	level = 2
 }
-X05 = {
-	value = 79
-	influence_value = 7
-	level = 2
-}
-X06 = {
+SWB = {
 	value = 0
 	level = 2
 }
-X07 = {
+TEM = {
 	value = 0
 	level = 2
 }
-X08 = {
+SCN = {
+	value = 180
+	influence_value = 32
+	level = 4
+}
+SDR = {
 	value = 0
 	level = 2
 }
-X09 = {
+MRV = {
 	value = 0
 	level = 2
 }
@@ -417,20 +415,21 @@ X10 = {
 	value = 0
 	level = 2
 }
-X11 = {
+VLD = {
 	value = 0
 	level = 2
 }
 X12 = {
-	value = 0
+	value = 94
+	influence_value = 11
 	level = 2
 }
-X13 = {
+BRH = {
 	value = 0
 	level = 2
 }
 X14 = {
-	value = 34
+	value = 0
 	level = 2
 }
 X15 = {
@@ -462,8 +461,7 @@ X24 = {
 	level = 2
 }
 X25 = {
-	value = 97
-	influence_value = 11
+	value = 0
 	level = 2
 }
 X26 = {
@@ -471,8 +469,7 @@ X26 = {
 	level = 2
 }
 X28 = {
-	value = 55
-	influence_value = 1
+	value = 11
 	level = 2
 }
 X30 = {
@@ -488,11 +485,11 @@ X32 = {
 	level = 2
 }
 X33 = {
-	value = 34
+	value = 0
 	level = 2
 }
 X34 = {
-	value = 0
+	value = -41
 	level = 2
 }
 X35 = {
@@ -536,7 +533,7 @@ X44 = {
 	level = 2
 }
 YEM = {
-	value = 0
+	value = 44
 	level = 2
 }
 YOK = {
@@ -549,45 +546,212 @@ ZIM = {
 }
 
 #Leaders
+leader = {
+	name="Kozel von Haldensleben"
+	date="1804.8.11"
+	type=land
+	personality="disciplined"
+	background="bootlicker"
+}
+
+leader = {
+	name="Volodar von Salm"
+	date="1804.8.13"
+	type=land
+	personality="coolminded"
+	background="brownnoser"
+}
+
+leader = {
+	name="Mordvinko von Schauenburg"
+	date="1804.8.15"
+	type=land
+	personality="coolminded"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Volodar Beck"
+	date="1816.4.23"
+	type=land
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
 
 #Armies
 army = {
-	name="3rd Army"
-	location=632
+	name="9th Army"
+	location=1012
 	regiment = {
-		name="1st Olomouc Cavalry"
-		type=cavalry
-		home=632
+		name="1st Tambov Infantry"
+		type=infantry
+		home=1025
 	}
 	regiment = {
-		name="2nd Olomouc Cavalry"
-		type=cavalry
-		home=632
+		name="1st Nizhni Novgorod Infantry"
+		type=infantry
+		home=1020
 	}
 	regiment = {
-		name="3rd Olomouc Cavalry"
-		type=cavalry
-		home=632
+		name="1st Vladimir Infantry"
+		type=infantry
+		home=1013
+	}
+	regiment = {
+		name="1st Vladimir Artillery"
+		type=artillery
+		home=1013
+	}
+	regiment = {
+		name="1st Nizhni Novgorod Artillery"
+		type=artillery
+		home=1020
+	}
+	regiment = {
+		name="1st Yaroslavl Artillery"
+		type=artillery
+		home=1001
+	}
+	regiment = {
+		name="2nd Ivanovo Infantry"
+		type=infantry
+		home=1022
 	}
 }
 
 army = {
 	name="1st Army"
-	location=689
+	location=816
 	regiment = {
-		name="1st Olomouc Artillery"
-		type=artillery
-		home=632
+		name="2nd Vladimir Infantry"
+		type=infantry
+		home=1013
 	}
 	regiment = {
-		name="2nd Olomouc Artillery"
-		type=artillery
-		home=632
+		name="1st Voronets Infantry"
+		type=infantry
+		home=1019
 	}
 	regiment = {
-		name="1st Tesin Artillery"
+		name="3rd Vladimir Infantry"
+		type=infantry
+		home=1013
+	}
+	regiment = {
+		name="2nd Yaroslavl Artillery"
 		type=artillery
-		home=689
+		home=1001
+	}
+	regiment = {
+		name="2nd Nizhni Novgorod Artillery"
+		type=artillery
+		home=1020
+	}
+	regiment = {
+		name="1st Tsaritsyn Artillery"
+		type=artillery
+		home=1039
+	}
+	regiment = {
+		name="2nd Vladimir Artillery"
+		type=artillery
+		home=1013
+	}
+	regiment = {
+		name="1st Perm Artillery"
+		type=artillery
+		home=1026
+	}
+	regiment = {
+		name="3rd Yaroslavl Artillery"
+		type=artillery
+		home=1001
+	}
+	regiment = {
+		name="1st Vetluga Artillery"
+		type=artillery
+		home=1027
+	}
+	regiment = {
+		name="3rd Ivanovo Infantry"
+		type=infantry
+		home=1022
+	}
+	regiment = {
+		name="2nd Ivanovo Artillery"
+		type=artillery
+		home=1022
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1020
+	regiment = {
+		name="1st Syzran Infantry"
+		type=infantry
+		home=1035
+	}
+	regiment = {
+		name="1st Chistopol Infantry"
+		type=infantry
+		home=1032
+	}
+	regiment = {
+		name="1st Galich Infantry"
+		type=infantry
+		home=1024
+	}
+	regiment = {
+		name="1st Yaroslavl Infantry"
+		type=infantry
+		home=1001
+	}
+	regiment = {
+		name="2nd Voronets Infantry"
+		type=infantry
+		home=1019
+	}
+	regiment = {
+		name="2nd Tambov Infantry"
+		type=infantry
+		home=1025
+	}
+	regiment = {
+		name="3rd Vladimir Artillery"
+		type=artillery
+		home=1013
+	}
+	regiment = {
+		name="1st Ryazan Artillery"
+		type=artillery
+		home=1012
+	}
+	regiment = {
+		name="1st Ivanovo Artillery"
+		type=artillery
+		home=1022
+	}
+}
+
+army = {
+	name="8th Army"
+	location=999
+	regiment = {
+		name="1st Ivanovo Infantry"
+		type=infantry
+		home=1022
+	}
+	regiment = {
+		name="1st Voronets Artillery"
+		type=artillery
+		home=1019
+	}
+	regiment = {
+		name="1st Sarapul Artillery"
+		type=artillery
+		home=1031
 	}
 }
 
