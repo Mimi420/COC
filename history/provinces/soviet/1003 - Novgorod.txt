@@ -1,5 +1,5 @@
 owner=MAZ
-controller=X00
+controller=VPS
 add_core=RUS
 add_core=HRE
 trade_goods = grain

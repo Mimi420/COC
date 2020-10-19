@@ -1,8 +1,8 @@
-capital = 513
-primary_culture = andalucian
+capital = 2133
+primary_culture = amerikaner
 culture = spanish
-culture = zzz_religion_sunni
-religion = sunni
+culture = zzz_religion_protestant
+religion = protestant
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order

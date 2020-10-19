@@ -1,8 +1,8 @@
 owner=RAJ
-controller=X08
+controller=SDR
 add_core=KHA
 add_core=MGL
-add_core=X08
+add_core=SDR
 trade_goods = sulphur
 life_rating = 32
 terrain = mountain

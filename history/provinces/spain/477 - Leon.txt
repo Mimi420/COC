@@ -1,7 +1,7 @@
-owner=X02
-controller=X02
+owner=LEO
+controller=LEO
 add_core=SPA
-add_core=X02
+add_core=LEO
 trade_goods = coal
 life_rating = 35
 terrain = hills

@@ -1,6 +1,6 @@
-owner=X11
+owner=VLD
 controller=X32
-add_core=X11
+add_core=VLD
 add_core=HRE
 trade_goods = fish
 life_rating = 35

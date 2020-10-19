@@ -1,6 +1,6 @@
-owner=X11
+owner=VLD
 controller=X32
-add_core=X11
+add_core=VLD
 trade_goods = cattle
 life_rating = 35
 terrain = woods
