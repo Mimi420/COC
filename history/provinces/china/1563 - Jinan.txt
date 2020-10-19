@@ -1,0 +1,8 @@
+owner=LNG
+controller=LNG
+add_core=CHI
+add_core=LNG
+add_core=QIC
+trade_goods = cotton
+life_rating = 32
+terrain = plains

@@ -1,0 +1,728 @@
+#Sphere of Influence
+
+AIN = {
+	value = 0
+	level = 2
+}
+ANS = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BLZ = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRN = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUR = {
+	value = -19
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+COL = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+CRS = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+DAK = {
+	value = 0
+	level = 2
+}
+ENL = {
+	value = 0
+	level = 2
+}
+FIN = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GLC = {
+	value = 0
+	level = 2
+}
+GLR = {
+	value = 0
+	level = 2
+}
+GNV = {
+	value = 0
+	level = 2
+}
+GRA = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GUG = {
+	value = 0
+	level = 2
+}
+HAN = {
+	value = 0
+	level = 2
+}
+HON = {
+	value = 0
+	level = 2
+}
+IMG = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KOL = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LOR = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MAZ = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = -4
+	level = 2
+}
+MDR = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MFY = {
+	value = 0
+	level = 2
+}
+ML1 = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = 251
+	level = 4
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MUN = {
+	value = 0
+	level = 2
+}
+NDO = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NOG = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PIS = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+QIN = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = -106
+	level = 2
+}
+RGS = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SCY = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SNA = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TAB = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TEO = {
+	value = 0
+	level = 2
+}
+TOT = {
+	value = 0
+	level = 2
+}
+TRS = {
+	value = 0
+	level = 2
+}
+TTL = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+UIL = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 107
+	influence_value = 14
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 140
+	influence_value = 22
+	level = 4
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = -15
+	level = 2
+}
+X23 = {
+	value = 10
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 188
+	influence_value = 34
+	level = 4
+}
+X31 = {
+	value = 0
+	level = 2
+}
+X32 = {
+	value = 0
+	level = 2
+}
+X33 = {
+	value = 0
+	level = 2
+}
+X34 = {
+	value = 0
+	level = 2
+}
+X35 = {
+	value = 0
+	level = 2
+}
+X36 = {
+	value = 0
+	level = 2
+}
+X37 = {
+	value = 0
+	level = 2
+}
+X38 = {
+	value = 0
+	level = 2
+}
+X39 = {
+	value = 0
+	level = 2
+}
+X40 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X42 = {
+	value = 0
+	level = 2
+}
+X43 = {
+	value = 0
+	level = 2
+}
+X44 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YOK = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Trashi Tsentsen II"
+	date="1799.10.21"
+	type=land
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Iltughun Phuntsok"
+	date="1799.10.24"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Büri Wangdue"
+	date="1811.11.23"
+	type=land
+	personality="persistant"
+	background="generals_aide"
+}
+
+leader = {
+	name="Lhaide Sregs"
+	date="1811.11.25"
+	type=land
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Liknyirhya Wangdue"
+	date="1811.11.28"
+	type=land
+	personality="stalwart"
+	background="brownnoser"
+}
+
+leader = {
+	name="Bhakra Shismgon Srong"
+	date="1816.11.26"
+	type=land
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+
+#Armies
+army = {
+	name="20th Army"
+	location=1592
+	regiment = {
+		name="1st Lhodrak Irregulars"
+		type=irregular
+		home=1590
+	}
+	regiment = {
+		name="1st Shigatse Irregulars"
+		type=irregular
+		home=1589
+	}
+	regiment = {
+		name="1st Khotan Artillery"
+		type=artillery
+		home=1598
+	}
+	regiment = {
+		name="1st Lhodrak Artillery"
+		type=artillery
+		home=1590
+	}
+	regiment = {
+		name="1st Ngari Irregulars"
+		type=irregular
+		home=1592
+	}
+	regiment = {
+		name="2nd Khotan Artillery"
+		type=artillery
+		home=1598
+	}
+}
+
+army = {
+	name="5th Army"
+	location=1592
+	regiment = {
+		name="1st Chamdo Irregulars"
+		type=irregular
+		home=1588
+	}
+	regiment = {
+		name="2nd Chamdo Irregulars"
+		type=irregular
+		home=1588
+	}
+	regiment = {
+		name="1st Ngari Artillery"
+		type=artillery
+		home=1592
+	}
+	regiment = {
+		name="2nd Lhodrak Artillery"
+		type=artillery
+		home=1590
+	}
+	regiment = {
+		name="1st Katmandu Irregulars"
+		type=irregular
+		home=1326
+	}
+	regiment = {
+		name="2nd Ngari Artillery"
+		type=artillery
+		home=1592
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1582
+	regiment = {
+		name="1st Kegudo Irregulars"
+		type=irregular
+		home=1558
+	}
+	regiment = {
+		name="1st Kumul Irregulars"
+		type=irregular
+		home=1599
+	}
+	regiment = {
+		name="1st Longan Artillery"
+		type=artillery
+		home=1582
+	}
+	regiment = {
+		name="1st Chamdo Artillery"
+		type=artillery
+		home=1588
+	}
+	regiment = {
+		name="1st Kegudo Artillery"
+		type=artillery
+		home=1558
+	}
+	regiment = {
+		name="2nd Kegudo Irregulars"
+		type=irregular
+		home=1558
+	}
+	regiment = {
+		name="2nd Longan Artillery"
+		type=artillery
+		home=1582
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1587
+	regiment = {
+		name="1st Makhai Irregulars"
+		type=irregular
+		home=1556
+	}
+	regiment = {
+		name="2nd Shigatse Irregulars"
+		type=irregular
+		home=1589
+	}
+	regiment = {
+		name="2nd Lhodrak Irregulars"
+		type=irregular
+		home=1590
+	}
+	regiment = {
+		name="1st Changtang Artillery"
+		type=artillery
+		home=1591
+	}
+	regiment = {
+		name="2nd Chamdo Artillery"
+		type=artillery
+		home=1588
+	}
+	regiment = {
+		name="1st Longan Irregulars"
+		type=irregular
+		home=1582
+	}
+	regiment = {
+		name="1st Lhasa Artillery"
+		type=artillery
+		home=1587
+	}
+}
+

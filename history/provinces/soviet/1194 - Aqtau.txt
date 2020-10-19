@@ -1,0 +1,8 @@
+owner=TAB
+controller=TAB
+add_core=KHA
+add_core=MGL
+trade_goods = opium
+life_rating = 25
+terrain = steppe
+colonial=2

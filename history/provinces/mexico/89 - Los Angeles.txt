@@ -1,0 +1,7 @@
+owner=X44
+controller=X44
+add_core=CAL
+add_core=X44
+trade_goods = grain
+life_rating = 40
+terrain = hills

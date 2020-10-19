@@ -1,0 +1,5 @@
+owner=MCK
+controller=MCK
+trade_goods = fish
+life_rating = 20
+terrain = arctic

@@ -1,0 +1,300 @@
+1201 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = kemetic
+		size= 2684
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = kemetic
+		size= 656
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = kemetic
+		size= 55
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = kemetic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = kemetic
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = kemetic
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = kemetic
+		size= 25693
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = yazidi
+		size= 819
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = yazidi
+		size= 1057
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = yazidi
+		size= 88
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = yazidi
+		size= 11
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = yazidi
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = yazidi
+		size= 99
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = yazidi
+		size= 6802
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = hindu
+		size= 2213
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = hindu
+		size= 3878
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = hindu
+		size= 323
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = hindu
+		size= 39
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = hindu
+		size= 103
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = hindu
+		size= 362
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = hindu
+		size= 17135
+	}
+
+}
+1207 = {
+	soldiers=
+	{
+		culture = tajik
+		religion = hindu
+		size= 1879
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = hindu
+		size= 1342
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = hindu
+		size= 252
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = hindu
+		size= 30
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = hindu
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = hindu
+		size= 282
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = hindu
+		size= 29709
+	}
+
+}
+1208 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = hindu
+		size= 1156
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = hindu
+		size= 522
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = hindu
+		size= 98
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = hindu
+		size= 7
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = hindu
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = hindu
+		size= 109
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = hindu
+		size= 18736
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = hindu
+		size= 185
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = hindu
+		size= 436
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = hindu
+		size= 82
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = hindu
+		size= 5
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = hindu
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = hindu
+		size= 92
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = hindu
+		size= 2479
+	}
+
+}

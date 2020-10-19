@@ -1,0 +1,8 @@
+owner=YEM
+controller=YEM
+add_core=NOR
+add_core=SCA
+trade_goods = fruit
+life_rating = 35
+terrain = desert
+naval_base = 1

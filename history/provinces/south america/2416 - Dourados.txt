@@ -1,0 +1,6 @@
+owner=X42
+controller=X42
+add_core=RGS
+trade_goods = fruit
+life_rating = 25
+terrain = jungle

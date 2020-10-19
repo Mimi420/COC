@@ -1,0 +1,200 @@
+2228 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 6294
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 387
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 484
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 7
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 58
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 24136
+	}
+
+	soldiers=
+	{
+		culture = amerikaner
+		religion = protestant
+		size= 1484
+	}
+
+	artisans=
+	{
+		culture = amerikaner
+		religion = protestant
+		size= 4194
+	}
+
+	clergymen=
+	{
+		culture = amerikaner
+		religion = protestant
+		size= 195
+	}
+
+	bureaucrats=
+	{
+		culture = amerikaner
+		religion = protestant
+		size= 60
+	}
+
+	officers=
+	{
+		culture = amerikaner
+		religion = protestant
+		size= 63
+	}
+
+	aristocrats=
+	{
+		culture = amerikaner
+		religion = protestant
+		size= 503
+	}
+
+}
+2230 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 6931
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 430
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 345
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 8
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 32
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 25660
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 1591
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 2902
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 210
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 64
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 68
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 271
+	}
+
+}

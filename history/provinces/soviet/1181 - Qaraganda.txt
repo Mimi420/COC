@@ -1,0 +1,6 @@
+owner=NOG
+controller=X01
+add_core=NOG
+trade_goods = coal
+life_rating = 25
+terrain = steppe

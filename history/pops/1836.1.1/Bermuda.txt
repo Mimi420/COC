@@ -1,0 +1,51 @@
+203 = {
+	soldiers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 77
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 110
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 2514
+	}
+
+}

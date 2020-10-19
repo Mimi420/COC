@@ -1,0 +1,1895 @@
+#Sphere of Influence
+
+AIN = {
+	value = 0
+	level = 2
+}
+ANS = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = -2
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BLZ = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = -4
+	level = 2
+}
+BRN = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUR = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = -4
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+COL = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+CRI = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+CRS = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+DAK = {
+	value = 0
+	level = 2
+}
+ENL = {
+	value = 0
+	level = 2
+}
+FIN = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GLC = {
+	value = -23
+	level = 2
+}
+GLR = {
+	value = 0
+	level = 2
+}
+GNV = {
+	value = 0
+	level = 2
+}
+GRA = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 28
+	level = 2
+}
+GUG = {
+	value = 19
+	level = 2
+}
+HAN = {
+	value = 0
+	level = 2
+}
+HLL = {
+	value = 0
+	level = 2
+}
+HON = {
+	value = 0
+	level = 2
+}
+IMG = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 2
+	level = 2
+}
+KOL = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 127
+	influence_value = 19
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LOR = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = -3
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MAZ = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+MCK = {
+	value = 188
+	influence_value = 34
+	level = 4
+}
+MDR = {
+	value = 0
+	level = 2
+}
+MEI = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -7
+	level = 2
+}
+MFY = {
+	value = 0
+	level = 2
+}
+MGL = {
+	value = 0
+	level = 2
+}
+ML1 = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MTL = {
+	value = 0
+	level = 2
+}
+MUN = {
+	value = 0
+	level = 2
+}
+NDO = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NOG = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 1
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PIS = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+QIN = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = -107
+	level = 2
+}
+RGS = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SCY = {
+	value = 64
+	influence_value = 3
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SNA = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 179
+	influence_value = 32
+	level = 4
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TAB = {
+	value = 32
+	level = 2
+}
+TDO = {
+	value = 198
+	influence_value = 37
+	level = 4
+}
+TEO = {
+	value = -4
+	level = 2
+}
+TOT = {
+	value = 0
+	level = 2
+}
+TRS = {
+	value = 0
+	level = 2
+}
+TTL = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+UIL = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 8
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 10
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+X11 = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 173
+	influence_value = 30
+	level = 4
+}
+X22 = {
+	value = -59
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 99
+	influence_value = 12
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+X31 = {
+	value = -82
+	level = 2
+}
+X32 = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+X33 = {
+	value = 0
+	level = 2
+}
+X34 = {
+	value = 2
+	level = 2
+}
+X35 = {
+	value = 0
+	level = 2
+}
+X36 = {
+	value = 0
+	level = 2
+}
+X37 = {
+	value = 0
+	level = 2
+}
+X38 = {
+	value = 0
+	level = 2
+}
+X39 = {
+	value = -7
+	level = 2
+}
+X40 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = -8
+	level = 2
+}
+X42 = {
+	value = -5
+	level = 2
+}
+X43 = {
+	value = 0
+	level = 2
+}
+X44 = {
+	value = -9
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YOK = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Kurboga Saad"
+	date="1783.11.10"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+leader = {
+	name="Burak II Dahiya"
+	date="1806.1.12"
+	type=land
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Kurboga Issa"
+	date="1800.3.3"
+	type=land
+	personality="persistant"
+	background="bureaucrat_speed"
+}
+
+leader = {
+	name="Murad Mansour"
+	date="1800.3.6"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Selçuk Saleh"
+	date="1806.1.9"
+	type=sea
+	personality="coolminded"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Toghan Shah Khalil"
+	date="1808.1.20"
+	type=land
+	personality="audacious"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Azam Mansour"
+	date="1813.6.8"
+	type=sea
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Selçuk Ali"
+	date="1817.3.30"
+	type=sea
+	personality="coolminded"
+	background="cavalry_school"
+}
+
+
+#Armies
+army = {
+	name="30th Army"
+	location=1166
+	regiment = {
+		name="1st Tabuk Infantry"
+		type=infantry
+		home=1154
+	}
+	regiment = {
+		name="1st Abha Infantry"
+		type=infantry
+		home=1155
+	}
+	regiment = {
+		name="1st Sohar Infantry"
+		type=infantry
+		home=1169
+	}
+	regiment = {
+		name="2nd Abha Infantry"
+		type=infantry
+		home=1155
+	}
+	regiment = {
+		name="1st Isfahan Artillery"
+		type=artillery
+		home=1127
+	}
+	regiment = {
+		name="1st Sanandaj Artillery"
+		type=artillery
+		home=1118
+	}
+	regiment = {
+		name="10th Tehran Infantry"
+		type=infantry
+		home=1121
+	}
+}
+
+army = {
+	name="11th Army"
+	location=1155
+	regiment = {
+		name="1st Jidda Infantry"
+		type=infantry
+		home=1152
+	}
+	regiment = {
+		name="1st Sana Infantry"
+		type=infantry
+		home=1178
+	}
+	regiment = {
+		name="1st Aselia Infantry"
+		type=infantry
+		home=1861
+	}
+	regiment = {
+		name="1st Hamadan Infantry"
+		type=infantry
+		home=1122
+	}
+	regiment = {
+		name="1st Dubai Artillery"
+		type=artillery
+		home=1168
+	}
+	regiment = {
+		name="1st Hodeida Artillery"
+		type=artillery
+		home=1179
+	}
+	regiment = {
+		name="1st Massawa Infantry"
+		type=infantry
+		home=1849
+	}
+	regiment = {
+		name="3rd Tehran Artillery"
+		type=artillery
+		home=1121
+	}
+}
+
+navy = {
+	name="10th Fleet"
+	location=1175
+	ship = {
+		name="1st Abu Dhabi Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="13th Army"
+	location=1141
+	regiment = {
+		name="1st Ghayda Infantry"
+		type=infantry
+		home=1175
+	}
+	regiment = {
+		name="1st Bandar Abbas Infantry"
+		type=infantry
+		home=1142
+	}
+	regiment = {
+		name="1st Tehran Infantry"
+		type=infantry
+		home=1121
+	}
+	regiment = {
+		name="3rd Abha Infantry"
+		type=infantry
+		home=1155
+	}
+	regiment = {
+		name="1st Al-Ahsa Artillery"
+		type=artillery
+		home=2586
+	}
+	regiment = {
+		name="1st Riyadh Artillery"
+		type=artillery
+		home=1157
+	}
+	regiment = {
+		name="1st Harer Artillery"
+		type=artillery
+		home=1865
+	}
+	regiment = {
+		name="1st Sharurah Artillery"
+		type=artillery
+		home=1161
+	}
+	regiment = {
+		name="2nd Sharurah Artillery"
+		type=artillery
+		home=1161
+	}
+	regiment = {
+		name="1st Jidda Artillery"
+		type=artillery
+		home=1152
+	}
+	regiment = {
+		name="1st Werder Artillery"
+		type=artillery
+		home=1867
+	}
+	regiment = {
+		name="2nd Riyadh Artillery"
+		type=artillery
+		home=1157
+	}
+}
+
+army = {
+	name="20th Army"
+	location=1154
+	regiment = {
+		name="1st Awsa Infantry"
+		type=infantry
+		home=1858
+	}
+	regiment = {
+		name="1st Adana Infantry"
+		type=infantry
+		home=894
+	}
+	regiment = {
+		name="2nd Jidda Infantry"
+		type=infantry
+		home=1152
+	}
+	regiment = {
+		name="1st Isfahan Infantry"
+		type=infantry
+		home=1127
+	}
+	regiment = {
+		name="2nd Jidda Artillery"
+		type=artillery
+		home=1152
+	}
+	regiment = {
+		name="1st Aselia Artillery"
+		type=artillery
+		home=1861
+	}
+	regiment = {
+		name="2nd Isfahan Infantry"
+		type=infantry
+		home=1127
+	}
+	regiment = {
+		name="2nd Shiraz Artillery"
+		type=artillery
+		home=1135
+	}
+}
+
+army = {
+	name="34th Army"
+	location=895
+	regiment = {
+		name="1st Hufuf Infantry"
+		type=infantry
+		home=1164
+	}
+	regiment = {
+		name="1st Kerman Infantry"
+		type=infantry
+		home=1140
+	}
+	regiment = {
+		name="2nd Hufuf Infantry"
+		type=infantry
+		home=1164
+	}
+	regiment = {
+		name="2nd Tehran Infantry"
+		type=infantry
+		home=1121
+	}
+	regiment = {
+		name="1st Kaf Infantry"
+		type=infantry
+		home=1156
+	}
+	regiment = {
+		name="1st Kayseri Artillery"
+		type=artillery
+		home=878
+	}
+	regiment = {
+		name="2nd Harer Artillery"
+		type=artillery
+		home=1865
+	}
+	regiment = {
+		name="1st Medina Artillery"
+		type=artillery
+		home=1153
+	}
+	regiment = {
+		name="1st Shiraz Artillery"
+		type=artillery
+		home=1135
+	}
+	regiment = {
+		name="1st Dehkord Infantry"
+		type=infantry
+		home=1134
+	}
+	regiment = {
+		name="4th Tehran Artillery"
+		type=artillery
+		home=1121
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1871
+	regiment = {
+		name="1st Werder Infantry"
+		type=infantry
+		home=1867
+	}
+	regiment = {
+		name="1st Harer Infantry"
+		type=infantry
+		home=1865
+	}
+	regiment = {
+		name="1st Mecca Infantry"
+		type=infantry
+		home=1151
+	}
+	regiment = {
+		name="2nd Kaf Infantry"
+		type=infantry
+		home=1156
+	}
+	regiment = {
+		name="2nd Isfahan Artillery"
+		type=artillery
+		home=1127
+	}
+	regiment = {
+		name="1st Abha Artillery"
+		type=artillery
+		home=1155
+	}
+	regiment = {
+		name="1st Duqm Infantry"
+		type=infantry
+		home=1172
+	}
+	regiment = {
+		name="5th Tehran Artillery"
+		type=artillery
+		home=1121
+	}
+}
+
+navy = {
+	name="13th Fleet"
+	location=2900
+	ship = {
+		name="1st Jidda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Doha Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Muscat Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Socotra Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Assab Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Doha Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Jidda Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=1874
+	ship = {
+		name="1st Dubai Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Abu Dhabi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Qatif Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Berbera Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Taizz Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Salalah Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Doha Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bushire Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Qatif Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Taizz Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bahrain Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mukalla Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Dubai Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Aden Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ghayda Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Abu Dhabi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Taizz Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Mukalla Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Lengeh Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Dubai Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Abu Dhabi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Mukalla Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Abadan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Doha Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Ghayda Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Qatif Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Dubai Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Qatif Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bayda Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Taizz Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Salalah Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bahrain Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Qatif Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Abadan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Aden Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Doha Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Muscat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Abu Dhabi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Sohar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Qatif Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Qatif Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Qatif Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Sohar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Taizz Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Duqm Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Abu Dhabi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Ghayda Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Doha Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Qatif Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Abu Dhabi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Taizz Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bushire Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Bushire Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="20th Fleet"
+	location=2766
+	ship = {
+		name="1st Hufuf Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Abha Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Abu Dhabi Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=2782
+	ship = {
+		name="1st Dubai Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Seljuk Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Taizz Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bushire Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Assab Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ghayda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Lengeh Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Hufuf Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Assab Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Zeyla Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Doha Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bahrain Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Mukalla Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Zeyla Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Ghayda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Aden Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Hufuf Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Taizz Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Lengeh Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Abu Dhabi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Ghayda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Ghayda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Taizz Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Salalah Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bahrain Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Jidda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Dubai Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Palawan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Salalah Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Seljuk Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Hufuf Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bushire Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Palawan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Qatif Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Assab Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Ghayda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Muscat Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Palawan Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2811
+	ship = {
+		name="3rd Bushire Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Zeyla Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="5th Army"
+	location=1127
+	regiment = {
+		name="1st Ankober Infantry"
+		type=infantry
+		home=1859
+	}
+	regiment = {
+		name="1st Riyadh Infantry"
+		type=infantry
+		home=1157
+	}
+	regiment = {
+		name="1st Bosaso Infantry"
+		type=infantry
+		home=1872
+	}
+	regiment = {
+		name="1st Goba Infantry"
+		type=infantry
+		home=1866
+	}
+	regiment = {
+		name="1st Hobyo Infantry"
+		type=infantry
+		home=1871
+	}
+	regiment = {
+		name="1st Lengeh Artillery"
+		type=artillery
+		home=1141
+	}
+	regiment = {
+		name="1st Berbera Artillery"
+		type=artillery
+		home=1873
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2770
+	ship = {
+		name="2nd Abu Dhabi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Abu Dhabi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Palawan Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2790
+	ship = {
+		name="4th Taizz Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sohar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Sohar Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="12th Fleet"
+	location=2792
+	ship = {
+		name="2nd Qatif Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Dubai Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="12th Army"
+	location=1129
+	regiment = {
+		name="2nd Adana Infantry"
+		type=infantry
+		home=894
+	}
+	regiment = {
+		name="1st Doha Infantry"
+		type=infantry
+		home=1165
+	}
+	regiment = {
+		name="1st Jerusalem Infantry"
+		type=infantry
+		home=917
+	}
+	regiment = {
+		name="1st Abu Dhabi Infantry"
+		type=infantry
+		home=1167
+	}
+	regiment = {
+		name="2nd Hodeida Artillery"
+		type=artillery
+		home=1179
+	}
+	regiment = {
+		name="1st Aksum Artillery"
+		type=artillery
+		home=1856
+	}
+	regiment = {
+		name="11th Tehran Infantry"
+		type=infantry
+		home=1121
+	}
+}
+
+army = {
+	name="14th Army"
+	location=1134
+	regiment = {
+		name="1st Beirut Infantry"
+		type=infantry
+		home=913
+	}
+	regiment = {
+		name="1st Medina Infantry"
+		type=infantry
+		home=1153
+	}
+	regiment = {
+		name="2nd Medina Infantry"
+		type=infantry
+		home=1153
+	}
+	regiment = {
+		name="2nd Abu Dhabi Infantry"
+		type=infantry
+		home=1167
+	}
+	regiment = {
+		name="3rd Hodeida Artillery"
+		type=artillery
+		home=1179
+	}
+	regiment = {
+		name="2nd Aselia Artillery"
+		type=artillery
+		home=1861
+	}
+	regiment = {
+		name="1st Nizwa Artillery"
+		type=artillery
+		home=1170
+	}
+}
+
+navy = {
+	name="15th Fleet"
+	location=2787
+	ship = {
+		name="1st Tabuk Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Doha Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=922
+	regiment = {
+		name="3rd Tehran Infantry"
+		type=infantry
+		home=1121
+	}
+	regiment = {
+		name="1st Kangan Infantry"
+		type=infantry
+		home=1138
+	}
+	regiment = {
+		name="2nd Ghayda Infantry"
+		type=infantry
+		home=1175
+	}
+	regiment = {
+		name="4th Tehran Infantry"
+		type=infantry
+		home=1121
+	}
+	regiment = {
+		name="5th Tehran Infantry"
+		type=infantry
+		home=1121
+	}
+	regiment = {
+		name="1st Taizz Artillery"
+		type=artillery
+		home=1180
+	}
+	regiment = {
+		name="2nd Kangan Infantry"
+		type=infantry
+		home=1138
+	}
+	regiment = {
+		name="1st Sirjan Artillery"
+		type=artillery
+		home=1139
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2787
+	ship = {
+		name="5th Taizz Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Berbera Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="31st Army"
+	location=1180
+	regiment = {
+		name="6th Tehran Infantry"
+		type=infantry
+		home=1121
+	}
+	regiment = {
+		name="2nd Sana Infantry"
+		type=infantry
+		home=1178
+	}
+	regiment = {
+		name="7th Tehran Infantry"
+		type=infantry
+		home=1121
+	}
+	regiment = {
+		name="3rd Jidda Infantry"
+		type=infantry
+		home=1152
+	}
+	regiment = {
+		name="1st Tehran Artillery"
+		type=artillery
+		home=1121
+	}
+	regiment = {
+		name="2nd Tehran Artillery"
+		type=artillery
+		home=1121
+	}
+	regiment = {
+		name="12th Tehran Infantry"
+		type=infantry
+		home=1121
+	}
+}
+
+navy = {
+	name="11th Fleet"
+	location=1155
+	ship = {
+		name="1st Sur Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Hodeida Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Jidda Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Doha Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Taizz Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bayda Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Dubai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Socotra Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Seljuk Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Taizz Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Sohar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bahrain Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Mukalla Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Mukalla Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Aden Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=2765
+	ship = {
+		name="3rd Qatif Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Bahrain Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sur Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kangan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Berbera Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Abadan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Sur Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Bushire Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="14th Fleet"
+	location=2772
+	ship = {
+		name="4th Qatif Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Socotra Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sharm al-Shaykh Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Taizz Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="22nd Army"
+	location=1151
+	regiment = {
+		name="8th Tehran Infantry"
+		type=infantry
+		home=1121
+	}
+	regiment = {
+		name="3rd Hufuf Infantry"
+		type=infantry
+		home=1164
+	}
+	regiment = {
+		name="9th Tehran Infantry"
+		type=infantry
+		home=1121
+	}
+	regiment = {
+		name="4th Jidda Infantry"
+		type=infantry
+		home=1152
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2772
+	ship = {
+		name="4th Mukalla Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Bahrain Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Mukalla Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Sur Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Zeyla Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Dubai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Abu Dhabi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Palermo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Doha Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Abu Dhabi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Stade Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Southampton Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Palermo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Doha Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Taizz Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Taizz Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Taizz Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Sohar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Taizz Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Qatif Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Abu Dhabi Clipper Transport"
+		type=clipper_transport
+	}
+}
+

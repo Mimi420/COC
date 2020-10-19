@@ -1,0 +1,9 @@
+owner=TAB
+controller=TAB
+add_core=KHA
+add_core=MGL
+add_core=X08
+trade_goods = coal
+life_rating = 35
+terrain = woods
+colonial=2

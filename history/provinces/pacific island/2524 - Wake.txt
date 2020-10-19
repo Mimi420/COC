@@ -1,0 +1,6 @@
+owner=QIN
+controller=QIN
+add_core=QIN
+trade_goods = fish
+life_rating = 10
+terrain = plains

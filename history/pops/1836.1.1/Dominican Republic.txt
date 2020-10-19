@@ -1,0 +1,284 @@
+2214 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 1552
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 148
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 87
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 816
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 5149
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 490
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 841
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 61
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 22
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 236
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 1934
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 5663
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 539
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 963
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 70
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 26
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 270
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 2074
+	}
+
+}
+2216 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 802
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 105
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 37
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 900
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 5768
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 576
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 94
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 29
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 242
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 2586
+	}
+
+}

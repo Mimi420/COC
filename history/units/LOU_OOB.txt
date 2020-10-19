@@ -1,0 +1,800 @@
+#Sphere of Influence
+
+AIN = {
+	value = 0
+	level = 2
+}
+ANS = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BLZ = {
+	value = 15
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRN = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = -8
+	level = 2
+}
+BUR = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = -29
+	level = 2
+}
+CAN = {
+	value = -9
+	level = 2
+}
+COL = {
+	value = -10
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+CRS = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+DAK = {
+	value = -7
+	level = 2
+}
+ENL = {
+	value = 95
+	military_access = yes
+	influence_value = 11
+	level = 2
+}
+FIN = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 9
+	level = 2
+}
+GLC = {
+	value = 0
+	level = 2
+}
+GLR = {
+	value = 0
+	level = 2
+}
+GNV = {
+	value = 0
+	level = 2
+}
+GRA = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GUG = {
+	value = 0
+	level = 2
+}
+HAN = {
+	value = 0
+	level = 2
+}
+HLL = {
+	value = 0
+	level = 2
+}
+HON = {
+	value = 0
+	level = 2
+}
+IMG = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KOL = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LOR = {
+	value = 5
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MAZ = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MDR = {
+	value = 0
+	level = 2
+}
+MEI = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 21
+	level = 2
+}
+MFY = {
+	value = 0
+	level = 2
+}
+MGL = {
+	value = 0
+	level = 2
+}
+ML1 = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MTL = {
+	value = 0
+	level = 2
+}
+MUN = {
+	value = 0
+	level = 2
+}
+NDO = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NOG = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 11
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PIS = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+QIN = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RGS = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SCY = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SNA = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TAB = {
+	value = -27
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TEO = {
+	value = 0
+	level = 2
+}
+TOT = {
+	value = 0
+	level = 2
+}
+TRS = {
+	value = 19
+	level = 2
+}
+TTL = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+UIL = {
+	value = -88
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 11
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 18
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+X31 = {
+	value = 0
+	level = 2
+}
+X32 = {
+	value = 0
+	level = 2
+}
+X33 = {
+	value = 0
+	level = 2
+}
+X34 = {
+	value = 0
+	level = 2
+}
+X35 = {
+	value = 0
+	level = 2
+}
+X36 = {
+	value = 0
+	level = 2
+}
+X37 = {
+	value = 0
+	level = 2
+}
+X38 = {
+	value = 0
+	level = 2
+}
+X39 = {
+	value = 0
+	level = 2
+}
+X40 = {
+	value = -48
+	level = 2
+}
+X41 = {
+	value = 18
+	level = 2
+}
+X42 = {
+	value = 0
+	level = 2
+}
+X43 = {
+	value = 0
+	level = 2
+}
+X44 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YOK = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Eadwine Dampier"
+	date="1799.2.24"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Æthelbald Smith"
+	date="1806.1.14"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Adelard Fairfax"
+	date="1806.8.10"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Drogo Rooke"
+	date="1815.2.6"
+	type=land
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Sveinn Warwick"
+	date="1816.7.29"
+	type=land
+	personality="coolminded"
+	background="generals_aide"
+}
+
+
+#Armies
+navy = {
+	name="5th Fleet"
+	location=194
+	ship = {
+		name="1st Biloxi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Houston Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st English Louisianan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Houston Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Houston Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Lake Charles Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st English Louisianan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Biloxi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Baton Rouge Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd English Louisianan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ciudad Victoria Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Ciudad Victoria Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Matamoros Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Lake Charles Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2961
+	ship = {
+		name="2nd Biloxi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st San Antonio Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Lake Charles Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd English Louisianan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Houston Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2966
+	ship = {
+		name="3rd Ciudad Victoria Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Baton Rouge Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd San Antonio Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Lake Charles Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=104
+	regiment = {
+		name="1st Topeka Infantry"
+		type=infantry
+		home=126
+	}
+	regiment = {
+		name="1st Guanajuato Infantry"
+		type=infantry
+		home=2167
+	}
+	regiment = {
+		name="1st Jackson Infantry"
+		type=infantry
+		home=192
+	}
+	regiment = {
+		name="1st Kansas City Artillery"
+		type=artillery
+		home=150
+	}
+	regiment = {
+		name="1st Guanajuato Artillery"
+		type=artillery
+		home=2167
+	}
+	regiment = {
+		name="1st Veracruz Infantry"
+		type=infantry
+		home=2162
+	}
+	regiment = {
+		name="2nd Jackson Artillery"
+		type=artillery
+		home=192
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2960
+	ship = {
+		name="3rd Biloxi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Lake Charles Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Biloxi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd San Antonio Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2988
+	ship = {
+		name="1st Iguape Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Recife Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=2173
+	regiment = {
+		name="1st Querétaro Infantry"
+		type=infantry
+		home=2173
+	}
+	regiment = {
+		name="1st San Luis Potosí Infantry"
+		type=infantry
+		home=2159
+	}
+	regiment = {
+		name="1st Tampico Infantry"
+		type=infantry
+		home=2163
+	}
+	regiment = {
+		name="2nd Guanajuato Infantry"
+		type=infantry
+		home=2167
+	}
+	regiment = {
+		name="2nd Kansas City Artillery"
+		type=artillery
+		home=150
+	}
+	regiment = {
+		name="1st Jackson Artillery"
+		type=artillery
+		home=192
+	}
+}
+

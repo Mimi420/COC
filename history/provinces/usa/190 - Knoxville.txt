@@ -1,0 +1,7 @@
+owner=X40
+controller=X40
+add_core=CHE
+trade_goods = coal
+life_rating = 35
+terrain = woods
+colonial=2

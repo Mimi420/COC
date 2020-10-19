@@ -1,0 +1,1763 @@
+#Sphere of Influence
+
+AIN = {
+	value = 191
+	influence_value = 35
+	level = 4
+}
+ANS = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BLZ = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRN = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUR = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+COL = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+CRS = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 205
+	influence_value = 38
+	level = 4
+}
+DAK = {
+	value = 0
+	level = 2
+}
+ENL = {
+	value = 0
+	level = 2
+}
+FIN = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GLC = {
+	value = 0
+	level = 2
+}
+GLR = {
+	value = 0
+	level = 2
+}
+GNV = {
+	value = 0
+	level = 2
+}
+GRA = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GUG = {
+	value = 0
+	level = 2
+}
+HAN = {
+	value = 0
+	level = 2
+}
+HLL = {
+	value = 0
+	level = 2
+}
+HON = {
+	value = 0
+	level = 2
+}
+IMG = {
+	value = -62
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KOL = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 144
+	influence_value = 23
+	level = 3
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LOR = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MAZ = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MDR = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+MEI = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MFY = {
+	value = 0
+	level = 2
+}
+ML1 = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MUN = {
+	value = 0
+	level = 2
+}
+NDO = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NOG = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PIS = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+QIN = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+RGS = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SCY = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = -3
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SNA = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TAB = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = -90
+	level = 2
+}
+TEO = {
+	value = 0
+	level = 2
+}
+TOT = {
+	value = 0
+	level = 2
+}
+TRS = {
+	value = 0
+	level = 2
+}
+TTL = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+UIL = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 52
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+X23 = {
+	value = -86
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+X31 = {
+	value = 0
+	level = 2
+}
+X32 = {
+	value = 0
+	level = 2
+}
+X33 = {
+	value = 0
+	level = 2
+}
+X34 = {
+	value = 0
+	level = 2
+}
+X35 = {
+	value = 0
+	level = 2
+}
+X36 = {
+	value = 0
+	level = 2
+}
+X37 = {
+	value = 0
+	level = 2
+}
+X38 = {
+	value = 0
+	level = 2
+}
+X39 = {
+	value = 0
+	level = 2
+}
+X40 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X42 = {
+	value = 0
+	level = 2
+}
+X43 = {
+	value = 0
+	level = 2
+}
+X44 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 179
+	influence_value = 32
+	level = 4
+}
+YOK = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Min Ning II Ula"
+	date="1804.10.20"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Huang Taiji Hegiya"
+	date="1799.6.2"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Dorgon Boduri"
+	date="1805.2.15"
+	type=sea
+	personality="chivalrous"
+	background="war_college"
+}
+
+leader = {
+	name="Wehe Si"
+	date="1812.5.3"
+	type=land
+	personality="audacious"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Zhongchun Baica"
+	date="1812.10.2"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Chengjun Taicut"
+	date="1813.8.23"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Daisan Ergi"
+	date="1819.3.23"
+	type=sea
+	personality="disciplined"
+	background="artillerist"
+}
+
+
+#Armies
+navy = {
+	name="4th Fleet"
+	location=1619
+	ship = {
+		name="1st Zhanjiang Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kimchaek Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kangnung Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Taejon Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Kimchaek Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Haeju Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Kangnung Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Wonsan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Boli Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Pyongyang Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Kangnung Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Shizuoka Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Boli Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Sariwon Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Inchon Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Kangnung Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Haishenwai Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Chonchon Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Haeju Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Pyongyang Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ayan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Haishenwai Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Kangnung Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Inchon Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Inchon Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Shizuoka Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Nagasaki Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Haishenwai Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kumamoto Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Haeju Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kwangju Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sariwon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Boli Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Kumamoto Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Hamhung Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Haishenwai Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Taejon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kimchaek Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Haishenwai Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Kimchaek Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Kwangju Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Kwangju Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Miyazaki Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Taejon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Chonchon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Pusan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Fukuoka Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Kwangju Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Chonchon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Taejon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Boli Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kangnung Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Fukuoka Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Pusan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Kimchaek Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Kimchaek Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Inchon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Boli Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Inchon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Kimchaek Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Miyazaki Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kagoshima Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Kangnung Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Boli Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Kumamoto Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Chonchon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Qingzhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Haishenwai Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Haeju Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Miyazaki Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ayan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Wonsan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Kwangju Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Inchon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Kimchaek Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Hamhung Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Pyongyang Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Miyazaki Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Hamhung Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Kangnung Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="19th Army"
+	location=1358
+	regiment = {
+		name="1st Jilin Irregulars"
+		type=irregular
+		home=1555
+	}
+	regiment = {
+		name="1st Qiqihar Irregulars"
+		type=irregular
+		home=1552
+	}
+	regiment = {
+		name="1st Qiqihar Artillery"
+		type=artillery
+		home=1552
+	}
+	regiment = {
+		name="1st Chita Artillery"
+		type=artillery
+		home=1078
+	}
+	regiment = {
+		name="2nd Qiqihar Artillery"
+		type=artillery
+		home=1552
+	}
+	regiment = {
+		name="1st Haishenwai Artillery"
+		type=artillery
+		home=1082
+	}
+	regiment = {
+		name="9th Jilin Irregulars"
+		type=irregular
+		home=1555
+	}
+	regiment = {
+		name="1st Utchan Artillery"
+		type=artillery
+		home=1084
+	}
+}
+
+army = {
+	name="9th Army"
+	location=1613
+	regiment = {
+		name="1st Ninguta Irregulars"
+		type=irregular
+		home=1554
+	}
+	regiment = {
+		name="2nd Qiqihar Irregulars"
+		type=irregular
+		home=1552
+	}
+	regiment = {
+		name="2nd Jilin Irregulars"
+		type=irregular
+		home=1555
+	}
+	regiment = {
+		name="1st Wonsan Cavalry"
+		type=cavalry
+		home=1629
+	}
+	regiment = {
+		name="1st Jilin Artillery"
+		type=artillery
+		home=1555
+	}
+	regiment = {
+		name="2nd Haishenwai Artillery"
+		type=artillery
+		home=1082
+	}
+	regiment = {
+		name="1st Guilin Artillery"
+		type=artillery
+		home=1503
+	}
+	regiment = {
+		name="1st Ninguta Artillery"
+		type=artillery
+		home=1554
+	}
+	regiment = {
+		name="2nd Ninguta Artillery"
+		type=artillery
+		home=1554
+	}
+	regiment = {
+		name="8th Jilin Irregulars"
+		type=irregular
+		home=1555
+	}
+	regiment = {
+		name="2nd Wonsan Cavalry"
+		type=cavalry
+		home=1629
+	}
+	regiment = {
+		name="3rd Wonsan Cavalry"
+		type=cavalry
+		home=1629
+	}
+	regiment = {
+		name="5th Wonsan Cavalry"
+		type=cavalry
+		home=1629
+	}
+	regiment = {
+		name="7th Ninguta Artillery"
+		type=artillery
+		home=1554
+	}
+}
+
+army = {
+	name="16th Army"
+	location=1085
+	regiment = {
+		name="3rd Jilin Irregulars"
+		type=irregular
+		home=1555
+	}
+	regiment = {
+		name="4th Jilin Irregulars"
+		type=irregular
+		home=1555
+	}
+}
+
+army = {
+	name="22nd Army"
+	location=1532
+	regiment = {
+		name="1st Yaksa Irregulars"
+		type=irregular
+		home=1081
+	}
+	regiment = {
+		name="4th Beijing Irregulars"
+		type=irregular
+		home=1612
+	}
+}
+
+army = {
+	name="17th Army"
+	location=1532
+	regiment = {
+		name="1st Aigun Irregulars"
+		type=irregular
+		home=1553
+	}
+	regiment = {
+		name="2nd Ninguta Irregulars"
+		type=irregular
+		home=1554
+	}
+	regiment = {
+		name="6th Ninguta Irregulars"
+		type=irregular
+		home=1554
+	}
+}
+
+army = {
+	name="13th Army"
+	location=1085
+	regiment = {
+		name="1st Xiangyang Irregulars"
+		type=irregular
+		home=1523
+	}
+	regiment = {
+		name="5th Jilin Irregulars"
+		type=irregular
+		home=1555
+	}
+	regiment = {
+		name="3rd Qiqihar Irregulars"
+		type=irregular
+		home=1552
+	}
+}
+
+army = {
+	name="21st Army"
+	location=1490
+	regiment = {
+		name="1st Beijing Irregulars"
+		type=irregular
+		home=1612
+	}
+	regiment = {
+		name="1st Boli Irregulars"
+		type=irregular
+		home=1083
+	}
+	regiment = {
+		name="3rd Ninguta Irregulars"
+		type=irregular
+		home=1554
+	}
+	regiment = {
+		name="2nd Aigun Irregulars"
+		type=irregular
+		home=1553
+	}
+	regiment = {
+		name="1st Dean Irregulars"
+		type=irregular
+		home=1517
+	}
+	regiment = {
+		name="3rd Qiqihar Artillery"
+		type=artillery
+		home=1552
+	}
+	regiment = {
+		name="2nd Jilin Artillery"
+		type=artillery
+		home=1555
+	}
+	regiment = {
+		name="3rd Jilin Artillery"
+		type=artillery
+		home=1555
+	}
+	regiment = {
+		name="6th Qiqihar Artillery"
+		type=artillery
+		home=1552
+	}
+}
+
+army = {
+	name="28th Army"
+	location=1513
+	regiment = {
+		name="2nd Beijing Irregulars"
+		type=irregular
+		home=1612
+	}
+	regiment = {
+		name="1st Nyurba Irregulars"
+		type=irregular
+		home=2650
+	}
+	regiment = {
+		name="2nd Boli Irregulars"
+		type=irregular
+		home=1083
+	}
+	regiment = {
+		name="1st Irkutsk Irregulars"
+		type=irregular
+		home=1075
+	}
+	regiment = {
+		name="1st Baoqing Artillery"
+		type=artillery
+		home=1526
+	}
+	regiment = {
+		name="1st Taiping Artillery"
+		type=artillery
+		home=1477
+	}
+	regiment = {
+		name="1st Shaozhou Artillery"
+		type=artillery
+		home=1500
+	}
+	regiment = {
+		name="1st Aigun Artillery"
+		type=artillery
+		home=1553
+	}
+}
+
+army = {
+	name="10th Army"
+	location=2676
+	regiment = {
+		name="4th Ninguta Irregulars"
+		type=irregular
+		home=1554
+	}
+	regiment = {
+		name="1st Hamhung Cavalry"
+		type=cavalry
+		home=1621
+	}
+	regiment = {
+		name="3rd Ninguta Artillery"
+		type=artillery
+		home=1554
+	}
+	regiment = {
+		name="3rd Haishenwai Artillery"
+		type=artillery
+		home=1082
+	}
+	regiment = {
+		name="4th Ninguta Artillery"
+		type=artillery
+		home=1554
+	}
+	regiment = {
+		name="1st Zhaoqing Artillery"
+		type=artillery
+		home=1501
+	}
+	regiment = {
+		name="4th Qiqihar Artillery"
+		type=artillery
+		home=1552
+	}
+	regiment = {
+		name="4th Jilin Artillery"
+		type=artillery
+		home=1555
+	}
+	regiment = {
+		name="3rd Dean Irregulars"
+		type=irregular
+		home=1517
+	}
+	regiment = {
+		name="1st Taiping Cavalry"
+		type=cavalry
+		home=1477
+	}
+	regiment = {
+		name="1st Vilyuysk Cavalry"
+		type=cavalry
+		home=1069
+	}
+	regiment = {
+		name="1st Tangshan Cavalry"
+		type=cavalry
+		home=1616
+	}
+	regiment = {
+		name="2nd Zhaoqing Artillery"
+		type=artillery
+		home=1501
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1085
+	regiment = {
+		name="1st Jian Irregulars"
+		type=irregular
+		home=1547
+	}
+	regiment = {
+		name="1st Yibin Irregulars"
+		type=irregular
+		home=1585
+	}
+	regiment = {
+		name="1st Baotung Irregulars"
+		type=irregular
+		home=1579
+	}
+	regiment = {
+		name="5th Ninguta Artillery"
+		type=artillery
+		home=1554
+	}
+	regiment = {
+		name="1st Chongjin Artillery"
+		type=artillery
+		home=1622
+	}
+	regiment = {
+		name="6th Ninguta Artillery"
+		type=artillery
+		home=1554
+	}
+	regiment = {
+		name="1st Tangshan Irregulars"
+		type=irregular
+		home=1616
+	}
+	regiment = {
+		name="2nd Chongjin Artillery"
+		type=artillery
+		home=1622
+	}
+}
+
+army = {
+	name="7th Army"
+	location=2663
+	regiment = {
+		name="6th Jilin Irregulars"
+		type=irregular
+		home=1555
+	}
+	regiment = {
+		name="1st Guilin Irregulars"
+		type=irregular
+		home=1503
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1574
+	regiment = {
+		name="1st Utchan Irregulars"
+		type=irregular
+		home=1084
+	}
+	regiment = {
+		name="2nd Utchan Irregulars"
+		type=irregular
+		home=1084
+	}
+	regiment = {
+		name="1st Ganzhou Artillery"
+		type=artillery
+		home=1550
+	}
+	regiment = {
+		name="1st Dean Artillery"
+		type=artillery
+		home=1517
+	}
+	regiment = {
+		name="5th Qiqihar Artillery"
+		type=artillery
+		home=1552
+	}
+	regiment = {
+		name="1st Shinan Irregulars"
+		type=irregular
+		home=1521
+	}
+	regiment = {
+		name="2nd Yibin Artillery"
+		type=artillery
+		home=1585
+	}
+}
+
+army = {
+	name="6th Army"
+	location=2641
+	regiment = {
+		name="5th Ninguta Irregulars"
+		type=irregular
+		home=1554
+	}
+	regiment = {
+		name="1st Taiping Irregulars"
+		type=irregular
+		home=1477
+	}
+	regiment = {
+		name="3rd Beijing Irregulars"
+		type=irregular
+		home=1612
+	}
+	regiment = {
+		name="3rd Aigun Irregulars"
+		type=irregular
+		home=1553
+	}
+	regiment = {
+		name="1st Aigun Cavalry"
+		type=cavalry
+		home=1553
+	}
+	regiment = {
+		name="4th Haishenwai Artillery"
+		type=artillery
+		home=1082
+	}
+	regiment = {
+		name="1st Saghalian Oula Irregulars"
+		type=irregular
+		home=2617
+	}
+	regiment = {
+		name="2nd Hamhung Cavalry"
+		type=cavalry
+		home=1621
+	}
+	regiment = {
+		name="4th Wonsan Cavalry"
+		type=cavalry
+		home=1629
+	}
+	regiment = {
+		name="1st Beijing Cavalry"
+		type=cavalry
+		home=1612
+	}
+	regiment = {
+		name="8th Ninguta Artillery"
+		type=artillery
+		home=1554
+	}
+}
+
+army = {
+	name="25th Army"
+	location=1659
+	regiment = {
+		name="2nd Dean Irregulars"
+		type=irregular
+		home=1517
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=2828
+	ship = {
+		name="3rd Pusan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Chonchon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Kwangju Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Chonchon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Kwangju Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Kimchaek Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Inchon Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2827
+	ship = {
+		name="5th Haishenwai Frigate"
+		type=frigate
+	}
+	ship = {
+		name="10th Haishenwai Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="10th Fleet"
+	location=2817
+	ship = {
+		name="6th Haishenwai Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th Kwangju Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Pyongyang Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Taejon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Miyazaki Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="12th Army"
+	location=2622
+	regiment = {
+		name="2nd Taiping Irregulars"
+		type=irregular
+		home=1477
+	}
+	regiment = {
+		name="7th Jilin Irregulars"
+		type=irregular
+		home=1555
+	}
+	regiment = {
+		name="4th Aigun Irregulars"
+		type=irregular
+		home=1553
+	}
+	regiment = {
+		name="1st Yibin Artillery"
+		type=artillery
+		home=1585
+	}
+	regiment = {
+		name="1st Pokrovsk Irregulars"
+		type=irregular
+		home=2672
+	}
+	regiment = {
+		name="1st Boli Artillery"
+		type=artillery
+		home=1083
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=2828
+	ship = {
+		name="3rd Pyongyang Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Chongjin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Inchon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Haishenwai Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Chongjin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Inchon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th Haishenwai Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Haeju Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Chongjin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th Kimchaek Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Pusan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Chonchon Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=1616
+	ship = {
+		name="9th Haishenwai Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Fukuoka Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Yokohama Frigate"
+		type=frigate
+	}
+	ship = {
+		name="9th Kimchaek Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Chongjin Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=1616
+	ship = {
+		name="3rd Hamhung Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Boli Frigate"
+		type=frigate
+	}
+	ship = {
+		name="9th Kwangju Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Taejon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chongjin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Utchan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kwangju Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kangnung Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Haishenwai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Haeju Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Haishenwai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cheju Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Taejon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Nagasaki Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Nauru Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Hamhung Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Pyongyang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Pohang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Haishenwai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Kangnung Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Pyongyang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Pohang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Sariwon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Kangnung Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Taejon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Haishenwai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Cheju Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Hamhung Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Pyongyang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Utchan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Inchon Clipper Transport"
+		type=clipper_transport
+	}
+}
+

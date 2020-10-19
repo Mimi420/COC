@@ -1,0 +1,130 @@
+2240 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 29
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 58
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2771
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 101
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 461
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 75
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 35
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 97
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 9303
+	}
+
+}
+2245 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 667
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 67
+	}
+
+}

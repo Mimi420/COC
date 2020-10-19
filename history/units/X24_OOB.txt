@@ -1,0 +1,792 @@
+#Sphere of Influence
+
+AIN = {
+	value = 0
+	level = 2
+}
+ANS = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = -61
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BLZ = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRN = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUR = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+COL = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+CRS = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+DAK = {
+	value = 0
+	level = 2
+}
+ENL = {
+	value = 0
+	level = 2
+}
+FIN = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 20
+	level = 2
+}
+GLC = {
+	value = 0
+	level = 2
+}
+GLR = {
+	value = 0
+	level = 2
+}
+GNV = {
+	value = 0
+	level = 2
+}
+GRA = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GUG = {
+	value = 0
+	level = 2
+}
+HAN = {
+	value = 0
+	level = 2
+}
+HLL = {
+	value = 0
+	level = 2
+}
+HON = {
+	value = 0
+	level = 2
+}
+IMG = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 90
+	influence_value = 10
+	level = 2
+}
+KOL = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LOR = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MAZ = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MDR = {
+	value = 0
+	level = 2
+}
+MEI = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MFY = {
+	value = 0
+	level = 2
+}
+MGL = {
+	value = 0
+	level = 2
+}
+ML1 = {
+	value = 126
+	influence_value = 19
+	level = 3
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+MTL = {
+	value = 0
+	level = 2
+}
+MUN = {
+	value = 0
+	level = 2
+}
+NDO = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NOG = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PIS = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+QIN = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = -36
+	level = 2
+}
+RGS = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SCY = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SNA = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TAB = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TEO = {
+	value = 0
+	level = 2
+}
+TOT = {
+	value = 0
+	level = 2
+}
+TRS = {
+	value = 0
+	level = 2
+}
+TTL = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+UIL = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+X31 = {
+	value = -42
+	level = 2
+}
+X32 = {
+	value = 141
+	influence_value = 22
+	level = 3
+}
+X33 = {
+	value = 0
+	level = 2
+}
+X34 = {
+	value = 0
+	level = 2
+}
+X35 = {
+	value = 0
+	level = 2
+}
+X36 = {
+	value = 0
+	level = 2
+}
+X37 = {
+	value = 0
+	level = 2
+}
+X38 = {
+	value = 0
+	level = 2
+}
+X39 = {
+	value = 0
+	level = 2
+}
+X40 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X42 = {
+	value = 0
+	level = 2
+}
+X43 = {
+	value = 0
+	level = 2
+}
+X44 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+YOK = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies
+army = {
+	name="8th Army"
+	location=1840
+	regiment = {
+		name="1st Kassala Infantry"
+		type=infantry
+		home=1829
+	}
+	regiment = {
+		name="1st Debre Tabor Infantry"
+		type=infantry
+		home=1853
+	}
+	regiment = {
+		name="1st Debre Markos Infantry"
+		type=infantry
+		home=1855
+	}
+	regiment = {
+		name="1st Matamma Artillery"
+		type=artillery
+		home=1854
+	}
+	regiment = {
+		name="1st Sennar Artillery"
+		type=artillery
+		home=1830
+	}
+	regiment = {
+		name="1st Junaynah Artillery"
+		type=artillery
+		home=1842
+	}
+	regiment = {
+		name="5th Debre Tabor Infantry"
+		type=infantry
+		home=1853
+	}
+	regiment = {
+		name="1st Bonga Artillery"
+		type=artillery
+		home=1862
+	}
+}
+
+army = {
+	name="21st Army"
+	location=1842
+	regiment = {
+		name="1st Bonga Infantry"
+		type=infantry
+		home=1862
+	}
+	regiment = {
+		name="2nd Debre Tabor Infantry"
+		type=infantry
+		home=1853
+	}
+	regiment = {
+		name="1st Sennar Infantry"
+		type=infantry
+		home=1830
+	}
+	regiment = {
+		name="2nd Junaynah Artillery"
+		type=artillery
+		home=1842
+	}
+	regiment = {
+		name="1st Asosa Artillery"
+		type=artillery
+		home=1863
+	}
+	regiment = {
+		name="1st Debre Markos Artillery"
+		type=artillery
+		home=1855
+	}
+	regiment = {
+		name="2nd Kassala Infantry"
+		type=infantry
+		home=1829
+	}
+	regiment = {
+		name="1st Debre Tabor Artillery"
+		type=artillery
+		home=1853
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1852
+	regiment = {
+		name="2nd Bonga Infantry"
+		type=infantry
+		home=1862
+	}
+	regiment = {
+		name="2nd Debre Markos Infantry"
+		type=infantry
+		home=1855
+	}
+	regiment = {
+		name="1st Matamma Infantry"
+		type=infantry
+		home=1854
+	}
+	regiment = {
+		name="1st Nuhud Artillery"
+		type=artillery
+		home=1839
+	}
+	regiment = {
+		name="2nd Nuhud Artillery"
+		type=artillery
+		home=1839
+	}
+	regiment = {
+		name="1st Khartoum Artillery"
+		type=artillery
+		home=1827
+	}
+	regiment = {
+		name="6th Debre Tabor Infantry"
+		type=infantry
+		home=1853
+	}
+	regiment = {
+		name="2nd Sennar Artillery"
+		type=artillery
+		home=1830
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2782
+	ship = {
+		name="1st Halaib Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Halaib Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Halaib Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=1834
+	ship = {
+		name="1st Halaib Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Halaib Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1830
+	regiment = {
+		name="2nd Sennar Infantry"
+		type=infantry
+		home=1830
+	}
+	regiment = {
+		name="3rd Bonga Infantry"
+		type=infantry
+		home=1862
+	}
+	regiment = {
+		name="3rd Debre Tabor Infantry"
+		type=infantry
+		home=1853
+	}
+	regiment = {
+		name="3rd Nuhud Artillery"
+		type=artillery
+		home=1839
+	}
+	regiment = {
+		name="1st Antalo Artillery"
+		type=artillery
+		home=1857
+	}
+	regiment = {
+		name="2nd Antalo Artillery"
+		type=artillery
+		home=1857
+	}
+	regiment = {
+		name="3rd Kassala Infantry"
+		type=infantry
+		home=1829
+	}
+	regiment = {
+		name="2nd Debre Markos Artillery"
+		type=artillery
+		home=1855
+	}
+}
+
+army = {
+	name="5th Army"
+	location=1832
+	regiment = {
+		name="1st Antalo Infantry"
+		type=infantry
+		home=1857
+	}
+	regiment = {
+		name="4th Debre Tabor Infantry"
+		type=infantry
+		home=1853
+	}
+	regiment = {
+		name="2nd Matamma Infantry"
+		type=infantry
+		home=1854
+	}
+	regiment = {
+		name="3rd Antalo Artillery"
+		type=artillery
+		home=1857
+	}
+	regiment = {
+		name="2nd Asosa Artillery"
+		type=artillery
+		home=1863
+	}
+	regiment = {
+		name="2nd Khartoum Artillery"
+		type=artillery
+		home=1827
+	}
+}
+

@@ -1,0 +1,255 @@
+349 = {
+	soldiers=
+	{
+		culture = estonian
+		religion = catholic
+		size= 496
+	}
+
+	artisans=
+	{
+		culture = estonian
+		religion = catholic
+		size= 6941
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = catholic
+		size= 644
+	}
+
+	bureaucrats=
+	{
+		culture = estonian
+		religion = catholic
+		size= 139
+	}
+
+	officers=
+	{
+		culture = estonian
+		religion = catholic
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = estonian
+		religion = catholic
+		size= 833
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = catholic
+		size= 40482
+	}
+
+}
+350 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1465
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 2093
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 340
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 126
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 84
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 440
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 47777
+	}
+
+}
+351 = {
+	soldiers=
+	{
+		culture = estonian
+		religion = catholic
+		size= 284
+	}
+
+	artisans=
+	{
+		culture = estonian
+		religion = catholic
+		size= 3981
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = catholic
+		size= 370
+	}
+
+	bureaucrats=
+	{
+		culture = estonian
+		religion = catholic
+		size= 80
+	}
+
+	officers=
+	{
+		culture = estonian
+		religion = catholic
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = estonian
+		religion = catholic
+		size= 478
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = catholic
+		size= 23218
+	}
+
+}
+352 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1239
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1771
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 288
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 106
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 71
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 372
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 40419
+	}
+
+}
+353 = {
+	soldiers=
+	{
+		culture = estonian
+		religion = catholic
+		size= 130
+	}
+
+	artisans=
+	{
+		culture = estonian
+		religion = catholic
+		size= 186
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = catholic
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = estonian
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = estonian
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = estonian
+		religion = catholic
+		size= 39
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = catholic
+		size= 4251
+	}
+
+}

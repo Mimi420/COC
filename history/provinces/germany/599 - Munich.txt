@@ -1,0 +1,15 @@
+owner=ANS
+controller=ANS
+add_core=ANS
+add_core=AUS
+add_core=GER
+add_core=HRE
+trade_goods = coal
+life_rating = 40
+terrain = hills
+state_building=
+{
+	level=1
+	building = regular_clothes_factory
+	upgrade = yes
+}

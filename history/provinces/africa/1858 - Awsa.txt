@@ -1,0 +1,5 @@
+owner=YEM
+controller=YEM
+trade_goods = grain
+life_rating = 30
+terrain = mountain

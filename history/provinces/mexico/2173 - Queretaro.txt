@@ -1,0 +1,8 @@
+owner=LOU
+controller=LOU
+add_core=LOU
+add_core=OTO
+add_core=TEO
+trade_goods = fruit
+life_rating = 35
+terrain = mountain

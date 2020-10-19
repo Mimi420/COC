@@ -1,0 +1,6 @@
+owner=X35
+controller=X35
+add_core=X35
+trade_goods = cattle
+life_rating = 30
+terrain = hills

@@ -1,0 +1,771 @@
+#Sphere of Influence
+
+AIN = {
+	value = 0
+	level = 2
+}
+ANS = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BLZ = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRN = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUR = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = -10
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = -86
+	level = 2
+}
+COL = {
+	value = -2
+	level = 2
+}
+CRB = {
+	value = -40
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+CRS = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+DAK = {
+	value = 0
+	level = 2
+}
+ENL = {
+	value = 30
+	level = 2
+}
+FIN = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 11
+	level = 2
+}
+GLC = {
+	value = 0
+	level = 2
+}
+GLR = {
+	value = 0
+	level = 2
+}
+GNV = {
+	value = 0
+	level = 2
+}
+GRA = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GUG = {
+	value = 0
+	level = 2
+}
+HAN = {
+	value = 0
+	level = 2
+}
+HLL = {
+	value = 0
+	level = 2
+}
+HON = {
+	value = 0
+	level = 2
+}
+IMG = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KOL = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LOR = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = -40
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MAZ = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MDR = {
+	value = 0
+	level = 2
+}
+MEI = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MFY = {
+	value = 0
+	level = 2
+}
+MGL = {
+	value = 0
+	level = 2
+}
+ML1 = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MTL = {
+	value = 0
+	level = 2
+}
+MUN = {
+	value = 0
+	level = 2
+}
+NDO = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NOG = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PIS = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+QIN = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RGS = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SCY = {
+	value = 137
+	military_access = yes
+	influence_value = 21
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SNA = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TAB = {
+	value = -27
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TEO = {
+	value = 0
+	level = 2
+}
+TOT = {
+	value = 0
+	level = 2
+}
+TRS = {
+	value = 0
+	level = 2
+}
+TTL = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+UIL = {
+	value = 11
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = -10
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 18
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+X31 = {
+	value = 0
+	level = 2
+}
+X32 = {
+	value = 0
+	level = 2
+}
+X33 = {
+	value = 0
+	level = 2
+}
+X34 = {
+	value = 0
+	level = 2
+}
+X35 = {
+	value = 0
+	level = 2
+}
+X36 = {
+	value = 0
+	level = 2
+}
+X37 = {
+	value = 0
+	level = 2
+}
+X38 = {
+	value = 0
+	level = 2
+}
+X39 = {
+	value = -93
+	level = 2
+}
+X40 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X42 = {
+	value = 0
+	level = 2
+}
+X43 = {
+	value = 0
+	level = 2
+}
+X44 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YOK = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Hektorios d'Austria"
+	date="1816.4.21"
+	type=land
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Elpidios Gonzaga"
+	date="1816.4.22"
+	type=land
+	personality="persistant"
+	background="bureaucrat_speed"
+}
+
+leader = {
+	name="Traianos Riso"
+	date="1816.4.24"
+	type=land
+	personality="disciplined"
+	background="bootlicker"
+}
+
+leader = {
+	name="Hektorios Mazzini"
+	date="1817.1.2"
+	type=sea
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Theophylaktos di Gesualdo"
+	date="1819.11.23"
+	type=sea
+	personality="inspiring"
+	background="aristocrat"
+}
+
+
+#Armies
+army = {
+	name="3rd Army"
+	location=214
+	regiment = {
+		name="1st Champaign Infantry"
+		type=infantry
+		home=165
+	}
+	regiment = {
+		name="2nd Champaign Infantry"
+		type=infantry
+		home=165
+	}
+	regiment = {
+		name="1st Richmond Infantry"
+		type=infantry
+		home=211
+	}
+	regiment = {
+		name="1st Carbondale Infantry"
+		type=infantry
+		home=168
+	}
+	regiment = {
+		name="1st Richmond Artillery"
+		type=artillery
+		home=211
+	}
+	regiment = {
+		name="1st Marquette Infantry"
+		type=infantry
+		home=177
+	}
+	regiment = {
+		name="1st South Bend Artillery"
+		type=artillery
+		home=171
+	}
+}
+
+army = {
+	name="1st Army"
+	location=177
+	regiment = {
+		name="2nd Carbondale Infantry"
+		type=infantry
+		home=168
+	}
+	regiment = {
+		name="1st Milwaukee Infantry"
+		type=infantry
+		home=159
+	}
+	regiment = {
+		name="1st Syracuse Infantry"
+		type=infantry
+		home=238
+	}
+	regiment = {
+		name="3rd Carbondale Infantry"
+		type=infantry
+		home=168
+	}
+	regiment = {
+		name="1st Carbondale Artillery"
+		type=artillery
+		home=168
+	}
+	regiment = {
+		name="1st Cleveland Artillery"
+		type=artillery
+		home=178
+	}
+	regiment = {
+		name="3rd Champaign Infantry"
+		type=infantry
+		home=165
+	}
+	regiment = {
+		name="1st Columbus Artillery"
+		type=artillery
+		home=179
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=243
+	ship = {
+		name="1st Norfolk Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Norfolk Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Greenville Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Norfolk Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Norfolk Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Greenville Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Fredericksburg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Washington Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=214
+	ship = {
+		name="2nd Greenville Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st New Sicilian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Norfolk Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bangor Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Norfolk Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Greenville Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Norfolk Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Norfolk Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Baltimore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st New Bedford Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bangor Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Fredericksburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Greenville Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Norfolk Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Dover Clipper Transport"
+		type=clipper_transport
+	}
+}
+

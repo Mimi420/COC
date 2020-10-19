@@ -1,0 +1,9 @@
+owner=X07
+controller=X07
+add_core=NOR
+add_core=SCA
+add_core=X07
+trade_goods = fish
+life_rating = 35
+terrain = hills
+naval_base = 1

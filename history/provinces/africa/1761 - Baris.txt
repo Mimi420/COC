@@ -1,0 +1,8 @@
+owner=YEM
+controller=YEM
+add_core=IRQ
+add_core=X20
+trade_goods = fruit
+life_rating = 35
+terrain = desert
+colonial=2

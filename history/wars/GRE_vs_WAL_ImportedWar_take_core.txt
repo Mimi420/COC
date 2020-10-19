@@ -1,0 +1,17 @@
+name = "Greek Reconquest of Thessaly"
+
+1817.12.22 = {
+	add_attacker = GRE
+	add_attacker = AUS
+	add_attacker = X26
+	add_attacker = SNA
+	add_defender = WAL
+	add_defender = BYZ
+
+	war_goal = {
+		casus_belli = acquire_core_state
+		actor = GRE
+		receiver = WAL
+		state_province_id = 831
+	}
+}

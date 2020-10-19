@@ -1,0 +1,6 @@
+owner=X44
+controller=X44
+add_core=PIM
+trade_goods = cattle
+life_rating = 35
+terrain = mountain

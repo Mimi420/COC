@@ -1,0 +1,6 @@
+owner=X22
+controller=X22
+add_core=QIN
+trade_goods = coffee
+life_rating = 15
+terrain = plains

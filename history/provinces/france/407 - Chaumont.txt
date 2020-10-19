@@ -1,0 +1,21 @@
+owner=LOR
+controller=LOR
+add_core=LIT
+add_core=LOR
+add_core=PLC
+add_core=HRE
+trade_goods = iron
+life_rating = 30
+terrain = plains
+state_building=
+{
+	level=1
+	building = ammunition_factory
+	upgrade = yes
+}
+state_building=
+{
+	level=1
+	building = fabric_factory
+	upgrade = yes
+}

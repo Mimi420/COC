@@ -1,0 +1,1048 @@
+#Sphere of Influence
+
+AIN = {
+	value = 0
+	level = 2
+}
+ANS = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 38
+	level = 2
+}
+AUS = {
+	value = -37
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BLZ = {
+	value = 148
+	military_access = yes
+	influence_value = 74
+	level = 5
+}
+BOL = {
+	value = 36
+	level = 2
+}
+BRN = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = -11
+	level = 2
+}
+BUR = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = -3
+	level = 2
+}
+CAN = {
+	value = -16
+	level = 2
+}
+COL = {
+	value = -18
+	level = 2
+}
+CRB = {
+	value = -93
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+CRS = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+DAK = {
+	value = -13
+	level = 2
+}
+ENL = {
+	value = 197
+	influence_value = 36
+	level = 4
+}
+FIN = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -3
+	level = 2
+}
+GLC = {
+	value = 0
+	level = 2
+}
+GLR = {
+	value = 47
+	level = 2
+}
+GNV = {
+	value = -3
+	level = 2
+}
+GRA = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = -4
+	level = 2
+}
+GUG = {
+	value = 0
+	level = 2
+}
+HAN = {
+	value = 33
+	level = 2
+}
+HLL = {
+	value = 0
+	level = 2
+}
+HON = {
+	value = 0
+	level = 2
+}
+IMG = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KOL = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = -57
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LOR = {
+	value = 61
+	influence_value = 2
+	level = 3
+}
+LOU = {
+	value = -28
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MAZ = {
+	value = 176
+	influence_value = 31
+	level = 4
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MDR = {
+	value = -24
+	level = 2
+}
+MEI = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -7
+	level = 2
+}
+MFY = {
+	value = 0
+	level = 2
+}
+ML1 = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MUN = {
+	value = 0
+	level = 2
+}
+NDO = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = -14
+	level = 2
+}
+NOG = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+PIS = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+QIN = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RGS = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SCY = {
+	value = -1
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SNA = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+TAB = {
+	value = -27
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TEO = {
+	value = 0
+	level = 2
+}
+TOT = {
+	value = 0
+	level = 2
+}
+TRS = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+TTL = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+UIL = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 169
+	military_access = yes
+	influence_value = 79
+	level = 5
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = -181
+	level = 2
+}
+X03 = {
+	value = 16
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = -67
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 10
+	level = 2
+}
+X13 = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 18
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 285
+	influence_value = 58
+	level = 4
+}
+X30 = {
+	value = 0
+	level = 2
+}
+X31 = {
+	value = 0
+	level = 2
+}
+X32 = {
+	value = 0
+	level = 2
+}
+X33 = {
+	value = 0
+	level = 2
+}
+X34 = {
+	value = 0
+	level = 2
+}
+X35 = {
+	value = 0
+	level = 2
+}
+X36 = {
+	value = 0
+	level = 2
+}
+X37 = {
+	value = 0
+	level = 2
+}
+X38 = {
+	value = 0
+	level = 2
+}
+X39 = {
+	value = -33
+	level = 2
+}
+X40 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 33
+	level = 2
+}
+X42 = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+X43 = {
+	value = 0
+	level = 2
+}
+X44 = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YOK = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Bedrich von Borcke"
+	date="1803.8.16"
+	type=sea
+	personality="active_p"
+	background="engineer"
+}
+
+leader = {
+	name="Volodar von Wolin"
+	date="1804.8.14"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Krutoj von Peglows"
+	date="1807.3.21"
+	type=land
+	personality="hellbent"
+	background="cartographer"
+}
+
+leader = {
+	name="Trifon von Neustettin"
+	date="1813.3.12"
+	type=sea
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Lampert Krumtum"
+	date="1814.12.12"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Wenceslaw Stellmacher"
+	date="1816.2.10"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+
+#Armies
+army = {
+	name="Lithuanian Company"
+	location=680
+	regiment = {
+		name="1st Deutsch Krone Infantry"
+		type=infantry
+		home=692
+	}
+	regiment = {
+		name="2nd Deutsch Krone Infantry"
+		type=infantry
+		home=692
+	}
+	regiment = {
+		name="3rd Deutsch Krone Infantry"
+		type=infantry
+		home=692
+	}
+}
+
+army = {
+	name="Reisläufer"
+	location=533
+	regiment = {
+		name="1st Stettin Infantry"
+		type=infantry
+		home=546
+	}
+	regiment = {
+		name="1st Swinemünde Infantry"
+		type=infantry
+		home=547
+	}
+}
+
+army = {
+	name="Free Swiss Guard"
+	location=528
+	regiment = {
+		name="1st Kolberg Infantry"
+		type=infantry
+		home=679
+	}
+	regiment = {
+		name="2nd Kolberg Infantry"
+		type=infantry
+		home=679
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=679
+	ship = {
+		name="1st Odense Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Aabenraa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Danzig Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Pomeranian Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Copenhagen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kolberg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Lübeck Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Odense Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Odense Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Swinemünde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Lübeck Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Aabenraa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Kolberg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Copenhagen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Lübeck Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Lübeck Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tapachula Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Kolberg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Aabenraa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Danzig Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Aabenraa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Schwerin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Curiapo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Stralsund Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Collataro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Collataro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Belize Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Copenhagen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Danzig Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Kolberg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Lübeck Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Danzig Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Odense Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Danzig Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Kolberg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Lübeck Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Schwerin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Copenhagen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Stralsund Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tapachula Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Puerto Barrios Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Swinemünde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Hamburg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Kolberg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Puerto Barrios Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Gascon Musket Company"
+	location=369
+	regiment = {
+		name="1st Stralsund Infantry"
+		type=infantry
+		home=548
+	}
+	regiment = {
+		name="2nd Stralsund Infantry"
+		type=infantry
+		home=548
+	}
+	regiment = {
+		name="3rd Stralsund Infantry"
+		type=infantry
+		home=548
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=680
+	regiment = {
+		name="1st Stettin Cavalry"
+		type=cavalry
+		home=546
+	}
+	regiment = {
+		name="1st Kolberg Artillery"
+		type=artillery
+		home=679
+	}
+	regiment = {
+		name="1st Flensburg Artillery"
+		type=artillery
+		home=370
+	}
+	regiment = {
+		name="1st Odense Cavalry"
+		type=cavalry
+		home=373
+	}
+	regiment = {
+		name="2nd Stralsund Artillery"
+		type=artillery
+		home=548
+	}
+}
+
+army = {
+	name="Free Company"
+	location=692
+	regiment = {
+		name="1st Copenhagen Infantry"
+		type=infantry
+		home=372
+	}
+	regiment = {
+		name="1st Flensburg Infantry"
+		type=infantry
+		home=370
+	}
+}
+
+army = {
+	name="5th Army"
+	location=692
+	regiment = {
+		name="1st Kiel Artillery"
+		type=artillery
+		home=369
+	}
+	regiment = {
+		name="1st Stettin Artillery"
+		type=artillery
+		home=546
+	}
+	regiment = {
+		name="2nd Stettin Artillery"
+		type=artillery
+		home=546
+	}
+	regiment = {
+		name="1st Aabenraa Artillery"
+		type=artillery
+		home=371
+	}
+}
+
+army = {
+	name="9th Army"
+	location=679
+	regiment = {
+		name="1st Deutsch Krone Artillery"
+		type=artillery
+		home=692
+	}
+	regiment = {
+		name="1st Copenhagen Artillery"
+		type=artillery
+		home=372
+	}
+	regiment = {
+		name="1st Hamburg Artillery"
+		type=artillery
+		home=528
+	}
+	regiment = {
+		name="2nd Deutsch Krone Artillery"
+		type=artillery
+		home=692
+	}
+}
+
+army = {
+	name="10th Army"
+	location=680
+	regiment = {
+		name="1st Stralsund Artillery"
+		type=artillery
+		home=548
+	}
+	regiment = {
+		name="2nd Kolberg Artillery"
+		type=artillery
+		home=679
+	}
+	regiment = {
+		name="1st Tuchel Artillery"
+		type=artillery
+		home=691
+	}
+	regiment = {
+		name="1st Swinemünde Artillery"
+		type=artillery
+		home=547
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=679
+	ship = {
+		name="1st Georgetown Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2711
+	ship = {
+		name="1st Lima Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2721
+	ship = {
+		name="1st Buenaventura Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Hamburg Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2923
+	ship = {
+		name="1st Schwerin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Copenhagen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Danzig Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Odense Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Güiria Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Güiria Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Aabenraa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Güiria Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Köslin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Copenhagen Clipper Transport"
+		type=clipper_transport
+	}
+}
+

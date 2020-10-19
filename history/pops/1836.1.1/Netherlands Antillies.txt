@@ -1,0 +1,307 @@
+2234 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 652
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 47
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 8
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 3438
+	}
+
+	soldiers=
+	{
+		culture = amerikaner
+		religion = protestant
+		size= 263
+	}
+
+	artisans=
+	{
+		culture = amerikaner
+		religion = protestant
+		size= 545
+	}
+
+	clergymen=
+	{
+		culture = amerikaner
+		religion = protestant
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = amerikaner
+		religion = protestant
+		size= 8
+	}
+
+	officers=
+	{
+		culture = amerikaner
+		religion = protestant
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = amerikaner
+		religion = protestant
+		size= 98
+	}
+
+}
+2235 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 130
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 687
+	}
+
+	soldiers=
+	{
+		culture = amerikaner
+		religion = protestant
+		size= 51
+	}
+
+	artisans=
+	{
+		culture = amerikaner
+		religion = protestant
+		size= 105
+	}
+
+	clergymen=
+	{
+		culture = amerikaner
+		religion = protestant
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = amerikaner
+		religion = protestant
+		size= 2
+	}
+
+	officers=
+	{
+		culture = amerikaner
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = amerikaner
+		religion = protestant
+		size= 19
+	}
+
+}
+2236 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 216
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 691
+	}
+
+	soldiers=
+	{
+		culture = amerikaner
+		religion = protestant
+		size= 39
+	}
+
+	artisans=
+	{
+		culture = amerikaner
+		religion = protestant
+		size= 69
+	}
+
+	clergymen=
+	{
+		culture = amerikaner
+		religion = protestant
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = amerikaner
+		religion = protestant
+		size= 2
+	}
+
+	officers=
+	{
+		culture = amerikaner
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = amerikaner
+		religion = protestant
+		size= 13
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 514
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 29
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 49
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 9
+	}
+
+}

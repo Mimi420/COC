@@ -1,0 +1,9 @@
+owner=X07
+controller=X07
+add_core=DEN
+add_core=SCA
+add_core=X07
+trade_goods = grain
+life_rating = 35
+terrain = farmlands
+naval_base = 2

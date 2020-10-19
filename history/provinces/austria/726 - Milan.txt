@@ -1,0 +1,7 @@
+owner=LOM
+controller=X06
+add_core=GER
+add_core=LOM
+trade_goods = iron
+life_rating = 35
+terrain = farmlands

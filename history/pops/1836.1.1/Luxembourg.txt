@@ -1,0 +1,149 @@
+397 = {
+	soldiers=
+	{
+		culture = flemish
+		religion = catholic
+		size= 1279
+	}
+
+	artisans=
+	{
+		culture = flemish
+		religion = catholic
+		size= 400
+	}
+
+	clergymen=
+	{
+		culture = flemish
+		religion = catholic
+		size= 37
+	}
+
+	bureaucrats=
+	{
+		culture = flemish
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = flemish
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = flemish
+		religion = catholic
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = flemish
+		religion = catholic
+		size= 21079
+	}
+
+	soldiers=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 5588
+	}
+
+	clergymen=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 519
+	}
+
+	bureaucrats=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 112
+	}
+
+	officers=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 84
+	}
+
+	aristocrats=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 335
+	}
+
+	farmers=
+	{
+		culture = lithuanian
+		religion = catholic
+		size= 12250
+	}
+
+	soldiers=
+	{
+		culture = lithuanian
+		religion = protestant
+		size= 134
+	}
+
+	artisans=
+	{
+		culture = lithuanian
+		religion = protestant
+		size= 1202
+	}
+
+	clergymen=
+	{
+		culture = lithuanian
+		religion = protestant
+		size= 112
+	}
+
+	bureaucrats=
+	{
+		culture = lithuanian
+		religion = protestant
+		size= 24
+	}
+
+	officers=
+	{
+		culture = lithuanian
+		religion = protestant
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = lithuanian
+		religion = protestant
+		size= 72
+	}
+
+	farmers=
+	{
+		culture = lithuanian
+		religion = protestant
+		size= 836
+	}
+
+}

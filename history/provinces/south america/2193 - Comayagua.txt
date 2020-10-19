@@ -1,0 +1,7 @@
+owner=HON
+controller=HON
+add_core=HON
+trade_goods = fruit
+life_rating = 30
+terrain = farmlands
+naval_base = 1

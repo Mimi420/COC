@@ -1,0 +1,8 @@
+owner=CRI
+controller=CRI
+add_core=CRI
+add_core=GRE
+trade_goods = wool
+life_rating = 35
+terrain = hills
+naval_base = 1

@@ -1,0 +1,14 @@
+owner=X31
+controller=GRE
+add_core=GRE
+add_core=X31
+trade_goods = grain
+life_rating = 35
+terrain = plains
+naval_base = 1
+state_building=
+{
+	level=1
+	building = small_arms_factory
+	upgrade = yes
+}

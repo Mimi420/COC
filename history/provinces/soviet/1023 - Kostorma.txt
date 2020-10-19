@@ -1,0 +1,8 @@
+owner=X00
+controller=X00
+add_core=GER
+add_core=OLD
+add_core=X00
+trade_goods = timber
+life_rating = 35
+terrain = forest

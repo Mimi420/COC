@@ -1,0 +1,8 @@
+owner=RAJ
+controller=X08
+add_core=KHA
+add_core=MGL
+add_core=X08
+trade_goods = sulphur
+life_rating = 32
+terrain = mountain

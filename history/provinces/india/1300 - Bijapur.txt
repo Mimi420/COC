@@ -1,0 +1,6 @@
+owner=X22
+controller=X22
+add_core=HND
+trade_goods = fruit
+life_rating = 32
+terrain = plains

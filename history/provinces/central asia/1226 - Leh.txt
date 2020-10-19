@@ -1,0 +1,7 @@
+owner=RAJ
+controller=RAJ
+add_core=GUG
+add_core=TIB
+trade_goods = wool
+life_rating = 35
+terrain = mountain

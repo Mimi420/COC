@@ -1,0 +1,10 @@
+owner=X15
+controller=X15
+add_core=CRO
+add_core=X15
+add_core=YUG
+add_core=HRE
+trade_goods = fish
+life_rating = 35
+terrain = hills
+naval_base = 2

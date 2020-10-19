@@ -1,0 +1,7 @@
+owner=X08
+controller=GUG
+add_core=TIB
+add_core=X08
+trade_goods = cotton
+life_rating = 32
+terrain = desert

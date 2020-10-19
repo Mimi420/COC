@@ -1,0 +1,51 @@
+2126 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 739
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 1055
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 171
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 79
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 222
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 24067
+	}
+
+}

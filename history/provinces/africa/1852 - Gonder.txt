@@ -1,0 +1,11 @@
+owner=X24
+controller=X24
+trade_goods = cattle
+life_rating = 30
+terrain = hills
+state_building=
+{
+	level=1
+	building = canned_food_factory
+	upgrade = yes
+}

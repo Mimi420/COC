@@ -1,0 +1,8 @@
+owner=LOR
+controller=LOR
+add_core=NET
+add_core=HRE
+trade_goods = fish
+life_rating = 35
+terrain = marsh
+naval_base = 1
