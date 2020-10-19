@@ -1,6 +1,4 @@
-owner=X36
-controller=X36
-add_core=X36
+add_core = AST
 trade_goods = fruit
-life_rating = 20
-terrain = desert
+terrain = semidesert
+life_rating = 15

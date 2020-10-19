@@ -1,0 +1,6 @@
+owner=VLD
+controller=VLD
+add_core=UGR
+trade_goods = iron
+life_rating = 35
+terrain = mountain

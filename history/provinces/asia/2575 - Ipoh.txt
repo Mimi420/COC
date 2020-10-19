@@ -1,7 +1,7 @@
-owner=SIA
-controller=SIA
-add_core=MLY
-add_core=SIA
+owner = PRK
+controller = PRK
+add_core = PRK
+add_core = JOH
+add_core = SIA
 trade_goods = timber
-life_rating = 30
-terrain = jungle
+life_rating = 35

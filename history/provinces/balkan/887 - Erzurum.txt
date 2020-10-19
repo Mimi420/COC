@@ -1,7 +1,7 @@
-owner=X31
-controller=X31
-add_core=GRE
-add_core=X31
+owner = TUR
+controller = TUR
+add_core = TUR
+add_core = ARM
+add_core = KDS
 trade_goods = cattle
 life_rating = 35
-terrain = hills

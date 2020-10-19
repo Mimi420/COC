@@ -1,6 +1,9 @@
-#Sphere of Influence
+#Relations
 
+PRU = {
+    value = 200
+}
 
-#Leaders
-
-#Armies
+SWI = {
+    value = 200
+}

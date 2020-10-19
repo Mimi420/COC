@@ -1,2134 +1,1195 @@
+#Cundinamarca Region (584000)
+#Ruled by Colombia 1836
+#Bogota (240000/60000 POPS)
 2247 = {
-	soldiers=
-	{
-		culture = chibchan
-		religion = inti
-		size= 4133
-	}
+    aristocrats = {
+        culture = north_andean
+        religion = catholic
+        size = 1250
+    }
 
-	artisans=
-	{
-		culture = chibchan
-		religion = inti
-		size= 7053
-	}
+    bureaucrats = {
+        culture = north_andean
+        religion = catholic
+        size = 225
+    }
 
-	clergymen=
-	{
-		culture = chibchan
-		religion = inti
-		size= 509
-	}
+    officers = {
+        culture = north_andean
+        religion = catholic
+        size = 175
+    }
 
-	bureaucrats=
-	{
-		culture = chibchan
-		religion = inti
-		size= 188
-	}
+    clergymen = {
+        culture = north_andean
+        religion = catholic
+        size = 525
+    }
 
-	officers=
-	{
-		culture = chibchan
-		religion = inti
-		size= 196
-	}
+    artisans = {
+        culture = north_andean
+        religion = catholic
+        size = 2600
+    }
 
-	aristocrats=
-	{
-		culture = chibchan
-		religion = inti
-		size= 987
-	}
+    soldiers = {
+        culture = north_andean
+        religion = catholic
+        size = 1100
+    }
 
-	farmers=
-	{
-		culture = chibchan
-		religion = inti
-		size= 65296
-	}
+    farmers = {
+        culture = north_andean
+        religion = catholic
+        size = 76875
+    }
 
+    clergymen = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 200
+    }
+
+    soldiers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 25
+    }
+
+    farmers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 2475
+    }
+
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 1250
+    }
+
+    clergymen = {
+        culture = native_american_minor
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = native_american_minor
+        religion = catholic
+        size = 200
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = catholic
+        size = 50
+    }
+
+    farmers = {
+        culture = native_american_minor
+        religion = catholic
+        size = 3700
+    }
 }
+#Ibaque (88000/22000 POPS)
 2248 = {
-	soldiers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 74
-	}
+    aristocrats = {
+        culture = north_andean
+        religion = catholic
+        size = 450
+    }
 
-	artisans=
-	{
-		culture = guajiro
-		religion = animist
-		size= 149
-	}
+    clergymen = {
+        culture = north_andean
+        religion = catholic
+        size = 200
+    }
 
-	clergymen=
-	{
-		culture = guajiro
-		religion = animist
-		size= 24
-	}
+    artisans = {
+        culture = north_andean
+        religion = catholic
+        size = 950
+    }
 
-	bureaucrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 11
-	}
+    soldiers = {
+        culture = north_andean
+        religion = catholic
+        size = 200
+    }
 
-	officers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 5
-	}
+    farmers = {
+        culture = north_andean
+        religion = catholic
+        size = 17200
+    }
 
-	aristocrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 31
-	}
+    clergymen = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 10
+    }
 
-	farmers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 7134
-	}
+    artisans = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 50
+    }
 
-	soldiers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 163
-	}
+    soldiers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 10
+    }
 
-	artisans=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 802
-	}
+    farmers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 680
+    }
 
-	clergymen=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 130
-	}
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 250
+    }
 
-	bureaucrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 60
-	}
+    clergymen = {
+        culture = native_american_minor
+        religion = catholic
+        size = 25
+    }
 
-	officers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 26
-	}
+    artisans = {
+        culture = native_american_minor
+        religion = catholic
+        size = 100
+    }
 
-	aristocrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 168
-	}
+    soldiers = {
+        culture = native_american_minor
+        religion = catholic
+        size = 25
+    }
 
-	farmers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 14976
-	}
-
+    farmers = {
+        culture = native_american_minor
+        religion = catholic
+        size = 1850
+    }
 }
+#Tunja (56000/14000 POPS)
 2249 = {
-	soldiers=
-	{
-		culture = chibchan
-		religion = inti
-		size= 425
-	}
+    aristocrats = {
+        culture = north_andean
+        religion = catholic
+        size = 300
+    }
 
-	artisans=
-	{
-		culture = chibchan
-		religion = inti
-		size= 1367
-	}
+    clergymen = {
+        culture = north_andean
+        religion = catholic
+        size = 100
+    }
 
-	clergymen=
-	{
-		culture = chibchan
-		religion = inti
-		size= 99
-	}
+    artisans = {
+        culture = north_andean
+        religion = catholic
+        size = 450
+    }
 
-	bureaucrats=
-	{
-		culture = chibchan
-		religion = inti
-		size= 36
-	}
+    soldiers = {
+        culture = north_andean
+        religion = catholic
+        size = 100
+    }
 
-	officers=
-	{
-		culture = chibchan
-		religion = inti
-		size= 32
-	}
+    farmers = {
+        culture = north_andean
+        religion = catholic
+        size = 8050
+    }
 
-	aristocrats=
-	{
-		culture = chibchan
-		religion = inti
-		size= 128
-	}
+    clergymen = {
+        culture = native_american_minor
+        religion = catholic
+        size = 50
+    }
 
-	farmers=
-	{
-		culture = chibchan
-		religion = inti
-		size= 13104
-	}
+    artisans = {
+        culture = native_american_minor
+        religion = catholic
+        size = 250
+    }
 
+    soldiers = {
+        culture = native_american_minor
+        religion = catholic
+        size = 50
+    }
+
+    farmers = {
+        culture = native_american_minor
+        religion = catholic
+        size = 4700
+    }
 }
+#Manizales (116000/29000 POPS)
 2250 = {
-	soldiers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 86
-	}
+    aristocrats = {
+        culture = north_andean
+        religion = catholic
+        size = 625
+    }
 
-	artisans=
-	{
-		culture = guajiro
-		religion = animist
-		size= 172
-	}
+    clergymen = {
+        culture = north_andean
+        religion = catholic
+        size = 275
+    }
 
-	clergymen=
-	{
-		culture = guajiro
-		religion = animist
-		size= 28
-	}
+    artisans = {
+        culture = north_andean
+        religion = catholic
+        size = 1450
+    }
 
-	bureaucrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 13
-	}
+    soldiers = {
+        culture = north_andean
+        religion = catholic
+        size = 1100
+    }
 
-	officers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 6
-	}
-
-	aristocrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 36
-	}
-
-	farmers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 8273
-	}
-
-	soldiers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 238
-	}
-
-	artisans=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 1125
-	}
-
-	clergymen=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 183
-	}
-
-	bureaucrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 84
-	}
-
-	officers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 37
-	}
-
-	aristocrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 236
-	}
-
-	farmers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 21927
-	}
-
+    farmers = {
+        culture = north_andean
+        religion = catholic
+        size = 26650
+    }
 }
+#Cucuta (84000/21000 POPS)
 2251 = {
-	soldiers=
-	{
-		culture = chibchan
-		religion = inti
-		size= 4133
-	}
+    aristocrats = {
+        culture = north_andean
+        religion = catholic
+        size = 350
+    }
 
-	artisans=
-	{
-		culture = chibchan
-		religion = inti
-		size= 1563
-	}
+    clergymen = {
+        culture = north_andean
+        religion = catholic
+        size = 150
+    }
 
-	clergymen=
-	{
-		culture = chibchan
-		religion = inti
-		size= 113
-	}
+    artisans = {
+        culture = north_andean
+        religion = catholic
+        size = 800
+    }
 
-	bureaucrats=
-	{
-		culture = chibchan
-		religion = inti
-		size= 59
-	}
+    soldiers = {
+        culture = north_andean
+        religion = catholic
+        size = 175
+    }
 
-	officers=
-	{
-		culture = chibchan
-		religion = inti
-		size= 43
-	}
+    farmers = {
+        culture = north_andean
+        religion = catholic
+        size = 14525
+    }
 
-	aristocrats=
-	{
-		culture = chibchan
-		religion = inti
-		size= 340
-	}
+    clergymen = {
+        culture = native_american_minor
+        religion = catholic
+        size = 50
+    }
 
-	farmers=
-	{
-		culture = chibchan
-		religion = inti
-		size= 11115
-	}
+    artisans = {
+        culture = native_american_minor
+        religion = catholic
+        size = 250
+    }
 
-	soldiers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 64
-	}
+    soldiers = {
+        culture = native_american_minor
+        religion = catholic
+        size = 50
+    }
 
-	artisans=
-	{
-		culture = guajiro
-		religion = animist
-		size= 71
-	}
-
-	aristocrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 15
-	}
-
-	farmers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 1562
-	}
-
-	soldiers=
-	{
-		culture = carribean
-		religion = animist
-		size= 1
-	}
-
-	artisans=
-	{
-		culture = carribean
-		religion = animist
-		size= 7
-	}
-
-	aristocrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 1
-	}
-
-	farmers=
-	{
-		culture = carribean
-		religion = animist
-		size= 6
-	}
-
-	soldiers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 152
-	}
-
-	artisans=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 448
-	}
-
-	clergymen=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 32
-	}
-
-	bureaucrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 17
-	}
-
-	officers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 12
-	}
-
-	aristocrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 98
-	}
-
-	farmers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 3357
-	}
-
+    farmers = {
+        culture = native_american_minor
+        religion = catholic
+        size = 4650
+    }
 }
+#Antioquia Region (452000)
+#Ruled by Colombia 1836
+#Medellin (128000/32000 POPS)
 2252 = {
-	soldiers=
-	{
-		culture = chibchan
-		religion = animist
-		size= 47
-	}
+    aristocrats = {
+        culture = north_andean
+        religion = catholic
+        size = 650
+    }
 
-	artisans=
-	{
-		culture = chibchan
-		religion = animist
-		size= 96
-	}
+    bureaucrats = {
+        culture = north_andean
+        religion = catholic
+        size = 150
+    }
 
-	clergymen=
-	{
-		culture = chibchan
-		religion = animist
-		size= 7
-	}
+    officers = {
+        culture = north_andean
+        religion = catholic
+        size = 125
+    }
 
-	bureaucrats=
-	{
-		culture = chibchan
-		religion = animist
-		size= 4
-	}
+    clergymen = {
+        culture = north_andean
+        religion = catholic
+        size = 200
+    }
 
-	aristocrats=
-	{
-		culture = chibchan
-		religion = animist
-		size= 18
-	}
+    artisans = {
+        culture = north_andean
+        religion = catholic
+        size = 1100
+    }
 
-	farmers=
-	{
-		culture = chibchan
-		religion = animist
-		size= 1500
-	}
+    soldiers = {
+        culture = north_andean
+        religion = catholic
+        size = 1100
+    }
 
-	soldiers=
-	{
-		culture = chibchan
-		religion = inti
-		size= 266
-	}
+    farmers = {
+        culture = north_andean
+        religion = catholic
+        size = 56875
+    }
 
-	artisans=
-	{
-		culture = chibchan
-		religion = inti
-		size= 927
-	}
+    clergymen = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 50
+    }
 
-	clergymen=
-	{
-		culture = chibchan
-		religion = inti
-		size= 67
-	}
+    artisans = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 400
+    }
 
-	bureaucrats=
-	{
-		culture = chibchan
-		religion = inti
-		size= 31
-	}
+    soldiers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 75
+    }
 
-	officers=
-	{
-		culture = chibchan
-		religion = inti
-		size= 22
-	}
+    farmers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 5475
+    }
 
-	aristocrats=
-	{
-		culture = chibchan
-		religion = inti
-		size= 173
-	}
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 8000
+    }
 
-	farmers=
-	{
-		culture = chibchan
-		religion = inti
-		size= 8005
-	}
+    clergymen = {
+        culture = native_american_minor
+        religion = catholic
+        size = 25
+    }
 
-	soldiers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 155
-	}
+    artisans = {
+        culture = native_american_minor
+        religion = catholic
+        size = 150
+    }
 
-	artisans=
-	{
-		culture = guajiro
-		religion = animist
-		size= 228
-	}
+    soldiers = {
+        culture = native_american_minor
+        religion = catholic
+        size = 25
+    }
 
-	clergymen=
-	{
-		culture = guajiro
-		religion = animist
-		size= 17
-	}
-
-	bureaucrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 8
-	}
-
-	officers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 6
-	}
-
-	aristocrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 42
-	}
-
-	farmers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 5075
-	}
-
-	soldiers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 551
-	}
-
-	artisans=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 2021
-	}
-
-	clergymen=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 146
-	}
-
-	bureaucrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 67
-	}
-
-	officers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 47
-	}
-
-	aristocrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 377
-	}
-
-	farmers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 16457
-	}
-
+    farmers = {
+        culture = native_american_minor
+        religion = catholic
+        size = 2800
+    }
 }
+#Quibdo (48000/12000 POPS)
 2253 = {
-	soldiers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 96
-	}
+    aristocrats = {
+        culture = north_andean
+        religion = catholic
+        size = 250
+    }
 
-	artisans=
-	{
-		culture = guajiro
-		religion = animist
-		size= 68
-	}
+    clergymen = {
+        culture = north_andean
+        religion = catholic
+        size = 50
+    }
 
-	clergymen=
-	{
-		culture = guajiro
-		religion = animist
-		size= 11
-	}
+    artisans = {
+        culture = north_andean
+        religion = catholic
+        size = 250
+    }
 
-	bureaucrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 5
-	}
+    soldiers = {
+        culture = north_andean
+        religion = catholic
+        size = 50
+    }
 
-	officers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 3
-	}
+    farmers = {
+        culture = north_andean
+        religion = catholic
+        size = 4400
+    }
 
-	aristocrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 14
-	}
+    clergymen = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 75
+    }
 
-	farmers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 3215
-	}
+    artisans = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 350
+    }
 
-	soldiers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 264
-	}
+    soldiers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 75
+    }
 
-	artisans=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 445
-	}
+    farmers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 1500
+    }
 
-	clergymen=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 72
-	}
-
-	bureaucrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 34
-	}
-
-	officers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 23
-	}
-
-	aristocrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 93
-	}
-
-	farmers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 8497
-	}
-
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 5000
+    }
 }
+#Cartagena de Indias (144000/36000 POPS)
 2254 = {
-	soldiers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 231
-	}
+    aristocrats = {
+        culture = north_andean
+        religion = catholic
+        size = 700
+    }
 
-	artisans=
-	{
-		culture = guajiro
-		religion = animist
-		size= 371
-	}
+    clergymen = {
+        culture = north_andean
+        religion = catholic
+        size = 125
+    }
 
-	clergymen=
-	{
-		culture = guajiro
-		religion = animist
-		size= 27
-	}
+    artisans = {
+        culture = north_andean
+        religion = catholic
+        size = 650
+    }
 
-	bureaucrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 12
-	}
+    soldiers = {
+        culture = north_andean
+        religion = catholic
+        size = 1100
+    }
 
-	officers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 9
-	}
+    farmers = {
+        culture = north_andean
+        religion = catholic
+        size = 10575
+    }
 
-	aristocrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 104
-	}
+    clergymen = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 75
+    }
 
-	farmers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 7488
-	}
+    artisans = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 1050
+    }
 
-	soldiers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 1033
-	}
+    soldiers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 200
+    }
 
-	artisans=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 3193
-	}
+    farmers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 15675
+    }
 
-	clergymen=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 230
-	}
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 4000
+    }
 
-	bureaucrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 107
-	}
+    clergymen = {
+        culture = amazonian #guajiro
+        religion = catholic
+        size = 25
+    }
 
-	officers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 75
-	}
+    artisans = {
+        culture = amazonian #guajiro
+        religion = catholic
+        size = 100
+    }
 
-	aristocrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 894
-	}
+    soldiers = {
+        culture = amazonian #guajiro
+        religion = catholic
+        size = 25
+    }
 
-	farmers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 25830
-	}
-
+    farmers = {
+        culture = amazonian #guajiro
+        religion = catholic
+        size = 1850
+    }
 }
+#Barranquilla (132000/33000 POPS)
 2255 = {
-	slaves=
-	{
-		culture = chibchan
-		religion = animist
-		size= 6
-	}
+    aristocrats = {
+        culture = north_andean
+        religion = catholic
+        size = 650
+    }
 
-	soldiers=
-	{
-		culture = chibchan
-		religion = animist
-		size= 31
-	}
+    clergymen = {
+        culture = north_andean
+        religion = catholic
+        size = 125
+    }
 
-	artisans=
-	{
-		culture = chibchan
-		religion = animist
-		size= 54
-	}
+    artisans = {
+        culture = north_andean
+        religion = catholic
+        size = 650
+    }
 
-	clergymen=
-	{
-		culture = chibchan
-		religion = animist
-		size= 4
-	}
+    soldiers = {
+        culture = north_andean
+        religion = catholic
+        size = 1100
+    }
 
-	aristocrats=
-	{
-		culture = chibchan
-		religion = animist
-		size= 5
-	}
+    farmers = {
+        culture = north_andean
+        religion = catholic
+        size = 35725
+    }
 
-	farmers=
-	{
-		culture = chibchan
-		religion = animist
-		size= 997
-	}
+    clergymen = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 100
+    }
 
-	slaves=
-	{
-		culture = afro_carpathian
-		religion = catholic
-		size= 176
-	}
+    artisans = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 900
+    }
 
-	soldiers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 7233
-	}
+    soldiers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 200
+    }
 
-	artisans=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 2941
-	}
+    farmers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 14800
+    }
 
-	clergymen=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 212
-	}
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 3000
+    }
 
-	bureaucrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 99
-	}
+    clergymen = {
+        culture = amazonian #guajiro
+        religion = catholic
+        size = 10
+    }
 
-	officers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 69
-	}
+    artisans = {
+        culture = amazonian #guajiro
+        religion = catholic
+        size = 50
+    }
 
-	aristocrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 275
-	}
+    soldiers = {
+        culture = amazonian #guajiro
+        religion = catholic
+        size = 10
+    }
 
-	farmers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 16850
-	}
-
-	slaves=
-	{
-		culture = guajiro
-		religion = animist
-		size= 53
-	}
-
-	soldiers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 240
-	}
-
-	artisans=
-	{
-		culture = guajiro
-		religion = animist
-		size= 380
-	}
-
-	clergymen=
-	{
-		culture = guajiro
-		religion = animist
-		size= 27
-	}
-
-	bureaucrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 12
-	}
-
-	officers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 8
-	}
-
-	aristocrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 35
-	}
-
-	farmers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 7795
-	}
-
+    farmers = {
+        culture = amazonian #guajiro
+        religion = catholic
+        size = 930
+    }
 }
+#Ruled by Colombia 1836
+#Cauca Region (300000)
+#Cali (92000/23000 POPS)
 2256 = {
-	soldiers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 202
-	}
+    aristocrats = {
+        culture = north_andean
+        religion = catholic
+        size = 475
+    }
 
-	artisans=
-	{
-		culture = guajiro
-		religion = animist
-		size= 324
-	}
+    bureaucrats = {
+        culture = north_andean
+        religion = catholic
+        size = 100
+    }
 
-	clergymen=
-	{
-		culture = guajiro
-		religion = animist
-		size= 23
-	}
+    officers = {
+        culture = north_andean
+        religion = catholic
+        size = 100
+    }
 
-	bureaucrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 11
-	}
+    clergymen = {
+        culture = north_andean
+        religion = catholic
+        size = 175
+    }
 
-	officers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 8
-	}
+    artisans = {
+        culture = north_andean
+        religion = catholic
+        size = 850
+    }
 
-	aristocrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 61
-	}
+    soldiers = {
+        culture = north_andean
+        religion = catholic
+        size = 1100
+    }
 
-	farmers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 6581
-	}
+    farmers = {
+        culture = north_andean
+        religion = catholic
+        size = 14300
+    }
 
-	soldiers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 553
-	}
+    clergymen = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 50
+    }
 
-	artisans=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 2101
-	}
+    artisans = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 150
+    }
 
-	clergymen=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 152
-	}
+    soldiers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 50
+    }
 
-	bureaucrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 70
-	}
+    farmers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 2000
+    }
 
-	officers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 49
-	}
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 750
+    }
 
-	aristocrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 392
-	}
+    clergymen = {
+        culture = native_american_minor
+        religion = animist
+        size = 50
+    }
 
-	farmers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 16423
-	}
+    artisans = {
+        culture = native_american_minor
+        religion = animist
+        size = 150
+    }
 
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 25
+    }
+
+    farmers = {
+        culture = native_american_minor
+        religion = animist
+        size = 2775
+    }
 }
+#Popayan (68000/17000 POPS)
 2257 = {
-	soldiers=
-	{
-		culture = chibchan
-		religion = inti
-		size= 64
-	}
+    aristocrats = {
+        culture = north_andean
+        religion = catholic
+        size = 350
+    }
 
-	artisans=
-	{
-		culture = chibchan
-		religion = inti
-		size= 129
-	}
+    clergymen = {
+        culture = north_andean
+        religion = catholic
+        size = 100
+    }
 
-	clergymen=
-	{
-		culture = chibchan
-		religion = inti
-		size= 21
-	}
+    artisans = {
+        culture = north_andean
+        religion = catholic
+        size = 550
+    }
 
-	bureaucrats=
-	{
-		culture = chibchan
-		religion = inti
-		size= 10
-	}
+    soldiers = {
+        culture = north_andean
+        religion = catholic
+        size = 125
+    }
 
-	officers=
-	{
-		culture = chibchan
-		religion = inti
-		size= 4
-	}
+    farmers = {
+        culture = north_andean
+        religion = catholic
+        size = 9875
+    }
 
-	aristocrats=
-	{
-		culture = chibchan
-		religion = inti
-		size= 54
-	}
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 75
+    }
 
-	farmers=
-	{
-		culture = chibchan
-		religion = inti
-		size= 6157
-	}
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 300
+    }
 
-	soldiers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 116
-	}
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 75
+    }
 
-	artisans=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 593
-	}
-
-	clergymen=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 96
-	}
-
-	bureaucrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 44
-	}
-
-	officers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 19
-	}
-
-	aristocrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 249
-	}
-
-	farmers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 10480
-	}
-
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 5550
+    }
 }
+#Buenaventura (60000/15000 POPS)
 2258 = {
-	soldiers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 96
-	}
+    aristocrats = {
+        culture = north_andean
+        religion = catholic
+        size = 325
+    }
 
-	artisans=
-	{
-		culture = guajiro
-		religion = animist
-		size= 155
-	}
+    clergymen = {
+        culture = north_andean
+        religion = catholic
+        size = 75
+    }
 
-	clergymen=
-	{
-		culture = guajiro
-		religion = animist
-		size= 11
-	}
+    artisans = {
+        culture = north_andean
+        religion = catholic
+        size = 450
+    }
 
-	bureaucrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 5
-	}
+    soldiers = {
+        culture = north_andean
+        religion = catholic
+        size = 50
+    }
 
-	officers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 4
-	}
+    farmers = {
+        culture = north_andean
+        religion = catholic
+        size = 3100
+    }
 
-	aristocrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 29
-	}
+    clergymen = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 25
+    }
 
-	farmers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 3133
-	}
+    artisans = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 100
+    }
 
-	soldiers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 263
-	}
+    soldiers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 75
+    }
 
-	artisans=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 1000
-	}
+    farmers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 1800
+    }
 
-	clergymen=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 72
-	}
-
-	bureaucrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 33
-	}
-
-	officers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 23
-	}
-
-	aristocrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 187
-	}
-
-	farmers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 7822
-	}
-
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 5000
+    }
 }
+#Pasto (80000/20000 POPS)
 2259 = {
-	soldiers=
-	{
-		culture = chibchan
-		religion = inti
-		size= 71
-	}
+    aristocrats = {
+        culture = north_andean
+        religion = catholic
+        size = 425
+    }
 
-	artisans=
-	{
-		culture = chibchan
-		religion = inti
-		size= 50
-	}
+    clergymen = {
+        culture = north_andean
+        religion = catholic
+        size = 100
+    }
 
-	clergymen=
-	{
-		culture = chibchan
-		religion = inti
-		size= 8
-	}
+    artisans = {
+        culture = north_andean
+        religion = catholic
+        size = 450
+    }
 
-	bureaucrats=
-	{
-		culture = chibchan
-		religion = inti
-		size= 4
-	}
+    soldiers = {
+        culture = north_andean
+        religion = catholic
+        size = 100
+    }
 
-	officers=
-	{
-		culture = chibchan
-		religion = inti
-		size= 3
-	}
+    farmers = {
+        culture = north_andean
+        religion = catholic
+        size = 7925
+    }
 
-	aristocrats=
-	{
-		culture = chibchan
-		religion = inti
-		size= 11
-	}
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 50
+    }
 
-	farmers=
-	{
-		culture = chibchan
-		religion = inti
-		size= 2376
-	}
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 550
+    }
 
-	soldiers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 426
-	}
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 125
+    }
 
-	artisans=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 739
-	}
-
-	clergymen=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 120
-	}
-
-	bureaucrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 56
-	}
-
-	officers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 39
-	}
-
-	aristocrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 155
-	}
-
-	farmers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 13679
-	}
-
-	soldiers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 113
-	}
-
-	artisans=
-	{
-		culture = guajiro
-		religion = animist
-		size= 80
-	}
-
-	clergymen=
-	{
-		culture = guajiro
-		religion = animist
-		size= 13
-	}
-
-	bureaucrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 6
-	}
-
-	officers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 4
-	}
-
-	aristocrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 17
-	}
-
-	farmers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 3786
-	}
-
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 10275
+    }
 }
+#Rio Negro Region (128000) #see Brazil.txt for balance of region
+#Ruled by Colombia 1836
+#San Jose del Guaviare (36000/9000 POPS)
 2260 = {
-	soldiers=
-	{
-		culture = maranon
-		religion = animist
-		size= 7
-	}
+    aristocrats = {
+        culture = north_andean
+        religion = catholic
+        size = 75
+    }
 
-	artisans=
-	{
-		culture = maranon
-		religion = animist
-		size= 14
-	}
+    clergymen = {
+        culture = north_andean
+        religion = catholic
+        size = 75
+    }
 
-	clergymen=
-	{
-		culture = maranon
-		religion = animist
-		size= 2
-	}
+    artisans = {
+        culture = north_andean
+        religion = catholic
+        size = 150
+    }
 
-	bureaucrats=
-	{
-		culture = maranon
-		religion = animist
-		size= 1
-	}
+    soldiers = {
+        culture = north_andean
+        religion = catholic
+        size = 25
+    }
 
-	aristocrats=
-	{
-		culture = maranon
-		religion = animist
-		size= 3
-	}
+    farmers = {
+        culture = north_andean
+        religion = catholic
+        size = 2675
+    }
 
-	farmers=
-	{
-		culture = maranon
-		religion = animist
-		size= 690
-	}
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 100
+    }
 
-	soldiers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 53
-	}
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
 
-	artisans=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 281
-	}
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 300
+    }
 
-	clergymen=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 45
-	}
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 75
+    }
 
-	bureaucrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 21
-	}
-
-	officers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 9
-	}
-
-	aristocrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 58
-	}
-
-	farmers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 4891
-	}
-
-	soldiers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 11
-	}
-
-	artisans=
-	{
-		culture = guajiro
-		religion = animist
-		size= 23
-	}
-
-	clergymen=
-	{
-		culture = guajiro
-		religion = animist
-		size= 4
-	}
-
-	bureaucrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 2
-	}
-
-	officers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 5
-	}
-
-	farmers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 1088
-	}
-
-	soldiers=
-	{
-		culture = carribean
-		religion = animist
-		size= 14
-	}
-
-	artisans=
-	{
-		culture = carribean
-		religion = animist
-		size= 29
-	}
-
-	clergymen=
-	{
-		culture = carribean
-		religion = animist
-		size= 5
-	}
-
-	bureaucrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 2
-	}
-
-	officers=
-	{
-		culture = carribean
-		religion = animist
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 6
-	}
-
-	farmers=
-	{
-		culture = carribean
-		religion = animist
-		size= 1392
-	}
-
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 5475
+    }
 }
+#Obando (20000/5000 POPS)
 2261 = {
-	soldiers=
-	{
-		culture = maranon
-		religion = animist
-		size= 4
-	}
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 75
+    }
 
-	artisans=
-	{
-		culture = maranon
-		religion = animist
-		size= 8
-	}
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
 
-	clergymen=
-	{
-		culture = maranon
-		religion = animist
-		size= 1
-	}
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 4875
+    }
 
-	bureaucrats=
-	{
-		culture = maranon
-		religion = animist
-		size= 1
-	}
+    clergymen = {
+        culture = north_andean
+        religion = catholic
+        size = 5
+    }
 
-	aristocrats=
-	{
-		culture = maranon
-		religion = animist
-		size= 2
-	}
+    artisans = {
+        culture = north_andean
+        religion = catholic
+        size = 5
+    }
 
-	farmers=
-	{
-		culture = maranon
-		religion = animist
-		size= 382
-	}
+    soldiers = {
+        culture = north_andean
+        religion = catholic
+        size = 5
+    }
 
-	soldiers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 30
-	}
-
-	artisans=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 155
-	}
-
-	clergymen=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 25
-	}
-
-	bureaucrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 12
-	}
-
-	officers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 5
-	}
-
-	aristocrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 33
-	}
-
-	farmers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 2716
-	}
-
-	soldiers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 6
-	}
-
-	artisans=
-	{
-		culture = guajiro
-		religion = animist
-		size= 13
-	}
-
-	clergymen=
-	{
-		culture = guajiro
-		religion = animist
-		size= 2
-	}
-
-	bureaucrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 3
-	}
-
-	farmers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 605
-	}
-
-	soldiers=
-	{
-		culture = carribean
-		religion = animist
-		size= 8
-	}
-
-	artisans=
-	{
-		culture = carribean
-		religion = animist
-		size= 16
-	}
-
-	clergymen=
-	{
-		culture = carribean
-		religion = animist
-		size= 3
-	}
-
-	bureaucrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 1
-	}
-
-	officers=
-	{
-		culture = carribean
-		religion = animist
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 3
-	}
-
-	farmers=
-	{
-		culture = carribean
-		religion = animist
-		size= 773
-	}
-
+    farmers = {
+        culture = north_andean
+        religion = catholic
+        size = 20
+    }
 }
+#Casanare (60000/15000 POPS)
 2262 = {
-	soldiers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 80
-	}
+    aristocrats = {
+        culture = north_andean
+        religion = catholic
+        size = 125
+    }
 
-	artisans=
-	{
-		culture = guajiro
-		religion = animist
-		size= 103
-	}
+    bureaucrats = {
+        culture = north_andean
+        religion = catholic
+        size = 25
+    }
 
-	clergymen=
-	{
-		culture = guajiro
-		religion = animist
-		size= 8
-	}
+    officers = {
+        culture = north_andean
+        religion = catholic
+        size = 25
+    }
 
-	bureaucrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 4
-	}
+    clergymen = {
+        culture = north_andean
+        religion = catholic
+        size = 75
+    }
 
-	officers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 2
-	}
+    artisans = {
+        culture = north_andean
+        religion = catholic
+        size = 200
+    }
 
-	aristocrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 9
-	}
+    soldiers = {
+        culture = north_andean
+        religion = catholic
+        size = 50
+    }
 
-	farmers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 1951
-	}
+    farmers = {
+        culture = north_andean
+        religion = catholic
+        size = 3500
+    }
 
-	soldiers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 61
-	}
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 125
+    }
 
-	artisans=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 186
-	}
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 75
+    }
 
-	clergymen=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 13
-	}
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 400
+    }
 
-	bureaucrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 7
-	}
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 75
+    }
 
-	officers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 5
-	}
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 7325
+    }
 
-	aristocrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 17
-	}
+    clergymen = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 25
+    }
 
-	farmers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 1372
-	}
+    artisans = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 150
+    }
 
-	soldiers=
-	{
-		culture = carribean
-		religion = animist
-		size= 225
-	}
+    soldiers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 25
+    }
 
-	artisans=
-	{
-		culture = carribean
-		religion = animist
-		size= 540
-	}
+    farmers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 1550
+    }
 
-	farmers=
-	{
-		culture = carribean
-		religion = animist
-		size= 5177
-	}
-
-	soldiers=
-	{
-		culture = guajiro
-		religion = inti
-		size= 205
-	}
-
-	artisans=
-	{
-		culture = guajiro
-		religion = inti
-		size= 559
-	}
-
-	clergymen=
-	{
-		culture = guajiro
-		religion = inti
-		size= 40
-	}
-
-	bureaucrats=
-	{
-		culture = guajiro
-		religion = inti
-		size= 21
-	}
-
-	officers=
-	{
-		culture = guajiro
-		religion = inti
-		size= 16
-	}
-
-	aristocrats=
-	{
-		culture = guajiro
-		religion = inti
-		size= 52
-	}
-
-	farmers=
-	{
-		culture = guajiro
-		religion = inti
-		size= 4655
-	}
-
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 1250
+    }
 }
+#El Encanto (12000/3000 POPS)
 2263 = {
-	soldiers=
-	{
-		culture = maranon
-		religion = animist
-		size= 4
-	}
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
 
-	artisans=
-	{
-		culture = maranon
-		religion = animist
-		size= 9
-	}
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 25
+    }
 
-	clergymen=
-	{
-		culture = maranon
-		religion = animist
-		size= 1
-	}
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 2925
+    }
 
-	bureaucrats=
-	{
-		culture = maranon
-		religion = animist
-		size= 1
-	}
+    clergymen = {
+        culture = north_andean
+        religion = catholic
+        size = 5
+    }
 
-	aristocrats=
-	{
-		culture = maranon
-		religion = animist
-		size= 4
-	}
+    artisans = {
+        culture = north_andean
+        religion = catholic
+        size = 5
+    }
 
-	farmers=
-	{
-		culture = maranon
-		religion = animist
-		size= 431
-	}
+    soldiers = {
+        culture = north_andean
+        religion = catholic
+        size = 5
+    }
 
-	soldiers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 19
-	}
-
-	artisans=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 101
-	}
-
-	clergymen=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 16
-	}
-
-	bureaucrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 8
-	}
-
-	officers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 3
-	}
-
-	aristocrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 42
-	}
-
-	farmers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 1746
-	}
-
-	soldiers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 7
-	}
-
-	artisans=
-	{
-		culture = guajiro
-		religion = animist
-		size= 14
-	}
-
-	clergymen=
-	{
-		culture = guajiro
-		religion = animist
-		size= 2
-	}
-
-	bureaucrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 6
-	}
-
-	farmers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 658
-	}
+    farmers = {
+        culture = north_andean
+        religion = catholic
+        size = 20
+    }
 
 }

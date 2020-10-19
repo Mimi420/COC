@@ -1,7 +1,10 @@
-owner=CRI
-controller=CRI
-add_core=CRI
-add_core=GRE
+owner = CIR
+controller = CIR
+add_core = CIR
+add_core = DON
 trade_goods = grain
 life_rating = 35
-terrain = steppe
+1861.1.1 = {
+    owner = RUS
+    controller = RUS
+}

@@ -1,9 +1,5 @@
-owner=X17
-controller=X17
-add_core=KHA
-add_core=MGL
-add_core=SDR
-add_core=X17
+owner = TNT
+controller = TNT
+add_core = TNT
 trade_goods = coal
 life_rating = 35
-terrain = woods

@@ -1,7 +1,7 @@
-owner=X24
-controller=X24
-add_core=X24
-trade_goods = tropical_wood
-life_rating = 30
+owner = EGY
+controller = EGY
+add_core = EGY
+add_core = SUD
+trade_goods = wool
+life_rating = 10
 terrain = desert
-colonial=2

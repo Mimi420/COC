@@ -1,7 +1,6 @@
-owner=TAB
-controller=TAB
-add_core=NOG
-trade_goods = wool
+owner = RUS
+controller = RUS
+add_core = KAZ
+trade_goods = opium
 life_rating = 35
-terrain = steppe
-colonial=2
+colonial = 2

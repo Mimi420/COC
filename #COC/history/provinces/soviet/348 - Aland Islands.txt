@@ -1,0 +1,9 @@
+owner=SCN
+controller=SCN
+add_core=SCA
+add_core=SWE
+add_core=SCN
+trade_goods = fish
+life_rating = 35
+terrain = plains
+naval_base = 1

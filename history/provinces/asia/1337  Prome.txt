@@ -1,7 +1,9 @@
-owner=BUR
-controller=X30
-add_core=BUR
-add_core=IDO
+owner = BUR
+controller = BUR
+add_core = BUR
 trade_goods = grain
-life_rating = 30
-terrain = jungle
+life_rating = 35
+1861.1.1 = {
+    owner = ENG
+    controller = ENG
+}

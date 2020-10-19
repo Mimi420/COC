@@ -1,8 +1,7 @@
-owner=X42
-controller=X42
-add_core=BRZ
-add_core=X42
-trade_goods = coffee
+owner = BRZ
+controller = BRZ
+add_core = BRZ
+add_core = PNB
+trade_goods = cotton
+terrain = farmlands
 life_rating = 35
-terrain = plains
-naval_base = 1

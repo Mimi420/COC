@@ -1,7 +1,6 @@
-owner=MAZ
-controller=MAZ
-add_core=UKR
-add_core=HRE
+owner = RUS
+controller = RUS
+add_core = RUS
+add_core = BYE
 trade_goods = grain
 life_rating = 35
-terrain = plains

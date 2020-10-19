@@ -1,6 +1,9 @@
-owner=ZIM
-controller=ZIM
-add_core=ZIM
 trade_goods = fruit
-life_rating = 35
-terrain = farmlands
+life_rating = 15
+terrain = savanna
+colonial = 1
+1861.1.1 = {
+    owner = ENG
+    controller = ENG
+    add_core = SAF
+}

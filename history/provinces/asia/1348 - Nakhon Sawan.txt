@@ -1,7 +1,5 @@
-owner=MCK
-controller=MCK
-add_core=IDO
-add_core=SIA
+owner = SIA
+controller = SIA
+add_core = SIA
 trade_goods = opium
-life_rating = 30
-terrain = jungle
+life_rating = 33

@@ -1,7 +1,19 @@
-owner=X39
-controller=X39
-add_core=X39
+owner = USA
+controller = USA
+add_core = USA
 trade_goods = fruit
-life_rating = 25
-terrain = marsh
-is_slave = yes
+life_rating = 35
+colonial = 2
+naval_base = 1
+
+party_loyalty = {
+    ideology = conservative
+    loyalty_value = 15
+}
+
+1861.1.1 = {
+    colonial = 0
+    controller = CSA
+    owner = CSA
+    add_core = CSA
+}

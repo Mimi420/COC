@@ -1,7 +1,8 @@
-owner=YEM
-controller=YEM
-add_core=HND
+owner = PER
+controller = PER
+add_core = PER
+add_core = BLC
 trade_goods = fruit
 life_rating = 35
-terrain = plains
-naval_base = 2
+naval_base = 1
+terrain = semidesert

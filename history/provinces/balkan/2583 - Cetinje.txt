@@ -1,8 +1,5 @@
-owner=X33
-controller=X33
-add_core=X33
-add_core=GRE
-add_core=HRE
+owner = MON
+controller = MON
+add_core = MON
 trade_goods = fruit
 life_rating = 35
-terrain = hills

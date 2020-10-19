@@ -1,9 +1,7 @@
-owner=MAZ
-controller=MAZ
-add_core=LIT
-add_core=PLC
-add_core=HRE
+owner = UBD
+controller = UBD
+add_core = UBD
+add_core = RUS
+add_core = LAT
 trade_goods = fish
 life_rating = 35
-terrain = woods
-naval_base = 2

@@ -1,6 +1,6 @@
-owner=RAJ
-controller=RAJ
-add_core=GRE
+owner = PER
+controller = PER
+add_core = PER
 trade_goods = coal
 life_rating = 35
-terrain = hills
+terrain = dryhills

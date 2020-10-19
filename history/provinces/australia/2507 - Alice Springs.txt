@@ -1,6 +1,4 @@
-owner=ORI
-controller=X35
-add_core=ORI
+add_core = AST
 trade_goods = cattle
-life_rating = 20
-terrain = desert
+terrain = semidesert
+life_rating = 15

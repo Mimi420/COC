@@ -1,6 +1,9 @@
-#Sphere of Influence
-
-
-#Leaders
-
-#Armies
+army = {
+    name = "Army of Kutei"
+    location = 1429
+    regiment = {
+        name= "Kutei Army"
+        type = irregular
+        home = 1429
+    }
+}

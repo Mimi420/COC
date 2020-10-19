@@ -1,6 +1,6 @@
-owner=X22
-controller=X22
-add_core=HND
+owner = MAH
+controller = MAH
+add_core = HND
+add_core = MAH
 trade_goods = fruit
 life_rating = 32
-terrain = plains

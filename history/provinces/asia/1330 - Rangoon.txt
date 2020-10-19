@@ -1,8 +1,11 @@
-owner=X23
-controller=X23
-add_core=BUR
-add_core=IDO
+owner = BUR
+controller = BUR
+add_core = KAR
+add_core = BUR
 trade_goods = grain
-life_rating = 30
-terrain = marsh
-naval_base = 2
+life_rating = 35
+1861.1.1 = {
+    owner = ENG
+    controller = ENG
+    colonial = 2
+}

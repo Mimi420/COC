@@ -1,8 +1,6 @@
-owner=BLC
-controller=BLC
-add_core=BLC
-add_core=HND
+owner = PER
+controller = PER
+add_core = PER
+add_core = BLC
 trade_goods = fish
 life_rating = 35
-terrain = mountain
-naval_base = 1

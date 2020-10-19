@@ -1,7 +1,6 @@
-owner=LOU
-controller=LOU
-add_core=LOU
-add_core=OTO
+owner = MEX
+controller = MEX
+
+add_core = MEX
 trade_goods = fish
 life_rating = 35
-terrain = plains

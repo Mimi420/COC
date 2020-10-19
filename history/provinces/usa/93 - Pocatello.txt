@@ -1,8 +1,12 @@
-owner=X41
-controller=X41
-add_core=CAL
-add_core=LSK
-add_core=X41
+owner = USA
+controller = USA
+add_core = USA
+add_core = COL
+colonial = 2
 trade_goods = cattle
 life_rating = 35
-terrain = mountain
+1861.1.1 = {
+    owner = USA
+    controller = USA
+    remove_core = COL
+}

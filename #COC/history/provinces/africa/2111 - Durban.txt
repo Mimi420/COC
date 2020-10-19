@@ -1,0 +1,6 @@
+owner=ZIM
+controller=ZIM
+trade_goods = wool
+life_rating = 35
+terrain = plains
+naval_base = 1

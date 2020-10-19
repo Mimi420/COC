@@ -1,8 +1,6 @@
-owner=LOR
-controller=LOR
-add_core=HLL
-add_core=NET
-add_core=HRE
+owner = NET
+controller = NET
+add_core = NET
 trade_goods = grain
 life_rating = 35
-terrain = farmlands
+1861.1.1 = { railroad = 3 }

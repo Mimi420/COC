@@ -1,8 +1,12 @@
-owner=X21
-controller=X22
-add_core=HND
-add_core=X21
-trade_goods = grain
+owner = ENG
+controller = ENG
+add_core = HND
+add_core = MAH
+trade_goods = tobacco
 life_rating = 32
-terrain = farmlands
+colonial = 2
+fort = 1
 naval_base = 1
+1861.1.1 = {
+    railroad = 3
+}

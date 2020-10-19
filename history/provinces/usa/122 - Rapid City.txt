@@ -1,6 +1,7 @@
-owner=LOU
-controller=LOU
-add_core=LOU
+owner = USA
+controller = USA
+add_core = USA
 trade_goods = grain
 life_rating = 35
-terrain = steppe
+colonial = 2
+1861.1.1 = { colonial = 0 }

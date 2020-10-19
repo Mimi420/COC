@@ -1,0 +1,95 @@
+2125 = {
+	soldiers=
+	{
+		culture = svart
+		religion = catholic
+		size= 262
+	}
+
+	artisans=
+	{
+		culture = svart
+		religion = catholic
+		size= 1047
+	}
+
+	clergymen=
+	{
+		culture = svart
+		religion = catholic
+		size= 170
+	}
+
+	bureaucrats=
+	{
+		culture = svart
+		religion = catholic
+		size= 52
+	}
+
+	officers=
+	{
+		culture = svart
+		religion = catholic
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = svart
+		religion = catholic
+		size= 440
+	}
+
+	farmers=
+	{
+		culture = svart
+		religion = catholic
+		size= 24181
+	}
+
+}
+2128 = {
+	soldiers=
+	{
+		culture = telegu
+		religion = hindu
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = telegu
+		religion = hindu
+		size= 9
+	}
+
+	clergymen=
+	{
+		culture = telegu
+		religion = hindu
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = telegu
+		religion = hindu
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = telegu
+		religion = hindu
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = telegu
+		religion = hindu
+		size= 198
+	}
+
+}

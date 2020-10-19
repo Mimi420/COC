@@ -1,9 +1,10 @@
-owner=SCN
-controller=SCN
-add_core=SCA
-add_core=SWE
-add_core=SCN
+owner = RUS
+controller = RUS
+add_core = RUS
+add_core = FIN
+add_core = SWE
 trade_goods = fish
 life_rating = 35
-terrain = plains
-naval_base = 1
+fort = 1
+naval_base = 2
+terrain = small_island

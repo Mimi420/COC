@@ -1,13 +1,7 @@
-owner=TAB
-controller=TAB
-add_core=GRE
-add_core=TAB
+owner = TCA
+controller = TCA
+add_core = ARM
+add_core = AZB
+add_core = TCA
 trade_goods = iron
 life_rating = 35
-terrain = mountain
-state_building=
-{
-	level=1
-	building = ammunition_factory
-	upgrade = yes
-}

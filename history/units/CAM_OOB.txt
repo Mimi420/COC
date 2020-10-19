@@ -1,6 +1,22 @@
-#Sphere of Influence
+army = {
+    name = "Royal Cambodian Army"
+    location = 1364
+    regiment = {
+        name= "1.1st Division"
+        type = irregular
+        home = 1364
+    }
 
+    regiment = {
+        name= "2.1st Division"
+        type = irregular
+        home = 1364
+    }
 
-#Leaders
+    regiment = {
+        name= "3.1st Division"
+        type = irregular
+        home = 1367
+    }
 
-#Armies
+}

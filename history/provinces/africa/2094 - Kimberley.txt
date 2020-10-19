@@ -1,6 +1,2 @@
-owner=ZIM
-controller=ZIM
-add_core=ZIM
-trade_goods = cattle
+trade_goods = grain
 life_rating = 15
-terrain = plains

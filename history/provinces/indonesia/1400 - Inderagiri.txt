@@ -1,6 +1,5 @@
-owner=X23
-controller=X23
-add_core=MLY
-trade_goods = grain
-life_rating = 30
-terrain = jungle
+owner = SAK
+controller = SAK
+add_core = SAK
+trade_goods = fruit
+life_rating = 31

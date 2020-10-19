@@ -1,6 +1,7 @@
-owner=ADU
-controller=ADU
-add_core=ADU
+owner = SPA
+controller = SPA
+add_core = SPA
 trade_goods = grain
 life_rating = 35
-terrain = hills
+
+1861.1.1 = { railroad = 3 }

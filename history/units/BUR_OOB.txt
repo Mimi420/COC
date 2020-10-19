@@ -1,559 +1,117 @@
-#Sphere of Influence
+#Relations
 
-AIN = {
-	value = 0
-	level = 2
-}
-ANS = {
-	value = 0
-	level = 2
-}
-ARG = {
-	value = 0
-	level = 2
-}
-AUS = {
-	value = 0
-	level = 2
-}
-AYR = {
-	value = 0
-	level = 2
-}
-BLC = {
-	value = 0
-	level = 2
-}
-BLZ = {
-	value = 0
-	level = 2
-}
-BOL = {
-	value = 0
-	level = 2
-}
-BRN = {
-	value = 0
-	level = 2
-}
-BRU = {
-	value = 0
-	level = 2
-}
-BRZ = {
-	value = 0
-	level = 2
-}
-BUR = {
-	value = 0
-	level = 2
-}
-BYZ = {
-	value = 0
-	level = 2
-}
-CAL = {
-	value = 0
-	level = 2
-}
-CAN = {
-	value = 0
-	level = 2
-}
-COL = {
-	value = 0
-	level = 2
-}
-CRB = {
-	value = 0
-	level = 2
-}
-CRI = {
-	value = 0
-	level = 2
-}
-CRS = {
-	value = 0
-	level = 2
-}
-CWU = {
-	value = 33
-	level = 2
-}
-DAK = {
-	value = 0
-	level = 2
-}
-ENL = {
-	value = 0
-	level = 2
-}
-FIN = {
-	value = 0
-	level = 2
-}
-FRA = {
-	value = 0
-	level = 2
-}
-GLC = {
-	value = 0
-	level = 2
-}
-GLR = {
-	value = 0
-	level = 2
-}
-GNV = {
-	value = 0
-	level = 2
-}
-GRA = {
-	value = 0
-	level = 2
-}
-GRE = {
-	value = 0
-	level = 2
-}
-GUG = {
-	value = -19
-	level = 2
-}
-HAN = {
-	value = 0
-	level = 2
-}
-HLL = {
-	value = 0
-	level = 2
-}
-HON = {
-	value = 0
-	level = 2
-}
-IMG = {
-	value = 0
-	level = 2
-}
-IRE = {
-	value = 0
-	level = 2
-}
-JAP = {
-	value = 0
-	level = 2
-}
-KBO = {
-	value = 0
-	level = 2
-}
-KOL = {
-	value = 0
-	level = 2
-}
-KON = {
-	value = 0
-	level = 2
-}
-KRW = {
-	value = 0
-	level = 2
-}
-KZB = {
-	value = 0
-	level = 2
-}
-LNG = {
-	value = 0
-	level = 2
-}
-LOM = {
-	value = 0
-	level = 2
-}
-LOR = {
-	value = 0
-	level = 2
-}
-LOU = {
-	value = 0
-	level = 2
-}
-LXA = {
-	value = 0
-	level = 2
-}
-MAZ = {
-	value = 0
-	level = 2
-}
-MCK = {
-	value = 0
-	level = 2
-}
-MDR = {
-	value = -32
-	level = 2
-}
-MEI = {
-	value = 0
-	level = 2
-}
-MEX = {
-	value = 0
-	level = 2
-}
-MFY = {
-	value = 0
-	level = 2
-}
-MGL = {
-	value = 0
-	level = 2
-}
-ML1 = {
-	value = 0
-	level = 2
-}
-MLI = {
-	value = 0
-	level = 2
-}
-MNI = {
-	value = 0
-	level = 2
-}
-MOR = {
-	value = 0
-	level = 2
-}
-MTL = {
-	value = 0
-	level = 2
-}
-MUN = {
-	value = 0
-	level = 2
-}
-NDO = {
-	value = 0
-	level = 2
-}
-NEW = {
-	value = 0
-	level = 2
-}
-NOG = {
-	value = 0
-	level = 2
-}
-NOR = {
-	value = 0
-	level = 2
-}
-NSS = {
-	value = 0
-	level = 2
-}
-ORI = {
-	value = 0
-	level = 2
-}
-PAP = {
-	value = 0
-	level = 2
-}
-PEU = {
-	value = 0
-	level = 2
-}
-PIS = {
-	value = 0
-	level = 2
-}
-POM = {
-	value = 0
-	level = 2
-}
-PRO = {
-	value = 0
-	level = 2
-}
-QIN = {
-	value = -9
-	level = 2
-}
-RAJ = {
-	value = 0
-	level = 2
-}
-RGS = {
-	value = 0
-	level = 2
-}
-SAX = {
-	value = 0
-	level = 2
-}
-SCY = {
-	value = 0
-	level = 2
-}
 SIA = {
-	value = 100
-	influence_value = 12
-	level = 3
-}
-SLZ = {
-	value = 0
-	level = 2
-}
-SNA = {
-	value = 0
-	level = 2
-}
-SUL = {
-	value = 0
-	level = 2
-}
-SVY = {
-	value = 0
-	level = 2
-}
-SWE = {
-	value = 0
-	level = 2
-}
-TAB = {
-	value = 0
-	level = 2
-}
-TDO = {
-	value = 0
-	level = 2
-}
-TEO = {
-	value = 0
-	level = 2
-}
-TOT = {
-	value = 0
-	level = 2
-}
-TRS = {
-	value = 0
-	level = 2
-}
-TTL = {
-	value = 0
-	level = 2
-}
-TUN = {
-	value = 0
-	level = 2
-}
-UIL = {
-	value = 0
-	level = 2
-}
-VNZ = {
-	value = 0
-	level = 2
-}
-WAL = {
-	value = 0
-	level = 2
-}
-VPS = {
-	value = 0
-	level = 2
-}
-X01 = {
-	value = 0
-	level = 2
-}
-LEO = {
-	value = 0
-	level = 2
-}
-LAZ = {
-	value = 0
-	level = 2
-}
-X04 = {
-	value = 0
-	level = 2
-}
-SWB = {
-	value = 0
-	level = 2
-}
-TEM = {
-	value = 0
-	level = 2
-}
-SCN = {
-	value = 0
-	level = 2
-}
-SDR = {
-	value = 0
-	level = 2
-}
-MRV = {
-	value = 0
-	level = 2
-}
-X10 = {
-	value = 0
-	level = 2
-}
-VLD = {
-	value = 0
-	level = 2
-}
-X12 = {
-	value = 0
-	level = 2
-}
-BRH = {
-	value = 0
-	level = 2
-}
-X14 = {
-	value = 0
-	level = 2
-}
-X15 = {
-	value = 0
-	level = 2
-}
-X17 = {
-	value = 0
-	level = 2
-}
-X18 = {
-	value = 0
-	level = 2
-}
-X21 = {
-	value = 0
-	level = 2
-}
-X22 = {
-	value = 0
-	level = 2
-}
-X23 = {
-	value = -68
-	level = 2
-}
-X24 = {
-	value = 0
-	level = 2
-}
-X25 = {
-	value = 0
-	level = 2
-}
-X26 = {
-	value = 0
-	level = 2
-}
-X28 = {
-	value = 0
-	level = 2
-}
-X30 = {
-	value = -24
-	level = 2
-}
-X31 = {
-	value = 0
-	level = 2
-}
-X32 = {
-	value = 0
-	level = 2
-}
-X33 = {
-	value = 0
-	level = 2
-}
-X34 = {
-	value = 0
-	level = 2
-}
-X35 = {
-	value = 0
-	level = 2
-}
-X36 = {
-	value = 0
-	level = 2
-}
-X37 = {
-	value = 0
-	level = 2
-}
-X38 = {
-	value = 0
-	level = 2
-}
-X39 = {
-	value = 0
-	level = 2
-}
-X40 = {
-	value = 0
-	level = 2
-}
-X41 = {
-	value = 0
-	level = 2
-}
-X42 = {
-	value = 0
-	level = 2
-}
-X43 = {
-	value = 0
-	level = 2
-}
-X44 = {
-	value = 0
-	level = 2
-}
-YEM = {
-	value = 0
-	level = 2
-}
-YOK = {
-	value = 0
-	level = 2
-}
-ZIM = {
-	value = 0
-	level = 2
+    value = -200        #relation
 }
 
-#Leaders
-leader = {
-	name="Handabayin Aung-San"
-	date="1813.11.7"
-	type=land
-	personality="coolminded"
-	background="uncommonly_young"
+ENG = {
+    value = -5        #relation
 }
 
 leader = {
-	name="Handabayin Khun-Sa"
-	date="1820.6.22"
-	type=land
-	personality="stalwart"
-	background="natural_born_leader"
+    name = "Tharrawaddy Min"
+    type = land
+    date = 1836.1.1
+    personality = balanced_p
+    background = armchair_general
 }
 
+army = {
+    name = "Army of Burma"
+    location = 1334
+    regiment = {
+        name= "1. Brigade"
+        type = irregular
+        home = 1330
+    }
 
-#Armies
+    regiment = {
+        name= "2. Brigade"
+        type = irregular
+        home = 1330
+    }
+
+    regiment = {
+        name= "3. Brigade"
+        type = irregular
+        home = 1332
+    }
+
+    regiment = {
+        name= "4. Brigade"
+        type = irregular
+        home = 1332
+    }
+
+    regiment = {
+        name= "5. Brigade"
+        type = irregular
+        home = 1333
+    }
+
+    regiment = {
+        name= "6. Brigade"
+        type = irregular
+        home = 1333
+    }
+
+    regiment = {
+        name= "7. Brigade"
+        type = irregular
+        home = 1335
+    }
+
+    regiment = {
+        name= "8. Brigade"
+        type = irregular
+        home = 1335
+    }
+
+    regiment = {
+        name= "9. Brigade"
+        type = irregular
+        home = 1337
+    }
+
+}
+
+army = {
+    name = "Army of South Burma"
+    location = 1333
+    regiment = {
+        name= "10. Brigade"
+        type = irregular
+        home = 1334
+    }
+
+    regiment = {
+        name= "11. Brigade"
+        type = irregular
+        home = 1334
+    }
+
+    regiment = {
+        name= "12. Brigade"
+        type = irregular
+        home = 1339
+    }
+
+    regiment = {
+        name= "13. Brigade"
+        type = irregular
+        home = 1336
+    }
+
+    regiment = {
+        name= "15. Brigade"
+        type = irregular
+        home = 1342
+    }
+
+    regiment = {
+        name= "16. Brigade"
+        type = irregular
+        home = 1342
+    }
+
+}

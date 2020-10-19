@@ -1,6 +1,3 @@
-owner=X21
-controller=X21
+add_core = VTU
 trade_goods = fruit
 life_rating = 15
-terrain = plains
-naval_base = 1

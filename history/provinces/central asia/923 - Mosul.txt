@@ -1,8 +1,11 @@
-owner=X31
-controller=X31
-add_core=BYZ
-add_core=GRE
-add_core=X31
+owner = TUR
+controller = TUR
+add_core = TUR
+add_core = HTY
+add_core = IRQ
+add_core = KDS
+add_core = ASY
 trade_goods = sulphur
 life_rating = 35
-terrain = hills
+colonial = 2
+terrain = dryhills

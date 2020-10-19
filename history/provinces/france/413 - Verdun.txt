@@ -1,9 +1,6 @@
-owner=LOR
-controller=LOR
-add_core=LIT
-add_core=LOR
-add_core=PLC
-add_core=HRE
+owner = FRA
+controller = FRA
+add_core = FRA
 trade_goods = grain
-life_rating = 32
-terrain = farmlands
+life_rating = 31
+1861.1.1 = { railroad = 3 }

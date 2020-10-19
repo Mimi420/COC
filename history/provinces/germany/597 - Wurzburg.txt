@@ -1,8 +1,7 @@
-owner=ANS
-controller=ANS
-add_core=ANS
-add_core=GER
-add_core=HRE
+owner = BAV
+controller = BAV
+add_core = BAV
+add_core = GER
 trade_goods = fruit
 life_rating = 40
-terrain = farmlands
+1861.1.1 = { railroad = 3 }

@@ -1,8 +1,6 @@
-owner=SIA
-controller=SIA
-add_core=MLY
-add_core=SIA
+owner = NET
+controller = NET
+add_core = SAK
 trade_goods = timber
 life_rating = 30
-terrain = plains
-naval_base = 2
+colonial = 2

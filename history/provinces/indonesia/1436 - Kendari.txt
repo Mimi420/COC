@@ -1,5 +1,5 @@
-owner=BRU
-controller=BRU
+owner = SLW
+controller = SLW
+add_core = SLW
 trade_goods = dye
-life_rating = 30
-terrain = jungle
+life_rating = 31

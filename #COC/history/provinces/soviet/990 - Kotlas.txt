@@ -1,0 +1,7 @@
+owner=VPS
+controller=VPS
+add_core=HND
+add_core=OLD
+trade_goods = timber
+life_rating = 35
+terrain = forest

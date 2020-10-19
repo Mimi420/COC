@@ -1,0 +1,5 @@
+owner=TAB
+controller=TAB
+trade_goods = silk
+life_rating = 35
+terrain = steppe

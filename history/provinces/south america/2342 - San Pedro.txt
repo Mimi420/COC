@@ -1,5 +1,6 @@
-owner=ARG
-controller=ARG
-trade_goods = fruit
-life_rating = 30
-terrain = jungle
+owner = PRG
+controller = PRG
+
+add_core = PRG
+trade_goods = wool
+life_rating = 31

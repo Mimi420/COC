@@ -1,6 +1,7 @@
-owner=VNZ
-controller=VNZ
+owner = ENG
+controller = ENG
+add_core = TTB
 trade_goods = cotton
 life_rating = 35
-terrain = plains
-naval_base = 1
+colonial = 2
+terrain = new_world_plains

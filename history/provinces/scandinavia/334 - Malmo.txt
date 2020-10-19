@@ -1,9 +1,6 @@
-owner=SCN
-controller=SCN
-add_core=DEN
-add_core=SCA
-add_core=SCN
+owner = SWE
+controller = SWE
+add_core = SWE
 trade_goods = grain
 life_rating = 35
-terrain = farmlands
-naval_base = 2
+1861.1.1 = { railroad = 3 }

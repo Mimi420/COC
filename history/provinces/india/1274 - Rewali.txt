@@ -1,6 +1,7 @@
-owner=RAJ
-controller=RAJ
-add_core=HND
-trade_goods = tea
+owner = BUN
+controller = BUN
+add_core = BUN
+add_core = MUG
+add_core = HND
+trade_goods = cattle
 life_rating = 32
-terrain = hills

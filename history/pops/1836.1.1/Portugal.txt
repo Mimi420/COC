@@ -1,1598 +1,446 @@
+#Duoro e Minho Region (1660000)
+#Oporto (768000/192000 POPS)
 518 = {
-	soldiers=
-	{
-		culture = spanish
-		religion = catholic
-		size= 6074
-	}
+    aristocrats = {
+        culture = portuguese
+        religion = catholic
+        size = 1500
+    }
 
-	artisans=
-	{
-		culture = spanish
-		religion = catholic
-		size= 610
-	}
+    officers = {
+        culture = portuguese
+        religion = catholic
+        size = 500
+    }
 
-	clergymen=
-	{
-		culture = spanish
-		religion = catholic
-		size= 51
-	}
+    bureaucrats = {
+        culture = portuguese
+        religion = catholic
+        size = 800
+    }
 
-	bureaucrats=
-	{
-		culture = spanish
-		religion = catholic
-		size= 16
-	}
+    clergymen = {
+        culture = portuguese
+        religion = catholic
+        size = 1100
+    }
 
-	officers=
-	{
-		culture = spanish
-		religion = catholic
-		size= 14
-	}
+    artisans = {
+        culture = portuguese
+        religion = catholic
+        size = 10000
+    }
 
-	aristocrats=
-	{
-		culture = spanish
-		religion = catholic
-		size= 171
-	}
+    soldiers = {
+        culture = portuguese
+        religion = catholic
+        size = 2500
+    }
 
-	farmers=
-	{
-		culture = spanish
-		religion = catholic
-		size= 101531
-	}
-
-	soldiers=
-	{
-		culture = spanish
-		religion = catholic
-		size= 5619
-	}
-
-	artisans=
-	{
-		culture = spanish
-		religion = catholic
-		size= 8785
-	}
-
-	clergymen=
-	{
-		culture = spanish
-		religion = catholic
-		size= 732
-	}
-
-	bureaucrats=
-	{
-		culture = spanish
-		religion = catholic
-		size= 235
-	}
-
-	officers=
-	{
-		culture = spanish
-		religion = catholic
-		size= 205
-	}
-
-	aristocrats=
-	{
-		culture = spanish
-		religion = catholic
-		size= 2460
-	}
-
-	farmers=
-	{
-		culture = spanish
-		religion = catholic
-		size= 82298
-	}
-
-	soldiers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 1161
-	}
-
-	artisans=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 11262
-	}
-
-	clergymen=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 939
-	}
-
-	bureaucrats=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 300
-	}
-
-	officers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 263
-	}
-
-	aristocrats=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 3153
-	}
-
-	farmers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 3659
-	}
-
+    farmers = {
+        culture = portuguese
+        religion = catholic
+        size = 150200
+    }
 }
+#Vila Real (324000/81000) POPS
 519 = {
-	soldiers=
-	{
-		culture = spanish
-		religion = catholic
-		size= 3528
-	}
+    aristocrats = {
+        culture = portuguese
+        religion = catholic
+        size = 1850
+    }
 
-	artisans=
-	{
-		culture = spanish
-		religion = catholic
-		size= 2145
-	}
+    clergymen = {
+        culture = portuguese
+        religion = catholic
+        size = 625
+    }
 
-	clergymen=
-	{
-		culture = spanish
-		religion = catholic
-		size= 179
-	}
+    artisans = {
+        culture = portuguese
+        religion = catholic
+        size = 3250
+    }
 
-	bureaucrats=
-	{
-		culture = spanish
-		religion = catholic
-		size= 57
-	}
+    soldiers = {
+        culture = portuguese
+        religion = catholic
+        size = 1100
+    }
 
-	officers=
-	{
-		culture = spanish
-		religion = catholic
-		size= 60
-	}
-
-	aristocrats=
-	{
-		culture = spanish
-		religion = catholic
-		size= 400
-	}
-
-	farmers=
-	{
-		culture = spanish
-		religion = catholic
-		size= 41306
-	}
-
-	soldiers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 3907
-	}
-
-	artisans=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 6897
-	}
-
-	clergymen=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 575
-	}
-
-	bureaucrats=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 184
-	}
-
-	officers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 192
-	}
-
-	aristocrats=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 1287
-	}
-
-	farmers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 12752
-	}
-
+    farmers = {
+        culture = portuguese
+        religion = catholic
+        size = 69275
+    }
 }
+#Covilha (568000/142000 POPS)
 520 = {
-	soldiers=
-	{
-		culture = spanish
-		religion = catholic
-		size= 6322
-	}
+    aristocrats = {
+        culture = portuguese
+        religion = catholic
+        size = 1250
+    }
 
-	artisans=
-	{
-		culture = spanish
-		religion = catholic
-		size= 3845
-	}
+    clergymen = {
+        culture = portuguese
+        religion = catholic
+        size = 1500
+    }
 
-	clergymen=
-	{
-		culture = spanish
-		religion = catholic
-		size= 320
-	}
+    artisans = {
+        culture = portuguese
+        religion = catholic
+        size = 7250
+    }
 
-	bureaucrats=
-	{
-		culture = spanish
-		religion = catholic
-		size= 103
-	}
+    soldiers = {
+        culture = portuguese
+        religion = catholic
+        size = 1500
+    }
 
-	officers=
-	{
-		culture = spanish
-		religion = catholic
-		size= 107
-	}
-
-	aristocrats=
-	{
-		culture = spanish
-		religion = catholic
-		size= 718
-	}
-
-	farmers=
-	{
-		culture = spanish
-		religion = catholic
-		size= 74024
-	}
-
-	soldiers=
-	{
-		culture = spanish
-		religion = catholic
-		size= 6938
-	}
-
-	artisans=
-	{
-		culture = spanish
-		religion = catholic
-		size= 12283
-	}
-
-	clergymen=
-	{
-		culture = spanish
-		religion = catholic
-		size= 1024
-	}
-
-	bureaucrats=
-	{
-		culture = spanish
-		religion = catholic
-		size= 328
-	}
-
-	officers=
-	{
-		culture = spanish
-		religion = catholic
-		size= 341
-	}
-
-	aristocrats=
-	{
-		culture = spanish
-		religion = catholic
-		size= 2293
-	}
-
-	farmers=
-	{
-		culture = spanish
-		religion = catholic
-		size= 50555
-	}
-	farmers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 20024
-	}
+    farmers = {
+        culture = portuguese
+        religion = catholic
+        size = 86500
+    }
 
 }
+#Beira-Estremadura Region (1060000)
+#Lisbon (348000/87000 POPS)
 521 = {
-	soldiers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 3751
-	}
+    aristocrats = {
+        culture = portuguese
+        religion = catholic
+        size = 1100
+    }
 
-	artisans=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 879
-	}
+    officers = {
+        culture = portuguese
+        religion = catholic
+        size = 350
+    }
 
-	clergymen=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 73
-	}
+    bureaucrats = {
+        culture = portuguese
+        religion = catholic
+        size = 650
+    }
 
-	bureaucrats=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 23
-	}
+    clergymen = {
+        culture = portuguese
+        religion = catholic
+        size = 1100
+    }
 
-	officers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 24
-	}
+    artisans = {
+        culture = portuguese
+        religion = catholic
+        size = 8500
+    }
 
-	aristocrats=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 123
-	}
+    soldiers = {
+        culture = portuguese
+        religion = catholic
+        size = 3000
+    }
 
-	farmers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 45821
-	}
-
-	soldiers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 3094
-	}
-
-	artisans=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 3284
-	}
-
-	clergymen=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 274
-	}
-
-	bureaucrats=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 87
-	}
-
-	officers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 92
-	}
-
-	aristocrats=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 460
-	}
-
-	farmers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 34526
-	}
-
-	soldiers=
-	{
-		culture = spanish
-		religion = catholic
-		size= 1065
-	}
-
-	artisans=
-	{
-		culture = spanish
-		religion = catholic
-		size= 5458
-	}
-
-	clergymen=
-	{
-		culture = spanish
-		religion = catholic
-		size= 455
-	}
-
-	bureaucrats=
-	{
-		culture = spanish
-		religion = catholic
-		size= 146
-	}
-
-	officers=
-	{
-		culture = spanish
-		religion = catholic
-		size= 152
-	}
-
-	aristocrats=
-	{
-		culture = spanish
-		religion = catholic
-		size= 764
-	}
-
-	farmers=
-	{
-		culture = spanish
-		religion = catholic
-		size= 6346
-	}
-
+    farmers = {
+        culture = portuguese
+        religion = catholic
+        size = 68500
+    }
 }
+#Coimbra (460000/115000 POPS)
 522 = {
-	soldiers=
-	{
-		culture = spanish
-		religion = catholic
-		size= 4012
-	}
+    aristocrats = {
+        culture = portuguese
+        religion = catholic
+        size = 1200
+    }
 
-	artisans=
-	{
-		culture = spanish
-		religion = catholic
-		size= 3072
-	}
+    clergymen = {
+        culture = portuguese
+        religion = catholic
+        size = 1200
+    }
 
-	clergymen=
-	{
-		culture = spanish
-		religion = catholic
-		size= 512
-	}
+    artisans = {
+        culture = portuguese
+        religion = catholic
+        size = 10000
+    }
 
-	bureaucrats=
-	{
-		culture = spanish
-		religion = catholic
-		size= 82
-	}
+    artisans = {
+        culture = portuguese
+        religion = catholic
+        size = 800
+    }
 
-	officers=
-	{
-		culture = spanish
-		religion = catholic
-		size= 72
-	}
+    soldiers = {
+        culture = portuguese
+        religion = catholic
+        size = 2000
+    }
 
-	aristocrats=
-	{
-		culture = spanish
-		religion = catholic
-		size= 430
-	}
-
-	farmers=
-	{
-		culture = spanish
-		religion = catholic
-		size= 63445
-	}
-
-	soldiers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 3924
-	}
-
-	artisans=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 9681
-	}
-
-	clergymen=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 1614
-	}
-
-	bureaucrats=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 258
-	}
-
-	officers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 226
-	}
-
-	aristocrats=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 1355
-	}
-
-	farmers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 33012
-	}
-
+    farmers = {
+        culture = portuguese
+        religion = catholic
+        size = 99800
+    }
 }
+#Abrantes (140000/35000 POPS)
 523 = {
-	soldiers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 4133
-	}
+    aristocrats = {
+        culture = portuguese
+        religion = catholic
+        size = 450
+    }
 
-	artisans=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 492
-	}
+    clergymen = {
+        culture = portuguese
+        religion = catholic
+        size = 350
+    }
 
-	clergymen=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 41
-	}
+    artisans = {
+        culture = portuguese
+        religion = catholic
+        size = 2250
+    }
 
-	bureaucrats=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 13
-	}
+    soldiers = {
+        culture = portuguese
+        religion = catholic
+        size = 400
+    }
 
-	officers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 16
-	}
-
-	aristocrats=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 46
-	}
-
-	farmers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 17144
-	}
-
-	soldiers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 1759
-	}
-
-	artisans=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 1353
-	}
-
-	clergymen=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 113
-	}
-
-	bureaucrats=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 36
-	}
-
-	officers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 44
-	}
-
-	aristocrats=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 126
-	}
-
-	farmers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 15691
-	}
-
-	soldiers=
-	{
-		culture = spanish
-		religion = catholic
-		size= 575
-	}
-
-	artisans=
-	{
-		culture = spanish
-		religion = catholic
-		size= 2408
-	}
-
-	clergymen=
-	{
-		culture = spanish
-		religion = catholic
-		size= 201
-	}
-
-	bureaucrats=
-	{
-		culture = spanish
-		religion = catholic
-		size= 64
-	}
-
-	officers=
-	{
-		culture = spanish
-		religion = catholic
-		size= 78
-	}
-
-	aristocrats=
-	{
-		culture = spanish
-		religion = catholic
-		size= 225
-	}
-
-	farmers=
-	{
-		culture = spanish
-		religion = catholic
-		size= 2698
-	}
-
+    farmers = {
+        culture = portuguese
+        religion = catholic
+        size = 41550
+    }
 }
+#Setubal (112000/28000 POPS)
 524 = {
-	soldiers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 10333
-	}
+    aristocrats = {
+        culture = portuguese
+        religion = catholic
+        size = 400
+    }
 
-	artisans=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 360
-	}
+    clergymen = {
+        culture = portuguese
+        religion = catholic
+        size = 300
+    }
 
-	clergymen=
-	{
-		culture = spanish
-		religion = catholic
-		size= 30
-	}
+    artisans = {
+        culture = portuguese
+        religion = catholic
+        size = 3000
+    }
 
-	bureaucrats=
-	{
-		culture = spanish
-		religion = catholic
-		size= 10
-	}
+    soldiers = {
+        culture = portuguese
+        religion = catholic
+        size = 1500
+    }
 
-	officers=
-	{
-		culture = spanish
-		religion = catholic
-		size= 8
-	}
-
-	aristocrats=
-	{
-		culture = spanish
-		religion = catholic
-		size= 67
-	}
-
-	farmers=
-	{
-		culture = spanish
-		religion = catholic
-		size= 5199
-	}
-
-	soldiers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 1033
-	}
-
-	artisans=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 958
-	}
-
-	clergymen=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 80
-	}
-
-	bureaucrats=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 26
-	}
-
-	officers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 22
-	}
-
-	aristocrats=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 179
-	}
-
-	farmers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 10983
-	}
-
-	soldiers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 288
-	}
-
-	artisans=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 1781
-	}
-
-	clergymen=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 148
-	}
-
-	bureaucrats=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 47
-	}
-
-	officers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 42
-	}
-
-	aristocrats=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 332
-	}
-
-	farmers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 2507
-	}
+    farmers = {
+        culture = portuguese
+        religion = catholic
+        size = 42800
+    }
 
 }
+#Alentejo-Algarve Region (372000)
+#Evora (156000/39000 POPS)
 525 = {
-	soldiers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 4133
-	}
+    aristocrats = {
+        culture = portuguese
+        religion = catholic
+        size = 850
+    }
 
-	artisans=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 1075
-	}
+    officers = {
+        culture = portuguese
+        religion = catholic
+        size = 100
+    }
 
-	clergymen=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 90
-	}
+    bureaucrats = {
+        culture = portuguese
+        religion = catholic
+        size = 150
+    }
 
-	bureaucrats=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 29
-	}
+    clergymen = {
+        culture = portuguese
+        religion = catholic
+        size = 425
+    }
 
-	officers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 30
-	}
+    artisans = {
+        culture = portuguese
+        religion = catholic
+        size = 2250
+    }
 
-	aristocrats=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 201
-	}
+    soldiers = {
+        culture = portuguese
+        religion = catholic
+        size = 1100
+    }
 
-	farmers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 18325
-	}
-
-	soldiers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 13433
-	}
-
-	artisans=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 3327
-	}
-
-	clergymen=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 277
-	}
-
-	bureaucrats=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 89
-	}
-
-	officers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 92
-	}
-
-	aristocrats=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 621
-	}
-
-	farmers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 7186
-	}
-
+    farmers = {
+        culture = portuguese
+        religion = catholic
+        size = 44250
+    }
 }
+#Beja (96000/24000 POPS)
 526 = {
-	soldiers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 1033
-	}
+    aristocrats = {
+        culture = portuguese
+        religion = catholic
+        size = 500
+    }
 
-	artisans=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 309
-	}
+    clergymen = {
+        culture = portuguese
+        religion = catholic
+        size = 250
+    }
 
-	clergymen=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 26
-	}
+    artisans = {
+        culture = portuguese
+        religion = catholic
+        size = 1250
+    }
 
-	bureaucrats=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 8
-	}
+    soldiers = {
+        culture = portuguese
+        religion = catholic
+        size = 250
+    }
 
-	officers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 7
-	}
-
-	aristocrats=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 58
-	}
-
-	farmers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 12279
-	}
-
-	soldiers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 637
-	}
-
-	artisans=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 821
-	}
-
-	clergymen=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 68
-	}
-
-	bureaucrats=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 22
-	}
-
-	officers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 19
-	}
-
-	aristocrats=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 153
-	}
-
-	farmers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 9664
-	}
-
-	soldiers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 247
-	}
-
-	artisans=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 1527
-	}
-
-	clergymen=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 127
-	}
-
-	bureaucrats=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 41
-	}
-
-	officers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 36
-	}
-
-	aristocrats=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 285
-	}
-
-	farmers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 2147
-	}
-
+    farmers = {
+        culture = portuguese
+        religion = catholic
+        size = 42250
+    }
 }
+#Faro (120000/30000 POPS)
 527 = {
-	soldiers=
-	{
-		culture = andalucian
-		religion = sunni
-		size= 7233
-	}
+    aristocrats = {
+        culture = portuguese
+        religion = catholic
+        size = 550
+    }
 
-	artisans=
-	{
-		culture = andalucian
-		religion = sunni
-		size= 380
-	}
+    clergymen = {
+        culture = portuguese
+        religion = catholic
+        size = 325
+    }
 
-	clergymen=
-	{
-		culture = andalucian
-		religion = sunni
-		size= 32
-	}
+    artisans = {
+        culture = portuguese
+        religion = catholic
+        size = 1750
+    }
 
-	bureaucrats=
-	{
-		culture = andalucian
-		religion = sunni
-		size= 10
-	}
+    soldiers = {
+        culture = portuguese
+        religion = catholic
+        size = 350
+    }
 
-	officers=
-	{
-		culture = andalucian
-		religion = sunni
-		size= 9
-	}
-
-	aristocrats=
-	{
-		culture = andalucian
-		religion = sunni
-		size= 35
-	}
-
-	farmers=
-	{
-		culture = andalucian
-		religion = sunni
-		size= 9170
-	}
-
-	soldiers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 842
-	}
-
-	artisans=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 1056
-	}
-
-	clergymen=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 88
-	}
-
-	bureaucrats=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 28
-	}
-
-	officers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 25
-	}
-
-	aristocrats=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 99
-	}
-
-	farmers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 12902
-	}
-
-	soldiers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 196
-	}
-
-	artisans=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 1750
-	}
-
-	clergymen=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 146
-	}
-
-	bureaucrats=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 47
-	}
-
-	officers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 41
-	}
-
-	aristocrats=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 163
-	}
-
-	farmers=
-	{
-		culture = portuguese
-		religion = catholic
-		size= 1149
-	}
+    farmers = {
+        culture = portuguese
+        religion = catholic
+        size = 41025
+    }
 
 }
+#Azores & Madeira Region (308000)
+#Azores (204000/51000 POPS)
 2134 = {
-	soldiers=
-	{
-		culture = berber
-		religion = animist
-		size= 954
-	}
+    aristocrats = {
+        culture = portuguese
+        religion = catholic
+        size = 500
+    }
 
-	artisans=
-	{
-		culture = berber
-		religion = animist
-		size= 341
-	}
+    officers = {
+        culture = portuguese
+        religion = catholic
+        size = 50
+    }
 
-	clergymen=
-	{
-		culture = berber
-		religion = animist
-		size= 64
-	}
+    bureaucrats = {
+        culture = portuguese
+        religion = catholic
+        size = 100
+    }
 
-	bureaucrats=
-	{
-		culture = berber
-		religion = animist
-		size= 17
-	}
+    clergymen = {
+        culture = portuguese
+        religion = catholic
+        size = 375
+    }
 
-	officers=
-	{
-		culture = berber
-		religion = animist
-		size= 18
-	}
+    artisans = {
+        culture = portuguese
+        religion = catholic
+        size = 3000
+    }
 
-	aristocrats=
-	{
-		culture = berber
-		religion = animist
-		size= 72
-	}
+    soldiers = {
+        culture = portuguese
+        religion = catholic
+        size = 1100
+    }
 
-	farmers=
-	{
-		culture = berber
-		religion = animist
-		size= 15575
-	}
-
-	soldiers=
-	{
-		culture = german
-		religion = protestant
-		size= 2346
-	}
-
-	artisans=
-	{
-		culture = spanish
-		religion = protestant
-		size= 2016
-	}
-
-	clergymen=
-	{
-		culture = spanish
-		religion = protestant
-		size= 378
-	}
-
-	bureaucrats=
-	{
-		culture = spanish
-		religion = protestant
-		size= 101
-	}
-
-	officers=
-	{
-		culture = spanish
-		religion = protestant
-		size= 106
-	}
-
-	aristocrats=
-	{
-		culture = spanish
-		religion = protestant
-		size= 423
-	}
-
-	farmers=
-	{
-		culture = spanish
-		religion = protestant
-		size= 36515
-	}
-
+    farmers = {
+        culture = portuguese
+        religion = catholic
+        size = 45975
+    }
 }
+#Madeira (104000/26000 POPS)
 2135 = {
-	soldiers=
-	{
-		culture = berber
-		religion = animist
-		size= 466
-	}
+    aristocrats = {
+        culture = portuguese
+        religion = catholic
+        size = 250
+    }
 
-	artisans=
-	{
-		culture = berber
-		religion = animist
-		size= 42
-	}
+    clergymen = {
+        culture = portuguese
+        religion = catholic
+        size = 175
+    }
 
-	clergymen=
-	{
-		culture = berber
-		religion = animist
-		size= 8
-	}
+    artisans = {
+        culture = portuguese
+        religion = catholic
+        size = 1500
+    }
 
-	bureaucrats=
-	{
-		culture = berber
-		religion = animist
-		size= 2
-	}
+    soldiers = {
+        culture = portuguese
+        religion = catholic
+        size = 250
+    }
 
-	officers=
-	{
-		culture = berber
-		religion = animist
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = berber
-		religion = animist
-		size= 9
-	}
-
-	farmers=
-	{
-		culture = berber
-		religion = animist
-		size= 7797
-	}
-
-	soldiers=
-	{
-		culture = spanish
-		religion = catholic
-		size= 212
-	}
-
-	artisans=
-	{
-		culture = spanish
-		religion = catholic
-		size= 79
-	}
-
-	clergymen=
-	{
-		culture = spanish
-		religion = catholic
-		size= 15
-	}
-
-	bureaucrats=
-	{
-		culture = spanish
-		religion = catholic
-		size= 3
-	}
-
-	officers=
-	{
-		culture = spanish
-		religion = catholic
-		size= 3
-	}
-
-	aristocrats=
-	{
-		culture = spanish
-		religion = catholic
-		size= 17
-	}
-
-	farmers=
-	{
-		culture = spanish
-		religion = catholic
-		size= 3451
-	}
-
-	soldiers=
-	{
-		culture = andalucian
-		religion = sunni
-		size= 310
-	}
-
-	artisans=
-	{
-		culture = andalucian
-		religion = sunni
-		size= 232
-	}
-
-	clergymen=
-	{
-		culture = andalucian
-		religion = sunni
-		size= 43
-	}
-
-	bureaucrats=
-	{
-		culture = andalucian
-		religion = sunni
-		size= 9
-	}
-
-	officers=
-	{
-		culture = andalucian
-		religion = sunni
-		size= 9
-	}
-
-	aristocrats=
-	{
-		culture = andalucian
-		religion = sunni
-		size= 49
-	}
-
-	farmers=
-	{
-		culture = andalucian
-		religion = sunni
-		size= 4876
-	}
-
-	soldiers=
-	{
-		culture = maghrebi
-		religion = sunni
-		size= 628
-	}
-
-	artisans=
-	{
-		culture = maghrebi
-		religion = sunni
-		size= 801
-	}
-
-	clergymen=
-	{
-		culture = maghrebi
-		religion = sunni
-		size= 150
-	}
-
-	bureaucrats=
-	{
-		culture = maghrebi
-		religion = sunni
-		size= 30
-	}
-
-	officers=
-	{
-		culture = maghrebi
-		religion = sunni
-		size= 32
-	}
-
-	aristocrats=
-	{
-		culture = maghrebi
-		religion = sunni
-		size= 168
-	}
-
-	farmers=
-	{
-		culture = maghrebi
-		religion = sunni
-		size= 9411
-	}
+    farmers = {
+        culture = portuguese
+        religion = catholic
+        size = 23825
+    }
 
 }

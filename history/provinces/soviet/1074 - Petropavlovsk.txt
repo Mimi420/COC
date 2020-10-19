@@ -1,5 +1,12 @@
-owner=MCK
-controller=MCK
+owner = RUS
+controller = RUS
+add_core = RUS
+add_core = KAM
 trade_goods = fish
-life_rating = 20
-terrain = mountain
+terrain = montane_tundra
+life_rating = 15
+colonial = 2
+1861.1.1 = {
+    fort = 1
+    naval_base = 1
+}

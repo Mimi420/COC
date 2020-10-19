@@ -1,8 +1,9 @@
-owner=FRA
-controller=FRA
-add_core=LEO
-add_core=SPA
-add_core=FRA
+owner = SPA
+controller = SPA
+add_core = SPA
+add_core = BSQ
 trade_goods = fruit
 life_rating = 35
-terrain = mountain
+
+
+1861.1.1 = { railroad = 3 }

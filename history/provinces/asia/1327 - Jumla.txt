@@ -1,7 +1,5 @@
-owner=GUG
-controller=GUG
-add_core=GUG
-add_core=TIB
-trade_goods = tea
+owner = NEP
+controller = NEP
+add_core = NEP
+trade_goods = wool
 life_rating = 25
-terrain = mountain

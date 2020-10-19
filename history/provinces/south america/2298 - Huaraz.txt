@@ -1,8 +1,6 @@
-owner=BOL
-controller=BOL
-add_core=BOL
-add_core=CHM
-add_core=PEU
-trade_goods = iron
+owner = PEU
+controller = PEU
+add_core = PEU
+trade_goods = wool
+terrain = dryhills
 life_rating = 35
-terrain = hills

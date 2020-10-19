@@ -1,6 +1,5 @@
-owner=VNZ
-controller=VNZ
-add_core=VNZ
-trade_goods = cattle
-life_rating = 30
-terrain = jungle
+owner = CLM
+controller = CLM
+add_core = CLM
+trade_goods = grain
+life_rating = 35

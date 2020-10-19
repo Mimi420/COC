@@ -1,102 +1,66 @@
+#Central Melanesia (54000)
+#uncolonized in 1836
+#Solomon Islands (48000/12000 POPS)
 2534 = {
-	soldiers=
-	{
-		culture = melanesian
-		religion = animist
-		size= 222
-	}
+    aristocrats = {
+        culture = melanesian
+        religion = animist
+        size = 225
+    }
 
-	artisans=
-	{
-		culture = melanesian
-		religion = animist
-		size= 444
-	}
+    clergymen = {
+        culture = melanesian
+        religion = animist
+        size = 125
+    }
 
-	clergymen=
-	{
-		culture = melanesian
-		religion = animist
-		size= 72
-	}
+    artisans = {
+        culture = melanesian
+        religion = animist
+        size = 600
+    }
 
-	bureaucrats=
-	{
-		culture = melanesian
-		religion = animist
-		size= 28
-	}
+    soldiers = {
+        culture = melanesian
+        religion = animist
+        size = 125
+    }
 
-	officers=
-	{
-		culture = melanesian
-		religion = animist
-		size= 14
-	}
-
-	aristocrats=
-	{
-		culture = melanesian
-		religion = animist
-		size= 93
-	}
-
-	farmers=
-	{
-		culture = melanesian
-		religion = animist
-		size= 10218
-	}
-
+    farmers = {
+        culture = melanesian
+        religion = animist
+        size = 10925
+    }
 }
+#Santa Cruz Islands (6000/1500 POPS)
 2536 = {
-	soldiers=
-	{
-		culture = melanesian
-		religion = animist
-		size= 28
-	}
+    aristocrats = {
+        culture = melanesian
+        religion = animist
+        size = 25
+    }
 
-	artisans=
-	{
-		culture = melanesian
-		religion = animist
-		size= 55
-	}
+    clergymen = {
+        culture = melanesian
+        religion = animist
+        size = 35
+    }
 
-	clergymen=
-	{
-		culture = melanesian
-		religion = animist
-		size= 9
-	}
+    artisans = {
+        culture = melanesian
+        religion = animist
+        size = 75
+    }
 
-	bureaucrats=
-	{
-		culture = melanesian
-		religion = animist
-		size= 3
-	}
+    soldiers = {
+        culture = melanesian
+        religion = animist
+        size = 15
+    }
 
-	officers=
-	{
-		culture = melanesian
-		religion = animist
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = melanesian
-		religion = animist
-		size= 12
-	}
-
-	farmers=
-	{
-		culture = melanesian
-		religion = animist
-		size= 1277
-	}
-
+    farmers = {
+        culture = melanesian
+        religion = animist
+        size = 1350
+    }
 }

@@ -1,9 +1,14 @@
-owner=X23
-controller=X23
-add_core=HND
-add_core=MDR
-add_core=X23
-trade_goods = grain
+owner = ENG
+controller = ENG
+add_core = HYD
+add_core = MYS
+add_core = KRN
+add_core = HND
+trade_goods = cotton
 life_rating = 32
-terrain = hills
-naval_base = 2
+colonial = 2
+fort = 1
+naval_base = 1
+1861.1.1 = {
+    naval_base = 2
+}

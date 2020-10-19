@@ -1,8 +1,7 @@
-owner=AUS
-controller=AUS
-add_core=CZH
-add_core=SLV
-add_core=HRE
-trade_goods = grain
+owner = AUS
+controller = AUS
+add_core = SLV
+add_core = HUN
+add_core = CZH
+trade_goods = iron
 life_rating = 35
-terrain = hills

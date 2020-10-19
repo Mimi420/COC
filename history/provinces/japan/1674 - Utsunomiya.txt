@@ -1,8 +1,5 @@
-owner=AIN
-controller=AIN
-add_core=AIN
-add_core=IMG
-add_core=JAP
-trade_goods = tobacco
+owner = TKG
+controller = TKG
+add_core = TKG
+trade_goods = wool
 life_rating = 35
-terrain = woods

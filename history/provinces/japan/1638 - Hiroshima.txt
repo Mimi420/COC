@@ -1,7 +1,6 @@
-owner=MCK
-controller=MCK
-add_core=JAP
-trade_goods = cotton
+owner = CHO
+controller = CHO
+add_core = CHO
+add_core = TKG
+trade_goods = wool
 life_rating = 35
-terrain = woods
-naval_base = 2

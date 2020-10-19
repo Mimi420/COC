@@ -1,7 +1,14 @@
-owner=X44
-controller=X44
-add_core=CAL
-add_core=X44
+owner = MEX
+controller = MEX
+add_core = MEX
+add_core = CAL
 trade_goods = fish
-life_rating = 40
-terrain = woods
+life_rating = 35
+colonial = 2
+1861.1.1 = {
+    owner = USA
+    controller = USA
+    add_core = USA
+    remove_core = MEX
+    colonial = 0
+}

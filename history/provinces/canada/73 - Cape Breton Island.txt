@@ -1,7 +1,6 @@
-owner=CAN
-controller=CAN
-add_core=CAN
-add_core=X38
+owner = ENG
+controller = ENG
+add_core = MRU
 trade_goods = coal
-life_rating = 35
-terrain = plains
+life_rating = 31
+colonial = 2

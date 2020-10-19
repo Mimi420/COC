@@ -1,7 +1,10 @@
-owner=IRE
-controller=IRE
-add_core=ENG
-add_core=IRE
+owner = ENG
+controller = ENG
+add_core = ENG
+add_core = IRE
 trade_goods = cattle
 life_rating = 35
-terrain = woods
+party_loyalty = {
+    ideology = liberal
+    loyalty_value = 20
+}

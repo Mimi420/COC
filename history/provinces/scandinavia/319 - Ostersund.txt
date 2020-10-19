@@ -1,8 +1,6 @@
-owner=SCN
-controller=SCN
-add_core=NOR
-add_core=SCA
-add_core=SCN
-trade_goods = timber
-life_rating = 35
-terrain = mountain
+owner = SWE
+controller = SWE
+add_core = SWE
+trade_goods = iron
+terrain = montane_tundra
+life_rating = 20

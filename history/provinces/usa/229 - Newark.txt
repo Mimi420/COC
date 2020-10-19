@@ -1,7 +1,18 @@
-owner=X39
-controller=X39
-add_core=X39
-trade_goods = fish
+owner = USA
+controller = USA
+
+add_core = USA
+trade_goods = iron
 life_rating = 35
-terrain = farmlands
-naval_base = 1
+railroad = 1
+
+party_loyalty = {
+    ideology = conservative
+    loyalty_value = 5
+}
+party_loyalty = {
+    ideology = liberal
+    loyalty_value = 15
+}
+
+1861.1.1 = { railroad = 3 }

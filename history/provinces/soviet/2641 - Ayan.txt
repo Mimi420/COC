@@ -1,5 +1,7 @@
-owner=MCK
-controller=MCK
+owner = RUS
+controller = RUS
+add_core = RUS
+add_core = KAM
 trade_goods = grain
 life_rating = 35
-terrain = hills
+colonial = 2

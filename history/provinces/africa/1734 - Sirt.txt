@@ -1,6 +1,7 @@
-owner=AYR
-controller=AYR
-add_core=AYR
+owner = TRI
+controller = TUR
+add_core = TRI
 trade_goods = wool
 life_rating = 35
-terrain = plains
+terrain = semidesert
+#terrain = coastal_desert

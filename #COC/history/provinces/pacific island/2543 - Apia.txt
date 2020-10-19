@@ -1,0 +1,6 @@
+owner=X21
+controller=X21
+trade_goods = fish
+life_rating = 15
+terrain = plains
+naval_base = 2

@@ -1,51 +1,60 @@
+#Guatemala Region (7200)
+#Ruled by Britain 1836
+#Belize (7200/1800 POPS)
 2190 = {
-	slaves=
-	{
-		culture = mayan
-		religion = mayan
-		size= 1997
-	}
 
-	soldiers=
-	{
-		culture = mayan
-		religion = mayan
-		size= 112
-	}
+    aristocrats = {
+        culture = central_american
+        religion = catholic
+        size = 40
+    }
 
-	artisans=
-	{
-		culture = mayan
-		religion = mayan
-		size= 280
-	}
+    officers = {
+        culture = central_american
+        religion = catholic
+        size = 2
+    }
 
-	clergymen=
-	{
-		culture = mayan
-		religion = mayan
-		size= 13
-	}
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 25
+    }
 
-	bureaucrats=
-	{
-		culture = mayan
-		religion = mayan
-		size= 3
-	}
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 15
+    }
 
-	officers=
-	{
-		culture = mayan
-		religion = mayan
-		size= 4
-	}
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 100
+    }
 
-	aristocrats=
-	{
-		culture = mayan
-		religion = mayan
-		size= 34
-	}
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 10
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 400
+    }
+
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 1058
+    }
+
+    farmers = {
+        culture = mayan
+        religion = catholic
+        size = 250
+    }
 
 }

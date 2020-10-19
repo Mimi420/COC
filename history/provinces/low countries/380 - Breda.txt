@@ -1,9 +1,6 @@
-owner=LOR
-controller=LOR
-add_core=BEL
-add_core=FLA
-add_core=HRE
+owner = NET
+controller = NET
+add_core = NET
 trade_goods = cattle
 life_rating = 35
-terrain = farmlands
-fort = 1
+1861.1.1 = { railroad = 1 }

@@ -1,7 +1,6 @@
-owner=X43
-controller=X43
-add_core=RGS
-add_core=X43
+owner = BRZ
+controller = BRZ
+add_core = BRZ
+add_core = BAH
 trade_goods = coffee
 life_rating = 35
-terrain = plains

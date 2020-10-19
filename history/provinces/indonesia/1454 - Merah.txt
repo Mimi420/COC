@@ -1,5 +1,3 @@
-owner=BRU
-controller=BRU
+add_core = PPG
 trade_goods = fish
-life_rating = 30
-terrain = mountain
+life_rating = 10

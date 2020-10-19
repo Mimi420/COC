@@ -1,400 +1,264 @@
+#Uruguay Region (200000)
+#Under rule of Uruguay 1836
+#Montevideo (112000/28000 POPS)
 2344 = {
-	slaves=
-	{
-		culture = guarani
-		religion = animist
-		size= 257
-	}
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 575
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
 
-	soldiers=
-	{
-		culture = guarani
-		religion = animist
-		size= 96
-	}
+    bureaucrats = {
+        culture = platinean
+        religion = catholic
+        size = 100
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
 
-	artisans=
-	{
-		culture = guarani
-		religion = animist
-		size= 96
-	}
+    officers = {
+        culture = platinean
+        religion = catholic
+        size = 50
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
 
-	clergymen=
-	{
-		culture = guarani
-		religion = animist
-		size= 16
-	}
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 250
+    }
 
-	bureaucrats=
-	{
-		culture = guarani
-		religion = animist
-		size= 5
-	}
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 980
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
 
-	officers=
-	{
-		culture = guarani
-		religion = animist
-		size= 3
-	}
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 5000
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
 
-	aristocrats=
-	{
-		culture = guarani
-		religion = animist
-		size= 20
-	}
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 18095
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
 
-	farmers=
-	{
-		culture = guarani
-		religion = animist
-		size= 4320
-	}
+    clergymen = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 50
+    }
 
-	slaves=
-	{
-		culture = afro_antillean
-		religion = catholic
-		size= 1412
-	}
+    artisans = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 250
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
 
-	soldiers=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 529
-	}
+    soldiers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 500
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
 
-	artisans=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 1154
-	}
+    farmers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 3150
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
 
-	clergymen=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 188
-	}
-
-	bureaucrats=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 58
-	}
-
-	officers=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 38
-	}
-
-	aristocrats=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 242
-	}
-
-	farmers=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 22827
-	}
-
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 3500
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
 }
+#Paysandu (36000/9000 POPS)
 2345 = {
-	soldiers=
-	{
-		culture = guarani
-		religion = animist
-		size= 31
-	}
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 25
+    }
 
-	artisans=
-	{
-		culture = guarani
-		religion = animist
-		size= 31
-	}
+    bureaucrats = {
+        culture = platinean
+        religion = catholic
+        size = 10
+    }
 
-	clergymen=
-	{
-		culture = guarani
-		religion = animist
-		size= 5
-	}
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 50
+    }
 
-	bureaucrats=
-	{
-		culture = guarani
-		religion = animist
-		size= 2
-	}
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 100
+    }
 
-	aristocrats=
-	{
-		culture = guarani
-		religion = animist
-		size= 6
-	}
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 100
+    }
 
-	farmers=
-	{
-		culture = guarani
-		religion = animist
-		size= 1493
-	}
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 1800
+    }
 
-	soldiers=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 172
-	}
+    artisans = {
+        culture = brazilian
+        religion = catholic
+        size = 100
+    }
 
-	artisans=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 375
-	}
+    soldiers = {
+        culture = brazilian
+        religion = catholic
+        size = 100
+    }
 
-	clergymen=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 61
-	}
-
-	bureaucrats=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 18
-	}
-
-	officers=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 12
-	}
-
-	aristocrats=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 78
-	}
-
-	farmers=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 7881
-	}
+    farmers = {
+        culture = brazilian
+        religion = catholic
+        size = 840
+    }
 
 }
+#Tacumba (12000/3000 POPS)
 2346 = {
-	soldiers=
-	{
-		culture = guarani
-		religion = animist
-		size= 11
-	}
 
-	artisans=
-	{
-		culture = guarani
-		religion = animist
-		size= 11
-	}
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 200
+    }
 
-	clergymen=
-	{
-		culture = guarani
-		religion = animist
-		size= 2
-	}
+    bureaucrats = {
+        culture = platinean
+        religion = catholic
+        size = 20
+    }
 
-	bureaucrats=
-	{
-		culture = guarani
-		religion = animist
-		size= 1
-	}
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 75
+    }
 
-	aristocrats=
-	{
-		culture = guarani
-		religion = animist
-		size= 2
-	}
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 450
+    }
 
-	farmers=
-	{
-		culture = guarani
-		religion = animist
-		size= 537
-	}
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 1000
+    }
 
-	soldiers=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 56
-	}
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 1500
+        militancy = 9
+        rebel_type = liberal_rebels
+    }
 
-	artisans=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 124
-	}
-
-	clergymen=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 20
-	}
-
-	bureaucrats=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 6
-	}
-
-	officers=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 4
-	}
-
-	aristocrats=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 26
-	}
-
-	farmers=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 2578
-	}
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 7275
+    }
 
 }
+#Melo (40000/10000 POPS)
 2347 = {
-	soldiers=
-	{
-		culture = guarani
-		religion = animist
-		size= 32
-	}
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 150
+    }
 
-	artisans=
-	{
-		culture = guarani
-		religion = animist
-		size= 32
-	}
+    bureaucrats = {
+        culture = platinean
+        religion = catholic
+        size = 10
+    }
 
-	clergymen=
-	{
-		culture = guarani
-		religion = animist
-		size= 5
-	}
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 50
+    }
 
-	bureaucrats=
-	{
-		culture = guarani
-		religion = animist
-		size= 2
-	}
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 350
+    }
 
-	officers=
-	{
-		culture = guarani
-		religion = animist
-		size= 1
-	}
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 400
+    }
 
-	aristocrats=
-	{
-		culture = guarani
-		religion = animist
-		size= 7
-	}
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 5450
+    }
 
-	farmers=
-	{
-		culture = guarani
-		religion = animist
-		size= 1519
-	}
+    clergymen = {
+        culture = brazilian
+        religion = catholic
+        size = 50
+    }
 
-	soldiers=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 195
-	}
+    artisans = {
+        culture = brazilian
+        religion = catholic
+        size = 150
+    }
 
-	artisans=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 423
-	}
+    soldiers = {
+        culture = brazilian
+        religion = catholic
+        size = 100
+    }
 
-	clergymen=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 69
-	}
-
-	bureaucrats=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 21
-	}
-
-	officers=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 14
-	}
-
-	aristocrats=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 89
-	}
-
-	farmers=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 8963
-	}
+    farmers = {
+        culture = brazilian
+        religion = catholic
+        size = 2775
+    }
 
 }

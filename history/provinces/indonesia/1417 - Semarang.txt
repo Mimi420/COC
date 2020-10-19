@@ -1,8 +1,6 @@
-owner=BRU
-controller=BRU
-add_core=BRU
-add_core=JAV
+owner = NET
+controller = NET
+add_core = JAV
 trade_goods = fruit
-life_rating = 30
-terrain = plains
-naval_base = 2
+life_rating = 35
+colonial = 2

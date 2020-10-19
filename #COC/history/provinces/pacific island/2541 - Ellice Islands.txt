@@ -1,0 +1,6 @@
+owner=X21
+controller=X21
+add_core=QIN
+trade_goods = fish
+life_rating = 15
+terrain = plains

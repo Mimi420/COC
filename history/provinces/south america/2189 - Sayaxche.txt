@@ -1,7 +1,11 @@
-owner=BLZ
-controller=BLZ
-add_core=BLZ
-add_core=KIC
+owner = UCA
+controller = UCA
+add_core = UCA
+add_core = GUA
 trade_goods = timber
-life_rating = 30
-terrain = plains
+life_rating = 33
+1861.1.1 = {
+    owner = GUA
+    controller = GUA
+    remove_core = UCA
+}

@@ -1,8 +1,6 @@
-owner=TEM
-controller=TEM
-add_core=GER
-add_core=TEM
-add_core=HRE
+owner = AUS
+controller = AUS
+add_core = AUS
+add_core = VEN
 trade_goods = grain
 life_rating = 35
-terrain = mountain

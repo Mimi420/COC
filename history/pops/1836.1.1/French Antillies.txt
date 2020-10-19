@@ -1,200 +1,168 @@
+#French Antilles (319200)
+#Ruled by France 1836
+#Martinique (190800/27450 POPS)
 2228 = {
-	slaves=
-	{
-		culture = carribean
-		religion = animist
-		size= 6294
-	}
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 750
+    }
 
-	soldiers=
-	{
-		culture = carribean
-		religion = animist
-		size= 387
-	}
+    bureaucrats = {
+        culture = french
+        religion = catholic
+        size = 100
+    }
 
-	artisans=
-	{
-		culture = carribean
-		religion = animist
-		size= 484
-	}
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 50
+    }
 
-	clergymen=
-	{
-		culture = carribean
-		religion = animist
-		size= 22
-	}
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 900
+    }
 
-	bureaucrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 7
-	}
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 250
+    }
 
-	officers=
-	{
-		culture = carribean
-		religion = animist
-		size= 7
-	}
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 400
+    }
 
-	aristocrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 58
-	}
+    clergymen = {
+        culture = afro_antillean
+        religion = catholic
+        size = 125
+    }
 
-	slaves=
-	{
-		culture = afro_norse
-		religion = protestant
-		size= 24136
-	}
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 1250
+    }
 
-	soldiers=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 1484
-	}
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 250
+    }
 
-	artisans=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 4194
-	}
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 3400
+    }
 
-	clergymen=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 195
-	}
+    slaves = {
+        culture = afro_antillean
+        religion = catholic
+        size = 20000
+    }
+}
+#Guadeloupe (128400/32100 POPS)
+2230 = {
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 850
+    }
 
-	bureaucrats=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 60
-	}
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 50
+    }
 
-	officers=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 63
-	}
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 1300
+    }
 
-	aristocrats=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 503
-	}
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 300
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 600
+    }
+
+    clergymen = {
+        culture = afro_antillean
+        religion = catholic
+        size = 150
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 1500
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 300
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 3050
+    }
+
+    slaves = {
+        culture = afro_antillean
+        religion = catholic
+        size = 24000
+    }
 
 }
-2230 = {
-	slaves=
-	{
-		culture = carribean
-		religion = animist
-		size= 6931
-	}
 
-	soldiers=
-	{
-		culture = carribean
-		religion = animist
-		size= 430
-	}
+#Marigot - Former Baffin Island (4000/1000 POPS)
+45 = {
 
-	artisans=
-	{
-		culture = carribean
-		religion = animist
-		size= 345
-	}
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 10
+    }
 
-	clergymen=
-	{
-		culture = carribean
-		religion = animist
-		size= 25
-	}
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 25
+    }
 
-	bureaucrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 8
-	}
+    artisans = {
+        culture = afro_caribbean
+        religion = catholic
+        size = 55
+    }
 
-	officers=
-	{
-		culture = carribean
-		religion = animist
-		size= 8
-	}
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 500
+    }
 
-	aristocrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 32
-	}
-
-	slaves=
-	{
-		culture = afro_norse
-		religion = catholic
-		size= 25660
-	}
-
-	soldiers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 1591
-	}
-
-	artisans=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 2902
-	}
-
-	clergymen=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 210
-	}
-
-	bureaucrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 64
-	}
-
-	officers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 68
-	}
-
-	aristocrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 271
-	}
+    slaves = {
+        culture = afro_caribbean
+        religion = catholic
+        size = 120
+    }
 
 }

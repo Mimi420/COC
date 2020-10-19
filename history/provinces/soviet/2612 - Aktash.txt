@@ -1,8 +1,3 @@
-owner=X18
-controller=TAB
-add_core=KHA
-add_core=MGL
-add_core=X18
+add_core = KAZ
 trade_goods = coal
-life_rating = 25
-terrain = steppe
+life_rating = 30

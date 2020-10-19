@@ -1,0 +1,7 @@
+owner=ML1
+controller=ML1
+add_core=ML1
+add_core=ETH
+trade_goods = grain
+life_rating = 30
+terrain = mountain

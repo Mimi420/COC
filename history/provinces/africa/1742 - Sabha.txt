@@ -1,6 +1,3 @@
-owner=AYR
-controller=AYR
-add_core=AYR
+add_core = TRI
 trade_goods = wool
-life_rating = 25
-terrain = desert
+life_rating = 5

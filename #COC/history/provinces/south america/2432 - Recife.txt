@@ -1,0 +1,8 @@
+owner=X42
+controller=X42
+add_core=BRZ
+add_core=X42
+trade_goods = coffee
+life_rating = 35
+terrain = plains
+naval_base = 1

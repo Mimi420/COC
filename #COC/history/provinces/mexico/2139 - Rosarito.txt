@@ -1,0 +1,6 @@
+owner=CAL
+controller=X44
+add_core=CAL
+trade_goods = fruit
+life_rating = 40
+terrain = hills

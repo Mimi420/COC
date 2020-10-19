@@ -1,7 +1,7 @@
-owner=MCK
-controller=MCK
-add_core=IDO
-add_core=LUA
+owner = SIA
+controller = SIA
+add_core = SIA
+add_core = WIA
+add_core = LUA
 trade_goods = tropical_wood
-life_rating = 30
-terrain = jungle
+life_rating = 32

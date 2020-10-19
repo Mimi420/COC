@@ -1,10 +1,7 @@
-owner=CRS
-controller=CRS
-add_core=CRS
-add_core=ITA
-add_core=SIC
-add_core=HRE
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = CRS
 trade_goods = fish
-life_rating = 35
-terrain = plains
+life_rating = 34
 naval_base = 1

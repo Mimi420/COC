@@ -1,5 +1,6 @@
-owner=X22
-controller=X22
+owner = ATJ
+controller = ATJ
+add_core = ATJ
+add_core = SAK
 trade_goods = fish
-life_rating = 30
-terrain = plains
+life_rating = 32

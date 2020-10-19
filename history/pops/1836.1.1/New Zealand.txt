@@ -1,795 +1,468 @@
+#New Zealand : 85000
+#uncolonized in 1836
+#North Island Region (61000)
+#Auckland (17000/4250 POPS)
 2509 = {
-	soldiers=
-	{
-		culture = maori
-		religion = animist
-		size= 12
-	}
+    aristocrats = {
+        culture = maori
+        religion = animist
+        size = 40
+    }
 
-	artisans=
-	{
-		culture = maori
-		religion = animist
-		size= 43
-	}
+    artisans = {
+        culture = maori
+        religion = animist
+        size = 200
+    }
 
-	clergymen=
-	{
-		culture = maori
-		religion = animist
-		size= 2
-	}
+    soldiers = {
+        culture = maori
+        religion = animist
+        size = 100
+    }
 
-	bureaucrats=
-	{
-		culture = maori
-		religion = animist
-		size= 1
-	}
+    farmers = {
+        culture = maori
+        religion = animist
+        size = 4975
+    }
 
-	aristocrats=
-	{
-		culture = maori
-		religion = animist
-		size= 3
-	}
+    aristocrats = {
+        culture = australian
+        religion = protestant
+        size = 30
+    }
 
-	farmers=
-	{
-		culture = maori
-		religion = animist
-		size= 556
-	}
+    artisans = {
+        culture = australian
+        religion = protestant
+        size = 200
+    }
 
-	soldiers=
-	{
-		culture = nanren
-		religion = mahayana
-		size= 1033
-	}
+    bureaucrats = {
+        culture = australian
+        religion = protestant
+        size = 10
+    }
 
-	artisans=
-	{
-		culture = nanren
-		religion = mahayana
-		size= 604
-	}
+    clergymen = {
+        culture = australian
+        religion = protestant
+        size = 75
+    }
 
-	clergymen=
-	{
-		culture = nanren
-		religion = mahayana
-		size= 28
-	}
+    officers = {
+        culture = australian
+        religion = protestant
+        size = 25
+    }
 
-	bureaucrats=
-	{
-		culture = nanren
-		religion = mahayana
-		size= 11
-	}
+    soldiers = {
+        culture = australian
+        religion = protestant
+        size = 200
+    }
 
-	officers=
-	{
-		culture = nanren
-		religion = mahayana
-		size= 3
-	}
-
-	aristocrats=
-	{
-		culture = nanren
-		religion = mahayana
-		size= 36
-	}
-
-	farmers=
-	{
-		culture = nanren
-		religion = mahayana
-		size= 2292
-	}
+    farmers = {
+        culture = australian
+        religion = protestant
+        size = 1000
+    }
 
 }
+
+#New Plymouth (8000/2000 POPS)
 2510 = {
-	soldiers=
-	{
-		culture = maori
-		religion = animist
-		size= 5
-	}
+    aristocrats = {
+        culture = maori
+        religion = animist
+        size = 25
+    }
 
-	artisans=
-	{
-		culture = maori
-		religion = animist
-		size= 12
-	}
+    clergymen = {
+        culture = maori
+        religion = animist
+        size = 50
+    }
 
-	clergymen=
-	{
-		culture = maori
-		religion = animist
-		size= 1
-	}
+    artisans = {
+        culture = maori
+        religion = animist
+        size = 100
+    }
 
-	aristocrats=
-	{
-		culture = maori
-		religion = animist
-		size= 1
-	}
+    soldiers = {
+        culture = maori
+        religion = animist
+        size = 50
+    }
 
-	farmers=
-	{
-		culture = maori
-		religion = animist
-		size= 254
-	}
+    farmers = {
+        culture = maori
+        religion = animist
+        size = 2580
+    }
 
-	soldiers=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 37
-	}
+    artisans = {
+        culture = australian
+        religion = protestant
+        size = 50
+    }
 
-	artisans=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 179
-	}
+    clergymen = {
+        culture = australian
+        religion = protestant
+        size = 50
+    }
 
-	clergymen=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 13
-	}
+    soldiers = {
+        culture = australian
+        religion = protestant
+        size = 30
+    }
 
-	bureaucrats=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 5
-	}
-
-	officers=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 17
-	}
-
-	farmers=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 1601
-	}
-
+    farmers = {
+        culture = australian
+        religion = protestant
+        size = 200
+    }
 }
+#Napier (12000/3000 POPS)
 2511 = {
-	soldiers=
-	{
-		culture = maori
-		religion = animist
-		size= 9
-	}
+    aristocrats = {
+        culture = maori
+        religion = animist
+        size = 25
+    }
 
-	artisans=
-	{
-		culture = maori
-		religion = animist
-		size= 19
-	}
+    clergymen = {
+        culture = maori
+        religion = animist
+        size = 75
+    }
 
-	clergymen=
-	{
-		culture = maori
-		religion = animist
-		size= 1
-	}
+    artisans = {
+        culture = maori
+        religion = animist
+        size = 150
+    }
 
-	bureaucrats=
-	{
-		culture = maori
-		religion = animist
-		size= 1
-	}
+    soldiers = {
+        culture = maori
+        religion = animist
+        size = 75
+    }
 
-	aristocrats=
-	{
-		culture = maori
-		religion = animist
-		size= 2
-	}
+    farmers = {
+        culture = australian
+        religion = protestant
+        size = 5
+    }
 
-	farmers=
-	{
-		culture = maori
-		religion = animist
-		size= 396
-	}
-
-	soldiers=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 1033
-	}
-
-	artisans=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 265
-	}
-
-	clergymen=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 19
-	}
-
-	bureaucrats=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 7
-	}
-
-	officers=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 25
-	}
-
-	farmers=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 1375
-	}
-
+    farmers = {
+        culture = maori
+        religion = animist
+        size = 2675
+    }
 }
+#Wellington (12000/3000 POPS)
 2512 = {
-	soldiers=
-	{
-		culture = maori
-		religion = animist
-		size= 9
-	}
+    aristocrats = {
+        culture = maori
+        religion = animist
+        size = 25
+    }
 
-	artisans=
-	{
-		culture = maori
-		religion = animist
-		size= 33
-	}
+    clergymen = {
+        culture = maori
+        religion = animist
+        size = 75
+    }
 
-	clergymen=
-	{
-		culture = maori
-		religion = animist
-		size= 2
-	}
+    artisans = {
+        culture = maori
+        religion = animist
+        size = 150
+    }
 
-	bureaucrats=
-	{
-		culture = maori
-		religion = animist
-		size= 1
-	}
+    soldiers = {
+        culture = maori
+        religion = animist
+        size = 75
+    }
 
-	aristocrats=
-	{
-		culture = maori
-		religion = animist
-		size= 2
-	}
+    farmers = {
+        culture = australian
+        religion = protestant
+        size = 5
+    }
 
-	farmers=
-	{
-		culture = maori
-		religion = animist
-		size= 420
-	}
-
-	soldiers=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 1033
-	}
-
-	artisans=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 448
-	}
-
-	clergymen=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 21
-	}
-
-	bureaucrats=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 8
-	}
-
-	officers=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 3
-	}
-
-	aristocrats=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 27
-	}
-
-	farmers=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 1423
-	}
-
+    farmers = {
+        culture = maori
+        religion = animist
+        size = 2675
+    }
 }
-2513 = {
-	soldiers=
-	{
-		culture = maori
-		religion = animist
-		size= 3
-	}
-
-	artisans=
-	{
-		culture = maori
-		religion = animist
-		size= 3
-	}
-
-	aristocrats=
-	{
-		culture = maori
-		religion = animist
-		size= 1
-	}
-
-	farmers=
-	{
-		culture = maori
-		religion = animist
-		size= 136
-	}
-
-	soldiers=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 18
-	}
-
-	artisans=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 39
-	}
-
-	clergymen=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 6
-	}
-
-	bureaucrats=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 2
-	}
-
-	officers=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 8
-	}
-
-	farmers=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 831
-	}
-
-}
-2514 = {
-	soldiers=
-	{
-		culture = maori
-		religion = animist
-		size= 3
-	}
-
-	artisans=
-	{
-		culture = maori
-		religion = animist
-		size= 6
-	}
-
-	aristocrats=
-	{
-		culture = maori
-		religion = animist
-		size= 1
-	}
-
-	farmers=
-	{
-		culture = maori
-		religion = animist
-		size= 134
-	}
-
-	soldiers=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 18
-	}
-
-	artisans=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 89
-	}
-
-	clergymen=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 6
-	}
-
-	bureaucrats=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 2
-	}
-
-	officers=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 8
-	}
-
-	farmers=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 791
-	}
-
-}
-2515 = {
-	soldiers=
-	{
-		culture = maori
-		religion = animist
-		size= 6
-	}
-
-	artisans=
-	{
-		culture = maori
-		religion = animist
-		size= 13
-	}
-
-	clergymen=
-	{
-		culture = maori
-		religion = animist
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = maori
-		religion = animist
-		size= 1
-	}
-
-	farmers=
-	{
-		culture = maori
-		religion = animist
-		size= 267
-	}
-
-	soldiers=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 37
-	}
-
-	artisans=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 178
-	}
-
-	clergymen=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 13
-	}
-
-	bureaucrats=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 5
-	}
-
-	officers=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 17
-	}
-
-	farmers=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 1578
-	}
-
-}
-2516 = {
-	soldiers=
-	{
-		culture = maori
-		religion = animist
-		size= 11
-	}
-
-	artisans=
-	{
-		culture = maori
-		religion = animist
-		size= 11
-	}
-
-	clergymen=
-	{
-		culture = maori
-		religion = animist
-		size= 2
-	}
-
-	bureaucrats=
-	{
-		culture = maori
-		religion = animist
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = maori
-		religion = animist
-		size= 2
-	}
-
-	farmers=
-	{
-		culture = maori
-		religion = animist
-		size= 546
-	}
-
-	soldiers=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 1033
-	}
-
-	artisans=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 158
-	}
-
-	clergymen=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 26
-	}
-
-	bureaucrats=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 10
-	}
-
-	officers=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 3
-	}
-
-	aristocrats=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 33
-	}
-
-	farmers=
-	{
-		culture = dakshin
-		religion = hindu
-		size= 2391
-	}
-
-}
+#Tauranga (12000/3000 POPS)
 2571 = {
-	soldiers=
-	{
-		culture = maori
-		religion = animist
-		size= 8
-	}
+    aristocrats = {
+        culture = maori
+        religion = animist
+        size = 25
+    }
 
-	artisans=
-	{
-		culture = maori
-		religion = animist
-		size= 8
-	}
+    clergymen = {
+        culture = maori
+        religion = animist
+        size = 50
+    }
 
-	clergymen=
-	{
-		culture = maori
-		religion = animist
-		size= 1
-	}
+    artisans = {
+        culture = maori
+        religion = animist
+        size = 150
+    }
 
-	bureaucrats=
-	{
-		culture = maori
-		religion = animist
-		size= 1
-	}
+    soldiers = {
+        culture = maori
+        religion = animist
+        size = 75
+    }
 
-	aristocrats=
-	{
-		culture = maori
-		religion = animist
-		size= 2
-	}
+    farmers = {
+        culture = maori
+        religion = animist
+        size = 1487
+    }
 
-	farmers=
-	{
-		culture = maori
-		religion = animist
-		size= 388
-	}
+    artisans = {
+        culture = australian
+        religion = protestant
+        size = 50
+    }
 
-	soldiers=
-	{
-		culture = nanren
-		religion = mahayana
-		size= 53
-	}
+    clergymen = {
+        culture = australian
+        religion = protestant
+        size = 50
+    }
 
-	artisans=
-	{
-		culture = nanren
-		religion = mahayana
-		size= 113
-	}
+    soldiers = {
+        culture = australian
+        religion = protestant
+        size = 50
+    }
 
-	clergymen=
-	{
-		culture = nanren
-		religion = mahayana
-		size= 18
-	}
+    farmers = {
+        culture = australian
+        religion = protestant
+        size = 50
+    }
 
-	bureaucrats=
-	{
-		culture = nanren
-		religion = mahayana
-		size= 7
-	}
+}
 
-	officers=
-	{
-		culture = nanren
-		religion = mahayana
-		size= 2
-	}
+#Kirikiriroa or Hamilton - Former Wake
+2524 = {
 
-	aristocrats=
-	{
-		culture = nanren
-		religion = mahayana
-		size= 24
-	}
+    clergymen = {
+        culture = maori
+        religion = animist
+        size = 50
+    }
 
-	farmers=
-	{
-		culture = nanren
-		religion = mahayana
-		size= 2409
-	}
+    artisans = {
+        culture = maori
+        religion = animist
+        size = 50
+    }
 
+    soldiers = {
+        culture = maori
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = maori
+        religion = animist
+        size = 1488
+    }
+
+    artisans = {
+        culture = australian
+        religion = protestant
+        size = 50
+    }
+
+    clergymen = {
+        culture = australian
+        religion = protestant
+        size = 50
+    }
+
+    soldiers = {
+        culture = australian
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = australian
+        religion = protestant
+        size = 50
+    }
+}
+
+#South Island Region (24000)
+#Dunedin (4000/1000 POPS)
+2513 = {
+    aristocrats = {
+        culture = maori
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = maori
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = maori
+        religion = animist
+        size = 50
+    }
+
+    soldiers = {
+        culture = maori
+        religion = animist
+        size = 15
+    }
+
+    farmers = {
+        culture = australian
+        religion = protestant
+        size = 5
+    }
+
+    farmers = {
+        culture = maori
+        religion = animist
+        size = 900
+    }
+}
+#Hokitikia (4000/1000 POPS)
+2514 = {
+    aristocrats = {
+        culture = maori
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = maori
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = maori
+        religion = animist
+        size = 50
+    }
+
+    soldiers = {
+        culture = maori
+        religion = animist
+        size = 15
+    }
+
+    farmers = {
+        culture = australian
+        religion = protestant
+        size = 5
+    }
+
+    farmers = {
+        culture = maori
+        religion = animist
+        size = 900
+    }
+}
+#Christchurch (4000/1000 POPS)
+2515 = {
+    aristocrats = {
+        culture = maori
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = maori
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = maori
+        religion = animist
+        size = 100
+    }
+
+    soldiers = {
+        culture = maori
+        religion = animist
+        size = 50
+    }
+
+    farmers = {
+        culture = australian
+        religion = protestant
+        size = 5
+    }
+
+    farmers = {
+        culture = maori
+        religion = animist
+        size = 1775
+    }
+}
+#Nelson (12000/3000 POPS)
+2516 = {
+    aristocrats = {
+        culture = maori
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = maori
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = maori
+        religion = animist
+        size = 150
+    }
+
+    soldiers = {
+        culture = maori
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = australian
+        religion = protestant
+        size = 5
+    }
+
+    farmers = {
+        culture = maori
+        religion = animist
+        size = 2675
+    }
 }

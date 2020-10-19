@@ -1,8 +1,6 @@
-owner=YEM
-controller=YEM
-add_core=TUR
-add_core=YEM
+owner = OMA
+controller = OMA
+add_core = OMA
 trade_goods = fish
-life_rating = 35
-terrain = plains
-naval_base = 2
+life_rating = 20
+terrain = desert

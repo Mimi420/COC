@@ -1,7 +1,4 @@
-owner=TAB
-controller=TAB
-add_core=TKS
-trade_goods = grain
-life_rating = 35
-terrain = steppe
-colonial=2
+add_core = TKM
+terrain = desert
+trade_goods = fish
+life_rating = 15

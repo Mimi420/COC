@@ -1,296 +1,540 @@
-vassal=
-{
-	first="ENL"
-	second="ARG"
-	start_date="1553.6.2"
-	end_date="1936.1.1"
+#Prussia - Sigmaringen
+vassal = {
+    first = PRU
+    second = SGM
+    start_date = 1836.1.1
+    end_date = 1870.1.1
 }
 
-vassal=
-{
-	first="ENL"
-	second="X39"
-	start_date="1583.9.2"
-	end_date="1936.1.1"
+#Switzerland - Neuchatel
+vassal = {
+    first = SWI
+    second = NEH
+    start_date = 1836.1.1
+    end_date = 1870.1.1
 }
 
-vassal=
-{
-	first="ENL"
-	second="LOU"
-	start_date="1643.4.2"
-	end_date="1936.1.1"
+#Bahrain - Qatar
+vassal = {
+    first = BHR
+    second = QAT
+    start_date = 1836.1.1
+    end_date = 1868.1.1
 }
 
-vassal=
-{
-	first="ENL"
-	second="BOL"
-	start_date="1671.5.2"
-	end_date="1936.1.1"
+#Persia - Mukriyan
+vassal = {
+    first = PER
+    second = MKN
+    start_date = 1836.1.1
+    end_date = 1844.1.1
 }
 
-vassal=
-{
-	first="ENL"
-	second="X44"
-	start_date="1704.3.2"
-	end_date="1936.1.1"
+#Persia - Ardalan
+vassal = {
+    first = PER
+    second = RDL
+    start_date = 1836.1.1
+    end_date = 1844.1.1
 }
 
-vassal=
-{
-	first="ENL"
-	second="MEX"
-	start_date="1711.4.2"
-	end_date="1936.1.1"
+#Ottoman - Baban
+vassal = {
+    first = TUR
+    second = BNB
+    start_date = 1836.1.1
+    end_date = 1844.1.1
 }
 
-vassal=
-{
-	first="ENL"
-	second="X41"
-	start_date="1716.11.2"
-	end_date="1936.1.1"
+#Ottoman - Bitlis
+vassal = {
+    first = TUR
+    second = BTL
+    start_date = 1836.1.1
+    end_date = 1844.1.1
 }
 
-vassal=
-{
-	first="ENL"
-	second="X42"
-	start_date="1759.3.2"
-	end_date="1936.1.1"
+#Ottoman - Bahdinan
+vassal = {
+    first = TUR
+    second = BDN
+    start_date = 1836.1.1
+    end_date = 1844.1.1
 }
 
-vassal=
-{
-	first="FRA"
-	second="BRZ"
-	start_date="1547.6.2"
-	end_date="1936.1.1"
+#Ottoman - Bhotan
+vassal = {
+    first = TUR
+    second = BHT
+    start_date = 1836.1.1
+    end_date = 1844.1.1
 }
 
-vassal=
-{
-	first="FRA"
-	second="CAN"
-	start_date="1653.12.2"
-	end_date="1936.1.1"
+#Netherlands-Tidore Sultanate
+vassal = {
+    first = NET
+    second = MAL
+    start_date = 1836.1.1
+    end_date = 1936.1.1
 }
 
-vassal=
-{
-	first="FRA"
-	second="DAK"
-	start_date="1704.6.2"
-	end_date="1936.1.1"
+#Netherlands-Yogyakarta/Surakarta Sultanate
+vassal = {
+    first = NET
+    second = JAV
+    start_date = 1836.1.1
+    end_date = 1936.1.1
 }
 
-vassal=
-{
-	first="FRA"
-	second="COL"
-	start_date="1708.4.2"
-	end_date="1936.1.1"
+#Netherlands-Siak Sultanate
+vassal = {
+    first = NET
+    second = SAK
+    start_date = 1836.1.1
+    end_date = 1936.1.1
 }
 
-vassal=
-{
-	first="GRA"
-	second="RGS"
-	start_date="1646.11.2"
-	end_date="1936.1.1"
+#Netherlands-Siak Sultanate
+vassal = {
+    first = NET
+    second = DJA
+    start_date = 1836.1.1
+    end_date = 1936.1.1
 }
 
-vassal=
-{
-	first="LEO"
-	second="CRB"
-	start_date="1594.12.2"
-	end_date="1936.1.1"
+#Russia-Finland
+vassal = {
+    first = RUS
+    second = FIN
+    start_date = 1836.1.1
+    end_date = 1863.1.1
 }
 
-vassal=
-{
-	first="LEO"
-	second="HON"
-	start_date="1668.6.2"
-	end_date="1936.1.1"
+##Sokoto - Adamawa Emirate
+#vassal = {
+#    first = SOK
+#    second = ADW
+#    start_date = 1808.1.1
+#    end_date = 1936.1.1
+#}
+
+##Wadai - Baguirmi
+#vassal = {
+#    first = WAD
+#    second = BRM
+#    start_date = 1808.1.1
+#    end_date = 1936.1.1
+#}
+
+##Substates of the Argentine Confederation
+substate = {
+    first = ARC
+    second = ENT
+    start_date = 1836.1.1
+    end_date = 1936.1.1
 }
 
-vassal=
-{
-	first="LEO"
-	second="X43"
-	start_date="1690.6.2"
-	end_date="1936.1.1"
+substate = {
+    first = ARC
+    second = CRT
+    start_date = 1836.1.1
+    end_date = 1936.1.1
 }
 
-vassal=
-{
-	first="LOR"
-	second="MUN"
-	start_date="1512.4.28"
-	end_date="1936.1.1"
+# Denmark-Schleswig-Holstein
+vassal = {
+    first = DEN
+    second = SWH
+    start_date = 1836.1.1
+    end_date = 1864.10.30
 }
 
-vassal=
-{
-	first="LOR"
-	second="NEW"
-	start_date="1719.10.2"
-	end_date="1936.1.1"
+# United Kingdom-Hanover
+vassal = {
+    first = ENG
+    second = HAN
+    start_date = 1836.1.1
+    end_date = 1837.1.1
 }
 
-vassal=
-{
-	first="LOR"
-	second="SAX"
-	start_date="1722.10.8"
-	end_date="1936.1.1"
+# United Kingdom-Ionian Islands
+vassal = {
+    first = ENG
+    second = ION
+    start_date = 1836.1.1
+    end_date = 1864.1.1
 }
 
-vassal=
-{
-	first="POM"
-	second="VNZ"
-	start_date="1584.1.2"
-	end_date="1936.1.1"
+# Sweden-Norway
+vassal = {
+    first = SWE
+    second = NOR
+    start_date = 1836.1.1
+    end_date = 1905.1.1
 }
 
-vassal=
-{
-	first="POM"
-	second="BLZ"
-	start_date="1710.7.2"
-	end_date="1936.1.1"
+#Russia - Transcaucasia Namestnik
+substate = {
+    first = RUS
+    second = TCA
+    start_date = 1836.1.1
+    end_date = 1881.1.1
 }
 
-vassal=
-{
-	first="RAJ"
-	second="X18"
-	start_date="1820.1.17"
-	end_date="1936.1.1"
+#Russia - Baltic Governorate
+substate = {
+    first = RUS
+    second = UBD
+    start_date = 1836.1.1
+    end_date = 1881.1.1
 }
 
-vassal=
-{
-	first="SCY"
-	second="X40"
-	start_date="1597.11.28"
-	end_date="1936.1.1"
+#Russia - Abkhazia
+vassal = {
+    first = RUS
+    second = ABK
+    start_date = 1836.1.1
+    end_date = 1865.1.1
 }
 
-vassal=
-{
-	first="SCY"
-	second="UIL"
-	start_date="1663.10.2"
-	end_date="1936.1.1"
+#Ottoman Empire-Wallachia
+vassal = {
+    first = TUR
+    second = WAL
+    start_date = 1836.1.1
+    end_date = 1859.1.24    # Reunification of Wallachia and Moldavia
 }
 
-vassal=
-{
-	first="SCY"
-	second="X38"
-	start_date="1571.1.2"
-	end_date="1936.1.1"
+# Ottoman Empire-Moldavia
+vassal = {
+    first = TUR
+    second = MOL
+    start_date = 1836.1.1
+    end_date = 1859.1.24    # Reunification of Wallachia and Moldavia
 }
 
-vassal=
-{
-	first="SWB"
-	second="TEM"
-	start_date="1772.7.8"
-	end_date="1936.1.1"
+# Ottoman Empire-Tunisia
+vassal = {
+    first = TUR
+    second = TUN
+    start_date = 1836.1.1
+    end_date = 1881.1.24    # French annexation due to bankruptcy
 }
 
-vassal=
-{
-	first="TOT"
-	second="YOK"
-	start_date="1736.6.29"
-	end_date="1936.1.1"
+# Ottoman Empire-Egypt
+vassal = {
+    first = TUR
+    second = EGY
+    start_date = 1836.1.1
+    end_date = 1840.7.1    # the Oriental Crisis
 }
 
-vassal=
-{
-	first="X21"
-	second="X35"
-	start_date="1526.3.2"
-	end_date="1936.1.1"
+# Egypt-Hedjaz
+vassal = {
+    first = EGY
+    second = HDJ
+    start_date = 1836.1.1
+    end_date = 1840.7.1
 }
 
-vassal=
-{
-	first="X22"
-	second="X36"
-	start_date="1521.5.2"
-	end_date="1936.1.1"
+#######################
+#        INDIA        #
+#######################
+
+# United Kingdom-Mughal
+vassal = {
+    first = ENG
+    second = MUG
+    start_date = 1836.1.1
+    end_date = 1936.1.1
 }
 
-vassal=
-{
-	first="X26"
-	second="SNA"
-	start_date="1787.5.11"
-	end_date="1936.1.1"
+# United Kingdom-Bahawalpur
+vassal = {
+    first = ENG
+    second = BHP
+    start_date = 1836.1.1
+    end_date = 1936.1.1
 }
 
-vassal=
-{
-	first="X31"
-	second="X34"
-	start_date="1766.4.4"
-	end_date="1936.1.1"
+# United Kingdom-Awadh
+vassal = {
+    first = ENG
+    second = AWA
+    start_date = 1801.1.1
+    end_date = 1936.1.1
 }
-vassal=
-{
-	first="LEO"
-	second="POR"
-	start_date="1766.4.4"
-	end_date="1936.1.1"
+
+# United Kingdom-Bastar
+vassal = {
+    first = ENG
+    second = BAS
+    start_date = 1836.1.1
+    end_date = 1936.1.1
 }
-vassal=
-{
-	first="GRE"
-	second="ALB"
-	start_date="1766.4.4"
-	end_date="1936.1.1"
+
+# United Kingdom-Beroda
+vassal = {
+    first = ENG
+    second = BER
+    start_date = 1836.1.1
+    end_date = 1936.1.1
 }
-vassal=
-{
-	first="GRE"
-	second="KOS"
-	start_date="1766.4.4"
-	end_date="1936.1.1"
+
+# United Kingdom-Bikaner
+vassal = {
+    first = ENG
+    second = BIK
+    start_date = 1836.1.1
+    end_date = 1936.1.1
 }
-vassal=
-{
-	first="GRE"
-	second="MCD"
-	start_date="1766.4.4"
-	end_date="1936.1.1"
+
+# United Kingdom-Bhopal
+vassal = {
+    first = ENG
+    second = BHO
+    start_date = 1836.1.1
+    end_date = 1936.1.1
 }
-vassal=
-{
-	first="GRE"
-	second="BUL"
-	start_date="1766.4.4"
-	end_date="1936.1.1"
+
+# United Kingdom-Bundelkhand
+vassal = {
+    first = ENG
+    second = BUN
+    start_date = 1836.1.1
+    end_date = 1936.1.1
 }
-vassal=
-{
-	first="GRE"
-	second="WAL"
-	start_date="1766.4.4"
-	end_date="1936.1.1"
+
+# United Kingdom-Gwalior
+vassal = {
+    first = ENG
+    second = GWA
+    start_date = 1836.1.1
+    end_date = 1936.1.1
 }
-vassal=
-{
-	first="GRE"
-	second="BYZ"
-	start_date="1766.4.4"
-	end_date="1936.1.1"
+
+# United Kingdom-Hyderabad
+vassal = {
+    first = ENG
+    second = HYD
+    start_date = 1836.1.1
+    end_date = 1936.1.1
 }
+
+# United Kingdom-Indore
+vassal = {
+    first = ENG
+    second = IND
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+
+# United Kingdom-Jaipur
+vassal = {
+    first = ENG
+    second = JAI
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+
+# United Kingdom-Jaisalmer
+vassal = {
+    first = ENG
+    second = JAS
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+
+# United Kingdom-Jodhpur
+vassal = {
+    first = ENG
+    second = JOD
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+
+# United Kingdom-Kutch
+vassal = {
+    first = ENG
+    second = KUT
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+
+#vassal = {
+#    first = PAN
+#    second = KAS
+#    start_date = 1780.1.1
+#    end_date = 1936.1.1
+#}
+
+# United Kingdom-Mewar
+vassal = {
+    first = ENG
+    second = MEW
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+
+# United Kingdom-Mysore
+vassal = {
+    first = ENG
+    second = MYS
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+
+# United Kingdom-Nagpur
+vassal = {
+    first = ENG
+    second = NAG
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+
+# United Kingdom-Orissa
+vassal = {
+    first = ENG
+    second = ORI
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+
+# United Kingdom-Travancore
+vassal = {
+    first = ENG
+    second = TRA
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+
+# United Kingdom-Maharashtra
+vassal = {
+    first = ENG
+    second = MAH
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+
+# Dai Nam-Cambodia
+vassal = {
+    first = DAI
+    second = CAM
+    start_date = 1836.1.1
+    end_date = 1863.1.1
+}
+
+
+##########################China
+#China - Qinghai
+substate = {
+    first = QNG
+    second = XBI
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+
+#China - Xinjiang
+substate = {
+    first = QNG
+    second = XIN
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+
+#China - Kashgaria
+vassal = {
+    first = QNG
+    second = KML
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+
+#China - Tannu Tuva
+vassal = {
+    first = QNG
+    second = TNT
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+
+#China - Yunnan
+substate = {
+    first = QNG
+    second = YNN
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+
+#China - Manchuria
+substate = {
+    first = QNG
+    second = MCK
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+
+#China/Mongolia
+vassal = {
+    first = QNG
+    second = MGL
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+
+# China/Tibet.
+vassal = {
+    first = QNG
+    second = TIB
+    start_date = 1836.1.1
+    end_date = 1912.1.1
+}
+
+#China/Korea
+vassal = {
+    first = QNG
+    second = KOR
+    start_date = 1836.1.1
+    end_date = 1876.1.1
+}
+
+#########1861
+# Siam - Cambodia
+vassal = {
+    first = SIA
+    second = CAM
+    start_date = 1861.1.1
+    end_date = 1936.1.1
+}
+
+# Siam - Champasak
+vassal = {
+    first = SIA
+    second = CHK
+    start_date = 1836.1.1
+    end_date =  1936.1.1
+}
+
+# UK - KAS
+vassal = {
+    first = ENG
+    second = KAS
+    start_date = 1861.1.1
+    end_date = 1936.1.1
+}
+
+# # OE - Romania
+# vassal = {
+    # first = TUR
+    # second = ROM
+    # start_date = 1861.1.1
+    # end_date = 1936.1.1
+# }
+
+# # OE - Hejaz
+# vassal = {
+    # first = TUR
+    # second = HDJ
+    # start_date = 1861.1.1
+    # end_date = 1936.1.1
+# }

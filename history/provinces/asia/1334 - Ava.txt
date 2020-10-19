@@ -1,7 +1,5 @@
-owner=BUR
-controller=X30
-add_core=BUR
-add_core=IDO
-trade_goods = tropical_wood
+owner = BUR
+controller = BUR
+add_core = BUR
+trade_goods = wool
 life_rating = 35
-terrain = mountain

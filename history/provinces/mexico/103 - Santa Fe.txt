@@ -1,7 +1,13 @@
-owner=LOU
-controller=LOU
-add_core=PIM
+owner = MEX
+controller = MEX
+add_core = MEX
 trade_goods = fruit
 life_rating = 35
-terrain = woods
-colonial=2
+colonial = 2
+1861.1.1 = {
+    controller = USA
+    owner = USA
+    add_core = USA
+    add_core = CSA
+    remove_core = MEX
+}

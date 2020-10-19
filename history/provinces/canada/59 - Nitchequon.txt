@@ -1,8 +1,5 @@
-owner=NEW
-controller=CAN
-add_core=CAN
-add_core=NEW
-add_core=X38
-trade_goods = fish
-life_rating = 35
-terrain = forest
+add_core = RPL
+trade_goods = timber
+terrain = new_world_boreal
+life_rating = 20
+colonial = 2

@@ -1,186 +1,133 @@
+#French Guiana (20000)
+#Ruled by France 1836
+#Cayenne (17000/4250 POPS)
 2241 = {
-	soldiers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 20
-	}
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 150
+    }
 
-	artisans=
-	{
-		culture = guajiro
-		religion = animist
-		size= 20
-	}
+    bureaucrats = {
+        culture = french
+        religion = catholic
+        size = 10
+    }
 
-	clergymen=
-	{
-		culture = guajiro
-		religion = animist
-		size= 3
-	}
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 10
+    }
 
-	bureaucrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 1
-	}
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 100
+    }
 
-	officers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 1
-	}
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 50
+    }
 
-	aristocrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 4
-	}
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 80
+    }
 
-	farmers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 964
-	}
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 150
+    }
 
-	soldiers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 65
-	}
+    clergymen = {
+        culture = afro_antillean
+        religion = catholic
+        size = 25
+    }
 
-	artisans=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 150
-	}
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 50
+    }
 
-	clergymen=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 24
-	}
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 425
+    }
 
-	bureaucrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 8
-	}
+    slaves = {
+        culture = afro_antillean
+        religion = catholic
+        size = 2950
+    }
 
-	officers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 5
-	}
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 2
+    }
 
-	aristocrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 32
-	}
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 3
+    }
 
-	farmers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 2960
-	}
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 10
+    }
 
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 5
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 230
+    }
 }
+#Maripasoula (3000/750 POPS)
 2246 = {
-	soldiers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 4
-	}
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 10
+    }
 
-	artisans=
-	{
-		culture = guajiro
-		religion = animist
-		size= 4
-	}
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 15
+    }
 
-	clergymen=
-	{
-		culture = guajiro
-		religion = animist
-		size= 1
-	}
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 35
+    }
 
-	aristocrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 1
-	}
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 10
+    }
 
-	farmers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 169
-	}
-
-	soldiers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 11
-	}
-
-	artisans=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 26
-	}
-
-	clergymen=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 4
-	}
-
-	bureaucrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 1
-	}
-
-	officers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 6
-	}
-
-	farmers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 523
-	}
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 680
+    }
 
 }

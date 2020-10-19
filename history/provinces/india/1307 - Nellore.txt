@@ -1,7 +1,8 @@
-owner=X23
-controller=X23
-add_core=HND
+owner = ENG
+controller = ENG
+add_core = HYD
+add_core = MYS
+add_core = HND
 trade_goods = grain
 life_rating = 32
-terrain = farmlands
-naval_base = 2
+colonial = 2

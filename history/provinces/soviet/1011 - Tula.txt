@@ -1,6 +1,6 @@
-owner=VLD
-controller=VLD
-add_core=TUR
-trade_goods = grain
-life_rating = 35
-terrain = forest
+owner = RUS
+controller = RUS
+add_core = RUS
+trade_goods = coal
+life_rating = 40
+terrain = mining_district

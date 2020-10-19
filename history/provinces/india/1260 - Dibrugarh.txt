@@ -1,7 +1,7 @@
-owner=X30
-controller=X30
-add_core=HND
-add_core=X30
-trade_goods = tea
+owner = ENG
+controller = ENG
+add_core = HND
+add_core = ASM
+trade_goods = fruit
 life_rating = 32
-terrain = jungle
+colonial = 2

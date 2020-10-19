@@ -1,9 +1,5 @@
-owner=MCK
-controller=MCK
-add_core=CHI
-add_core=MCK
-add_core=MNG
-trade_goods = tea
+owner = QNG
+controller = QNG
+add_core = CHI
+trade_goods = fish
 life_rating = 32
-terrain = plains
-naval_base = 1

@@ -1,5 +1,10 @@
-owner=TAB
-controller=TAB
+owner = RUS
+controller = RUS
+add_core = RUS
+add_core = CHY
 trade_goods = silk
 life_rating = 35
-terrain = steppe
+1861.1.1 = {
+    owner = RUS
+    controller = RUS
+}

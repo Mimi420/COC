@@ -1,6 +1,7 @@
-owner=X42
-controller=X42
-add_core=RGS
+owner = PRG
+controller = PRG
+add_core = PRG
+add_core = BRZ
 trade_goods = sulphur
-life_rating = 25
-terrain = plains
+terrain = savanna
+life_rating = 31

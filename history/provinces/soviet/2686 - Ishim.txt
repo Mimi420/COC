@@ -1,7 +1,7 @@
-owner=X17
-controller=X17
-add_core=SIB
-add_core=X17
+owner = RUS
+controller = RUS
+add_core = RUS
+add_core = SIB
 trade_goods = sulphur
 life_rating = 35
-terrain = forest
+colonial = 2

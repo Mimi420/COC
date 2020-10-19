@@ -1,8 +1,6 @@
-owner=IRE
-controller=IRE
-add_core=ENG
-add_core=IRE
-add_core=SCO
+owner = ENG
+controller = ENG
+add_core = ENG
 trade_goods = fish
 life_rating = 35
-terrain = plains
+terrain = small_island

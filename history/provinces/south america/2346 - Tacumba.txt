@@ -1,6 +1,9 @@
-owner=ARG
-controller=ARG
-add_core=ARG
-trade_goods = wool
+owner = URU
+controller = URU
+add_core = URU
+trade_goods = fish
 life_rating = 35
-terrain = woods
+party_loyalty = {
+    ideology = conservative
+    loyalty_value = 25
+}

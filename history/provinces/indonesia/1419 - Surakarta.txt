@@ -1,7 +1,5 @@
-owner=BRU
-controller=BRU
-add_core=BRU
-add_core=JAV
+owner = JAV
+controller = JAV
+add_core = JAV
 trade_goods = fruit
-life_rating = 30
-terrain = jungle
+life_rating = 35

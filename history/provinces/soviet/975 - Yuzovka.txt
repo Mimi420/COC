@@ -1,7 +1,6 @@
-owner=VLD
-controller=X32
-add_core=VLD
-add_core=HRE
+owner = RUS
+controller = RUS
+add_core = RUS
+add_core = UKR
 trade_goods = coal
 life_rating = 35
-terrain = plains

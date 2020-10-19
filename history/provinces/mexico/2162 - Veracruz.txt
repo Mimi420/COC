@@ -1,9 +1,5 @@
-owner=LOU
-controller=LOU
-add_core=LOU
-add_core=TEO
-add_core=TOT
+owner = MEX
+controller = MEX
+add_core = MEX
 trade_goods = grain
 life_rating = 35
-terrain = plains
-naval_base = 2

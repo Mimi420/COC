@@ -1,130 +1,91 @@
+#Surinam : 56640
+#Ruled by The Netherlands 1836
+#Paramaribo (48640/12160 POPS)
 2240 = {
-	soldiers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 29
-	}
+    aristocrats = {
+        culture = dutch
+        religion = protestant
+        size = 75
+    }
 
-	artisans=
-	{
-		culture = guajiro
-		religion = animist
-		size= 58
-	}
+    bureaucrats = {
+        culture = dutch
+        religion = protestant
+        size = 60
+    }
 
-	clergymen=
-	{
-		culture = guajiro
-		religion = animist
-		size= 9
-	}
+    artisans = {
+        culture = dutch
+        religion = protestant
+        size = 100
+    }
 
-	bureaucrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 4
-	}
+    soldiers = {
+        culture = dutch
+        religion = protestant
+        size = 75
+    }
 
-	officers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 2
-	}
+    clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 25
+    }
 
-	aristocrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 12
-	}
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 1750
+    }
 
-	farmers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 2771
-	}
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 1200
+    }
 
-	soldiers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 101
-	}
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 25
+    }
 
-	artisans=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 461
-	}
-
-	clergymen=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 75
-	}
-
-	bureaucrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 35
-	}
-
-	officers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 15
-	}
-
-	aristocrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 97
-	}
-
-	farmers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 9303
-	}
-
+    slaves = {
+        culture = afro_caribbean
+        religion = animist
+        size = 9000
+    }
 }
+#Aperina (8000/2000 POPS)
 2245 = {
-	soldiers=
-	{
-		culture = carribean
-		religion = animist
-		size= 14
-	}
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 25
+    }
 
-	artisans=
-	{
-		culture = carribean
-		religion = animist
-		size= 11
-	}
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
 
-	farmers=
-	{
-		culture = carribean
-		religion = animist
-		size= 667
-	}
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 100
+    }
 
-	artisans=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 67
-	}
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 25
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 1750
+    }
 
 }

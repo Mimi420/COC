@@ -1,114 +1,47 @@
+#Danish West Indies Region  #see Leeward Islands.txt for BVI
+#Ruled by Denmark 1836
+#Saint Thomas (44000/11000 POPS)
 2223 = {
-	slaves=
-	{
-		culture = carribean
-		religion = animist
-		size= 1824
-	}
+    aristocrats = {
+        culture = danish
+        religion = protestant
+        size = 200
+    }
 
-	soldiers=
-	{
-		culture = carribean
-		religion = animist
-		size= 40
-	}
+    bureaucrats = {
+        culture = danish
+        religion = protestant
+        size = 25
+    }
 
-	artisans=
-	{
-		culture = carribean
-		religion = animist
-		size= 40
-	}
+    artisans = {
+        culture = danish
+        religion = protestant
+        size = 175
+    }
 
-	clergymen=
-	{
-		culture = carribean
-		religion = animist
-		size= 7
-	}
+    farmers = {
+        culture = danish
+        religion = protestant
+        size = 200
+    }
 
-	bureaucrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 2
-	}
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 150
+    }
 
-	officers=
-	{
-		culture = carribean
-		religion = animist
-		size= 1
-	}
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 350
+    }
 
-	aristocrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 8
-	}
-
-	farmers=
-	{
-		culture = carribean
-		religion = animist
-		size= 84
-	}
-
-	slaves=
-	{
-		culture = afro_norse
-		religion = catholic
-		size= 8771
-	}
-
-	soldiers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 193
-	}
-
-	artisans=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 426
-	}
-
-	clergymen=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 69
-	}
-
-	bureaucrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 21
-	}
-
-	officers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 14
-	}
-
-	aristocrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 89
-	}
-
-	farmers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 65
-	}
+    slaves = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 500
+    }
 
 }

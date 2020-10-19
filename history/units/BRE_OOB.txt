@@ -1,6 +1,9 @@
-#Sphere of Influence
-
-
-#Leaders
-
-#Armies
+army = {
+    name = "Bremen's Militia"
+    location = 539
+    regiment = {
+        name= "Bremen's Militia"
+        type = infantry
+        home = 539
+        }
+}

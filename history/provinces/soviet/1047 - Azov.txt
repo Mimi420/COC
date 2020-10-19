@@ -1,7 +1,6 @@
-owner=VLD
-controller=VLD
-add_core=VLD
-add_core=HRE
+owner = RUS
+controller = RUS
+add_core = RUS
+add_core = DON
 trade_goods = cattle
 life_rating = 35
-terrain = steppe

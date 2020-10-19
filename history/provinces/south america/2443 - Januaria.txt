@@ -1,6 +1,6 @@
-owner=X43
-controller=X43
-add_core=X43
-trade_goods = coffee
+owner = BRZ
+controller = BRZ
+add_core = BRZ
+trade_goods = fruit
+terrain = dryhills
 life_rating = 35
-terrain = hills

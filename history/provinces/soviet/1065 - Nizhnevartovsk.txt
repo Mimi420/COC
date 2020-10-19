@@ -1,6 +1,8 @@
-owner=X17
-controller=X17
-add_core=MGL
+owner = RUS
+controller = RUS
+add_core = RUS
+add_core = URA
 trade_goods = timber
+terrain = boreal
 life_rating = 15
-terrain = arctic
+colonial = 2

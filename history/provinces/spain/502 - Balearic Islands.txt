@@ -1,7 +1,7 @@
-owner=MOR
-controller=MOR
-add_core=FRA
+owner = SPA
+controller = SPA
+add_core = SPA
+add_core = CAT
 trade_goods = cattle
 life_rating = 35
-terrain = plains
-naval_base = 2
+1861.1.1 = { railroad = 3 }

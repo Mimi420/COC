@@ -1,442 +1,444 @@
+#Suriye Region (68000)  #see Syria.txt & Jordan.txt for balance of region
+#under the rule of Egypt in 1836
+#Baalbeck (68000/17000 POPS) #now part of Lebanon
 912 = {
-	soldiers=
-	{
-		culture = greek
-		religion = orthodox
-		size= 321
-	}
+    aristocrats = {
+        culture = mashriqi
+        religion = shiite
+        size = 125
+    }
 
-	craftsmen=
-	{
-		culture = greek
-		religion = orthodox
-		size= 4693
-	}
+    clergymen = {
+        culture = mashriqi
+        religion = shiite
+        size = 100
+    }
 
-	artisans=
-	{
-		culture = greek
-		religion = orthodox
-		size= 516
-	}
+    artisans = {
+        culture = mashriqi
+        religion = shiite
+        size = 400
+    }
 
-	clergymen=
-	{
-		culture = greek
-		religion = orthodox
-		size= 86
-	}
+    soldiers = {
+        culture = mashriqi
+        religion = shiite
+        size = 175
+    }
 
-	clerks=
-	{
-		culture = greek
-		religion = orthodox
-		size= 142
-	}
+    farmers = {
+        culture = mashriqi
+        religion = shiite
+        size = 7425
+    }
 
-	bureaucrats=
-	{
-		culture = greek
-		religion = orthodox
-		size= 8
-	}
+    clergymen = {
+        culture = mashriqi
+        religion = sunni
+        size = 100
+    }
 
-	officers=
-	{
-		culture = greek
-		religion = orthodox
-		size= 9
-	}
+    artisans = {
+        culture = mashriqi
+        religion = sunni
+        size = 300
+    }
 
-	capitalists=
-	{
-		culture = greek
-		religion = orthodox
-		size= 40
-	}
+    farmers = {
+        culture = mashriqi
+        religion = sunni
+        size = 3700
+    }
 
-	aristocrats=
-	{
-		culture = greek
-		religion = orthodox
-		size= 72
-	}
+    clergymen = {
+        culture = mashriqi
+        religion = orthodox
+        size = 100
+    }
 
-	farmers=
-	{
-		culture = greek
-		religion = orthodox
-		size= 5584
-	}
+    artisans = {
+        culture = mashriqi
+        religion = orthodox
+        size = 100
+    }
 
-	soldiers=
-	{
-		culture = greek
-		religion = monophysite
-		size= 238
-	}
+    farmers = {
+        culture = mashriqi
+        religion = orthodox
+        size = 1000
+    }
 
-	craftsmen=
-	{
-		culture = greek
-		religion = monophysite
-		size= 3477
-	}
+    clergymen = {
+        culture = mashriqi
+        religion = catholic
+        size = 100
+    }
 
-	artisans=
-	{
-		culture = greek
-		religion = monophysite
-		size= 1281
-	}
+    artisans = {
+        culture = mashriqi
+        religion = catholic
+        size = 100
+    }
 
-	clergymen=
-	{
-		culture = greek
-		religion = monophysite
-		size= 213
-	}
+    farmers = {
+        culture = mashriqi
+        religion = catholic
+        size = 2000
+    }
 
-	clerks=
-	{
-		culture = greek
-		religion = monophysite
-		size= 351
-	}
+    aristocrats = {
+        culture = mashriqi
+        religion = druze
+        size = 100
+    }
 
-	bureaucrats=
-	{
-		culture = greek
-		religion = monophysite
-		size= 20
-	}
+    clergymen = {
+        culture = mashriqi
+        religion = druze
+        size = 100
+    }
 
-	officers=
-	{
-		culture = greek
-		religion = monophysite
-		size= 23
-	}
+    artisans = {
+        culture = mashriqi
+        religion = druze
+        size = 200
+    }
 
-	capitalists=
-	{
-		culture = greek
-		religion = monophysite
-		size= 98
-	}
-
-	aristocrats=
-	{
-		culture = greek
-		religion = monophysite
-		size= 179
-	}
-
-	farmers=
-	{
-		culture = greek
-		religion = monophysite
-		size= 2616
-	}
-
+    farmers = {
+        culture = mashriqi
+        religion = druze
+        size = 3725
+    }
 }
+#Bayrut Region (260000)  #see Israel-Palestine.txt for balance of region
+#under the rule of Egypt in 1836
+#Beirut (128000/32000 POPS) #mashriqi-catholic = maronites
 913 = {
-	soldiers=
-	{
-		culture = greek
-		religion = orthodox
-		size= 1033
-	}
+    aristocrats = {
+        culture = mashriqi
+        religion = shiite
+        size = 50
+    }
 
-	artisans=
-	{
-		culture = greek
-		religion = orthodox
-		size= 843
-	}
+    clergymen = {
+        culture = mashriqi
+        religion = shiite
+        size = 100
+    }
 
-	clergymen=
-	{
-		culture = greek
-		religion = orthodox
-		size= 162
-	}
+    artisans = {
+        culture = mashriqi
+        religion = shiite
+        size = 125
+    }
 
-	bureaucrats=
-	{
-		culture = greek
-		religion = orthodox
-		size= 15
-	}
+    farmers = {
+        culture = mashriqi
+        religion = shiite
+        size = 1075
+    }
 
-	officers=
-	{
-		culture = greek
-		religion = orthodox
-		size= 17
-	}
+    clergymen = {
+        culture = mashriqi
+        religion = orthodox
+        size = 100
+    }
 
-	aristocrats=
-	{
-		culture = greek
-		religion = orthodox
-		size= 138
-	}
+    artisans = {
+        culture = mashriqi
+        religion = orthodox
+        size = 125
+    }
 
-	farmers=
-	{
-		culture = greek
-		religion = orthodox
-		size= 19498
-	}
+    farmers = {
+        culture = mashriqi
+        religion = orthodox
+        size = 2625
+    }
 
-	soldiers=
-	{
-		culture = greek
-		religion = monophysite
-		size= 453
-	}
+    aristocrats = {
+        culture = mashriqi
+        religion = catholic
+        size = 150
+    }
 
-	artisans=
-	{
-		culture = greek
-		religion = monophysite
-		size= 2091
-	}
+    bureaucrats = {
+        culture = mashriqi
+        religion = catholic
+        size = 100
+    }
 
-	clergymen=
-	{
-		culture = greek
-		religion = monophysite
-		size= 400
-	}
+    clergymen = {
+        culture = mashriqi
+        religion = catholic
+        size = 200
+    }
 
-	bureaucrats=
-	{
-		culture = greek
-		religion = monophysite
-		size= 38
-	}
+    artisans = {
+        culture = mashriqi
+        religion = catholic
+        size = 950
+    }
 
-	officers=
-	{
-		culture = greek
-		religion = monophysite
-		size= 43
-	}
+    farmers = {
+        culture = mashriqi
+        religion = catholic
+        size = 19100
+    }
 
-	aristocrats=
-	{
-		culture = greek
-		religion = monophysite
-		size= 342
-	}
+    soldiers = {
+        culture = mashriqi
+        religion = catholic
+        size = 325
+    }
 
-	farmers=
-	{
-		culture = greek
-		religion = monophysite
-		size= 12461
-	}
+    officers = {
+        culture = mashriqi
+        religion = sunni
+        size = 100
+    }
 
+    clergymen = {
+        culture = mashriqi
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = sunni
+        size = 125
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = sunni
+        size = 1075
+    }
+
+    aristocrats = {
+        culture = mashriqi
+        religion = druze
+        size = 50
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = druze
+        size = 100
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = druze
+        size = 200
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = druze
+        size = 3625
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 25
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 100
+    }
+
+    farmers = {
+        culture = armenian
+        religion = coptic
+        size = 1325
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 490
+    }
 }
+#Askaleh (48000/12000 POPS)
 914 = {
-	soldiers=
-	{
-		culture = greek
-		religion = orthodox
-		size= 229
-	}
+    aristocrats = {
+        culture = mashriqi
+        religion = sunni
+        size = 125
+    }
 
-	artisans=
-	{
-		culture = greek
-		religion = orthodox
-		size= 369
-	}
+    clergymen = {
+        culture = mashriqi
+        religion = sunni
+        size = 100
+    }
 
-	clergymen=
-	{
-		culture = greek
-		religion = orthodox
-		size= 61
-	}
+    artisans = {
+        culture = mashriqi
+        religion = sunni
+        size = 500
+    }
 
-	bureaucrats=
-	{
-		culture = greek
-		religion = orthodox
-		size= 6
-	}
+    soldiers = {
+        culture = mashriqi
+        religion = sunni
+        size = 100
+    }
 
-	officers=
-	{
-		culture = greek
-		religion = orthodox
-		size= 7
-	}
+    farmers = {
+        culture = mashriqi
+        religion = sunni
+        size = 8275
+    }
 
-	aristocrats=
-	{
-		culture = greek
-		religion = orthodox
-		size= 52
-	}
+    clergymen = {
+        culture = mashriqi
+        religion = orthodox
+        size = 100
+    }
 
-	farmers=
-	{
-		culture = greek
-		religion = orthodox
-		size= 7469
-	}
+    artisans = {
+        culture = mashriqi
+        religion = orthodox
+        size = 100
+    }
 
-	soldiers=
-	{
-		culture = greek
-		religion = monophysite
-		size= 170
-	}
+    farmers = {
+        culture = mashriqi
+        religion = orthodox
+        size = 1875
+    }
 
-	artisans=
-	{
-		culture = greek
-		religion = monophysite
-		size= 915
-	}
+    clergymen = {
+        culture = mashriqi
+        religion = shiite
+        size = 100
+    }
 
-	clergymen=
-	{
-		culture = greek
-		religion = monophysite
-		size= 152
-	}
-
-	bureaucrats=
-	{
-		culture = greek
-		religion = monophysite
-		size= 14
-	}
-
-	officers=
-	{
-		culture = greek
-		religion = monophysite
-		size= 16
-	}
-
-	aristocrats=
-	{
-		culture = greek
-		religion = monophysite
-		size= 128
-	}
-
-	farmers=
-	{
-		culture = greek
-		religion = monophysite
-		size= 4674
-	}
-
+    farmers = {
+        culture = mashriqi
+        religion = shiite
+        size = 900
+    }
 }
+#Sidon (84000/21000 POPS)
 915 = {
-	soldiers=
-	{
-		culture = greek
-		religion = orthodox
-		size= 413
-	}
+    aristocrats = {
+        culture = mashriqi
+        religion = sunni
+        size = 25
+    }
 
-	artisans=
-	{
-		culture = greek
-		religion = orthodox
-		size= 664
-	}
+    clergymen = {
+        culture = mashriqi
+        religion = sunni
+        size = 50
+    }
 
-	clergymen=
-	{
-		culture = greek
-		religion = orthodox
-		size= 111
-	}
+    artisans = {
+        culture = mashriqi
+        religion = sunni
+        size = 100
+    }
 
-	bureaucrats=
-	{
-		culture = greek
-		religion = orthodox
-		size= 10
-	}
+    soldiers = {
+        culture = mashriqi
+        religion = sunni
+        size = 25
+    }
 
-	officers=
-	{
-		culture = greek
-		religion = orthodox
-		size= 12
-	}
+    farmers = {
+        culture = mashriqi
+        religion = sunni
+        size = 2000
+    }
 
-	aristocrats=
-	{
-		culture = greek
-		religion = orthodox
-		size= 93
-	}
+    clergymen = {
+        culture = mashriqi
+        religion = orthodox
+        size = 25
+    }
 
-	farmers=
-	{
-		culture = greek
-		religion = orthodox
-		size= 13445
-	}
+    artisans = {
+        culture = mashriqi
+        religion = orthodox
+        size = 50
+    }
 
-	soldiers=
-	{
-		culture = greek
-		religion = monophysite
-		size= 306
-	}
+    farmers = {
+        culture = mashriqi
+        religion = orthodox
+        size = 925
+    }
 
-	artisans=
-	{
-		culture = greek
-		religion = monophysite
-		size= 1647
-	}
+    aristocrats = {
+        culture = mashriqi
+        religion = catholic
+        size = 75
+    }
 
-	clergymen=
-	{
-		culture = greek
-		religion = monophysite
-		size= 274
-	}
+    clergymen = {
+        culture = mashriqi
+        religion = catholic
+        size = 50
+    }
 
-	bureaucrats=
-	{
-		culture = greek
-		religion = monophysite
-		size= 26
-	}
+    artisans = {
+        culture = mashriqi
+        religion = catholic
+        size = 250
+    }
 
-	officers=
-	{
-		culture = greek
-		religion = monophysite
-		size= 29
-	}
+    farmers = {
+        culture = mashriqi
+        religion = catholic
+        size = 2050
+    }
 
-	aristocrats=
-	{
-		culture = greek
-		religion = monophysite
-		size= 231
-	}
+    aristocrats = {
+        culture = mashriqi
+        religion = shiite
+        size = 100
+    }
 
-	farmers=
-	{
-		culture = greek
-		religion = monophysite
-		size= 8411
-	}
+    clergymen = {
+        culture = mashriqi
+        religion = shiite
+        size = 75
+    }
 
+    artisans = {
+        culture = mashriqi
+        religion = shiite
+        size = 450
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = shiite
+        size = 11350
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 590
+    }
 }

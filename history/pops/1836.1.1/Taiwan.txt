@@ -1,298 +1,265 @@
+#Taiwan Region (2980000)
+#under the rule of China in 1836
+#Tainan (1452000/363000 POPS) #now part of Taiwan
 1485 = {
-	soldiers=
-	{
-		culture = polynesian
-		religion = animist
-		size= 5162
-	}
+    aristocrats = {
+        culture = nanfaren
+        religion = mahayana
+        size = 1525
+    }
 
-	artisans=
-	{
-		culture = polynesian
-		religion = animist
-		size= 4148
-	}
+    clergymen = {
+        culture = nanfaren
+        religion = mahayana
+        size = 1325
+    }
 
-	clergymen=
-	{
-		culture = polynesian
-		religion = animist
-		size= 346
-	}
+    artisans = {
+        culture = nanfaren
+        religion = mahayana
+        size = 6600
+    }
 
-	bureaucrats=
-	{
-		culture = polynesian
-		religion = animist
-		size= 23
-	}
+    soldiers = {
+        culture = nanfaren
+        religion = mahayana
+        size = 1325
+    }
 
-	officers=
-	{
-		culture = polynesian
-		religion = animist
-		size= 74
-	}
+    farmers = {
+        culture = nanfaren
+        religion = mahayana
+        size = 121225
+    }
 
-	aristocrats=
-	{
-		culture = polynesian
-		religion = animist
-		size= 387
-	}
+    slaves = {
+        culture = nanfaren
+        religion = mahayana
+        size = 20000
+    }
 
-	farmers=
-	{
-		culture = polynesian
-		religion = animist
-		size= 174211
-	}
+    aristocrats = {
+        culture = min
+        religion = mahayana
+        size = 3500
+    }
 
-	soldiers=
-	{
-		culture = polynesian
-		religion = mahayana
-		size= 4389
-	}
+    clergymen = {
+        culture = min
+        religion = mahayana
+        size = 2500
+    }
 
-	artisans=
-	{
-		culture = polynesian
-		religion = mahayana
-		size= 11202
-	}
+    artisans = {
+        culture = min
+        religion = mahayana
+        size = 10000
+    }
 
-	clergymen=
-	{
-		culture = polynesian
-		religion = mahayana
-		size= 933
-	}
+    artisans = {
+        culture = min
+        religion = mahayana
+        size = 2500
+    }
 
-	bureaucrats=
-	{
-		culture = polynesian
-		religion = mahayana
-		size= 62
-	}
+    soldiers = {
+        culture = min
+        religion = mahayana
+        size = 2500
+    }
 
-	officers=
-	{
-		culture = polynesian
-		religion = mahayana
-		size= 199
-	}
+    farmers = {
+        culture = min
+        religion = mahayana
+        size = 165000
+    }
+}
+#Taitung (67k - 268k) #now part of Taiwan
+2562 = {
+    farmers = {
+        culture = asian_minor
+        religion = animist
+        size = 17000
+    }
 
-	aristocrats=
-	{
-		culture = polynesian
-		religion = mahayana
-		size= 1046
-	}
+    slaves = {
+        culture = asian_minor
+        religion = animist
+        size = 20000
+    }
 
-	farmers=
-	{
-		culture = polynesian
-		religion = mahayana
-		size= 138907
-	}
+    soldiers = {
+        culture = asian_minor
+        religion = animist
+        size = 5000
+    }
 
-	soldiers=
-	{
-		culture = polynesian
-		religion = sunni
-		size= 1226
-	}
+    aristocrats = {
+        culture = asian_minor
+        religion = animist
+        size = 1000
+    }
 
-	artisans=
-	{
-		culture = polynesian
-		religion = sunni
-		size= 19290
-	}
+    aristocrats = {
+        culture = nanfaren
+        religion = mahayana
+        size = 150
+    }
 
-	clergymen=
-	{
-		culture = polynesian
-		religion = sunni
-		size= 1608
-	}
+    clergymen = {
+        culture = nanfaren
+        religion = mahayana
+        size = 100
+    }
 
-	bureaucrats=
-	{
-		culture = polynesian
-		religion = sunni
-		size= 107
-	}
+    artisans = {
+        culture = nanfaren
+        religion = mahayana
+        size = 750
+    }
 
-	officers=
-	{
-		culture = polynesian
-		religion = sunni
-		size= 343
-	}
+    soldiers = {
+        culture = nanfaren
+        religion = mahayana
+        size = 1300
+    }
 
-	aristocrats=
-	{
-		culture = polynesian
-		religion = sunni
-		size= 1800
-	}
+    farmers = {
+        culture = min
+        religion = mahayana
+        size = 12925
+    }
+}
 
-	farmers=
-	{
-		culture = polynesian
-		religion = sunni
-		size= 19423
-	}
+#Penghu (15K - 60 K POPS) #british trade post 1836 - old cocos island
+2406 = {
+    aristocrats = {
+        culture = nanfaren
+        religion = mahayana
+        size = 150
+    }
+
+    clergymen = {
+        culture = nanfaren
+        religion = mahayana
+        size = 100
+    }
+
+    artisans = {
+        culture = nanfaren
+        religion = mahayana
+        size = 750
+    }
+
+    soldiers = {
+        culture = nanfaren
+        religion = mahayana
+        size = 1300
+    }
+
+    farmers = {
+        culture = min
+        religion = mahayana
+        size = 12925
+    }
 
 }
-2562 = {
-	soldiers=
-	{
-		culture = polynesian
-		religion = animist
-		size= 5447
-	}
 
-	artisans=
-	{
-		culture = polynesian
-		religion = animist
-		size= 4377
-	}
+#Taipei (1452000/363000 POPS) formerly 2681 - Kikkiaki in Russia.txt
+2681 = {
+    aristocrats = {
+        culture = nanfaren
+        religion = mahayana
+        size = 1500
+    }
 
-	clergymen=
-	{
-		culture = polynesian
-		religion = animist
-		size= 364
-	}
+    bureaucrats = {
+        culture = nanfaren
+        religion = mahayana
+        size = 400
+    }
 
-	bureaucrats=
-	{
-		culture = polynesian
-		religion = animist
-		size= 25
-	}
+    officers = {
+        culture = nanfaren
+        religion = mahayana
+        size = 725
+    }
 
-	officers=
-	{
-		culture = polynesian
-		religion = animist
-		size= 78
-	}
+    clergymen = {
+        culture = nanfaren
+        religion = mahayana
+        size = 1225
+    }
 
-	aristocrats=
-	{
-		culture = polynesian
-		religion = animist
-		size= 409
-	}
+    artisans = {
+        culture = nanfaren
+        religion = mahayana
+        size = 6150
+    }
 
-	farmers=
-	{
-		culture = polynesian
-		religion = animist
-		size= 183836
-	}
+    soldiers = {
+        culture = nanfaren
+        religion = mahayana
+        size = 1250
+    }
 
-	soldiers=
-	{
-		culture = polynesian
-		religion = mahayana
-		size= 4631
-	}
+    farmers = {
+        culture = nanfaren
+        religion = mahayana
+        size = 110625
+    }
 
-	artisans=
-	{
-		culture = polynesian
-		religion = mahayana
-		size= 11820
-	}
+    aristocrats = {
+        culture = min
+        religion = mahayana
+        size = 3000
+    }
 
-	clergymen=
-	{
-		culture = polynesian
-		religion = mahayana
-		size= 985
-	}
+    clergymen = {
+        culture = min
+        religion = mahayana
+        size = 2400
+    }
 
-	bureaucrats=
-	{
-		culture = polynesian
-		religion = mahayana
-		size= 66
-	}
+    artisans = {
+        culture = min
+        religion = mahayana
+        size = 10000
+    }
 
-	officers=
-	{
-		culture = polynesian
-		religion = mahayana
-		size= 211
-	}
+    artisans = {
+        culture = min
+        religion = mahayana
+        size = 2000
+    }
 
-	aristocrats=
-	{
-		culture = polynesian
-		religion = mahayana
-		size= 1103
-	}
+    soldiers = {
+        culture = min
+        religion = mahayana
+        size = 2400
+    }
 
-	farmers=
-	{
-		culture = polynesian
-		religion = mahayana
-		size= 146582
-	}
+    farmers = {
+        culture = min
+        religion = mahayana
+        size = 220200
+    }
 
-	soldiers=
-	{
-		culture = polynesian
-		religion = sunni
-		size= 1294
-	}
+    bureaucrats = {
+        culture = manchu
+        religion = mahayana
+        size = 50
+    }
 
-	artisans=
-	{
-		culture = polynesian
-		religion = sunni
-		size= 20357
-	}
+    officers = {
+        culture = manchu
+        religion = mahayana
+        size = 25
+    }
 
-	clergymen=
-	{
-		culture = polynesian
-		religion = sunni
-		size= 1697
-	}
-
-	bureaucrats=
-	{
-		culture = polynesian
-		religion = sunni
-		size= 114
-	}
-
-	officers=
-	{
-		culture = polynesian
-		religion = sunni
-		size= 362
-	}
-
-	aristocrats=
-	{
-		culture = polynesian
-		religion = sunni
-		size= 1900
-	}
-
-	farmers=
-	{
-		culture = polynesian
-		religion = sunni
-		size= 20494
-	}
-
+    soldiers = {
+        culture = manchu
+        religion = mahayana
+        size = 50
+    }
 }

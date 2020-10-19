@@ -1,7 +1,6 @@
-owner=GRA
-controller=GRA
-add_core=GRA
-add_core=ADU
+owner = SPA
+controller = SPA
+add_core = SPA
 trade_goods = fruit
 life_rating = 35
-terrain = plains
+1861.1.1 = { railroad = 2 }

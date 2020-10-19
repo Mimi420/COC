@@ -1,7 +1,6 @@
-owner=X23
-controller=X23
-add_core=HND
-add_core=X23
+owner = TRA
+controller = TRA
+add_core = TRA
+add_core = HND
 trade_goods = fruit
 life_rating = 32
-terrain = plains

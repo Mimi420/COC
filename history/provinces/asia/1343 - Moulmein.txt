@@ -1,8 +1,7 @@
-owner=SIA
-controller=SIA
-add_core=BUR
-add_core=IDO
+owner = ENG
+controller = ENG
+add_core = KAR
+add_core = BUR
 trade_goods = grain
-life_rating = 30
-terrain = hills
-naval_base = 1
+life_rating = 33
+colonial = 2

@@ -1,6 +1,3 @@
-owner=ARG
-controller=ARG
 trade_goods = timber
-life_rating = 30
-terrain = jungle
-colonial=2
+terrain = savanna
+life_rating = 15

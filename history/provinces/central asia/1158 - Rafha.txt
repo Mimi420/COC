@@ -1,7 +1,5 @@
-owner=YEM
-controller=YEM
-add_core=TUR
-add_core=YEM
+owner = HAL
+controller = HAL
+add_core = HAL
 trade_goods = wool
 life_rating = 10
-terrain = desert

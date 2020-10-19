@@ -1,13 +1,22 @@
 capital = 718
 primary_culture = byelorussian
-culture = zzz_religion_orthodox
 religion = orthodox
 government = democracy
-plurality = 0
+plurality = 0.2
 nationalvalue = nv_order
-literacy = 0
-
+literacy = 0.6
 civilized = yes
+
+
+# Political reforms
+slavery = no_slavery
+upper_house_composition = appointed
+vote_franschise = none_voting
+public_meetings = yes_meeting
+press_rights = state_press
+trade_unions = no_trade_unions
+voting_system = first_past_the_post
+political_parties = underground_parties
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -18,33 +27,23 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-# political reforms
-slavery=yes_slavery
-vote_franschise=wealth_weighted_voting
-upper_house_composition=appointed
-voting_system=jefferson_method
-public_meetings=no_meeting
-press_rights=state_press
-trade_unions=no_trade_unions
-political_parties=underground_parties
+#New Reforms
+conscription = four_year_draft
+debt_law = peonage
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
+border_policy = open_borders
 
-ruling_party = conservative
-upper_house = 
-{
-	fascist = 0
-	liberal = 25
-	conservative = 65
-	reactionary = 10
-	anarcho_liberal = 0
-	socialist = 0
-	communist = 0
+set_country_flag = orthodox_country
+
+ruling_party = BYE_conservative
+upper_house = {
+    fascist = 0
+    liberal = 36
+    conservative = 40
+    reactionary = 12
+    anarcho_liberal = 12
+    socialist = 0
+    communist = 0
 }
-
-# Starting Consciousness
-consciousness = 0
-nonstate_consciousness= 0
-
-# Technologies
-prestige=0
-oob = "BYE_OOB.txt"
-set_country_flag = religi

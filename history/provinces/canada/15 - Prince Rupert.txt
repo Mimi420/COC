@@ -1,8 +1,6 @@
-owner=COL
-controller=COL
-add_core=COL
-add_core=LSK
-trade_goods = timber
-life_rating = 35
-terrain = forest
-naval_base = 2
+owner = ENG
+controller = ENG
+add_core = COL
+terrain = new_world_montane_tundra
+trade_goods = fish
+life_rating = 31

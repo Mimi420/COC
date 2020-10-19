@@ -1,8 +1,6 @@
-owner=FRA
-controller=FRA
-add_core=FRA
-add_core=OCC
-add_core=TUL
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = BSQ
 trade_goods = grain
-life_rating = 32
-terrain = mountain
+life_rating = 31

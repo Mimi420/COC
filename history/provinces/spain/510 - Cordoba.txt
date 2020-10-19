@@ -1,7 +1,6 @@
-owner=MOR
-controller=MOR
-add_core=MOR
-add_core=ADU
+owner = SPA
+controller = SPA
+add_core = SPA
 trade_goods = grain
 life_rating = 35
-terrain = plains
+1861.1.1 = { railroad = 3 }

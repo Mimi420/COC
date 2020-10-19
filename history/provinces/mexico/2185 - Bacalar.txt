@@ -1,8 +1,6 @@
-owner=HON
-controller=HON
-add_core=KIC
+owner = MEX
+controller = MEX
+add_core = MEX
+add_core = YUC
 trade_goods = timber
-life_rating = 30
-terrain = jungle
-colonial=2
-naval_base = 2
+life_rating = 33

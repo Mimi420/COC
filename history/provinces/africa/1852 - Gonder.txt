@@ -1,11 +1,14 @@
-owner=X24
-controller=X24
+owner = GON
+controller = GON
+add_core = GON
+add_core = TIG
+add_core = ETH
 trade_goods = cattle
-life_rating = 30
-terrain = hills
-state_building=
-{
-	level=1
-	building = canned_food_factory
-	upgrade = yes
+life_rating = 35
+1861.1.1 = {
+    owner = ETH
+    controller = ETH
+    remove_core = GON
+    remove_core = SHW
+    remove_core = TIG
 }

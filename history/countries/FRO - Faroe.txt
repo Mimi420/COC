@@ -1,11 +1,23 @@
-primary_culture = dummy
-culture = zzz_religion_shamanist
-religion = shamanist
-government = absolute_monarchy
-plurality = 0
-nationalvalue = nv_order
-literacy = 0
+capital = 253
+primary_culture = icelandic
+religion = protestant
+government = democracy
+plurality = 0.5
+nationalvalue = nv_liberty
+literacy = 0.87
+civilized = yes
+is_releasable_vassal = no
 
+
+# Political reforms
+slavery = no_slavery
+upper_house_composition = state_equal_weight
+vote_franschise = universal_weighted_voting
+public_meetings = yes_meeting
+press_rights = free_press
+trade_unions = all_trade_unions
+voting_system = first_past_the_post
+political_parties = non_secret_ballots
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -15,33 +27,30 @@ health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
-# Political Reforms
-slavery=yes_slavery
-vote_franschise=none_voting
-upper_house_composition=appointed
-voting_system=jefferson_method
-public_meetings=yes_meeting
-press_rights=censored_press
-trade_unions=no_trade_unions
-political_parties=underground_parties
 
-ruling_party = DAN_liberal
-upper_house = 
-{
-	fascist = 0
-	liberal = 25
-	conservative = 65
-	reactionary = 10
-	anarcho_liberal = 0
-	socialist = 0
-	communist = 0
+#New Reforms
+conscription = two_year_draft
+debt_law = serfdom
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = culture_voting_only
+border_policy = open_borders
+
+set_country_flag = protestant_country
+
+ruling_party = FRO_liberal
+upper_house = {
+    fascist = 0
+    liberal = 65
+    conservative = 25
+    reactionary = 5
+    anarcho_liberal = 2
+    socialist = 3
+    communist = 0
 }
 
-# Starting Consciousness
-consciousness = 0
-nonstate_consciousness= 0
-
+1861.1.1 = {
 # Technologies
-prestige=0
-oob = "FRO_OOB.txt"
-set_country_flag = religi
+
+#Inventions
+}

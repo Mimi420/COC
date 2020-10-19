@@ -1,0 +1,595 @@
+1531 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1397
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 998
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 162
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 62
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 210
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 22072
+	}
+
+}
+2528 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 943
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1886
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 307
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 118
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 61
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 396
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 43448
+	}
+
+}
+2529 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 389
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 580
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 95
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 36
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 122
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 18163
+	}
+
+	soldiers=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 67
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 4
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 14
+	}
+
+	soldiers=
+	{
+		culture = rajput
+		religion = hindu
+		size= 126
+	}
+
+	artisans=
+	{
+		culture = rajput
+		religion = hindu
+		size= 383
+	}
+
+	clergymen=
+	{
+		culture = rajput
+		religion = hindu
+		size= 62
+	}
+
+	bureaucrats=
+	{
+		culture = rajput
+		religion = hindu
+		size= 24
+	}
+
+	officers=
+	{
+		culture = rajput
+		religion = hindu
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = rajput
+		religion = hindu
+		size= 80
+	}
+
+	farmers=
+	{
+		culture = rajput
+		religion = hindu
+		size= 5594
+	}
+
+}
+2530 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 626
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 313
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 20
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 65
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 30231
+	}
+
+	soldiers=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 46
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 359
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 22
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 1739
+	}
+
+	soldiers=
+	{
+		culture = rajput
+		religion = hindu
+		size= 525
+	}
+
+	artisans=
+	{
+		culture = rajput
+		religion = hindu
+		size= 1723
+	}
+
+	clergymen=
+	{
+		culture = rajput
+		religion = hindu
+		size= 280
+	}
+
+	bureaucrats=
+	{
+		culture = rajput
+		religion = hindu
+		size= 108
+	}
+
+	officers=
+	{
+		culture = rajput
+		religion = hindu
+		size= 56
+	}
+
+	aristocrats=
+	{
+		culture = rajput
+		religion = hindu
+		size= 362
+	}
+
+	farmers=
+	{
+		culture = rajput
+		religion = hindu
+		size= 23197
+	}
+
+}
+2531 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 436
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 873
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 164
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 63
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 183
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 41912
+	}
+
+	soldiers=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 268
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 1947
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 365
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 141
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 409
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = hindu
+		size= 23673
+	}
+
+}
+2537 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1935
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1382
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 225
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 86
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 73
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 290
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 30560
+	}
+
+}
+2539 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 259
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 518
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 84
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 32
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 109
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 11920
+	}
+
+}

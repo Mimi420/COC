@@ -1,0 +1,5 @@
+owner=VPS
+controller=VPS
+trade_goods = timber
+life_rating = 35
+terrain = forest

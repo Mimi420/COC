@@ -1,0 +1,365 @@
+1979 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 3
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 149
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 39
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 825
+	}
+
+}
+2239 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 23
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 46
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2199
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 131
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 568
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 92
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 43
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 119
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 12092
+	}
+
+}
+2242 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 321
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 33
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 597
+	}
+
+}
+2243 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 45
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 31
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1494
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 362
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 59
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 27
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 76
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = catholic
+		size= 6689
+	}
+
+}

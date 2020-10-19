@@ -1,7 +1,8 @@
-owner=X22
-controller=X22
-add_core=HND
-add_core=X22
+owner = ENG
+controller = ENG
+add_core = HND
+add_core = MAH
 trade_goods = grain
 life_rating = 32
-terrain = hills
+colonial = 2
+1861.1.1 = { railroad = 2 }

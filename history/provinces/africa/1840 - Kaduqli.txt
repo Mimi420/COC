@@ -1,5 +1,7 @@
-owner=X24
-controller=X24
-trade_goods = wool
-life_rating = 30
-terrain = plains
+owner = EGY
+controller = EGY
+add_core = EGY
+add_core = SUD
+trade_goods = fruit
+life_rating = 32
+terrain = semidesert

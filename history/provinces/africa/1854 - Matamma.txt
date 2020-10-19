@@ -1,5 +1,12 @@
-owner=X24
-controller=X24
+owner = GON
+controller = GON
+add_core = GON
+add_core = SHK
+add_core = ETH
 trade_goods = grain
-life_rating = 30
-terrain = mountain
+life_rating = 35
+1861.1.1 = {
+    owner = ETH
+    controller = ETH
+    remove_core = GON
+}

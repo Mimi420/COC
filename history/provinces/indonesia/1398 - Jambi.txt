@@ -1,6 +1,6 @@
-owner=X23
-controller=X23
-add_core=MLY
+owner = NET
+controller = NET
+add_core = DJA
 trade_goods = grain
-life_rating = 30
-terrain = jungle
+life_rating = 31
+colonial = 2

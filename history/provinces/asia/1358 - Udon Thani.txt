@@ -1,8 +1,5 @@
-owner=MCK
-controller=MCK
-add_core=IDO
-add_core=LNA
-add_core=LUA
+owner = SIA
+controller = SIA
+add_core = SIA
 trade_goods = fruit
-life_rating = 30
-terrain = hills
+life_rating = 35

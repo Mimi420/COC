@@ -1,6 +1,6 @@
-owner=X17
-controller=X17
-add_core=XIN
+owner = MGL
+controller = MGL
+add_core = CHI
+add_core = MGL
 trade_goods = cotton
 life_rating = 32
-terrain = plains

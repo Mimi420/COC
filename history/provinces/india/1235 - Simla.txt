@@ -1,6 +1,9 @@
-owner=RAJ
-controller=RAJ
-add_core=HND
-trade_goods = tea
+owner = ENG
+controller = ENG
+add_core = SHI
+add_core = MUG
+add_core = PNJ
+add_core = HND
+trade_goods = wool
 life_rating = 32
-terrain = mountain
+colonial = 2

@@ -1,7 +1,6 @@
-owner=X30
-controller=X30
-add_core=HND
-add_core=X30
+owner = TIB
+controller = TIB
+add_core = TIB
+add_core = KCH
 trade_goods = cattle
 life_rating = 30
-terrain = mountain

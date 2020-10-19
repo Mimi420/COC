@@ -1,128 +1,70 @@
+#Gibraltar : 16394
+#Ruled by Britain 1836
+#Gibraltar (16394/4100 POPS)
 517 = {
-	soldiers=
-	{
-		culture = spanish
-		religion = catholic
-		size= 130
-	}
+    officers = {
+        culture = british
+        religion = protestant
+        size = 5
+    }
 
-	clergymen=
-	{
-		culture = spanish
-		religion = catholic
-		size= 4
-	}
+    bureaucrats = {
+        culture = british
+        religion = protestant
+        size = 5
+    }
 
-	bureaucrats=
-	{
-		culture = spanish
-		religion = catholic
-		size= 1
-	}
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 674
+    }
 
-	officers=
-	{
-		culture = spanish
-		religion = catholic
-		size= 1
-	}
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 138
+    }
 
-	aristocrats=
-	{
-		culture = spanish
-		religion = catholic
-		size= 5
-	}
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 353
+    }
 
-	farmers=
-	{
-		culture = spanish
-		religion = catholic
-		size= 2149
-	}
+    artisans = {
+        culture = maghrebi
+        religion = jewish
+        size = 117
+    }
 
-	soldiers=
-	{
-		culture = spanish
-		religion = protestant
-		size= 67
-	}
+    farmers = {
+        culture = spanish
+        religion = catholic
+        size = 1069
+    }
 
-	clergymen=
-	{
-		culture = spanish
-		religion = protestant
-		size= 9
-	}
+    farmers = {
+        culture = portuguese
+        religion = catholic
+        size = 169
+    }
 
-	bureaucrats=
-	{
-		culture = spanish
-		religion = protestant
-		size= 2
-	}
+    clergymen = {
+        culture = north_italian
+        religion = catholic
+        size = 5
+    }
 
-	officers=
-	{
-		culture = spanish
-		religion = protestant
-		size= 2
-	}
+    farmers = {
+        culture = north_italian
+        religion = catholic
+        size = 1302
+    }
 
-	aristocrats=
-	{
-		culture = spanish
-		religion = protestant
-		size= 10
-	}
-
-	farmers=
-	{
-		culture = spanish
-		religion = protestant
-		size= 1053
-	}
-
-	soldiers=
-	{
-		culture = andalucian
-		religion = sunni
-		size= 50
-	}
-
-	clergymen=
-	{
-		culture = andalucian
-		religion = sunni
-		size= 20
-	}
-
-	bureaucrats=
-	{
-		culture = andalucian
-		religion = sunni
-		size= 4
-	}
-
-	officers=
-	{
-		culture = andalucian
-		religion = sunni
-		size= 4
-	}
-
-	aristocrats=
-	{
-		culture = andalucian
-		religion = sunni
-		size= 22
-	}
-
-	farmers=
-	{
-		culture = andalucian
-		religion = sunni
-		size= 688
-	}
-
+    farmers = {
+        culture = south_italian
+        religion = catholic
+        size = 35
+    }
 }

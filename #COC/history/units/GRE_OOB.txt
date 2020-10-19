@@ -1,0 +1,768 @@
+#Sphere of Influence
+
+AIN = {
+	value = 0
+	level = 2
+}
+ANS = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 174
+	influence_value = 31
+	level = 4
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BLZ = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRN = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUR = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+COL = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+CRI = {
+	value = 2
+	level = 2
+}
+CRS = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+DAK = {
+	value = 0
+	level = 2
+}
+ENL = {
+	value = 0
+	level = 2
+}
+FIN = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GLC = {
+	value = 0
+	level = 2
+}
+GLR = {
+	value = 0
+	level = 2
+}
+GNV = {
+	value = 0
+	level = 2
+}
+GRA = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GUG = {
+	value = 0
+	level = 2
+}
+HAN = {
+	value = 0
+	level = 2
+}
+HON = {
+	value = 0
+	level = 2
+}
+IMG = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KOL = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LOR = {
+	value = 7
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MAZ = {
+	value = -28
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MDR = {
+	value = 24
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MFY = {
+	value = 0
+	level = 2
+}
+ML1 = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = -93
+	level = 2
+}
+MUN = {
+	value = 0
+	level = 2
+}
+NDO = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NOG = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = -63
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PIS = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+QIN = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RGS = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SCY = {
+	value = -99
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 11
+	level = 2
+}
+SNA = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TAB = {
+	value = -27
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TEO = {
+	value = 0
+	level = 2
+}
+TOT = {
+	value = 0
+	level = 2
+}
+TRS = {
+	value = 0
+	level = 2
+}
+TTL = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = -24
+	level = 2
+}
+UIL = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = -68
+	level = 2
+}
+VPS = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+LEO = {
+	value = 0
+	level = 2
+}
+LAZ = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+SWB = {
+	value = 0
+	level = 2
+}
+TEM = {
+	value = 0
+	level = 2
+}
+SCN = {
+	value = 0
+	level = 2
+}
+SDR = {
+	value = 0
+	level = 2
+}
+MRV = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+VLD = {
+	value = 199
+	influence_value = 37
+	level = 4
+}
+X12 = {
+	value = 0
+	level = 2
+}
+BRH = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 18
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 204
+	influence_value = 38
+	level = 4
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+X31 = {
+	value = 66
+	influence_value = 4
+	level = 2
+}
+X32 = {
+	value = -20
+	level = 2
+}
+X33 = {
+	value = -12
+	level = 2
+}
+X34 = {
+	value = -41
+	level = 2
+}
+X35 = {
+	value = 0
+	level = 2
+}
+X36 = {
+	value = 0
+	level = 2
+}
+X37 = {
+	value = 0
+	level = 2
+}
+X38 = {
+	value = 0
+	level = 2
+}
+X39 = {
+	value = 0
+	level = 2
+}
+X40 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X42 = {
+	value = 0
+	level = 2
+}
+X43 = {
+	value = 0
+	level = 2
+}
+X44 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YOK = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Tryphon Metaxas"
+	date="1794.5.11"
+	type=sea
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Nikephoros Livinis"
+	date="1806.7.3"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Hektorios Voulgaris"
+	date="1806.7.5"
+	type=land
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Ioannes Angelopoulos"
+	date="1806.12.16"
+	type=sea
+	personality="stalwart"
+	background="artillerist"
+}
+
+leader = {
+	name="Ofeig Makris"
+	date="1817.12.23"
+	type=land
+	personality="chivalrous"
+	background="artillerist"
+}
+
+leader = {
+	name="Hierotheos Kountouriotis"
+	date="1817.12.25"
+	type=land
+	personality="persistant"
+	background="brownnoser"
+}
+
+
+#Armies
+navy = {
+	name="2nd Fleet"
+	location=826
+	ship = {
+		name="1st Nafplion Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Durres Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mugla Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Zante Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Nafplion Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Casablanca Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Shkoder Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=839
+	ship = {
+		name="1st Greek Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Izmir Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mugla Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Polygyros Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chania Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Durres Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Durres Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Gjirokaster Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Nafplion Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Nafplion Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Nafplion Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Vlore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Gjirokaster Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Nafplion Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=970
+	regiment = {
+		name="1st Kalamata Artillery"
+		type=artillery
+		home=841
+	}
+	regiment = {
+		name="1st Durres Artillery"
+		type=artillery
+		home=851
+	}
+	regiment = {
+		name="1st Corfu Artillery"
+		type=artillery
+		home=826
+	}
+	regiment = {
+		name="1st Vlore Artillery"
+		type=artillery
+		home=852
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=969
+	regiment = {
+		name="1st Polygyros Infantry"
+		type=infantry
+		home=822
+	}
+	regiment = {
+		name="1st Grevena Infantry"
+		type=infantry
+		home=820
+	}
+	regiment = {
+		name="2nd Polygyros Infantry"
+		type=infantry
+		home=822
+	}
+	regiment = {
+		name="1st Niš Infantry"
+		type=infantry
+		home=798
+	}
+	regiment = {
+		name="1st Florina Infantry"
+		type=infantry
+		home=819
+	}
+	regiment = {
+		name="1st Sofia Artillery"
+		type=artillery
+		home=809
+	}
+	regiment = {
+		name="2nd Sofia Artillery"
+		type=artillery
+		home=809
+	}
+	regiment = {
+		name="2nd Durres Artillery"
+		type=artillery
+		home=851
+	}
+	regiment = {
+		name="1st Tirana Infantry"
+		type=infantry
+		home=849
+	}
+	regiment = {
+		name="1st Tirana Artillery"
+		type=artillery
+		home=849
+	}
+}
+
+army = {
+	name="1st Army"
+	location=971
+	regiment = {
+		name="2nd Grevena Infantry"
+		type=infantry
+		home=820
+	}
+	regiment = {
+		name="1st Bitola Infantry"
+		type=infantry
+		home=807
+	}
+}
+

@@ -1,6 +1,11 @@
-owner=ZIM
-controller=ZIM
-add_core=ZIM
-trade_goods = iron
+owner = BSH
+controller = BSH
+add_core = BSH
+add_core = ORA
+trade_goods = cattle
 life_rating = 35
-terrain = mountain
+1861.1.1 = {
+    owner = ORA
+    controller = ORA
+    add_core = SAF
+}

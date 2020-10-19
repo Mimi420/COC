@@ -1,7 +1,10 @@
-owner=POM
-controller=POM
-trade_goods = cattle
-life_rating = 35
-terrain = hills
-colonial=2
+owner = PEU
+controller = PEU
+add_core = PEU
+trade_goods = sulphur
+life_rating = 39
 naval_base = 1
+1861.1.1 = {
+    railroad = 1
+    naval_base = 1
+}

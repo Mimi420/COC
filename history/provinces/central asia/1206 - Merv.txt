@@ -1,6 +1,8 @@
-owner=RAJ
-controller=RAJ
-add_core=TKS
-trade_goods = cotton
+owner = BUK
+controller = BUK
+add_core = KHI
+add_core = BUK
+add_core = TKM
+trade_goods = grain
 life_rating = 35
-terrain = plains
+terrain = semidesert

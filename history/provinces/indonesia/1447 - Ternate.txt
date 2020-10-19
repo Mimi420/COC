@@ -1,7 +1,5 @@
-owner=X21
-controller=X21
-add_core=MAL
+owner = MAL
+controller = MAL
+add_core = MAL
 trade_goods = fish
-life_rating = 30
-terrain = plains
-naval_base = 1
+life_rating = 31

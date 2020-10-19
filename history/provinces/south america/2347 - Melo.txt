@@ -1,6 +1,9 @@
-owner=ARG
-controller=ARG
-add_core=ARG
-trade_goods = cattle
+owner = URU
+controller = URU
+add_core = URU
+trade_goods = fruit
 life_rating = 35
-terrain = plains
+party_loyalty = {
+    ideology = conservative
+    loyalty_value = 25
+}

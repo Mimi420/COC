@@ -1,6 +1,6 @@
-owner=X35
-controller=X35
-add_core=X35
+owner = ENG
+controller = ENG
+add_core = AST
 trade_goods = tropical_wood
-life_rating = 30
-terrain = woods
+life_rating = 31
+colonial = 2

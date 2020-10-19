@@ -1,0 +1,8 @@
+owner=RAJ
+controller=SDR
+add_core=KHA
+add_core=MGL
+add_core=SDR
+trade_goods = sulphur
+life_rating = 32
+terrain = mountain

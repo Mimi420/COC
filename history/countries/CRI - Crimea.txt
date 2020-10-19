@@ -1,15 +1,34 @@
-capital = 1049
-primary_culture = greek
-culture = zzz_religion_orthodox
-religion = orthodox
+capital = 967
+primary_culture = tatar
+religion = sunni
 government = absolute_monarchy
-plurality = 0
+plurality = 0.02
 nationalvalue = nv_order
-literacy = 0.321665
-
+literacy = 0.1
 civilized = yes
 
-# Social Reforms
+ruling_party = CRI_conservative
+upper_house = {
+    fascist = 0
+    liberal = 13
+    conservative = 68
+    reactionary = 19
+    anarcho_liberal = 0
+    socialist = 0
+    communist = 0
+}
+
+set_country_flag = sunni_country
+
+slavery = no_slavery
+upper_house_composition = appointed
+vote_franschise = none_voting
+public_meetings = no_meeting
+press_rights = state_press
+trade_unions = no_trade_unions
+voting_system = jefferson_method
+political_parties = underground_parties
+
 wage_reform = no_minimum_wage
 work_hours = no_work_hour_limit
 safety_regulations = no_safety
@@ -18,48 +37,10 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-# political reforms
-slavery=yes_slavery
-vote_franschise=none_voting
-upper_house_composition=party_appointed
-voting_system=first_past_the_post
-public_meetings=no_meeting
-press_rights=state_press
-trade_unions=no_trade_unions
-political_parties=underground_parties
-
-ruling_party = CRI_reactionary
-upper_house = 
-{
-	fascist = 0
-	liberal = 10
-	conservative = 85
-	reactionary = 5
-	anarcho_liberal = 0
-	socialist = 0
-	communist = 0
-}
-
-# Starting Consciousness
-consciousness = 1.8839
-nonstate_consciousness= 0
-
-# Technologies
-basic_chemistry = 1
-bronze_muzzle_loaded_artillery = 1
-classicism_n_early_romanticism = 1
-early_classical_theory_and_critique = 1
-enlightenment_thought = 1
-flintlock_rifles = 1
-freedom_of_trade = 1
-guild_based_production = 1
-late_enlightenment_philosophy = 1
-mechanized_mining = 1
-no_standard = 1
-post_napoleonic_thought = 1
-private_banks = 1
-publishing_industry = 1
-water_wheel_power = 1
-prestige=0
-oob = "CRI_OOB.txt"
-set_country_flag = religi
+#New Reforms
+conscription = no_draft
+debt_law = serfdom
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
+border_policy = open_borders

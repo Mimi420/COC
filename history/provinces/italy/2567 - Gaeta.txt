@@ -1,7 +1,11 @@
-owner=PAP
-controller=PAP
-add_core=ITA
-add_core=PAP
-trade_goods = fish
+owner = SIC
+controller = SIC
+add_core = SIC
+add_core = ITA
+trade_goods = silk
 life_rating = 35
-terrain = plains
+1861.1.1 = {
+    controller = ITA
+    owner = ITA
+    add_core = ITA
+}

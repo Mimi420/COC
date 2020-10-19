@@ -1,7 +1,6 @@
-owner=FRA
-controller=FRA
-add_core=FRA
-add_core=TUL
+owner = FRA
+controller = FRA
+add_core = FRA
 trade_goods = cattle
-life_rating = 32
-terrain = farmlands
+life_rating = 31
+1861.1.1 = { railroad = 3 }

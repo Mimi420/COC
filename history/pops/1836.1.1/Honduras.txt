@@ -1,421 +1,179 @@
+#Honduras Region (352000)
+#Ruled by Central America 1836
+#Tegucigapa (180000/45000 POPS)
 2193 = {
-	soldiers=
-	{
-		culture = chibchan
-		religion = animist
-		size= 119
-	}
+    aristocrats = {
+        culture = central_american
+        religion = catholic
+        size = 950
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
 
-	farmers=
-	{
-		culture = chibchan
-		religion = animist
-		size= 11596
-	}
+    bureaucrats = {
+        culture = central_american
+        religion = catholic
+        size = 125
+    }
 
-	soldiers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 226
-	}
+    officers = {
+        culture = central_american
+        religion = catholic
+        size = 100
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
 
-	artisans=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 1288
-	}
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 450
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
 
-	clergymen=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 93
-	}
+    artisans = {
+        culture = central_american
+        religion = catholic
+        size = 2250
+    }
 
-	bureaucrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 43
-	}
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 1450
 
-	officers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 19
-	}
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
 
-	aristocrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 120
-	}
-
-	farmers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 20822
-	}
-
-	soldiers=
-	{
-		culture = vinlander
-		religion = protestant
-		size= 157
-	}
-
-	artisans=
-	{
-		culture = vinlander
-		religion = protestant
-		size= 2973
-	}
-
-	clergymen=
-	{
-		culture = vinlander
-		religion = protestant
-		size= 215
-	}
-
-	bureaucrats=
-	{
-		culture = vinlander
-		religion = protestant
-		size= 99
-	}
-
-	officers=
-	{
-		culture = vinlander
-		religion = protestant
-		size= 43
-	}
-
-	aristocrats=
-	{
-		culture = vinlander
-		religion = protestant
-		size= 278
-	}
-
-	farmers=
-	{
-		culture = vinlander
-		religion = protestant
-		size= 11947
-	}
-
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 40675
+        militancy = 5
+    }
 }
+#San Pedro Sula (92000/23000 POPS)
 2194 = {
-	soldiers=
-	{
-		culture = mayan
-		religion = mayan
-		size= 1033
-	}
+    aristocrats = {
+        culture = central_american
+        religion = catholic
+        size = 550
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
 
-	artisans=
-	{
-		culture = mayan
-		religion = mayan
-		size= 997
-	}
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 225
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
 
-	clergymen=
-	{
-		culture = mayan
-		religion = mayan
-		size= 162
-	}
+    artisans = {
+        culture = central_american
+        religion = catholic
+        size = 1150
+    }
 
-	bureaucrats=
-	{
-		culture = mayan
-		religion = mayan
-		size= 35
-	}
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 225
 
-	officers=
-	{
-		culture = mayan
-		religion = mayan
-		size= 32
-	}
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
 
-	aristocrats=
-	{
-		culture = mayan
-		religion = mayan
-		size= 209
-	}
-
-	farmers=
-	{
-		culture = mayan
-		religion = mayan
-		size= 22452
-	}
-
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 20850
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
 }
+#La Ceiba (68000/17000 POPS)
 2195 = {
-	soldiers=
-	{
-		culture = chibchan
-		religion = animist
-		size= 159
-	}
+    aristocrats = {
+        culture = central_american
+        religion = catholic
+        size = 425
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
 
-	artisans=
-	{
-		culture = chibchan
-		religion = animist
-		size= 251
-	}
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 175
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
 
-	clergymen=
-	{
-		culture = chibchan
-		religion = animist
-		size= 18
-	}
+    artisans = {
+        culture = central_american
+        religion = catholic
+        size = 850
+    }
 
-	aristocrats=
-	{
-		culture = chibchan
-		religion = animist
-		size= 26
-	}
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 175
 
-	farmers=
-	{
-		culture = chibchan
-		religion = animist
-		size= 5122
-	}
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
 
-	soldiers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 4133
-	}
-
-	artisans=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 828
-	}
-
-	clergymen=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 60
-	}
-
-	bureaucrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 31
-	}
-
-	officers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 19
-	}
-
-	aristocrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 90
-	}
-
-	farmers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 2728
-	}
-
-	soldiers=
-	{
-		culture = chibchan
-		religion = protestant
-		size= 185
-	}
-
-	artisans=
-	{
-		culture = chibchan
-		religion = protestant
-		size= 728
-	}
-
-	clergymen=
-	{
-		culture = chibchan
-		religion = protestant
-		size= 53
-	}
-
-	bureaucrats=
-	{
-		culture = chibchan
-		religion = protestant
-		size= 27
-	}
-
-	officers=
-	{
-		culture = chibchan
-		religion = protestant
-		size= 17
-	}
-
-	aristocrats=
-	{
-		culture = chibchan
-		religion = protestant
-		size= 79
-	}
-
-	farmers=
-	{
-		culture = chibchan
-		religion = protestant
-		size= 5517
-	}
-
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 15375
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
 }
+#Puerto Lempira (12000/3000 POPS)
 2196 = {
-	soldiers=
-	{
-		culture = chibchan
-		religion = animist
-		size= 9
-	}
+    aristocrats = {
+        culture = central_american
+        religion = catholic
+        size = 75
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
 
-	artisans=
-	{
-		culture = chibchan
-		religion = animist
-		size= 28
-	}
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 50
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
 
-	farmers=
-	{
-		culture = chibchan
-		religion = animist
-		size= 791
-	}
+    artisans = {
+        culture = central_american
+        religion = catholic
+        size = 150
+    }
 
-	soldiers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 8
-	}
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 25
 
-	artisans=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 88
-	}
+        militancy = 9
+        rebel_type = nationalist_rebels
+    }
 
-	clergymen=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 4
-	}
-
-	bureaucrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 2
-	}
-
-	officers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 5
-	}
-
-	farmers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 728
-	}
-
-	soldiers=
-	{
-		culture = vinlander
-		religion = protestant
-		size= 18
-	}
-
-	artisans=
-	{
-		culture = vinlander
-		religion = protestant
-		size= 372
-	}
-
-	clergymen=
-	{
-		culture = vinlander
-		religion = protestant
-		size= 17
-	}
-
-	bureaucrats=
-	{
-		culture = vinlander
-		religion = protestant
-		size= 8
-	}
-
-	officers=
-	{
-		culture = vinlander
-		religion = protestant
-		size= 3
-	}
-
-	aristocrats=
-	{
-		culture = vinlander
-		religion = protestant
-		size= 22
-	}
-
-	farmers=
-	{
-		culture = vinlander
-		religion = protestant
-		size= 1386
-	}
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 2700
+        militancy = 5
+    }
 
 }

@@ -1,8 +1,8 @@
-owner=YEM
-controller=YEM
-add_core=TUR
-add_core=YEM
+owner = PER
+controller = PER
+add_core = PER
+add_core = IRQ
 trade_goods = fish
 life_rating = 35
-terrain = plains
 naval_base = 1
+terrain = semidesert

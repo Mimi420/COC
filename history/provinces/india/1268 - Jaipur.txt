@@ -1,7 +1,7 @@
-owner=RAJ
-controller=RAJ
-add_core=HND
-add_core=RAJ
+owner = JAI
+controller = JAI
+add_core = JAI
+add_core = MUG
+add_core = HND
 trade_goods = timber
 life_rating = 32
-terrain = plains

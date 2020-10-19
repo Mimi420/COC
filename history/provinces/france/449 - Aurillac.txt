@@ -1,7 +1,5 @@
-owner=FRA
-controller=FRA
-add_core=FRA
-add_core=OCC
+owner = FRA
+controller = FRA
+add_core = FRA
 trade_goods = cattle
-life_rating = 32
-terrain = woods
+life_rating = 31

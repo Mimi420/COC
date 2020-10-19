@@ -1,591 +1,341 @@
+#Suriye Region (36000)  #see Syria.txt & Lebanon.txt for balance of region
+#under the rule of Egypt in 1836
+#Amman (20000/5000 POPS) #now part of Jordan
 908 = {
-	soldiers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 73
-	}
+    aristocrats = {
+        culture = mashriqi
+        religion = sunni
+        size = 25
+    }
 
-	artisans=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 26
-	}
+    clergymen = {
+        culture = mashriqi
+        religion = sunni
+        size = 100
+    }
 
-	clergymen=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 5
-	}
+    artisans = {
+        culture = mashriqi
+        religion = sunni
+        size = 100
+    }
 
-	bureaucrats=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 1
-	}
+    bureaucrats = {
+        culture = mashriqi
+        religion = sunni
+        size = 20
+    }
 
-	officers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 1
-	}
+    soldiers = {
+        culture = mashriqi
+        religion = sunni
+        size = 100
+    }
 
-	aristocrats=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 11
-	}
+    farmers = {
+        culture = mashriqi
+        religion = sunni
+        size = 775
+    }
 
-	farmers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 2488
-	}
+    farmers = {
+        culture = circassian
+        religion = sunni
+        size = 100
+    }
 
-	soldiers=
-	{
-		culture = norwegian
-		religion = monophysite
-		size= 29
-	}
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 50
+    }
 
-	artisans=
-	{
-		culture = norwegian
-		religion = monophysite
-		size= 46
-	}
+    clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 100
+    }
 
-	clergymen=
-	{
-		culture = norwegian
-		religion = monophysite
-		size= 9
-	}
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 125
+    }
 
-	bureaucrats=
-	{
-		culture = norwegian
-		religion = monophysite
-		size= 1
-	}
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 100
+    }
 
-	officers=
-	{
-		culture = norwegian
-		religion = monophysite
-		size= 2
-	}
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 2800
+    }
 
-	aristocrats=
-	{
-		culture = norwegian
-		religion = monophysite
-		size= 19
-	}
+    clergymen = {
+        culture = mashriqi
+        religion = orthodox
+        size = 100
+    }
 
-	farmers=
-	{
-		culture = norwegian
-		religion = monophysite
-		size= 912
-	}
+    artisans = {
+        culture = mashriqi
+        religion = orthodox
+        size = 100
+    }
 
-	soldiers=
-	{
-		culture = sudanese
-		religion = monophysite
-		size= 64
-	}
+    farmers = {
+        culture = mashriqi
+        religion = orthodox
+        size = 500
+    }
 
-	artisans=
-	{
-		culture = sudanese
-		religion = monophysite
-		size= 164
-	}
+    clergymen = {
+        culture = mashriqi
+        religion = druze
+        size = 100
+    }
 
-	clergymen=
-	{
-		culture = sudanese
-		religion = monophysite
-		size= 31
-	}
-
-	bureaucrats=
-	{
-		culture = sudanese
-		religion = monophysite
-		size= 4
-	}
-
-	officers=
-	{
-		culture = sudanese
-		religion = monophysite
-		size= 7
-	}
-
-	aristocrats=
-	{
-		culture = sudanese
-		religion = monophysite
-		size= 69
-	}
-
-	farmers=
-	{
-		culture = sudanese
-		religion = monophysite
-		size= 1959
-	}
-
+    farmers = {
+        culture = mashriqi
+        religion = druze
+        size = 390
+    }
 }
+#Jerash (16000/4000 POPS) #now part of Jordan
 909 = {
-	soldiers=
-	{
-		culture = greek
-		religion = orthodox
-		size= 1033
-	}
+    aristocrats = {
+        culture = mashriqi
+        religion = sunni
+        size = 35
+    }
 
-	artisans=
-	{
-		culture = greek
-		religion = orthodox
-		size= 511
-	}
+    clergymen = {
+        culture = mashriqi
+        religion = sunni
+        size = 75
+    }
 
-	clergymen=
-	{
-		culture = greek
-		religion = orthodox
-		size= 55
-	}
+    artisans = {
+        culture = mashriqi
+        religion = sunni
+        size = 100
+    }
 
-	bureaucrats=
-	{
-		culture = greek
-		religion = orthodox
-		size= 6
-	}
+    soldiers = {
+        culture = mashriqi
+        religion = sunni
+        size = 25
+    }
 
-	officers=
-	{
-		culture = greek
-		religion = orthodox
-		size= 6
-	}
+    farmers = {
+        culture = mashriqi
+        religion = sunni
+        size = 2215
+    }
 
-	aristocrats=
-	{
-		culture = greek
-		religion = orthodox
-		size= 184
-	}
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 15
+    }
 
-	farmers=
-	{
-		culture = greek
-		religion = orthodox
-		size= 1738
-	}
+    clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 15
+    }
 
-	soldiers=
-	{
-		culture = greek
-		religion = monophysite
-		size= 84
-	}
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 35
+    }
 
-	artisans=
-	{
-		culture = greek
-		religion = monophysite
-		size= 194
-	}
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 25
+    }
 
-	clergymen=
-	{
-		culture = greek
-		religion = monophysite
-		size= 21
-	}
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 910
+    }
 
-	bureaucrats=
-	{
-		culture = greek
-		religion = monophysite
-		size= 2
-	}
+    clergymen = {
+        culture = mashriqi
+        religion = orthodox
+        size = 100
+    }
 
-	officers=
-	{
-		culture = greek
-		religion = monophysite
-		size= 2
-	}
+    artisans = {
+        culture = mashriqi
+        religion = orthodox
+        size = 100
+    }
 
-	aristocrats=
-	{
-		culture = greek
-		religion = monophysite
-		size= 70
-	}
-
-	farmers=
-	{
-		culture = greek
-		religion = monophysite
-		size= 1125
-	}
-
+    farmers = {
+        culture = mashriqi
+        religion = orthodox
+        size = 500
+    }
 }
+#Badiyat al-Sham Region (40000)  #see Syria.txt, Iraq.txt & Saudi Arabia.txt for balance of region
+#under the "rule" of Egypt in 1836
+#Azraq (12000/3000 POPS) #now part of Jordan
 910 = {
-	soldiers=
-	{
-		culture = greek
-		religion = orthodox
-		size= 168
-	}
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 50
+    }
 
-	artisans=
-	{
-		culture = greek
-		religion = orthodox
-		size= 205
-	}
+    clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 50
+    }
 
-	clergymen=
-	{
-		culture = greek
-		religion = orthodox
-		size= 17
-	}
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 125
+    }
 
-	bureaucrats=
-	{
-		culture = greek
-		religion = orthodox
-		size= 5
-	}
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 50
+    }
 
-	aristocrats=
-	{
-		culture = greek
-		religion = orthodox
-		size= 38
-	}
-
-	farmers=
-	{
-		culture = greek
-		religion = orthodox
-		size= 2554
-	}
-
-	soldiers=
-	{
-		culture = greek
-		religion = catholic
-		size= 5
-	}
-
-	artisans=
-	{
-		culture = greek
-		religion = catholic
-		size= 28
-	}
-
-	clergymen=
-	{
-		culture = greek
-		religion = catholic
-		size= 2
-	}
-
-	bureaucrats=
-	{
-		culture = greek
-		religion = catholic
-		size= 1
-	}
-
-	officers=
-	{
-		culture = greek
-		religion = catholic
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = greek
-		religion = catholic
-		size= 5
-	}
-
-	farmers=
-	{
-		culture = greek
-		religion = catholic
-		size= 47
-	}
-
-	soldiers=
-	{
-		culture = greek
-		religion = monophysite
-		size= 14
-	}
-
-	artisans=
-	{
-		culture = greek
-		religion = monophysite
-		size= 66
-	}
-
-	clergymen=
-	{
-		culture = greek
-		religion = monophysite
-		size= 5
-	}
-
-	bureaucrats=
-	{
-		culture = greek
-		religion = monophysite
-		size= 1
-	}
-
-	officers=
-	{
-		culture = greek
-		religion = monophysite
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = greek
-		religion = monophysite
-		size= 12
-	}
-
-	farmers=
-	{
-		culture = greek
-		religion = monophysite
-		size= 145
-	}
-
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 2725
+    }
 }
+#Maan (28000/7000 POPS) #now part of Jordan
 911 = {
-	soldiers=
-	{
-		culture = mashriqi
-		religion = iconoclast
-		size= 35
-	}
+    aristocrats = {
+        culture = mashriqi
+        religion = sunni
+        size = 25
+    }
 
-	artisans=
-	{
-		culture = mashriqi
-		religion = iconoclast
-		size= 69
-	}
+    clergymen = {
+        culture = mashriqi
+        religion = sunni
+        size = 50
+    }
 
-	clergymen=
-	{
-		culture = mashriqi
-		religion = iconoclast
-		size= 13
-	}
+    artisans = {
+        culture = mashriqi
+        religion = sunni
+        size = 150
+    }
 
-	bureaucrats=
-	{
-		culture = mashriqi
-		religion = iconoclast
-		size= 2
-	}
+    soldiers = {
+        culture = mashriqi
+        religion = sunni
+        size = 25
+    }
 
-	officers=
-	{
-		culture = mashriqi
-		religion = iconoclast
-		size= 1
-	}
+    farmers = {
+        culture = mashriqi
+        religion = sunni
+        size = 2050
+    }
 
-	aristocrats=
-	{
-		culture = mashriqi
-		religion = iconoclast
-		size= 15
-	}
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 50
+    }
 
-	farmers=
-	{
-		culture = mashriqi
-		religion = iconoclast
-		size= 3322
-	}
+    clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 75
+    }
 
-	soldiers=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 41
-	}
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 150
+    }
 
-	artisans=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 232
-	}
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 50
+    }
 
-	clergymen=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 44
-	}
-
-	bureaucrats=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 6
-	}
-
-	officers=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 5
-	}
-
-	aristocrats=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 49
-	}
-
-	farmers=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 3698
-	}
-
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 4375
+    }
 }
+#Palestine Region (20000)  #see Israel-Palestine.txt for balance of region
+#under the rule of Egypt in 1836
+#Aqaba (20000/5000 POPS) #now part of Jordan
 922 = {
-	soldiers=
-	{
-		culture = mashriqi
-		religion = catholic
-		size= 31
-	}
+    clergymen = {
+        culture = mashriqi
+        religion = sunni
+        size = 25
+    }
 
-	artisans=
-	{
-		culture = mashriqi
-		religion = catholic
-		size= 63
-	}
+    artisans = {
+        culture = mashriqi
+        religion = sunni
+        size = 50
+    }
 
-	clergymen=
-	{
-		culture = mashriqi
-		religion = catholic
-		size= 12
-	}
+    soldiers = {
+        culture = mashriqi
+        religion = sunni
+        size = 25
+    }
 
-	bureaucrats=
-	{
-		culture = mashriqi
-		religion = catholic
-		size= 2
-	}
+    farmers = {
+        culture = mashriqi
+        religion = sunni
+        size = 900
+    }
 
-	officers=
-	{
-		culture = mashriqi
-		religion = catholic
-		size= 1
-	}
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 25
+    }
 
-	aristocrats=
-	{
-		culture = mashriqi
-		religion = catholic
-		size= 13
-	}
+    clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 25
+    }
 
-	farmers=
-	{
-		culture = mashriqi
-		religion = catholic
-		size= 3023
-	}
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 150
+    }
 
-	soldiers=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 22
-	}
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 25
+    }
 
-	artisans=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 151
-	}
-
-	clergymen=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 28
-	}
-
-	bureaucrats=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 4
-	}
-
-	officers=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 3
-	}
-
-	aristocrats=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 32
-	}
-
-	farmers=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 1956
-	}
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 3775
+    }
 
 }

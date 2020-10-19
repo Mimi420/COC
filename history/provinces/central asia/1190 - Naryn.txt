@@ -1,7 +1,5 @@
-owner=RAJ
-controller=RAJ
-add_core=KHA
-add_core=MGL
+owner = KOK
+controller = KOK
+add_core = KOK
 trade_goods = grain
 life_rating = 35
-terrain = mountain

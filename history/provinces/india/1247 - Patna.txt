@@ -1,7 +1,7 @@
-owner=X30
-controller=X30
-add_core=HND
-add_core=X30
+owner = ENG
+controller = ENG
+add_core = HND
+add_core = BIH
 trade_goods = opium
 life_rating = 32
-terrain = plains
+colonial = 2

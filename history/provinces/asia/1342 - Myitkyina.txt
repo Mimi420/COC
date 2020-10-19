@@ -1,9 +1,6 @@
-owner=MNI
-controller=GUG
-add_core=BUR
-add_core=IDO
-add_core=MNI
-add_core=SHA
+owner = BUR
+controller = BUR
+add_core = BUR
+add_core = KCH
 trade_goods = grain
-life_rating = 35
-terrain = mountain
+life_rating = 33

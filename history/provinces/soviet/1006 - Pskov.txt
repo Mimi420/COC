@@ -1,8 +1,6 @@
-owner=MAZ
-controller=MAZ
-add_core=LAT
-add_core=UBD
-add_core=HRE
+owner = RUS
+controller = RUS
+add_core = RUS
 trade_goods = cattle
 life_rating = 35
-terrain = woods
+1861.1.1 = { railroad = 2 }

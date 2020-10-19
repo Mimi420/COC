@@ -1,7 +1,6 @@
-owner=X24
-controller=X24
-add_core=X24
-add_core=SOM
+add_core = AWS
+add_core = WRL
 trade_goods = cattle
-life_rating = 15
-terrain = plains
+terrain = semidesert
+life_rating = 10
+colonial = 1

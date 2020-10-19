@@ -1,7 +1,7 @@
-owner=TAB
-controller=TAB
-add_core=TKS
-trade_goods = wool
+owner = KHI
+controller = KHI
+add_core = KHI
+add_core = TKM
+trade_goods = cattle
 life_rating = 35
-terrain = plains
-colonial=2
+terrain = semidesert

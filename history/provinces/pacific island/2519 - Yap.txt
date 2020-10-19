@@ -1,5 +1,3 @@
-owner=BRU
-controller=BRU
 trade_goods = fish
-life_rating = 15
-terrain = plains
+life_rating = 10
+terrain = small_island

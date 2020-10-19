@@ -1,8 +1,5 @@
-owner=VPS
-controller=VPS
-add_core=GER
-add_core=OLD
-add_core=VPS
+owner = RUS
+controller = RUS
+add_core = RUS
 trade_goods = timber
 life_rating = 35
-terrain = forest

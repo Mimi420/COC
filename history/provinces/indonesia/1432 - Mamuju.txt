@@ -1,6 +1,5 @@
-owner=BRU
-controller=BRU
-add_core=MAL
+owner = SLW
+controller = SLW
+add_core = SLW
 trade_goods = grain
-life_rating = 30
-terrain = hills
+life_rating = 31

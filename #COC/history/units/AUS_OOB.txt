@@ -1,0 +1,767 @@
+#Sphere of Influence
+
+AIN = {
+	value = 0
+	level = 2
+}
+ANS = {
+	value = 215
+	influence_value = 41
+	level = 4
+}
+ARG = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BLZ = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRN = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUR = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+COL = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+CRS = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+DAK = {
+	value = 0
+	level = 2
+}
+ENL = {
+	value = 0
+	level = 2
+}
+FIN = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 16
+	level = 2
+}
+GLC = {
+	value = 0
+	level = 2
+}
+GLR = {
+	value = 0
+	level = 2
+}
+GNV = {
+	value = -3
+	level = 2
+}
+GRA = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 58
+	influence_value = 2
+	level = 4
+}
+GUG = {
+	value = 0
+	level = 2
+}
+HAN = {
+	value = 58
+	influence_value = 2
+	level = 2
+}
+HON = {
+	value = 0
+	level = 2
+}
+IMG = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KOL = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = -57
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 223
+	influence_value = 43
+	level = 4
+}
+LOR = {
+	value = 84
+	influence_value = 8
+	level = 4
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MAZ = {
+	value = -32
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MDR = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MFY = {
+	value = 0
+	level = 2
+}
+ML1 = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+MUN = {
+	value = 0
+	level = 2
+}
+NDO = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NOG = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = -13
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PIS = {
+	value = 49
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+QIN = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RGS = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SCY = {
+	value = -8
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 126
+	influence_value = 19
+	level = 3
+}
+SNA = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TAB = {
+	value = -27
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TEO = {
+	value = 0
+	level = 2
+}
+TOT = {
+	value = 0
+	level = 2
+}
+TRS = {
+	value = 0
+	level = 2
+}
+TTL = {
+	value = 58
+	influence_value = 2
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+UIL = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+VPS = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+LEO = {
+	value = 0
+	level = 2
+}
+LAZ = {
+	value = 61
+	influence_value = 2
+	level = 2
+}
+X04 = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+SWB = {
+	value = -39
+	level = 2
+}
+TEM = {
+	value = -6
+	level = 2
+}
+SCN = {
+	value = 0
+	level = 2
+}
+SDR = {
+	value = 0
+	level = 2
+}
+MRV = {
+	value = 173
+	influence_value = 30
+	level = 4
+}
+X10 = {
+	value = 75
+	influence_value = 6
+	level = 2
+}
+VLD = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 42
+	level = 2
+}
+BRH = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 96
+	influence_value = 11
+	level = 2
+}
+X15 = {
+	value = 109
+	influence_value = 14
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = -91
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+X31 = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+X32 = {
+	value = 0
+	level = 2
+}
+X33 = {
+	value = 66
+	influence_value = 4
+	level = 2
+}
+X34 = {
+	value = -10
+	level = 2
+}
+X35 = {
+	value = 0
+	level = 2
+}
+X36 = {
+	value = 0
+	level = 2
+}
+X37 = {
+	value = 0
+	level = 2
+}
+X38 = {
+	value = 0
+	level = 2
+}
+X39 = {
+	value = 0
+	level = 2
+}
+X40 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X42 = {
+	value = 0
+	level = 2
+}
+X43 = {
+	value = 0
+	level = 2
+}
+X44 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YOK = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Donát V Pac"
+	date="1806.4.17"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Arcibaldo Pac"
+	date="1817.12.24"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Wilhelm von Hohenberg"
+	date="1806.4.19"
+	type=land
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Heinrich von Neippberg"
+	date="1817.12.25"
+	type=land
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Wilhelm Bethmann"
+	date="1817.12.26"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Arcibaldo Kolin"
+	date="1817.12.28"
+	type=land
+	personality="coolminded"
+	background="generals_aide"
+}
+
+
+#Armies
+army = {
+	name="Gascon Musket Company"
+	location=791
+	regiment = {
+		name="1st Trencín Infantry"
+		type=infantry
+		home=634
+	}
+	regiment = {
+		name="2nd Trencín Infantry"
+		type=infantry
+		home=634
+	}
+	regiment = {
+		name="3rd Trencín Infantry"
+		type=infantry
+		home=634
+	}
+	regiment = {
+		name="4th Trencín Infantry"
+		type=infantry
+		home=634
+	}
+}
+
+army = {
+	name="Armee von Neuhäusel"
+	location=829
+	regiment = {
+		name="1st Graz Infantry"
+		type=infantry
+		home=616
+	}
+	regiment = {
+		name="1st Karlovac Artillery"
+		type=artillery
+		home=773
+	}
+	regiment = {
+		name="1st Graz Artillery"
+		type=artillery
+		home=616
+	}
+	regiment = {
+		name="2nd Judenburg Artillery"
+		type=artillery
+		home=617
+	}
+}
+
+army = {
+	name="Armee von Traungau"
+	location=1697
+	regiment = {
+		name="2nd Graz Infantry"
+		type=infantry
+		home=616
+	}
+	regiment = {
+		name="1st Banská Bystrica Infantry"
+		type=infantry
+		home=636
+	}
+	regiment = {
+		name="2nd Graz Artillery"
+		type=artillery
+		home=616
+	}
+	regiment = {
+		name="1st Linz Artillery"
+		type=artillery
+		home=622
+	}
+	regiment = {
+		name="1st Trencín Artillery"
+		type=artillery
+		home=634
+	}
+	regiment = {
+		name="2nd Trencín Artillery"
+		type=artillery
+		home=634
+	}
+	regiment = {
+		name="7th Trencín Artillery"
+		type=artillery
+		home=634
+	}
+}
+
+army = {
+	name="Kaiserliche Armee"
+	location=968
+	regiment = {
+		name="1st Novy Sacz Infantry"
+		type=infantry
+		home=704
+	}
+	regiment = {
+		name="1st Linz Infantry"
+		type=infantry
+		home=622
+	}
+	regiment = {
+		name="2nd Linz Infantry"
+		type=infantry
+		home=622
+	}
+	regiment = {
+		name="3rd Linz Infantry"
+		type=infantry
+		home=622
+	}
+	regiment = {
+		name="3rd Trencín Artillery"
+		type=artillery
+		home=634
+	}
+	regiment = {
+		name="4th Trencín Artillery"
+		type=artillery
+		home=634
+	}
+	regiment = {
+		name="3rd Graz Artillery"
+		type=artillery
+		home=616
+	}
+	regiment = {
+		name="1st Sankt Pölten Artillery"
+		type=artillery
+		home=620
+	}
+	regiment = {
+		name="4th Graz Artillery"
+		type=artillery
+		home=616
+	}
+	regiment = {
+		name="1st Maribor Artillery"
+		type=artillery
+		home=767
+	}
+	regiment = {
+		name="5th Graz Artillery"
+		type=artillery
+		home=616
+	}
+	regiment = {
+		name="2nd Linz Artillery"
+		type=artillery
+		home=622
+	}
+	regiment = {
+		name="1st Judenburg Artillery"
+		type=artillery
+		home=617
+	}
+	regiment = {
+		name="5th Trencín Artillery"
+		type=artillery
+		home=634
+	}
+	regiment = {
+		name="5th Trencín Infantry"
+		type=infantry
+		home=634
+	}
+	regiment = {
+		name="6th Trencín Artillery"
+		type=artillery
+		home=634
+	}
+}
+

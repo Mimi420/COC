@@ -1,0 +1,8 @@
+owner=VLD
+controller=VLD
+add_core=VLD
+add_core=HRE
+trade_goods = cattle
+life_rating = 35
+terrain = steppe
+naval_base = 1

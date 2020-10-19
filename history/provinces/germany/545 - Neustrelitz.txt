@@ -1,8 +1,6 @@
-owner=BRN
-controller=BRN
-add_core=BRN
-add_core=GER
-add_core=HRE
+owner = MEC
+controller = MEC
+add_core = MEC
+add_core = GER
 trade_goods = grain
 life_rating = 40
-terrain = woods

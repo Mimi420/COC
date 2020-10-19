@@ -1,7 +1,8 @@
-owner=MCD
-controller=MCD
-add_core=MCD
-add_core=GRE
+owner = TUR
+controller = TUR
+add_core = TUR
+add_core = BUL
+add_core = SER
+add_core = MCD
 trade_goods = timber
 life_rating = 35
-terrain = hills

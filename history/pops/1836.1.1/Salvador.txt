@@ -1,102 +1,93 @@
+#Salvador Region (416000)
+#Ruled by Central America 1836
+#San Salvador (260000/65000 POPS)
 2191 = {
-	soldiers=
-	{
-		culture = mayan
-		religion = mayan
-		size= 4133
-	}
+    aristocrats = {
+        culture = central_american
+        religion = catholic
+        size = 1425
+        militancy = 5
+    }
 
-	artisans=
-	{
-		culture = mayan
-		religion = mayan
-		size= 10104
-	}
+    bureaucrats = {
+        culture = central_american
+        religion = catholic
+        size = 150
+        militancy = 6
+    }
 
-	clergymen=
-	{
-		culture = mayan
-		religion = mayan
-		size= 469
-	}
+    officers = {
+        culture = central_american
+        religion = catholic
+        size = 125
+        militancy = 9
+    }
 
-	bureaucrats=
-	{
-		culture = mayan
-		religion = mayan
-		size= 72
-	}
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 650
+        militancy = 4
+    }
 
-	officers=
-	{
-		culture = mayan
-		religion = mayan
-		size= 94
-	}
+    artisans = {
+        culture = central_american
+        religion = catholic
+        size = 3250
+        militancy = 9
+    }
 
-	aristocrats=
-	{
-		culture = mayan
-		religion = mayan
-		size= 1212
-	}
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 1100
 
-	farmers=
-	{
-		culture = mayan
-		religion = mayan
-		size= 56086
-	}
+        militancy = 9
+    }
 
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 58350
+        militancy = 4
+    }
 }
+#San Miguel (156000/44000 POPS)
 2192 = {
-	soldiers=
-	{
-		culture = mayan
-		religion = mayan
-		size= 1033
-	}
+    aristocrats = {
+        culture = central_american
+        religion = catholic
+        size = 950
+        militancy = 9
+    }
 
-	artisans=
-	{
-		culture = mayan
-		religion = mayan
-		size= 6834
-	}
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 450
+        militancy = 9
+    }
 
-	clergymen=
-	{
-		culture = mayan
-		religion = mayan
-		size= 317
-	}
+    artisans = {
+        culture = central_american
+        religion = catholic
+        size = 2200
+        militancy = 9
+    }
 
-	bureaucrats=
-	{
-		culture = mayan
-		religion = mayan
-		size= 49
-	}
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 450
 
-	officers=
-	{
-		culture = mayan
-		religion = mayan
-		size= 63
-	}
+        militancy = 9
+    }
 
-	aristocrats=
-	{
-		culture = mayan
-		religion = mayan
-		size= 820
-	}
-
-	farmers=
-	{
-		culture = mayan
-		religion = mayan
-		size= 39700
-	}
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 39950
+        militancy = 4
+    }
 
 }

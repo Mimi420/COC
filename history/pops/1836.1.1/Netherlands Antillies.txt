@@ -1,307 +1,108 @@
+#Dutch West Indies Region : 19500
+#Ruled by Netherlands 1836
+#Curacao (12300/3100 POPS)
 2234 = {
-	slaves=
-	{
-		culture = carribean
-		religion = animist
-		size= 652
-	}
 
-	soldiers=
-	{
-		culture = carribean
-		religion = animist
-		size= 50
-	}
+    aristocrats = {
+        culture = dutch
+        religion = protestant
+        size = 76
+    }
 
-	artisans=
-	{
-		culture = carribean
-		religion = animist
-		size= 47
-	}
+    bureaucrats = {
+        culture = dutch
+        religion = protestant
+        size = 5
+    }
 
-	clergymen=
-	{
-		culture = carribean
-		religion = animist
-		size= 2
-	}
+    soldiers = {
+        culture = dutch
+        religion = protestant
+        size = 25
+    }
 
-	bureaucrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 1
-	}
+    artisans = {
+        culture = dutch
+        religion = protestant
+        size = 70
+    }
 
-	officers=
-	{
-		culture = carribean
-		religion = animist
-		size= 1
-	}
+    clergymen = {
+        culture = dutch
+        religion = protestant
+        size = 20
+    }
 
-	aristocrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 8
-	}
+    farmers = {
+        culture = dutch
+        religion = protestant
+        size = 2080
+    }
 
-	slaves=
-	{
-		culture = afro_norse
-		religion = protestant
-		size= 3438
-	}
-
-	soldiers=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 263
-	}
-
-	artisans=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 545
-	}
-
-	clergymen=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 25
-	}
-
-	bureaucrats=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 8
-	}
-
-	officers=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 10
-	}
-
-	aristocrats=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 98
-	}
-
+    slaves = {
+        culture = afro_caribbean
+        religion = catholic
+        size = 900
+    }
 }
+#Aruba (2400/600 POPS)
 2235 = {
-	slaves=
-	{
-		culture = carribean
-		religion = animist
-		size= 130
-	}
 
-	soldiers=
-	{
-		culture = carribean
-		religion = animist
-		size= 10
-	}
+    aristocrats = {
+        culture = dutch
+        religion = protestant
+        size = 1
+    }
 
-	artisans=
-	{
-		culture = carribean
-		religion = animist
-		size= 9
-	}
+    clergymen = {
+        culture = dutch
+        religion = protestant
+        size = 25
+    }
 
-	aristocrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 2
-	}
+    farmers = {
+        culture = dutch
+        religion = protestant
+        size = 400
+    }
 
-	slaves=
-	{
-		culture = afro_norse
-		religion = protestant
-		size= 687
-	}
-
-	soldiers=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 51
-	}
-
-	artisans=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 105
-	}
-
-	clergymen=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 5
-	}
-
-	bureaucrats=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 2
-	}
-
-	officers=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 19
-	}
-
+    slaves = {
+        culture = afro_caribbean
+        religion = catholic
+        size = 175
+    }
 }
+#Philipsburg - Saint Martin (4800/1200 POPS)
 2236 = {
-	slaves=
-	{
-		culture = carribean
-		religion = animist
-		size= 216
-	}
 
-	soldiers=
-	{
-		culture = carribean
-		religion = animist
-		size= 13
-	}
+    aristocrats = {
+        culture = dutch
+        religion = protestant
+        size = 10
+    }
 
-	artisans=
-	{
-		culture = carribean
-		religion = animist
-		size= 10
-	}
+    clergymen = {
+        culture = dutch
+        religion = protestant
+        size = 25
+    }
 
-	aristocrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 2
-	}
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 55
+    }
 
-	slaves=
-	{
-		culture = afro_norse
-		religion = protestant
-		size= 691
-	}
+    farmers = {
+        culture = dutch
+        religion = protestant
+        size = 400
+    }
 
-	soldiers=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 39
-	}
-
-	artisans=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 69
-	}
-
-	clergymen=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 5
-	}
-
-	bureaucrats=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 2
-	}
-
-	officers=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 13
-	}
-
-	slaves=
-	{
-		culture = afro_norse
-		religion = catholic
-		size= 514
-	}
-
-	soldiers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 29
-	}
-
-	artisans=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 49
-	}
-
-	clergymen=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 4
-	}
-
-	bureaucrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 1
-	}
-
-	officers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 9
-	}
+    slaves = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 100
+    }
 
 }

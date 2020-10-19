@@ -1,1656 +1,758 @@
-1181 = {
-	soldiers=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 191
-	}
-
-	artisans=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 412
-	}
-
-	clergymen=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 77
-	}
-
-	bureaucrats=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 15
-	}
-
-	officers=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 13
-	}
-
-	aristocrats=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 87
-	}
-
-	farmers=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 8794
-	}
-
-	soldiers=
-	{
-		culture = tatar
-		religion = hindu
-		size= 103
-	}
-
-	artisans=
-	{
-		culture = tatar
-		religion = hindu
-		size= 177
-	}
-
-	clergymen=
-	{
-		culture = tatar
-		religion = hindu
-		size= 33
-	}
-
-	bureaucrats=
-	{
-		culture = tatar
-		religion = hindu
-		size= 6
-	}
-
-	officers=
-	{
-		culture = tatar
-		religion = hindu
-		size= 6
-	}
-
-	aristocrats=
-	{
-		culture = tatar
-		religion = hindu
-		size= 37
-	}
-
-	farmers=
-	{
-		culture = tatar
-		religion = hindu
-		size= 4765
-	}
-
-}
+#Western Kazakh Steppes Region (72000)
+#under the rule of Russia in 1836
+#Guryev (19000/4750 POPS)
 1182 = {
-	soldiers=
-	{
-		culture = tatar
-		religion = hindu
-		size= 75
-	}
+    bureaucrats = {
+        culture = russian
+        religion = orthodox
+        size = 20
+    }
 
-	artisans=
-	{
-		culture = tatar
-		religion = hindu
-		size= 54
-	}
+    clergymen = {
+        culture = russian
+        religion = orthodox
+        size = 15
+    }
 
-	clergymen=
-	{
-		culture = tatar
-		religion = hindu
-		size= 10
-	}
+    artisans = {
+        culture = russian
+        religion = orthodox
+        size = 35
+    }
 
-	bureaucrats=
-	{
-		culture = tatar
-		religion = hindu
-		size= 3
-	}
+    soldiers = {
+        culture = russian
+        religion = orthodox
+        size = 15
+    }
 
-	officers=
-	{
-		culture = tatar
-		religion = hindu
-		size= 3
-	}
+    farmers = {
+        culture = russian
+        religion = orthodox
+        size = 665
+    }
 
-	aristocrats=
-	{
-		culture = tatar
-		religion = hindu
-		size= 23
-	}
+    aristocrats = {
+        culture = kazak
+        religion = sunni
+        size = 75
+    }
 
-	farmers=
-	{
-		culture = tatar
-		religion = hindu
-		size= 2508
-	}
+    clergymen = {
+        culture = kazak
+        religion = sunni
+        size = 75
+    }
 
-	soldiers=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 30
-	}
+    artisans = {
+        culture = kazak
+        religion = sunni
+        size = 200
+    }
 
-	artisans=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 95
-	}
+    soldiers = {
+        culture = kazak
+        religion = sunni
+        size = 25
+    }
 
-	clergymen=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 18
-	}
-
-	bureaucrats=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 5
-	}
-
-	officers=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 3
-	}
-
-	aristocrats=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 40
-	}
-
-	farmers=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 843
-	}
-
-	soldiers=
-	{
-		culture = mongol
-		religion = gelugpa
-		size= 16
-	}
-
-	artisans=
-	{
-		culture = mongol
-		religion = gelugpa
-		size= 6
-	}
-
-	clergymen=
-	{
-		culture = mongol
-		religion = gelugpa
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = mongol
-		religion = gelugpa
-		size= 2
-	}
-
-	farmers=
-	{
-		culture = mongol
-		religion = gelugpa
-		size= 559
-	}
-
-	soldiers=
-	{
-		culture = mongol
-		religion = hindu
-		size= 16
-	}
-
-	artisans=
-	{
-		culture = mongol
-		religion = hindu
-		size= 18
-	}
-
-	clergymen=
-	{
-		culture = mongol
-		religion = hindu
-		size= 3
-	}
-
-	bureaucrats=
-	{
-		culture = mongol
-		religion = hindu
-		size= 1
-	}
-
-	officers=
-	{
-		culture = mongol
-		religion = hindu
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = mongol
-		religion = hindu
-		size= 7
-	}
-
-	farmers=
-	{
-		culture = mongol
-		religion = hindu
-		size= 541
-	}
-
-	soldiers=
-	{
-		culture = mongol
-		religion = orthodox
-		size= 8
-	}
-
-	artisans=
-	{
-		culture = mongol
-		religion = orthodox
-		size= 35
-	}
-
-	clergymen=
-	{
-		culture = mongol
-		religion = orthodox
-		size= 7
-	}
-
-	bureaucrats=
-	{
-		culture = mongol
-		religion = orthodox
-		size= 2
-	}
-
-	officers=
-	{
-		culture = mongol
-		religion = orthodox
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = mongol
-		religion = orthodox
-		size= 15
-	}
-
-	farmers=
-	{
-		culture = mongol
-		religion = orthodox
-		size= 226
-	}
-
+    farmers = {
+        culture = kazak
+        religion = sunni
+        size = 3625
+    }
 }
+#Aqtobe (20000/5000 POPS)
 1183 = {
-	soldiers=
-	{
-		culture = tatar
-		religion = hindu
-		size= 123
-	}
+    aristocrats = {
+        culture = kazak
+        religion = sunni
+        size = 75
+    }
 
-	artisans=
-	{
-		culture = tatar
-		religion = hindu
-		size= 88
-	}
+    clergymen = {
+        culture = kazak
+        religion = sunni
+        size = 50
+    }
 
-	clergymen=
-	{
-		culture = tatar
-		religion = hindu
-		size= 16
-	}
+    artisans = {
+        culture = kazak
+        religion = sunni
+        size = 250
+    }
 
-	bureaucrats=
-	{
-		culture = tatar
-		religion = hindu
-		size= 4
-	}
+    soldiers = {
+        culture = kazak
+        religion = sunni
+        size = 50
+    }
 
-	officers=
-	{
-		culture = tatar
-		religion = hindu
-		size= 4
-	}
-
-	aristocrats=
-	{
-		culture = tatar
-		religion = hindu
-		size= 18
-	}
-
-	farmers=
-	{
-		culture = tatar
-		religion = hindu
-		size= 4147
-	}
-
-	soldiers=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 30
-	}
-
-	artisans=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 130
-	}
-
-	clergymen=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 24
-	}
-
-	bureaucrats=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 7
-	}
-
-	officers=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 5
-	}
-
-	aristocrats=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 27
-	}
-
-	farmers=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 837
-	}
-
+    farmers = {
+        culture = kazak
+        religion = sunni
+        size = 4575
+    }
 }
-1184 = {
-	soldiers=
-	{
-		culture = siberian
-		religion = hindu
-		size= 100
-	}
-
-	artisans=
-	{
-		culture = siberian
-		religion = hindu
-		size= 1285
-	}
-
-	farmers=
-	{
-		culture = siberian
-		religion = hindu
-		size= 3292
-	}
-
-	soldiers=
-	{
-		culture = siberian
-		religion = orthodox
-		size= 425
-	}
-
-	artisans=
-	{
-		culture = siberian
-		religion = orthodox
-		size= 1072
-	}
-
-	farmers=
-	{
-		culture = siberian
-		religion = orthodox
-		size= 19579
-	}
-
-}
-1185 = {
-	soldiers=
-	{
-		culture = mongol
-		religion = hindu
-		size= 1244
-	}
-
-	artisans=
-	{
-		culture = mongol
-		religion = hindu
-		size= 889
-	}
-
-	clergymen=
-	{
-		culture = mongol
-		religion = hindu
-		size= 167
-	}
-
-	bureaucrats=
-	{
-		culture = mongol
-		religion = hindu
-		size= 11
-	}
-
-	officers=
-	{
-		culture = mongol
-		religion = hindu
-		size= 36
-	}
-
-	aristocrats=
-	{
-		culture = mongol
-		religion = hindu
-		size= 187
-	}
-
-	farmers=
-	{
-		culture = mongol
-		religion = hindu
-		size= 19682
-	}
-
-}
-1186 = {
-	soldiers=
-	{
-		culture = mongol
-		religion = hindu
-		size= 1384
-	}
-
-	artisans=
-	{
-		culture = mongol
-		religion = hindu
-		size= 2223
-	}
-
-	clergymen=
-	{
-		culture = mongol
-		religion = hindu
-		size= 185
-	}
-
-	bureaucrats=
-	{
-		culture = mongol
-		religion = hindu
-		size= 12
-	}
-
-	officers=
-	{
-		culture = mongol
-		religion = hindu
-		size= 40
-	}
-
-	aristocrats=
-	{
-		culture = mongol
-		religion = hindu
-		size= 207
-	}
-
-	farmers=
-	{
-		culture = mongol
-		religion = hindu
-		size= 20658
-	}
-
-}
-1187 = {
-	soldiers=
-	{
-		culture = mongol
-		religion = hindu
-		size= 403
-	}
-
-	artisans=
-	{
-		culture = mongol
-		religion = hindu
-		size= 806
-	}
-
-	clergymen=
-	{
-		culture = mongol
-		religion = hindu
-		size= 151
-	}
-
-	bureaucrats=
-	{
-		culture = mongol
-		religion = hindu
-		size= 30
-	}
-
-	officers=
-	{
-		culture = mongol
-		religion = hindu
-		size= 16
-	}
-
-	aristocrats=
-	{
-		culture = mongol
-		religion = hindu
-		size= 169
-	}
-
-	farmers=
-	{
-		culture = mongol
-		religion = hindu
-		size= 18580
-	}
-
-}
-1188 = {
-	soldiers=
-	{
-		culture = mongol
-		religion = hindu
-		size= 1417
-	}
-
-	artisans=
-	{
-		culture = mongol
-		religion = hindu
-		size= 3356
-	}
-
-	clergymen=
-	{
-		culture = mongol
-		religion = hindu
-		size= 280
-	}
-
-	bureaucrats=
-	{
-		culture = mongol
-		religion = hindu
-		size= 71
-	}
-
-	officers=
-	{
-		culture = mongol
-		religion = hindu
-		size= 45
-	}
-
-	aristocrats=
-	{
-		culture = mongol
-		religion = hindu
-		size= 365
-	}
-
-	farmers=
-	{
-		culture = mongol
-		religion = hindu
-		size= 31753
-	}
-
-}
-1193 = {
-	soldiers=
-	{
-		culture = mongol
-		religion = hindu
-		size= 271
-	}
-
-	artisans=
-	{
-		culture = mongol
-		religion = hindu
-		size= 1083
-	}
-
-	clergymen=
-	{
-		culture = mongol
-		religion = hindu
-		size= 203
-	}
-
-	bureaucrats=
-	{
-		culture = mongol
-		religion = hindu
-		size= 54
-	}
-
-	officers=
-	{
-		culture = mongol
-		religion = hindu
-		size= 22
-	}
-
-	aristocrats=
-	{
-		culture = mongol
-		religion = hindu
-		size= 227
-	}
-
-	farmers=
-	{
-		culture = mongol
-		religion = hindu
-		size= 25218
-	}
-
-}
-1194 = {
-	soldiers=
-	{
-		culture = mongol
-		religion = hindu
-		size= 73
-	}
-
-	artisans=
-	{
-		culture = mongol
-		religion = hindu
-		size= 26
-	}
-
-	clergymen=
-	{
-		culture = mongol
-		religion = hindu
-		size= 5
-	}
-
-	bureaucrats=
-	{
-		culture = mongol
-		religion = hindu
-		size= 1
-	}
-
-	officers=
-	{
-		culture = mongol
-		religion = hindu
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = mongol
-		religion = hindu
-		size= 11
-	}
-
-	farmers=
-	{
-		culture = mongol
-		religion = hindu
-		size= 2483
-	}
-
-	soldiers=
-	{
-		culture = mongol
-		religion = sunni
-		size= 3
-	}
-
-	artisans=
-	{
-		culture = mongol
-		religion = sunni
-		size= 28
-	}
-
-	clergymen=
-	{
-		culture = mongol
-		religion = sunni
-		size= 5
-	}
-
-	bureaucrats=
-	{
-		culture = mongol
-		religion = sunni
-		size= 1
-	}
-
-	officers=
-	{
-		culture = mongol
-		religion = sunni
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = mongol
-		religion = sunni
-		size= 12
-	}
-
-	farmers=
-	{
-		culture = mongol
-		religion = sunni
-		size= 57
-	}
-
-	soldiers=
-	{
-		culture = mongol
-		religion = orthodox
-		size= 50
-	}
-
-	artisans=
-	{
-		culture = mongol
-		religion = orthodox
-		size= 125
-	}
-
-	clergymen=
-	{
-		culture = mongol
-		religion = orthodox
-		size= 23
-	}
-
-	bureaucrats=
-	{
-		culture = mongol
-		religion = orthodox
-		size= 6
-	}
-
-	officers=
-	{
-		culture = mongol
-		religion = orthodox
-		size= 5
-	}
-
-	aristocrats=
-	{
-		culture = mongol
-		religion = orthodox
-		size= 53
-	}
-
-	farmers=
-	{
-		culture = mongol
-		religion = orthodox
-		size= 1516
-	}
-
-	soldiers=
-	{
-		culture = turkmen
-		religion = hindu
-		size= 62
-	}
-
-	artisans=
-	{
-		culture = turkmen
-		religion = hindu
-		size= 44
-	}
-
-	clergymen=
-	{
-		culture = turkmen
-		religion = hindu
-		size= 8
-	}
-
-	bureaucrats=
-	{
-		culture = turkmen
-		religion = hindu
-		size= 2
-	}
-
-	officers=
-	{
-		culture = turkmen
-		religion = hindu
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = turkmen
-		religion = hindu
-		size= 19
-	}
-
-	farmers=
-	{
-		culture = turkmen
-		religion = hindu
-		size= 2081
-	}
-
-	soldiers=
-	{
-		culture = turkmen
-		religion = orthodox
-		size= 40
-	}
-
-	artisans=
-	{
-		culture = turkmen
-		religion = orthodox
-		size= 102
-	}
-
-	clergymen=
-	{
-		culture = turkmen
-		religion = orthodox
-		size= 19
-	}
-
-	bureaucrats=
-	{
-		culture = turkmen
-		religion = orthodox
-		size= 5
-	}
-
-	officers=
-	{
-		culture = turkmen
-		religion = orthodox
-		size= 4
-	}
-
-	aristocrats=
-	{
-		culture = turkmen
-		religion = orthodox
-		size= 43
-	}
-
-	farmers=
-	{
-		culture = turkmen
-		religion = orthodox
-		size= 1218
-	}
-
-}
-1197 = {
-	soldiers=
-	{
-		culture = uzbek
-		religion = hindu
-		size= 450
-	}
-
-	artisans=
-	{
-		culture = uzbek
-		religion = hindu
-		size= 723
-	}
-
-	clergymen=
-	{
-		culture = uzbek
-		religion = hindu
-		size= 60
-	}
-
-	bureaucrats=
-	{
-		culture = uzbek
-		religion = hindu
-		size= 4
-	}
-
-	officers=
-	{
-		culture = uzbek
-		religion = hindu
-		size= 13
-	}
-
-	aristocrats=
-	{
-		culture = uzbek
-		religion = hindu
-		size= 67
-	}
-
-	farmers=
-	{
-		culture = uzbek
-		religion = hindu
-		size= 6711
-	}
-
-	soldiers=
-	{
-		culture = kazak
-		religion = hindu
-		size= 2387
-	}
-
-	artisans=
-	{
-		culture = kazak
-		religion = hindu
-		size= 3836
-	}
-
-	clergymen=
-	{
-		culture = kazak
-		religion = hindu
-		size= 320
-	}
-
-	bureaucrats=
-	{
-		culture = kazak
-		religion = hindu
-		size= 21
-	}
-
-	officers=
-	{
-		culture = kazak
-		religion = hindu
-		size= 68
-	}
-
-	aristocrats=
-	{
-		culture = kazak
-		religion = hindu
-		size= 358
-	}
-
-	farmers=
-	{
-		culture = kazak
-		religion = hindu
-		size= 35636
-	}
-
-}
-2606 = {
-	soldiers=
-	{
-		culture = mongol
-		religion = hindu
-		size= 1076
-	}
-
-	artisans=
-	{
-		culture = mongol
-		religion = hindu
-		size= 1730
-	}
-
-	clergymen=
-	{
-		culture = mongol
-		religion = hindu
-		size= 144
-	}
-
-	bureaucrats=
-	{
-		culture = mongol
-		religion = hindu
-		size= 9
-	}
-
-	officers=
-	{
-		culture = mongol
-		religion = hindu
-		size= 30
-	}
-
-	aristocrats=
-	{
-		culture = mongol
-		religion = hindu
-		size= 162
-	}
-
-	farmers=
-	{
-		culture = mongol
-		religion = hindu
-		size= 16073
-	}
-
-}
+#Uralsk (13000/3250 POPS)
 2610 = {
-	soldiers=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 47
-	}
+    clergymen = {
+        culture = russian
+        religion = orthodox
+        size = 30
+    }
 
-	artisans=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 24
-	}
+    artisans = {
+        culture = russian
+        religion = orthodox
+        size = 45
+    }
 
-	clergymen=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 4
-	}
+    soldiers = {
+        culture = russian
+        religion = orthodox
+        size = 25
+    }
 
-	bureaucrats=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 1
-	}
+    farmers = {
+        culture = russian
+        religion = orthodox
+        size = 1150
+    }
 
-	aristocrats=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 10
-	}
+    aristocrats = {
+        culture = kazak
+        religion = sunni
+        size = 25
+    }
 
-	farmers=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 2281
-	}
+    clergymen = {
+        culture = kazak
+        religion = sunni
+        size = 25
+    }
 
-	soldiers=
-	{
-		culture = tatar
-		religion = hindu
-		size= 4
-	}
+    artisans = {
+        culture = kazak
+        religion = sunni
+        size = 100
+    }
 
-	artisans=
-	{
-		culture = tatar
-		religion = hindu
-		size= 28
-	}
+    soldiers = {
+        culture = kazak
+        religion = sunni
+        size = 25
+    }
 
-	clergymen=
-	{
-		culture = tatar
-		religion = hindu
-		size= 5
-	}
-
-	bureaucrats=
-	{
-		culture = tatar
-		religion = hindu
-		size= 1
-	}
-
-	officers=
-	{
-		culture = tatar
-		religion = hindu
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = tatar
-		religion = hindu
-		size= 12
-	}
-
-	farmers=
-	{
-		culture = tatar
-		religion = hindu
-		size= 155
-	}
-
-	soldiers=
-	{
-		culture = tatar
-		religion = catholic
-		size= 17
-	}
-
-	artisans=
-	{
-		culture = tatar
-		religion = catholic
-		size= 85
-	}
-
-	clergymen=
-	{
-		culture = tatar
-		religion = catholic
-		size= 14
-	}
-
-	bureaucrats=
-	{
-		culture = tatar
-		religion = catholic
-		size= 2
-	}
-
-	officers=
-	{
-		culture = tatar
-		religion = catholic
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = tatar
-		religion = catholic
-		size= 36
-	}
-
-	farmers=
-	{
-		culture = tatar
-		religion = catholic
-		size= 680
-	}
-
+    farmers = {
+        culture = kazak
+        religion = sunni
+        size = 1825
+    }
 }
+#Turgay (20000/5000 POPS)
 2611 = {
-	soldiers=
-	{
-		culture = siberian
-		religion = orthodox
-		size= 179
-	}
+    aristocrats = {
+        culture = kazak
+        religion = sunni
+        size = 75
+    }
 
-	artisans=
-	{
-		culture = siberian
-		religion = orthodox
-		size= 311
-	}
+    clergymen = {
+        culture = kazak
+        religion = sunni
+        size = 50
+    }
 
-	clergymen=
-	{
-		culture = siberian
-		religion = orthodox
-		size= 52
-	}
+    artisans = {
+        culture = kazak
+        religion = sunni
+        size = 250
+    }
 
-	officers=
-	{
-		culture = siberian
-		religion = orthodox
-		size= 6
-	}
+    soldiers = {
+        culture = kazak
+        religion = sunni
+        size = 50
+    }
 
-	aristocrats=
-	{
-		culture = siberian
-		religion = orthodox
-		size= 30
-	}
-
-	farmers=
-	{
-		culture = siberian
-		religion = orthodox
-		size= 2620
-	}
-
-	soldiers=
-	{
-		culture = siberian
-		religion = hindu
-		size= 89
-	}
-
-	artisans=
-	{
-		culture = siberian
-		religion = hindu
-		size= 120
-	}
-
-	clergymen=
-	{
-		culture = siberian
-		religion = hindu
-		size= 20
-	}
-
-	bureaucrats=
-	{
-		culture = siberian
-		religion = hindu
-		size= 1
-	}
-
-	officers=
-	{
-		culture = siberian
-		religion = hindu
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = siberian
-		religion = hindu
-		size= 11
-	}
-
-	farmers=
-	{
-		culture = siberian
-		religion = hindu
-		size= 1347
-	}
-
-	soldiers=
-	{
-		culture = tatar
-		religion = hindu
-		size= 52
-	}
-
-	artisans=
-	{
-		culture = tatar
-		religion = hindu
-		size= 41
-	}
-
-	clergymen=
-	{
-		culture = tatar
-		religion = hindu
-		size= 7
-	}
-
-	officers=
-	{
-		culture = tatar
-		religion = hindu
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = tatar
-		religion = hindu
-		size= 4
-	}
-
-	farmers=
-	{
-		culture = tatar
-		religion = hindu
-		size= 816
-	}
-
-	soldiers=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 12
-	}
-
-	artisans=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 61
-	}
-
-	clergymen=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 10
-	}
-
-	bureaucrats=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 1
-	}
-
-	officers=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 6
-	}
-
-	farmers=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 130
-	}
-
+    farmers = {
+        culture = kazak
+        religion = sunni
+        size = 4575
+    }
 }
+#Eastern Kazakh Steppes Region (376000)
+#under the rule of Russia in 1836
+#Qaraganda (56000/14000 POPS)
+1181 = {
+    aristocrats = {
+        culture = kazak
+        religion = sunni
+        size = 225
+    }
+
+    clergymen = {
+        culture = kazak
+        religion = sunni
+        size = 125
+    }
+
+    artisans = {
+        culture = kazak
+        religion = sunni
+        size = 650
+    }
+
+    soldiers = {
+        culture = kazak
+        religion = sunni
+        size = 125
+    }
+
+    farmers = {
+        culture = kazak
+        religion = sunni
+        size = 12875
+    }
+}
+#Kokshetau (96000/24000 POPS)
+1184 = {
+    bureaucrats = {
+        culture = russian
+        religion = orthodox
+        size = 50
+    }
+
+    clergymen = {
+        culture = russian
+        religion = orthodox
+        size = 75
+    }
+
+    artisans = {
+        culture = russian
+        religion = orthodox
+        size = 150
+    }
+
+    soldiers = {
+        culture = russian
+        religion = orthodox
+        size = 25
+    }
+
+    farmers = {
+        culture = russian
+        religion = orthodox
+        size = 2700
+    }
+
+    aristocrats = {
+        culture = kazak
+        religion = sunni
+        size = 425
+    }
+
+    clergymen = {
+        culture = kazak
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = kazak
+        religion = sunni
+        size = 1100
+    }
+
+    soldiers = {
+        culture = kazak
+        religion = sunni
+        size = 225
+    }
+
+    farmers = {
+        culture = kazak
+        religion = sunni
+        size = 19050
+    }
+}
+#Yasi (80000/20000 POPS)
+1185 = {
+    aristocrats = {
+        culture = kazak
+        religion = sunni
+        size = 350
+    }
+
+    clergymen = {
+        culture = kazak
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = kazak
+        religion = sunni
+        size = 1100
+    }
+
+    soldiers = {
+        culture = kazak
+        religion = sunni
+        size = 200
+    }
+
+    farmers = {
+        culture = kazak
+        religion = sunni
+        size = 18250
+    }
+
+    slaves = {
+        culture = russian
+        religion = orthodox
+        size = 5000
+    }
+}
+#Zhambul (76000/19000 POPS)
+2606 = {
+    aristocrats = {
+        culture = kazak
+        religion = sunni
+        size = 350
+    }
+
+    clergymen = {
+        culture = kazak
+        religion = sunni
+        size = 175
+    }
+
+    artisans = {
+        culture = kazak
+        religion = sunni
+        size = 950
+    }
+
+    soldiers = {
+        culture = kazak
+        religion = sunni
+        size = 200
+    }
+
+    farmers = {
+        culture = kazak
+        religion = sunni
+        size = 17325
+    }
+}
+#Aktash (68000/17000 POPS)
 2612 = {
-	soldiers=
-	{
-		culture = mongol
-		religion = hindu
-		size= 189
-	}
+    aristocrats = {
+        culture = kazak
+        religion = sunni
+        size = 325
+    }
 
-	artisans=
-	{
-		culture = mongol
-		religion = hindu
-		size= 756
-	}
+    clergymen = {
+        culture = kazak
+        religion = sunni
+        size = 175
+    }
 
-	clergymen=
-	{
-		culture = mongol
-		religion = hindu
-		size= 123
-	}
+    artisans = {
+        culture = kazak
+        religion = sunni
+        size = 850
+    }
 
-	bureaucrats=
-	{
-		culture = mongol
-		religion = hindu
-		size= 17
-	}
+    soldiers = {
+        culture = kazak
+        religion = sunni
+        size = 175
+    }
 
-	officers=
-	{
-		culture = mongol
-		religion = hindu
-		size= 15
-	}
-
-	aristocrats=
-	{
-		culture = mongol
-		religion = hindu
-		size= 159
-	}
-
-	farmers=
-	{
-		culture = mongol
-		religion = hindu
-		size= 17632
-	}
-
+    farmers = {
+        culture = kazak
+        religion = sunni
+        size = 15475
+    }
 }
+#Semireche Region (276000) #see Kirghizstan.txt for balance of region
+#under the "rule" of Russia in 1836
+#Semipalatinsk (80000/20000 POPS)
+1187 = {
+    aristocrats = {
+        culture = kazak
+        religion = sunni
+        size = 350
+    }
+
+    clergymen = {
+        culture = kazak
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = kazak
+        religion = sunni
+        size = 1100
+    }
+
+    soldiers = {
+        culture = kazak
+        religion = sunni
+        size = 200
+    }
+
+    farmers = {
+        culture = kazak
+        religion = sunni
+        size = 18250
+    }
+
+    farmers = {
+        culture = russian
+        religion = orthodox
+        size = 500
+    }
+}
+#Qaratal (108000/27000 POPS)
+1188 = {
+    aristocrats = {
+        culture = kazak
+        religion = sunni
+        size = 300
+    }
+
+    clergymen = {
+        culture = kazak
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = kazak
+        religion = sunni
+        size = 800
+    }
+
+    soldiers = {
+        culture = kazak
+        religion = sunni
+        size = 175
+    }
+
+    farmers = {
+        culture = kazak
+        religion = sunni
+        size = 14575
+    }
+
+    aristocrats = {
+        culture = uighur
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = uighur
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = uighur
+        religion = sunni
+        size = 550
+    }
+
+    soldiers = {
+        culture = uighur
+        religion = sunni
+        size = 125
+    }
+
+    farmers = {
+        culture = uighur
+        religion = sunni
+        size = 10025
+    }
+}
+#under the "rule" of Kokand in 1836
+#Alma-Ata (88000/22000 POPS)
+1186 = {
+    aristocrats = {
+        culture = kirgiz
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = kirgiz
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = kirgiz
+        religion = sunni
+        size = 300
+    }
+
+    soldiers = {
+        culture = kirgiz
+        religion = sunni
+        size = 75
+    }
+
+    farmers = {
+        culture = kirgiz
+        religion = sunni
+        size = 5475
+    }
+
+    aristocrats = {
+        culture = kazak
+        religion = sunni
+        size = 300
+    }
+
+    clergymen = {
+        culture = kazak
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = kazak
+        religion = sunni
+        size = 800
+    }
+
+    soldiers = {
+        culture = kazak
+        religion = sunni
+        size = 175
+    }
+
+    farmers = {
+        culture = kazak
+        religion = sunni
+        size = 14575
+    }
+
+    slaves = {
+        culture = uighur
+        religion = sunni
+        size = 4000
+    }
+
+    slaves = {
+        culture = russian
+        religion = orthodox
+        size = 3000
+    }
+}
+#Khwarazm Region (168000) #see Uzbekistan.txt and Turkmenistan.txt for balance of region
+#under the rule of Khiva in 1836
+#Kyzylorda (108000/27000 POPS)
+1193 = {
+    aristocrats = {
+        culture = uzbek
+        religion = sunni
+        size = 250
+    }
+
+    clergymen = {
+        culture = uzbek
+        religion = sunni
+        size = 125
+    }
+
+    artisans = {
+        culture = uzbek
+        religion = sunni
+        size = 700
+    }
+
+    soldiers = {
+        culture = uzbek
+        religion = sunni
+        size = 150
+    }
+
+    farmers = {
+        culture = uzbek
+        religion = sunni
+        size = 12775
+    }
+
+    aristocrats = {
+        culture = kazak
+        religion = sunni
+        size = 250
+    }
+
+    clergymen = {
+        culture = kazak
+        religion = sunni
+        size = 125
+    }
+
+    artisans = {
+        culture = kazak
+        religion = sunni
+        size = 600
+    }
+
+    soldiers = {
+        culture = kazak
+        religion = sunni
+        size = 125
+    }
+
+    farmers = {
+        culture = kazak
+        religion = sunni
+        size = 11900
+    }
+}
+#Aqtau (32000/8000 POPS)
+1194 = {
+    aristocrats = {
+        culture = kazak
+        religion = sunni
+        size = 150
+    }
+
+    clergymen = {
+        culture = kazak
+        religion = sunni
+        size = 75
+    }
+
+    artisans = {
+        culture = kazak
+        religion = sunni
+        size = 350
+    }
+
+    soldiers = {
+        culture = kazak
+        religion = sunni
+        size = 75
+    }
+
+    farmers = {
+        culture = kazak
+        religion = sunni
+        size = 7350
+    }
+}
+#Aralsk (28000/7000 POPS)
 2702 = {
-	soldiers=
-	{
-		culture = tatar
-		religion = hindu
-		size= 118
-	}
+    aristocrats = {
+        culture = kazak
+        religion = sunni
+        size = 100
+    }
 
-	artisans=
-	{
-		culture = tatar
-		religion = hindu
-		size= 84
-	}
+    clergymen = {
+        culture = kazak
+        religion = sunni
+        size = 50
+    }
 
-	clergymen=
-	{
-		culture = tatar
-		religion = hindu
-		size= 15
-	}
+    artisans = {
+        culture = kazak
+        religion = sunni
+        size = 350
+    }
 
-	bureaucrats=
-	{
-		culture = tatar
-		religion = hindu
-		size= 3
-	}
+    soldiers = {
+        culture = kazak
+        religion = sunni
+        size = 75
+    }
 
-	officers=
-	{
-		culture = tatar
-		religion = hindu
-		size= 3
-	}
+    farmers = {
+        culture = kazak
+        religion = sunni
+        size = 6425
+    }
+}
+#Mawarannahr Region (180000) #see Uzbekistan.txt, Tajikistan.txt, Kirghizstan.txt for balance of region
+#under the rule of Bukhara in 1836
+#Shymkent (180000/45000 POPS) #now part of Kazakhstan
+1197 = {
+    aristocrats = {
+        culture = uzbek
+        religion = sunni
+        size = 250
+    }
 
-	aristocrats=
-	{
-		culture = tatar
-		religion = hindu
-		size= 36
-	}
+    clergymen = {
+        culture = uzbek
+        religion = sunni
+        size = 125
+    }
 
-	farmers=
-	{
-		culture = tatar
-		religion = hindu
-		size= 3950
-	}
+    artisans = {
+        culture = uzbek
+        religion = sunni
+        size = 750
+    }
 
-	soldiers=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 53
-	}
+    soldiers = {
+        culture = uzbek
+        religion = sunni
+        size = 150
+    }
 
-	artisans=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 160
-	}
+    farmers = {
+        culture = uzbek
+        religion = sunni
+        size = 13725
+    }
 
-	clergymen=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 30
-	}
+    aristocrats = {
+        culture = kazak
+        religion = sunni
+        size = 550
+    }
 
-	bureaucrats=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 9
-	}
+    clergymen = {
+        culture = kazak
+        religion = sunni
+        size = 250
+    }
 
-	officers=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 7
-	}
+    artisans = {
+        culture = kazak
+        religion = sunni
+        size = 1500
+    }
 
-	aristocrats=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 67
-	}
+    soldiers = {
+        culture = kazak
+        religion = sunni
+        size = 250
+    }
 
-	farmers=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 1573
-	}
+    farmers = {
+        culture = kazak
+        religion = sunni
+        size = 27450
+    }
 
-	soldiers=
-	{
-		culture = mongol
-		religion = hindu
-		size= 37
-	}
-
-	artisans=
-	{
-		culture = mongol
-		religion = hindu
-		size= 53
-	}
-
-	clergymen=
-	{
-		culture = mongol
-		religion = hindu
-		size= 10
-	}
-
-	bureaucrats=
-	{
-		culture = mongol
-		religion = hindu
-		size= 3
-	}
-
-	officers=
-	{
-		culture = mongol
-		religion = hindu
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = mongol
-		religion = hindu
-		size= 22
-	}
-
-	farmers=
-	{
-		culture = mongol
-		religion = hindu
-		size= 1203
-	}
+    slaves = {
+        culture = russian
+        religion = orthodox
+        size = 6000
+    }
 
 }

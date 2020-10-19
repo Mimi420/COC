@@ -1,6 +1,6 @@
-owner=RAJ
-controller=RAJ
-add_core=TKS
+owner = KOK
+controller = KOK
+add_core = KOK
+add_core = BUK
 trade_goods = grain
 life_rating = 35
-terrain = hills

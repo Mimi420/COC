@@ -1,700 +1,123 @@
-#Sphere of Influence
-
-AIN = {
-	value = 0
-	level = 2
-}
-ANS = {
-	value = 0
-	level = 2
-}
-ARG = {
-	value = 0
-	level = 2
-}
-AUS = {
-	value = 0
-	level = 2
-}
-AYR = {
-	value = 0
-	level = 2
-}
-BLC = {
-	value = 0
-	level = 2
-}
-BLZ = {
-	value = -70
-	level = 2
-}
-BOL = {
-	value = 0
-	level = 2
-}
-BRN = {
-	value = 0
-	level = 2
-}
-BRU = {
-	value = 0
-	level = 2
-}
-BRZ = {
-	value = -8
-	level = 2
-}
-BUR = {
-	value = 0
-	level = 2
-}
-BYZ = {
-	value = 0
-	level = 2
-}
-CAL = {
-	value = -66
-	level = 2
-}
-CAN = {
-	value = -9
-	level = 2
-}
-COL = {
-	value = -10
-	level = 2
-}
-CRB = {
-	value = 0
-	level = 2
-}
-CRI = {
-	value = 0
-	level = 2
-}
-CRS = {
-	value = 0
-	level = 2
-}
-CWU = {
-	value = 0
-	level = 2
-}
-DAK = {
-	value = -7
-	level = 2
-}
-ENL = {
-	value = 101
-	military_access = yes
-	influence_value = 12
-	level = 2
-}
-FIN = {
-	value = 0
-	level = 2
-}
-FRA = {
-	value = 6
-	level = 2
-}
-GLC = {
-	value = 0
-	level = 2
-}
-GLR = {
-	value = 0
-	level = 2
-}
-GNV = {
-	value = 0
-	level = 2
-}
-GRA = {
-	value = 0
-	level = 2
-}
-GRE = {
-	value = 0
-	level = 2
-}
-GUG = {
-	value = 0
-	level = 2
-}
-HAN = {
-	value = 0
-	level = 2
-}
-HLL = {
-	value = 0
-	level = 2
-}
-HON = {
-	value = 0
-	level = 2
-}
-IMG = {
-	value = 0
-	level = 2
-}
-IRE = {
-	value = 0
-	level = 2
-}
-JAP = {
-	value = 0
-	level = 2
-}
-KBO = {
-	value = 0
-	level = 2
-}
-KOL = {
-	value = 0
-	level = 2
-}
-KON = {
-	value = 0
-	level = 2
-}
-KRW = {
-	value = 0
-	level = 2
-}
-KZB = {
-	value = 0
-	level = 2
-}
-LNG = {
-	value = 0
-	level = 2
-}
-LOM = {
-	value = 0
-	level = 2
-}
-LOR = {
-	value = 15
-	level = 2
-}
-LOU = {
-	value = 32
-	level = 2
-}
-LXA = {
-	value = 0
-	level = 2
-}
-MAZ = {
-	value = 0
-	level = 2
-}
-MCK = {
-	value = 0
-	level = 2
-}
-MDR = {
-	value = 0
-	level = 2
-}
-MEI = {
-	value = 0
-	level = 2
-}
-MEX = {
-	value = 0
-	level = 2
-}
-MFY = {
-	value = 0
-	level = 2
-}
-MGL = {
-	value = 0
-	level = 2
-}
-ML1 = {
-	value = 0
-	level = 2
-}
-MLI = {
-	value = 0
-	level = 2
-}
-MNI = {
-	value = 0
-	level = 2
-}
-MOR = {
-	value = 0
-	level = 2
-}
-MTL = {
-	value = 0
-	level = 2
-}
-MUN = {
-	value = 0
-	level = 2
-}
-NDO = {
-	value = 0
-	level = 2
-}
-NEW = {
-	value = 0
-	level = 2
-}
-NOG = {
-	value = 0
-	level = 2
-}
-NOR = {
-	value = 0
-	level = 2
-}
-NSS = {
-	value = 0
-	level = 2
-}
-ORI = {
-	value = 0
-	level = 2
-}
-PAP = {
-	value = 0
-	level = 2
-}
-PEU = {
-	value = 0
-	level = 2
-}
-PIS = {
-	value = 0
-	level = 2
-}
-POM = {
-	value = 3
-	level = 2
-}
-PRO = {
-	value = 0
-	level = 2
-}
-QIN = {
-	value = 0
-	level = 2
-}
-RAJ = {
-	value = 0
-	level = 2
-}
-RGS = {
-	value = 0
-	level = 2
-}
-SAX = {
-	value = 0
-	level = 2
-}
-SCY = {
-	value = 0
-	level = 2
-}
-SIA = {
-	value = 0
-	level = 2
-}
-SLZ = {
-	value = 0
-	level = 2
-}
-SNA = {
-	value = 0
-	level = 2
-}
-SUL = {
-	value = 0
-	level = 2
-}
-SVY = {
-	value = 0
-	level = 2
-}
-SWE = {
-	value = 0
-	level = 2
-}
-TAB = {
-	value = -27
-	level = 2
-}
-TDO = {
-	value = 0
-	level = 2
-}
-TEO = {
-	value = 0
-	level = 2
-}
-TOT = {
-	value = 0
-	level = 2
-}
-TRS = {
-	value = 19
-	level = 2
-}
-TTL = {
-	value = 0
-	level = 2
-}
-TUN = {
-	value = 0
-	level = 2
-}
-UIL = {
-	value = 0
-	level = 2
-}
-VNZ = {
-	value = 0
-	level = 2
-}
-WAL = {
-	value = 0
-	level = 2
-}
-VPS = {
-	value = 0
-	level = 2
-}
-X01 = {
-	value = 0
-	level = 2
-}
-LEO = {
-	value = 20
-	level = 2
-}
-LAZ = {
-	value = 0
-	level = 2
-}
-X04 = {
-	value = 0
-	level = 2
-}
-SWB = {
-	value = 0
-	level = 2
-}
-TEM = {
-	value = 0
-	level = 2
-}
-SCN = {
-	value = 0
-	level = 2
-}
-SDR = {
-	value = 0
-	level = 2
-}
-MRV = {
-	value = 0
-	level = 2
-}
-X10 = {
-	value = 0
-	level = 2
-}
-VLD = {
-	value = 0
-	level = 2
-}
-X12 = {
-	value = 0
-	level = 2
-}
-BRH = {
-	value = 0
-	level = 2
-}
-X14 = {
-	value = 0
-	level = 2
-}
-X15 = {
-	value = 18
-	level = 2
-}
-X17 = {
-	value = 0
-	level = 2
-}
-X18 = {
-	value = 0
-	level = 2
-}
-X21 = {
-	value = 0
-	level = 2
-}
-X22 = {
-	value = 0
-	level = 2
-}
-X23 = {
-	value = 0
-	level = 2
-}
-X24 = {
-	value = 0
-	level = 2
-}
-X25 = {
-	value = 0
-	level = 2
-}
-X26 = {
-	value = 0
-	level = 2
-}
-X28 = {
-	value = 0
-	level = 2
-}
-X30 = {
-	value = 0
-	level = 2
-}
-X31 = {
-	value = 0
-	level = 2
-}
-X32 = {
-	value = 0
-	level = 2
-}
-X33 = {
-	value = 0
-	level = 2
-}
-X34 = {
-	value = 0
-	level = 2
-}
-X35 = {
-	value = 0
-	level = 2
-}
-X36 = {
-	value = 0
-	level = 2
-}
-X37 = {
-	value = 0
-	level = 2
-}
-X38 = {
-	value = 0
-	level = 2
-}
-X39 = {
-	value = 0
-	level = 2
-}
-X40 = {
-	value = 0
-	level = 2
-}
-X41 = {
-	value = 18
-	level = 2
-}
-X42 = {
-	value = 0
-	level = 2
-}
-X43 = {
-	value = 0
-	level = 2
-}
-X44 = {
-	value = 13
-	level = 2
-}
-YEM = {
-	value = 0
-	level = 2
-}
-YOK = {
-	value = 0
-	level = 2
-}
-ZIM = {
-	value = 0
-	level = 2
-}
-
-#Leaders
-leader = {
-	name="Cynfelyn Clinton"
-	date="1799.2.21"
-	type=land
-	personality="active_p"
-	background="engineer"
+USA = {
+    value = 100
+}
+SPA = {
+    value = 75
 }
 
 leader = {
-	name="Nigel Carleton"
-	date="1813.1.27"
-	type=land
-	personality="stalwart"
-	background="generals_aide"
+    name = "D. Francisco López "
+    type = sea
+    date="1820.1.1"
+    personality = bastard
+    background = no_background
 }
 
 leader = {
-	name="Cynfelyn Moore"
-	date="1820.1.28"
-	type=land
-	personality="unflinching"
-	background="cavalry_school"
+    name = "Nicolas Bravo"
+    type = land
+    date="1836.1.1"
+    personality = heroic
+    background = politician
 }
 
-
-#Armies
-army = {
-	name="2nd Army"
-	location=2139
-	regiment = {
-		name="1st Durango Infantry"
-		type=infantry
-		home=2153
-	}
-	regiment = {
-		name="1st Chihuahua Infantry"
-		type=infantry
-		home=2142
-	}
-	regiment = {
-		name="1st Chihuahua Artillery"
-		type=artillery
-		home=2142
-	}
-	regiment = {
-		name="1st Santa María del Oro Artillery"
-		type=artillery
-		home=2154
-	}
-	regiment = {
-		name="3rd Durango Infantry"
-		type=infantry
-		home=2153
-	}
-	regiment = {
-		name="1st Durango Artillery"
-		type=artillery
-		home=2153
-	}
+leader = {
+    name = "Mariano Arista"
+    type = land
+    date="1836.1.1"
+    personality = skilled
+    background = war_college
 }
 
-navy = {
-	name="5th Fleet"
-	location=3000
-	ship = {
-		name="1st Colima Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Puerto Vallarta Frigate"
-		type=frigate
-	}
+leader = {
+    name = "Juan Álvarez"
+    type = land
+    date="1836.1.1"
+    personality = skilled
+    background = elderly
 }
 
-navy = {
-	name="1st Fleet"
-	location=3004
-	ship = {
-		name="1st Tepic Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Tepic Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Los Albañiles Frigate"
-		type=frigate
-	}
-}
-
-navy = {
-	name="3rd Fleet"
-	location=3004
-	ship = {
-		name="2nd Colima Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Colima Frigate"
-		type=frigate
-	}
-	ship = {
-		name="4th Colima Frigate"
-		type=frigate
-	}
-}
-
-navy = {
-	name="2nd Fleet"
-	location=2169
-	ship = {
-		name="1st Los Albañiles Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Los Albañiles Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Puerto Vallarta Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Puerto Vallarta Frigate"
-		type=frigate
-	}
+leader = {
+    name = "José de Herrera"
+    type = land
+    date="1836.1.1"
+    personality = soldierly
+    background = exranker
 }
 
 army = {
-	name="1st Army"
-	location=2153
-	regiment = {
-		name="1st Tepic Infantry"
-		type=infantry
-		home=2161
-	}
-	regiment = {
-		name="2nd Durango Infantry"
-		type=infantry
-		home=2153
-	}
-	regiment = {
-		name="1st Mazatlán Infantry"
-		type=infantry
-		home=2156
-	}
+    name = "Activo Oajaca"
+    location = 2177
+
+    regiment = {
+        name= "1.Oajaca y Tlaxcala"
+        type = irregular
+        home = 2177
+    }
+
+    regiment = {
+        name= "2.Oajaca y Tlaxcala"
+        type = irregular
+        home = 2173
+    }
+
+    regiment = {
+        name= "3.Oajaca y Tlaxcala"
+        type = irregular
+        home = 2167
+    }
+
+}
+
+army = {
+    name = "Ejército del Ciudad Mejico"
+    location = 2172
+    regiment = {
+        name= "1.Division Comonfort"
+        type = infantry
+        home = 2176
+    }
+
+    regiment = {
+        name= "2.Division Comonfort"
+        type = irregular
+        home = 2159
+    }
+
+    regiment = {
+        name= "3.Division Comonfort"
+        type = irregular
+        home = 2174
+    }
+
 }
 
 navy = {
-	name="4th Fleet"
-	location=2169
-	ship = {
-		name="4th Puerto Vallarta Frigate"
-		type=frigate
-	}
-}
+    name = "Armada de Mexico"
+    location = 2184
+    ship = {
+        name= "Vencedor del Alamo"
+        type = frigate
+    }
+    ship = {
+        name= "Bravo"
+        type = frigate
+    }
+    ship = {
+        name= "Vera Cruzana"
+        type = frigate
+    }
+    ship = {
+        name= "Montezuma"
+        type = frigate
+    }
+    ship = {
+        name= "Lubardo"
+        type = frigate
+    }
+    ship = {
+        name= "Pelicano"
+        type = frigate
+    }
 
+}

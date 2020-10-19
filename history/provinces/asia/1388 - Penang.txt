@@ -1,7 +1,8 @@
-owner=SIA
-controller=SIA
-add_core=MLY
-add_core=SIA
+owner = ENG
+controller = ENG
+add_core = JOH
+add_core = SIA
 trade_goods = timber
-life_rating = 30
-terrain = jungle
+life_rating = 37
+colonial = 2
+naval_base = 1

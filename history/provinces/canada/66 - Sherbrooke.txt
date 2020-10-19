@@ -1,6 +1,7 @@
-owner=X39
-controller=X39
-add_core=X38
+owner = ENG
+controller = ENG
+add_core = QUE
 trade_goods = grain
-life_rating = 35
-terrain = forest
+life_rating = 32
+colonial = 2
+1861.1.1 = { railroad = 3 }

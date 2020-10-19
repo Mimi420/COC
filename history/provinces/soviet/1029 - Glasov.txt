@@ -1,6 +1,6 @@
-owner=VLD
-controller=VLD
-add_core=UGR
-trade_goods = timber
+owner = RUS
+controller = RUS
+add_core = RUS
+add_core = URA
+trade_goods = iron
 life_rating = 35
-terrain = forest

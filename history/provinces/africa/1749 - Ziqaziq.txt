@@ -1,8 +1,6 @@
-owner=X32
-controller=X32
-add_core=EGY
-add_core=X20
-add_core=X32
+owner = EGY
+controller = EGY
+add_core = EGY
 trade_goods = cotton
-life_rating = 35
-terrain = farmlands
+life_rating = 40
+1861.1.1 = { railroad = 2 }

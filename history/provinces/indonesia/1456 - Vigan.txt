@@ -1,7 +1,6 @@
-owner=TDO
-controller=TDO
-add_core=SUL
-add_core=TDO
-trade_goods = grain
-life_rating = 30
-terrain = hills
+owner = SPA
+controller = SPA
+add_core = PHL
+trade_goods = tobacco
+life_rating = 35
+colonial = 2

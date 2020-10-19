@@ -1,0 +1,8 @@
+owner=SWA
+controller=SWA
+add_core=GER
+add_core=SWA
+add_core=HRE
+trade_goods = timber
+life_rating = 35
+terrain = mountain

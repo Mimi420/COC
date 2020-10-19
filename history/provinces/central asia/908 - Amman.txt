@@ -1,7 +1,12 @@
-owner=YEM
-controller=YEM
-add_core=NOR
-add_core=SCA
+owner = EGY
+controller = EGY
+add_core = EGY
+add_core = TUR
+add_core = JOR
 trade_goods = grain
 life_rating = 35
-terrain = desert
+terrain = semidesert
+1861.1.1 = {
+    controller = TUR
+    owner = TUR
+}

@@ -1,8 +1,5 @@
-owner=LNG
-controller=LNG
-add_core=CHI
-add_core=LNG
-add_core=QIC
+owner = QNG
+controller = QNG
+add_core = CHI
 trade_goods = grain
 life_rating = 32
-terrain = plains

@@ -1,6 +1,26 @@
-#Sphere of Influence
+army = {
+    name = "Army of the King of Bali"
+    location = 1438
+    regiment = {
+        name= "1.Karangasem Militia"
+        type = irregular
+        home = 1438
+    }
 
+    regiment = {
+        name= "2.Karangasem Militia"
+        type = irregular
+        home = 1438
+    }
+}
 
-#Leaders
+army = {
+    name = "Army of the King of Lombok"
+    location = 1442
 
-#Armies
+    regiment = {
+        name= "3.Karangasem Militia"
+        type = irregular
+        home = 1442
+    }
+}

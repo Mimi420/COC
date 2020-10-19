@@ -1,300 +1,191 @@
+#Mawarannahr Region (200000) #see Kazakhstan.txt, Uzbekistan.txt, Kirghizstan.txt and Turkmenistan.txt for balance of region
+#under the rule of Kokand in 1836
+#Khujand (200000/50000 POPS) #now part of Tajikistan
 1201 = {
-	soldiers=
-	{
-		culture = uzbek
-		religion = kemetic
-		size= 2684
-	}
+    aristocrats = {
+        culture = uzbek
+        religion = sunni
+        size = 775
+    }
 
-	artisans=
-	{
-		culture = uzbek
-		religion = kemetic
-		size= 656
-	}
+    clergymen = {
+        culture = uzbek
+        religion = sunni
+        size = 400
+    }
 
-	clergymen=
-	{
-		culture = uzbek
-		religion = kemetic
-		size= 55
-	}
+    artisans = {
+        culture = uzbek
+        religion = sunni
+        size = 2000
+    }
 
-	bureaucrats=
-	{
-		culture = uzbek
-		religion = kemetic
-		size= 7
-	}
+    soldiers = {
+        culture = uzbek
+        religion = sunni
+        size = 400
+    }
 
-	officers=
-	{
-		culture = uzbek
-		religion = kemetic
-		size= 18
-	}
+    farmers = {
+        culture = uzbek
+        religion = sunni
+        size = 36425
+    }
 
-	aristocrats=
-	{
-		culture = uzbek
-		religion = kemetic
-		size= 61
-	}
+    aristocrats = {
+        culture = tajik
+        religion = sunni
+        size = 175
+    }
 
-	farmers=
-	{
-		culture = uzbek
-		religion = kemetic
-		size= 25693
-	}
+    clergymen = {
+        culture = tajik
+        religion = sunni
+        size = 75
+    }
 
-	soldiers=
-	{
-		culture = uzbek
-		religion = yazidi
-		size= 819
-	}
+    artisans = {
+        culture = tajik
+        religion = sunni
+        size = 500
+    }
 
-	artisans=
-	{
-		culture = uzbek
-		religion = yazidi
-		size= 1057
-	}
+    soldiers = {
+        culture = tajik
+        religion = sunni
+        size = 100
+    }
 
-	clergymen=
-	{
-		culture = uzbek
-		religion = yazidi
-		size= 88
-	}
-
-	bureaucrats=
-	{
-		culture = uzbek
-		religion = yazidi
-		size= 11
-	}
-
-	officers=
-	{
-		culture = uzbek
-		religion = yazidi
-		size= 28
-	}
-
-	aristocrats=
-	{
-		culture = uzbek
-		religion = yazidi
-		size= 99
-	}
-
-	farmers=
-	{
-		culture = uzbek
-		religion = yazidi
-		size= 6802
-	}
-
-	soldiers=
-	{
-		culture = uzbek
-		religion = hindu
-		size= 2213
-	}
-
-	artisans=
-	{
-		culture = uzbek
-		religion = hindu
-		size= 3878
-	}
-
-	clergymen=
-	{
-		culture = uzbek
-		religion = hindu
-		size= 323
-	}
-
-	bureaucrats=
-	{
-		culture = uzbek
-		religion = hindu
-		size= 39
-	}
-
-	officers=
-	{
-		culture = uzbek
-		religion = hindu
-		size= 103
-	}
-
-	aristocrats=
-	{
-		culture = uzbek
-		religion = hindu
-		size= 362
-	}
-
-	farmers=
-	{
-		culture = uzbek
-		religion = hindu
-		size= 17135
-	}
-
+    farmers = {
+        culture = tajik
+        religion = sunni
+        size = 9150
+    }
 }
+#Badakhshan Region (212000)
+#under the rule of Kokand in 1836
+#Kulob (120000/30000 POPS)
 1207 = {
-	soldiers=
-	{
-		culture = tajik
-		religion = hindu
-		size= 1879
-	}
+    aristocrats = {
+        culture = tajik
+        religion = sunni
+        size = 575
+    }
 
-	artisans=
-	{
-		culture = tajik
-		religion = hindu
-		size= 1342
-	}
+    clergymen = {
+        culture = tajik
+        religion = sunni
+        size = 275
+    }
 
-	clergymen=
-	{
-		culture = tajik
-		religion = hindu
-		size= 252
-	}
+    artisans = {
+        culture = tajik
+        religion = sunni
+        size = 1450
+    }
 
-	bureaucrats=
-	{
-		culture = tajik
-		religion = hindu
-		size= 30
-	}
+    soldiers = {
+        culture = tajik
+        religion = sunni
+        size = 250
+    }
 
-	officers=
-	{
-		culture = tajik
-		religion = hindu
-		size= 54
-	}
+    farmers = {
+        culture = tajik
+        religion = sunni
+        size = 27450
+    }
 
-	aristocrats=
-	{
-		culture = tajik
-		religion = hindu
-		size= 282
-	}
+    slaves = {
+        culture = tajik
+        religion = sunni
+        size = 2000
+    }
 
-	farmers=
-	{
-		culture = tajik
-		religion = hindu
-		size= 29709
-	}
-
+    slaves = {
+        culture = uighur
+        religion = sunni
+        size = 4000
+    }
 }
+#Khorugh (92000/23000 POPS)
 1208 = {
-	soldiers=
-	{
-		culture = mongol
-		religion = hindu
-		size= 1156
-	}
+    aristocrats = {
+        culture = tajik
+        religion = sunni
+        size = 350
+    }
 
-	artisans=
-	{
-		culture = mongol
-		religion = hindu
-		size= 522
-	}
+    bureaucrats = {
+        culture = tajik
+        religion = sunni
+        size = 150
+    }
 
-	clergymen=
-	{
-		culture = mongol
-		religion = hindu
-		size= 98
-	}
+    clergymen = {
+        culture = tajik
+        religion = sunni
+        size = 175
+    }
 
-	bureaucrats=
-	{
-		culture = mongol
-		religion = hindu
-		size= 7
-	}
+    artisans = {
+        culture = tajik
+        religion = sunni
+        size = 850
+    }
 
-	officers=
-	{
-		culture = mongol
-		religion = hindu
-		size= 21
-	}
+    officers = {
+        culture = tajik
+        religion = sunni
+        size = 100
+    }
 
-	aristocrats=
-	{
-		culture = mongol
-		religion = hindu
-		size= 109
-	}
+    soldiers = {
+        culture = tajik
+        religion = sunni
+        size = 1000
+    }
 
-	farmers=
-	{
-		culture = mongol
-		religion = hindu
-		size= 18736
-	}
+    farmers = {
+        culture = tajik
+        religion = sunni
+        size = 25450
+    }
 
-	soldiers=
-	{
-		culture = uzbek
-		religion = hindu
-		size= 185
-	}
+    aristocrats = {
+        culture = kirgiz
+        religion = sunni
+        size = 75
+    }
 
-	artisans=
-	{
-		culture = uzbek
-		religion = hindu
-		size= 436
-	}
+    clergymen = {
+        culture = kirgiz
+        religion = sunni
+        size = 75
+    }
 
-	clergymen=
-	{
-		culture = uzbek
-		religion = hindu
-		size= 82
-	}
+    artisans = {
+        culture = kirgiz
+        religion = sunni
+        size = 175
+    }
 
-	bureaucrats=
-	{
-		culture = uzbek
-		religion = hindu
-		size= 5
-	}
+    soldiers = {
+        culture = kirgiz
+        religion = sunni
+        size = 500
+    }
 
-	officers=
-	{
-		culture = uzbek
-		religion = hindu
-		size= 17
-	}
+    farmers = {
+        culture = kirgiz
+        religion = sunni
+        size = 3650
+    }
 
-	aristocrats=
-	{
-		culture = uzbek
-		religion = hindu
-		size= 92
-	}
-
-	farmers=
-	{
-		culture = uzbek
-		religion = hindu
-		size= 2479
-	}
+    slaves = {
+        culture = uighur
+        religion = sunni
+        size = 5000
+    }
 
 }

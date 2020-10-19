@@ -1,7 +1,12 @@
-owner=BRU
-controller=BRU
-add_core=BRU
-add_core=MLY
-trade_goods = timber
-life_rating = 15
-terrain = mountain
+owner = KTI
+controller = KTI
+add_core = KTI
+add_core = SUL
+add_core = BRU
+trade_goods = wool
+life_rating = 31
+1860.1.1 = {
+    owner = NET
+    controller = NET
+    colonial = 2
+}

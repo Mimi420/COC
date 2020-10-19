@@ -1,8 +1,12 @@
-owner=SCY
-controller=SCY
-add_core=BYZ
-add_core=SCY
-trade_goods = fish
+owner = SIC
+controller = SIC
+add_core = SIC
+add_core = SYC
+add_core = ITA
+trade_goods = grain
 life_rating = 35
-terrain = hills
-naval_base = 2
+1861.1.1 = {
+    controller = ITA
+    owner = ITA
+    naval_base = 1
+}

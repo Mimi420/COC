@@ -1,6 +1,5 @@
-owner=GUG
-controller=GUG
-add_core=HND
-trade_goods = tea
+owner = NEP
+controller = NEP
+add_core = NEP
+trade_goods = grain
 life_rating = 25
-terrain = mountain

@@ -1,447 +1,201 @@
+#Cyprus Region (152000)
+#under the rule of Ottoman Empire in 1836
+#Nicosia (64000/16000 POPS)
 855 = {
-	soldiers=
-	{
-		culture = greek
-		religion = orthodox
-		size= 812
-	}
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 275
+    }
 
-	artisans=
-	{
-		culture = greek
-		religion = orthodox
-		size= 72
-	}
+    bureaucrats = {
+        culture = turkish
+        religion = sunni
+        size = 50
+    }
 
-	clergymen=
-	{
-		culture = greek
-		religion = orthodox
-		size= 14
-	}
+    officers = {
+        culture = turkish
+        religion = sunni
+        size = 110
+    }
 
-	bureaucrats=
-	{
-		culture = greek
-		religion = orthodox
-		size= 4
-	}
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 110
+    }
 
-	officers=
-	{
-		culture = greek
-		religion = orthodox
-		size= 4
-	}
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 500
+    }
 
-	aristocrats=
-	{
-		culture = greek
-		religion = orthodox
-		size= 23
-	}
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 175
+    }
 
-	farmers=
-	{
-		culture = greek
-		religion = orthodox
-		size= 13569
-	}
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 2875
+    }
 
-	soldiers=
-	{
-		culture = greek
-		religion = catholic
-		size= 197
-	}
+    aristocrats = {
+        culture = greek
+        religion = orthodox
+        size = 120
+    }
 
-	artisans=
-	{
-		culture = greek
-		religion = catholic
-		size= 505
-	}
+    officers = {
+        culture = greek
+        religion = orthodox
+        size = 120
+    }
 
-	clergymen=
-	{
-		culture = greek
-		religion = catholic
-		size= 94
-	}
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 150
+    }
 
-	bureaucrats=
-	{
-		culture = greek
-		religion = catholic
-		size= 30
-	}
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 100
+    }
 
-	officers=
-	{
-		culture = greek
-		religion = catholic
-		size= 26
-	}
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 750
+    }
 
-	aristocrats=
-	{
-		culture = greek
-		religion = catholic
-		size= 159
-	}
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 10150
+    }
 
-	farmers=
-	{
-		culture = greek
-		religion = catholic
-		size= 2498
-	}
-
-	soldiers=
-	{
-		culture = greek
-		religion = protestant
-		size= 32
-	}
-
-	artisans=
-	{
-		culture = greek
-		religion = protestant
-		size= 166
-	}
-
-	clergymen=
-	{
-		culture = greek
-		religion = protestant
-		size= 31
-	}
-
-	bureaucrats=
-	{
-		culture = greek
-		religion = protestant
-		size= 10
-	}
-
-	officers=
-	{
-		culture = greek
-		religion = protestant
-		size= 9
-	}
-
-	aristocrats=
-	{
-		culture = greek
-		religion = protestant
-		size= 52
-	}
-
-	farmers=
-	{
-		culture = greek
-		religion = protestant
-		size= 270
-	}
-
+    slaves = {
+        culture = greek
+        religion = orthodox
+        size = 1000
+    }
 }
+#Limassol (44000/11000 POPS)
 856 = {
-	soldiers=
-	{
-		culture = greek
-		religion = orthodox
-		size= 558
-	}
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 200
+    }
 
-	artisans=
-	{
-		culture = greek
-		religion = orthodox
-		size= 50
-	}
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 110
+    }
 
-	clergymen=
-	{
-		culture = greek
-		religion = orthodox
-		size= 9
-	}
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 300
+    }
 
-	bureaucrats=
-	{
-		culture = greek
-		religion = orthodox
-		size= 3
-	}
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 100
+    }
 
-	officers=
-	{
-		culture = greek
-		religion = orthodox
-		size= 3
-	}
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 1350
+    }
 
-	aristocrats=
-	{
-		culture = greek
-		religion = orthodox
-		size= 16
-	}
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 150
+    }
 
-	farmers=
-	{
-		culture = greek
-		religion = orthodox
-		size= 9328
-	}
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 110
+    }
 
-	soldiers=
-	{
-		culture = greek
-		religion = catholic
-		size= 135
-	}
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 400
+    }
 
-	artisans=
-	{
-		culture = greek
-		religion = catholic
-		size= 346
-	}
-
-	clergymen=
-	{
-		culture = greek
-		religion = catholic
-		size= 65
-	}
-
-	bureaucrats=
-	{
-		culture = greek
-		religion = catholic
-		size= 20
-	}
-
-	officers=
-	{
-		culture = greek
-		religion = catholic
-		size= 18
-	}
-
-	aristocrats=
-	{
-		culture = greek
-		religion = catholic
-		size= 110
-	}
-
-	farmers=
-	{
-		culture = greek
-		religion = catholic
-		size= 1719
-	}
-
-	soldiers=
-	{
-		culture = greek
-		religion = protestant
-		size= 22
-	}
-
-	artisans=
-	{
-		culture = greek
-		religion = protestant
-		size= 114
-	}
-
-	clergymen=
-	{
-		culture = greek
-		religion = protestant
-		size= 21
-	}
-
-	bureaucrats=
-	{
-		culture = greek
-		religion = protestant
-		size= 7
-	}
-
-	officers=
-	{
-		culture = greek
-		religion = protestant
-		size= 6
-	}
-
-	aristocrats=
-	{
-		culture = greek
-		religion = protestant
-		size= 36
-	}
-
-	farmers=
-	{
-		culture = greek
-		religion = protestant
-		size= 186
-	}
-
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 8425
+    }
 }
+#Famagusta (44000/11000 POPS)
 857 = {
-	soldiers=
-	{
-		culture = greek
-		religion = orthodox
-		size= 558
-	}
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 200
+    }
 
-	artisans=
-	{
-		culture = greek
-		religion = orthodox
-		size= 50
-	}
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 110
+    }
 
-	clergymen=
-	{
-		culture = greek
-		religion = orthodox
-		size= 9
-	}
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 150
+    }
 
-	bureaucrats=
-	{
-		culture = greek
-		religion = orthodox
-		size= 3
-	}
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 100
+    }
 
-	officers=
-	{
-		culture = greek
-		religion = orthodox
-		size= 3
-	}
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 2500
+    }
 
-	aristocrats=
-	{
-		culture = greek
-		religion = orthodox
-		size= 16
-	}
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 150
+    }
 
-	farmers=
-	{
-		culture = greek
-		religion = orthodox
-		size= 9328
-	}
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 110
+    }
 
-	soldiers=
-	{
-		culture = greek
-		religion = catholic
-		size= 135
-	}
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 400
+    }
 
-	artisans=
-	{
-		culture = greek
-		religion = catholic
-		size= 346
-	}
-
-	clergymen=
-	{
-		culture = greek
-		religion = catholic
-		size= 65
-	}
-
-	bureaucrats=
-	{
-		culture = greek
-		religion = catholic
-		size= 20
-	}
-
-	officers=
-	{
-		culture = greek
-		religion = catholic
-		size= 18
-	}
-
-	aristocrats=
-	{
-		culture = greek
-		religion = catholic
-		size= 110
-	}
-
-	farmers=
-	{
-		culture = greek
-		religion = catholic
-		size= 1719
-	}
-
-	soldiers=
-	{
-		culture = greek
-		religion = protestant
-		size= 22
-	}
-
-	artisans=
-	{
-		culture = greek
-		religion = protestant
-		size= 114
-	}
-
-	clergymen=
-	{
-		culture = greek
-		religion = protestant
-		size= 21
-	}
-
-	bureaucrats=
-	{
-		culture = greek
-		religion = protestant
-		size= 7
-	}
-
-	officers=
-	{
-		culture = greek
-		religion = protestant
-		size= 6
-	}
-
-	aristocrats=
-	{
-		culture = greek
-		religion = protestant
-		size= 36
-	}
-
-	farmers=
-	{
-		culture = greek
-		religion = protestant
-		size= 186
-	}
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 7425
+    }
 
 }

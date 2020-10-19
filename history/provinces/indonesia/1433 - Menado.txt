@@ -1,6 +1,5 @@
-owner=BRU
-controller=BRU
+owner = NET
+controller = NET
+add_core = SLW
 trade_goods = dye
-life_rating = 30
-terrain = plains
-naval_base = 2
+life_rating = 32

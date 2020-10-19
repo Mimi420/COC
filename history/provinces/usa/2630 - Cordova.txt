@@ -1,7 +1,9 @@
-owner=COL
-controller=COL
-add_core=COL
-add_core=LSK
+add_core = LSK
 trade_goods = fish
 life_rating = 15
-terrain = arctic
+terrain = new_world_arctic
+1861.1.1 = {
+    owner = RUS
+    controller = RUS
+    colonial = 2
+}

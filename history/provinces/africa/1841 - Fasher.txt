@@ -1,6 +1,4 @@
-owner=X24
-controller=X24
-add_core=X24
-trade_goods = wool
-life_rating = 30
-terrain = plains
+add_core = DAR
+trade_goods = grain
+life_rating = 10
+terrain = semidesert

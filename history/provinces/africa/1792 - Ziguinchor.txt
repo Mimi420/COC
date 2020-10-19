@@ -1,3 +1,6 @@
-trade_goods = grain
-life_rating = 15
-terrain = plains
+owner = POR
+controller = POR
+add_core = GBU
+trade_goods = fish
+life_rating = 35
+colonial = 2

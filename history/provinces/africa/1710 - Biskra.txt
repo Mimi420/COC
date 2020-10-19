@@ -1,6 +1,11 @@
-owner=MOR
-controller=MOR
-add_core=MOR
-trade_goods = iron
-life_rating = 35
-terrain = desert
+owner = ALD
+controller = ALD
+add_core = ALD
+trade_goods = wool
+life_rating = 31
+terrain = semidesert
+1861.1.1 = {
+    owner = FRA
+    controller = FRA
+    colonial = 2
+}

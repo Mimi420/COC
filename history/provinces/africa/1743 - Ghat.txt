@@ -1,6 +1,7 @@
-owner=AYR
-controller=AYR
-add_core=AYR
-trade_goods = wool
-life_rating = 25
-terrain = desert
+owner = HAN
+controller = HAN
+add_core = HAN
+add_core = GER
+trade_goods = cattle
+life_rating = 40
+1861.1.1 = { railroad = 3 }

@@ -1,8 +1,3 @@
-owner=RAJ
-controller=RAJ
-add_core=KHA
-add_core=MGL
-add_core=SDR
+add_core = KAZ
 trade_goods = wool
-life_rating = 35
-terrain = steppe
+life_rating = 30

@@ -1,7 +1,6 @@
-owner=MOR
-controller=MOR
-add_core=MOR
+owner = POR
+controller = POR
+add_core = POR
 trade_goods = fruit
 life_rating = 35
-terrain = plains
 naval_base = 1

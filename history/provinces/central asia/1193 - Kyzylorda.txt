@@ -1,9 +1,3 @@
-owner=TAB
-controller=TAB
-add_core=KHA
-add_core=MGL
-add_core=SDR
+add_core = KAZ
 trade_goods = coal
-life_rating = 35
-terrain = woods
-colonial=2
+life_rating = 30

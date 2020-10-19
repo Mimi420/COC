@@ -1,0 +1,14 @@
+owner=VLD
+controller=X32
+add_core=VLD
+add_core=HRE
+trade_goods = coal
+life_rating = 35
+terrain = steppe
+naval_base = 1
+state_building=
+{
+	level=1
+	building = glass_factory
+	upgrade = yes
+}

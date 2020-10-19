@@ -1,7 +1,5 @@
-owner=FRA
-controller=FRA
-add_core=SWI
-add_core=HRE
+owner = FRA
+controller = FRA
+add_core = FRA
 trade_goods = silk
-life_rating = 32
-terrain = farmlands
+life_rating = 31

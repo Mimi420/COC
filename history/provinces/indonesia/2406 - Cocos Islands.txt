@@ -1,7 +1,6 @@
-owner=X21
-controller=X21
-add_core=X21
+owner = QNG
+controller = QNG
+add_core = CHI
+add_core = FJN
 trade_goods = fish
-life_rating = 20
-terrain = plains
-naval_base = 1
+life_rating = 32

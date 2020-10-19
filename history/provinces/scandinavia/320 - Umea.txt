@@ -1,7 +1,6 @@
-owner=SCN
-controller=SCN
-add_core=SCA
-add_core=SMI
+owner = SWE
+controller = SWE
+add_core = SWE
 trade_goods = timber
-life_rating = 35
-terrain = forest
+terrain = boreal
+life_rating = 20

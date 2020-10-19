@@ -1,8 +1,7 @@
-owner=SWA
-controller=SWA
-add_core=GER
-add_core=SWA
-add_core=HRE
+owner = BAV
+controller = BAV
+add_core = BAV
+add_core = GER
 trade_goods = cattle
 life_rating = 40
-terrain = hills
+1861.1.1 = { railroad = 2 }

@@ -1,6 +1,6 @@
-owner=RAJ
-controller=X17
-add_core=SIB
+owner = RUS
+controller = RUS
+add_core = KAZ
 trade_goods = iron
 life_rating = 35
-terrain = forest
+colonial = 2

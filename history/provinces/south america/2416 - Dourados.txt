@@ -1,6 +1,6 @@
-owner=X42
-controller=X42
-add_core=RGS
+owner = BRZ
+controller = BRZ
+add_core = BRZ
 trade_goods = fruit
-life_rating = 25
-terrain = jungle
+terrain = savanna
+life_rating = 31

@@ -1,6 +1,6 @@
-owner=TOT
-controller=TOT
-add_core=TOT
+owner = MEX
+controller = MEX
+add_core = MEX
+add_core = CHP
 trade_goods = cotton
-life_rating = 30
-terrain = jungle
+life_rating = 34

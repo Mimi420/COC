@@ -1,6 +1,5 @@
-owner=TUN
-controller=TUN
-add_core=TUN
+add_core = NMB
+terrain = semidesert
 trade_goods = wool
-life_rating = 15
-terrain = hills
+life_rating = 10
+colonial = 1

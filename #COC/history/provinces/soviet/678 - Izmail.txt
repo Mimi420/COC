@@ -1,0 +1,8 @@
+owner=MAZ
+controller=MAZ
+add_core=GRE
+add_core=WAL
+trade_goods = fish
+life_rating = 35
+terrain = plains
+naval_base = 1

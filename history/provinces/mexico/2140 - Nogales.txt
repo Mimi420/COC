@@ -1,6 +1,6 @@
-owner=X44
-controller=X44
-add_core=X44
+owner = MEX
+controller = MEX
+terrain = new_world_semidesert
+add_core = MEX
 trade_goods = grain
-life_rating = 35
-terrain = plains
+life_rating = 32

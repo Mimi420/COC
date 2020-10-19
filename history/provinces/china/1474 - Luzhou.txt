@@ -1,9 +1,10 @@
-owner=MCK
-controller=MCK
-add_core=CHI
-add_core=MCK
-add_core=MNG
-add_core=SHU
-trade_goods = tea
+owner = QNG
+controller = QNG
+add_core = CHI
+trade_goods = cattle
 life_rating = 32
-terrain = plains
+1861.1.1 = {
+    owner = TPG
+    controller = TPG
+    add_core = TPG
+}

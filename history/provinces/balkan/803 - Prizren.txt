@@ -1,9 +1,7 @@
-owner=KOS
-controller=KOS
-add_core=GRE
-add_core=KOS
-add_core=X33
-add_core=HRE
+owner = TUR
+controller = TUR
+add_core = TUR
+add_core = SER
+add_core = ALB
 trade_goods = timber
 life_rating = 35
-terrain = hills

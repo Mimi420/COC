@@ -1,9 +1,6 @@
-owner=X23
-controller=X23
-add_core=HND
-add_core=MDR
-add_core=X23
-trade_goods = tea
-life_rating = 32
-terrain = plains
-naval_base = 2
+owner = ENG
+controller = ENG
+add_core = SRI
+trade_goods = coffee
+life_rating = 33
+colonial = 2

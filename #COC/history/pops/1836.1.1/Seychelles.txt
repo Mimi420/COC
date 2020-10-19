@@ -1,0 +1,51 @@
+2127 = {
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 483
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 777
+	}
+
+}

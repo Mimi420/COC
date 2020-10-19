@@ -1,6 +1,9 @@
-#Sphere of Influence
-
-
-#Leaders
-
-#Armies
+army = {
+    name = "Lippische Armee"
+    location = 585
+    regiment = {
+        name= "1. Lippische Infanterie-Brigade"
+        type = infantry
+        home = 585
+    }
+}

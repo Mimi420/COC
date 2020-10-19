@@ -1,365 +1,185 @@
-1979 = {
-	soldiers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 2
-	}
-
-	artisans=
-	{
-		culture = guajiro
-		religion = animist
-		size= 3
-	}
-
-	clergymen=
-	{
-		culture = guajiro
-		religion = animist
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 1
-	}
-
-	farmers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 149
-	}
-
-	soldiers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 9
-	}
-
-	artisans=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 39
-	}
-
-	clergymen=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 6
-	}
-
-	bureaucrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 3
-	}
-
-	officers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 8
-	}
-
-	farmers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 825
-	}
-
-}
+#Guyana (99600)
+#Ruled by Britain 1836
+#Georgetown (58600/14650 POPS)
 2239 = {
-	soldiers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 23
-	}
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 100
+    }
 
-	artisans=
-	{
-		culture = guajiro
-		religion = animist
-		size= 46
-	}
+    bureaucrats = {
+        culture = british
+        religion = protestant
+        size = 50
+    }
 
-	clergymen=
-	{
-		culture = guajiro
-		religion = animist
-		size= 7
-	}
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 25
+    }
 
-	bureaucrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 3
-	}
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 350
+    }
 
-	officers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 1
-	}
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 25
+    }
 
-	aristocrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 10
-	}
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 100
+    }
 
-	farmers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 2199
-	}
+    clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 75
+    }
 
-	soldiers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 131
-	}
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 700
+    }
 
-	artisans=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 568
-	}
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 150
+    }
 
-	clergymen=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 92
-	}
-
-	bureaucrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 43
-	}
-
-	officers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 18
-	}
-
-	aristocrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 119
-	}
-
-	farmers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 12092
-	}
-
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 13075
+    }
 }
+#Mahdia (4000/1000 POPS)
 2242 = {
-	soldiers=
-	{
-		culture = carribean
-		religion = animist
-		size= 3
-	}
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 10
+    }
 
-	artisans=
-	{
-		culture = carribean
-		religion = animist
-		size= 7
-	}
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 25
+    }
 
-	clergymen=
-	{
-		culture = carribean
-		religion = animist
-		size= 1
-	}
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
 
-	aristocrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 1
-	}
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 15
+    }
 
-	farmers=
-	{
-		culture = carribean
-		religion = animist
-		size= 321
-	}
-
-	soldiers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 7
-	}
-
-	artisans=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 33
-	}
-
-	clergymen=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 5
-	}
-
-	bureaucrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 2
-	}
-
-	officers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 7
-	}
-
-	farmers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 597
-	}
-
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 900
+    }
 }
+#Essequibo (33000/8250 POPS)
 2243 = {
-	soldiers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 45
-	}
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 50
+    }
 
-	artisans=
-	{
-		culture = guajiro
-		religion = animist
-		size= 31
-	}
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 25
+    }
 
-	clergymen=
-	{
-		culture = guajiro
-		religion = animist
-		size= 5
-	}
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 100
+    }
 
-	bureaucrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 3
-	}
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 25
+    }
 
-	aristocrats=
-	{
-		culture = guajiro
-		religion = animist
-		size= 7
-	}
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 50
+    }
 
-	farmers=
-	{
-		culture = guajiro
-		religion = animist
-		size= 1494
-	}
+    clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 75
+    }
 
-	soldiers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 1033
-	}
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 300
+    }
 
-	artisans=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 362
-	}
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 75
+    }
 
-	clergymen=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 59
-	}
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 8550
+    }
+}
+#Biloka (4000/1000 POPS)
+1979 = {
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 10
+    }
 
-	bureaucrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 27
-	}
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 25
+    }
 
-	officers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 19
-	}
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
 
-	aristocrats=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 76
-	}
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 15
+    }
 
-	farmers=
-	{
-		culture = ujvilag
-		religion = catholic
-		size= 6689
-	}
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 900
+    }
 
 }

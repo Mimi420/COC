@@ -1,9 +1,22 @@
-owner=FRA
-controller=FRA
-add_core=FRA
-add_core=OCC
-add_core=TUL
-trade_goods = fruit
+owner = FRA
+controller = FRA
+add_core = FRA
+trade_goods = wool
 life_rating = 31
-terrain = farmlands
-naval_base = 1
+terrain = forest
+#state_building = {
+#    level = 1
+#    building = winery
+#    upgrade = yes
+#}
+1861.1.1 = {
+    state_building = {
+        level = 1
+        building = winery
+        upgrade = yes
+    }
+}
+1861.1.1 = {
+    railroad = 3
+    naval_base = 1
+}

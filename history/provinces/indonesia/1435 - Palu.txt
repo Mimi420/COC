@@ -1,5 +1,5 @@
-owner=BRU
-controller=BRU
-trade_goods = timber
-life_rating = 30
-terrain = plains
+owner = SLW
+controller = SLW
+add_core = SLW
+trade_goods = wool
+life_rating = 31

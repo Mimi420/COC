@@ -1,0 +1,8 @@
+owner=POR
+controller=POR
+add_core=POR
+add_core=LEO
+trade_goods = iron
+life_rating = 35
+terrain = hills
+naval_base = 1

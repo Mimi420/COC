@@ -1,7 +1,6 @@
-owner=CWU
-controller=CWU
-add_core=CHI
-add_core=CWU
+owner = QNG
+controller = QNG
+add_core = CHI
+add_core = FJN
 trade_goods = tea
-life_rating = 32
-terrain = hills
+life_rating = 35

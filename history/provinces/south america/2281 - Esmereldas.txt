@@ -1,6 +1,6 @@
-owner=VNZ
-controller=VNZ
-add_core=VNZ
-trade_goods = fruit
+owner = ECU
+controller = ECU
+add_core = ECU
+trade_goods = grain
 life_rating = 35
-terrain = plains
+naval_base = 1

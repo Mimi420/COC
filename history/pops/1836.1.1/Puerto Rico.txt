@@ -1,114 +1,95 @@
+#Puerto Rico (356000)
+#Ruled by Spain 1836
+#Puerto Rico (356000/89000 POPS)
 2222 = {
-	slaves=
-	{
-		culture = carribean
-		religion = animist
-		size= 7759
-	}
+    aristocrats = {
+        culture = spanish
+        religion = catholic
+        size = 250
+    }
 
-	soldiers=
-	{
-		culture = carribean
-		religion = animist
-		size= 1217
-	}
+    bureaucrats = {
+        culture = spanish
+        religion = catholic
+        size = 75
+    }
 
-	artisans=
-	{
-		culture = carribean
-		religion = animist
-		size= 1151
-	}
+    clergymen = {
+        culture = spanish
+        religion = catholic
+        size = 300
+    }
 
-	clergymen=
-	{
-		culture = carribean
-		religion = animist
-		size= 53
-	}
+    artisans = {
+        culture = spanish
+        religion = catholic
+        size = 800
+    }
 
-	bureaucrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 20
-	}
+    soldiers = {
+        culture = spanish
+        religion = catholic
+        size = 50
+    }
 
-	officers=
-	{
-		culture = carribean
-		religion = animist
-		size= 21
-	}
+    aristocrats = {
+        culture = caribeno
+        religion = catholic
+        size = 1535
+    }
 
-	aristocrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 104
-	}
+    bureaucrats = {
+        culture = caribeno
+        religion = catholic
+        size = 25
+    }
 
-	farmers=
-	{
-		culture = carribean
-		religion = animist
-		size= 6115
-	}
+    clergymen = {
+        culture = caribeno
+        religion = catholic
+        size = 200
+    }
 
-	slaves=
-	{
-		culture = afro_norse
-		religion = catholic
-		size= 47868
-	}
+    artisans = {
+        culture = caribeno
+        religion = catholic
+        size = 3000
+    }
 
-	soldiers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 7505
-	}
+    soldiers = {
+        culture = caribeno
+        religion = catholic
+        size = 450
+    }
 
-	artisans=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 15350
-	}
+    farmers = {
+        culture = caribeno
+        religion = catholic
+        size = 40850
+    }
 
-	clergymen=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 713
-	}
+    artisans = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 1100
+    }
 
-	bureaucrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 263
-	}
+    soldiers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 400
+    }
 
-	officers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 274
-	}
+    farmers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 30600
+    }
 
-	aristocrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 1381
-	}
-
-	farmers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 28067
-	}
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 10000
+    }
 
 }

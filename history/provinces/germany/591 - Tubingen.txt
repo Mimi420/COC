@@ -1,8 +1,6 @@
-owner=SWA
-controller=SWA
-add_core=GER
-add_core=SWA
-add_core=HRE
+owner = WUR
+controller = WUR
+add_core = WUR
+add_core = GER
 trade_goods = grain
 life_rating = 40
-terrain = plains

@@ -1,6 +1,9 @@
-owner=TAB
-controller=TAB
-add_core=ALN
+owner = DAG
+controller = DAG
+add_core = DAG
 trade_goods = fruit
 life_rating = 35
-terrain = hills
+1861.1.1 = {
+    owner = RUS
+    controller = RUS
+}

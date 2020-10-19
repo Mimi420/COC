@@ -1,6 +1,6 @@
-owner=X36
-controller=X36
-add_core=X36
+owner = ENG
+controller = ENG
+add_core = AST
 trade_goods = wool
-life_rating = 30
-terrain = woods
+life_rating = 33
+colonial = 2

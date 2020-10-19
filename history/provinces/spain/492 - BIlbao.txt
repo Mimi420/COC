@@ -1,20 +1,20 @@
-owner=LEO
-controller=LEO
-add_core=LEO
-add_core=SPA
-trade_goods = iron
+owner = SPA
+controller = SPA
+add_core = SPA
+add_core = BSQ
+trade_goods = fruit
 life_rating = 35
-terrain = hills
-naval_base = 1
-state_building=
-{
-	level=1
-	building = ammunition_factory
-	upgrade = yes
+
+1861.1.1 = {
+    state_building = {
+        level = 1
+        building = steamer_shipyard
+        upgrade = yes
+    }
+    state_building = {
+        level = 1
+        building = steel_factory
+        upgrade = yes
+    }
 }
-state_building=
-{
-	level=1
-	building = small_arms_factory
-	upgrade = yes
-}
+1861.1.1 = { railroad = 3 }

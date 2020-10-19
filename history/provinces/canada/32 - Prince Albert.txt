@@ -1,6 +1,10 @@
-owner=CAN
-controller=CAN
-add_core=CAN
-trade_goods = grain
-life_rating = 30
-terrain = forest
+add_core = MTC
+trade_goods = timber
+terrain = new_world_boreal
+life_rating = 15
+1861.1.1 = {
+    owner = ENG
+    controller = ENG
+    add_core = RPL
+    colonial = 2
+}

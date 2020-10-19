@@ -1,7 +1,5 @@
-owner=GUG
-controller=GUG
-add_core=GUG
-add_core=TIB
+owner = TIB
+controller = TIB
+add_core = TIB
 trade_goods = cattle
 life_rating = 30
-terrain = mountain

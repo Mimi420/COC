@@ -1,7 +1,7 @@
-owner=CRB
-controller=CRB
-add_core=CRB
-add_core=HAI
+owner = ENG
+controller = ENG
 trade_goods = tobacco
 life_rating = 35
-terrain = hills
+colonial = 2
+naval_base = 1
+terrain = new_world_plains

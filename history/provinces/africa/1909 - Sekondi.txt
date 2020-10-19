@@ -1,6 +1,6 @@
-owner=LOR
-controller=LOR
+owner = NET
+controller = NET
+add_core = ASH
 trade_goods = cattle
 life_rating = 35
-terrain = plains
-colonial=2
+colonial = 2

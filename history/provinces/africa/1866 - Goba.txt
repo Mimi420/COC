@@ -1,6 +1,5 @@
-owner=ML1
-controller=ML1
-add_core=ML1
+add_core = SHW
+add_core = ETH
+terrain = dryhills
 trade_goods = cattle
-life_rating = 30
-terrain = hills
+life_rating = 10

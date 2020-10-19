@@ -1,12 +1,6 @@
-owner=VLD
-controller=RAJ
-add_core=VLD
-trade_goods = coal
-life_rating = 35
-terrain = forest
-state_building=
-{
-	level=1
-	building = steel_factory
-	upgrade = yes
-}
+owner = RUS
+controller = RUS
+add_core = RUS
+add_core = URA
+trade_goods = precious_metal
+life_rating = 40

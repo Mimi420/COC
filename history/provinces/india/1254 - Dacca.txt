@@ -1,7 +1,7 @@
-owner=X30
-controller=X30
-add_core=BNG
-add_core=HND
+owner = ENG
+controller = ENG
+add_core = HND
+add_core = BNG
 trade_goods = dye
 life_rating = 32
-terrain = jungle
+colonial = 2

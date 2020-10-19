@@ -1,9 +1,6 @@
-owner=GLR
-controller=GLR
-add_core=GLR
-add_core=NET
-add_core=HRE
+owner = NET
+controller = NET
+add_core = NET
 trade_goods = cattle
 life_rating = 35
-terrain = farmlands
-naval_base = 1
+1861.1.1 = { railroad = 3 }

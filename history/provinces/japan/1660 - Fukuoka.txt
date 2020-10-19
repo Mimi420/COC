@@ -1,7 +1,6 @@
-owner=MCK
-controller=MCK
-add_core=JAP
+owner = SAT
+controller = SAT
+add_core = SAT
+add_core = TKG
 trade_goods = tea
 life_rating = 35
-terrain = hills
-naval_base = 2

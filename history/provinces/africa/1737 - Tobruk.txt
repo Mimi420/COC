@@ -1,8 +1,8 @@
-owner=X32
-controller=X32
-add_core=EGY
-add_core=X20
-add_core=X32
+owner = TUR
+controller = TUR
+add_core = CYR
 trade_goods = grain
-life_rating = 35
-terrain = desert
+life_rating = 32
+terrain = semidesert
+#terrain = coastal_desert
+colonial = 2

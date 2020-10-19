@@ -1,53 +1,10 @@
+#Christmas-Cocos Region (560)
+#uncolonized in 1836
+#Christmas Island (60/15POPS)
 2244 = {
-	artisans=
-	{
-		culture = telegu
-		religion = hindu
-		size= 1
-	}
-
-	farmers=
-	{
-		culture = telegu
-		religion = hindu
-		size= 13
-	}
-
-}
-2406 = {
-	soldiers=
-	{
-		culture = rajput
-		religion = hindu
-		size= 3
-	}
-
-	artisans=
-	{
-		culture = rajput
-		religion = hindu
-		size= 5
-	}
-
-	clergymen=
-	{
-		culture = rajput
-		religion = hindu
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = rajput
-		religion = hindu
-		size= 1
-	}
-
-	farmers=
-	{
-		culture = rajput
-		religion = hindu
-		size= 125
-	}
-
+    farmers = {
+        culture = malay
+        religion = sunni
+        size = 15
+    }
 }

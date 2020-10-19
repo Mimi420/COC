@@ -1,6 +1,6 @@
-owner=VNZ
-controller=VNZ
-add_core=VNZ
+owner = ENG
+controller = ENG
+add_core = GUY
 trade_goods = tropical_wood
-life_rating = 30
-terrain = jungle
+life_rating = 15
+colonial = 2

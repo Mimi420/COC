@@ -1,8 +1,5 @@
-owner=TAB
-controller=TAB
-add_core=KHA
-add_core=MGL
+owner = RUS
+controller = RUS
+add_core = RUS
 trade_goods = cattle
 life_rating = 35
-terrain = steppe
-colonial=2

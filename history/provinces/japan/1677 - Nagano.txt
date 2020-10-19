@@ -1,7 +1,5 @@
-owner=IMG
-controller=IMG
-add_core=IMG
-add_core=JAP
-trade_goods = fish
+owner = TKG
+controller = TKG
+add_core = TKG
+trade_goods = tea
 life_rating = 35
-terrain = hills

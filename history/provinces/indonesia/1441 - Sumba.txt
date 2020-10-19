@@ -1,6 +1,6 @@
-owner=X22
-controller=X22
+owner = NET
+controller = NET
+add_core = BAL
 trade_goods = timber
-life_rating = 30
-terrain = plains
-naval_base = 1
+life_rating = 31
+colonial = 2

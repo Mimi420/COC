@@ -1,7 +1,6 @@
-owner=X21
-controller=RAJ
-add_core=HND
-add_core=X21
-trade_goods = cotton
+owner = BER
+controller = BER
+add_core = BER
+add_core = HND
+trade_goods = fish
 life_rating = 32
-terrain = mountain

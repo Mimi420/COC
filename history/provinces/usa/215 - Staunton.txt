@@ -1,6 +1,21 @@
-owner=X40
-controller=X40
-add_core=X40
+owner = USA
+controller = USA
+
+add_core = USA
 trade_goods = grain
 life_rating = 35
-terrain = farmlands
+
+party_loyalty = {
+    ideology = conservative
+    loyalty_value = 12
+}
+party_loyalty = {
+    ideology = liberal
+    loyalty_value = 12
+}
+
+1861.1.1 = {
+    owner = CSA
+    controller = CSA
+    add_core = CSA}
+1861.1.1 = { railroad = 3 }

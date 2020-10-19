@@ -1,500 +1,270 @@
+#Windward Islands Region - 188000
+#Barbados (100000/25000 POPS) #now independent
 2229 = {
-	slaves=
-	{
-		culture = carribean
-		religion = animist
-		size= 2962
-	}
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 1150
+    }
 
-	soldiers=
-	{
-		culture = carribean
-		religion = animist
-		size= 189
-	}
+    bureaucrats = {
+        culture = british
+        religion = protestant
+        size = 100
+    }
 
-	artisans=
-	{
-		culture = carribean
-		religion = animist
-		size= 237
-	}
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 50
+    }
 
-	clergymen=
-	{
-		culture = carribean
-		religion = animist
-		size= 11
-	}
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 1750
+    }
 
-	bureaucrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 3
-	}
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 50
+    }
 
-	officers=
-	{
-		culture = carribean
-		religion = animist
-		size= 4
-	}
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 1100
+    }
 
-	aristocrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 28
-	}
+    clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 75
+    }
 
-	slaves=
-	{
-		culture = afro_norse
-		religion = catholic
-		size= 24000
-	}
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 2750
+    }
 
-	soldiers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 1533
-	}
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 250
+    }
 
-	artisans=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 4070
-	}
-
-	clergymen=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 189
-	}
-
-	bureaucrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 58
-	}
-
-	officers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 61
-	}
-
-	aristocrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 488
-	}
-
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 18925
+    }
 }
+#Saint Lucia (18000/4500 POPS) #now independent
 2231 = {
-	slaves=
-	{
-		culture = carribean
-		religion = animist
-		size= 1011
-	}
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 10
+    }
 
-	soldiers=
-	{
-		culture = carribean
-		religion = animist
-		size= 60
-	}
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 10
+    }
 
-	artisans=
-	{
-		culture = carribean
-		religion = animist
-		size= 21
-	}
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 130
+    }
 
-	clergymen=
-	{
-		culture = carribean
-		religion = animist
-		size= 3
-	}
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 100
+    }
 
-	bureaucrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 1
-	}
+    clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 50
+    }
 
-	officers=
-	{
-		culture = carribean
-		religion = animist
-		size= 1
-	}
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 100
+    }
 
-	aristocrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 4
-	}
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 50
+    }
 
-	slaves=
-	{
-		culture = afro_norse
-		religion = protestant
-		size= 4292
-	}
-
-	soldiers=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 254
-	}
-
-	artisans=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 203
-	}
-
-	clergymen=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 33
-	}
-
-	bureaucrats=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 10
-	}
-
-	officers=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 11
-	}
-
-	aristocrats=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 43
-	}
-
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 4050
+    }
 }
+#Dominica (19000/4750 POPS) #now independent
 2232 = {
-	slaves=
-	{
-		culture = carribean
-		religion = animist
-		size= 1156
-	}
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 10
+    }
 
-	soldiers=
-	{
-		culture = carribean
-		religion = animist
-		size= 68
-	}
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 10
+    }
 
-	artisans=
-	{
-		culture = carribean
-		religion = animist
-		size= 55
-	}
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 130
+    }
 
-	clergymen=
-	{
-		culture = carribean
-		religion = animist
-		size= 4
-	}
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 100
+    }
 
-	bureaucrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 1
-	}
+    clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 50
+    }
 
-	officers=
-	{
-		culture = carribean
-		religion = animist
-		size= 1
-	}
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 150
+    }
 
-	aristocrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 5
-	}
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 50
+    }
 
-	slaves=
-	{
-		culture = afro_norse
-		religion = protestant
-		size= 4286
-	}
-
-	soldiers=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 253
-	}
-
-	artisans=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 462
-	}
-
-	clergymen=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 33
-	}
-
-	bureaucrats=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 10
-	}
-
-	officers=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 11
-	}
-
-	aristocrats=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 43
-	}
-
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 4250
+    }
 }
+#Grenada (30000/7500 POPS) #now independent
 2233 = {
-	slaves=
-	{
-		culture = carribean
-		religion = animist
-		size= 1666
-	}
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 25
+    }
 
-	soldiers=
-	{
-		culture = carribean
-		religion = animist
-		size= 100
-	}
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 20
+    }
 
-	artisans=
-	{
-		culture = carribean
-		religion = animist
-		size= 36
-	}
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 250
+    }
 
-	clergymen=
-	{
-		culture = carribean
-		religion = animist
-		size= 6
-	}
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 5
+    }
 
-	bureaucrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 2
-	}
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 200
+    }
 
-	officers=
-	{
-		culture = carribean
-		religion = animist
-		size= 2
-	}
+    clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 50
+    }
 
-	aristocrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 7
-	}
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 150
+    }
 
-	slaves=
-	{
-		culture = afro_norse
-		religion = protestant
-		size= 7068
-	}
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 75
+    }
 
-	soldiers=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 424
-	}
-
-	artisans=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 339
-	}
-
-	clergymen=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 55
-	}
-
-	bureaucrats=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 17
-	}
-
-	officers=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 18
-	}
-
-	aristocrats=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 71
-	}
-
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 6725
+    }
 }
+#Saint Vincent (21000/5250 POPS) #now independent
 2409 = {
-	slaves=
-	{
-		culture = carribean
-		religion = animist
-		size= 1190
-	}
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 10
+    }
 
-	soldiers=
-	{
-		culture = carribean
-		religion = animist
-		size= 70
-	}
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 10
+    }
 
-	artisans=
-	{
-		culture = carribean
-		religion = animist
-		size= 25
-	}
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 130
+    }
 
-	clergymen=
-	{
-		culture = carribean
-		religion = animist
-		size= 4
-	}
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 100
+    }
 
-	bureaucrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 1
-	}
+    clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 50
+    }
 
-	officers=
-	{
-		culture = carribean
-		religion = animist
-		size= 1
-	}
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 200
+    }
 
-	aristocrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 5
-	}
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 50
+    }
 
-	slaves=
-	{
-		culture = afro_norse
-		religion = protestant
-		size= 5049
-	}
-
-	soldiers=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 297
-	}
-
-	artisans=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 237
-	}
-
-	clergymen=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 39
-	}
-
-	bureaucrats=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 12
-	}
-
-	officers=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 12
-	}
-
-	aristocrats=
-	{
-		culture = amerikaner
-		religion = protestant
-		size= 50
-	}
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 4700
+    }
 
 }

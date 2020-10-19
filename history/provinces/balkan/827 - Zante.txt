@@ -1,6 +1,7 @@
-owner=GRE
-controller=X31
-add_core=GRE
-trade_goods = fish
-life_rating = 35
-terrain = plains
+owner = ION
+controller = ION
+add_core = ION
+add_core = GRE
+trade_goods = fruit
+life_rating = 34
+terrain = small_island

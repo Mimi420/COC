@@ -1,6 +1,6 @@
-owner=BRU
-controller=BRU
-add_core=BRU
+owner = NET
+controller = NET
+add_core = KLM
 trade_goods = sulphur
-life_rating = 30
-terrain = plains
+life_rating = 35
+colonial = 2

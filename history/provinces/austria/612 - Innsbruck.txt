@@ -1,8 +1,10 @@
-owner=TEM
-controller=TEM
-add_core=GER
-add_core=TEM
-add_core=HRE
+owner = AUS
+controller = AUS
+add_core = AUS
 trade_goods = timber
 life_rating = 35
-terrain = mountain
+#state_building = {
+#    level = 1
+#    building = lumber_mill
+#    upgrade = yes
+#}

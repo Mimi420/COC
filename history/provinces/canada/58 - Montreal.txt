@@ -1,7 +1,19 @@
-owner=X39
-controller=X39
-add_core=CAN
-add_core=X38
+owner = ENG
+controller = ENG
+add_core = QUE
 trade_goods = cattle
-life_rating = 35
-terrain = farmlands
+life_rating = 38
+colonial = 2
+1861.1.1 = {
+    state_building = {
+        level = 1
+        building = liquor_distillery
+        upgrade = yes
+    }
+    state_building = {
+        level = 1
+        building = lumber_mill
+        upgrade = yes
+    }
+}
+1861.1.1 = { railroad = 3 }

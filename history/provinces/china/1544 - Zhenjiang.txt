@@ -1,8 +1,10 @@
-owner=BUR
-controller=BUR
-add_core=BUR
-add_core=CHI
-add_core=MNG
+owner = QNG
+controller = QNG
+add_core = CHI
 trade_goods = silk
 life_rating = 32
-terrain = farmlands
+1861.1.1 = {
+    owner = TPG
+    controller = TPG
+    add_core = TPG
+}

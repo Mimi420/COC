@@ -1,14 +1,6 @@
-owner=SWA
-controller=SWA
-add_core=GER
-add_core=SWA
-add_core=HRE
+owner = BAD
+controller = BAD
+add_core = BAD
+add_core = GER
 trade_goods = timber
 life_rating = 40
-terrain = plains
-state_building=
-{
-	level=1
-	building = fabric_factory
-	upgrade = yes
-}

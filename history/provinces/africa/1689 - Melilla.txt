@@ -1,6 +1,8 @@
-owner=MOR
-controller=MOR
-add_core=ADU
+owner = SPA
+controller = SPA
+add_core = SPA
+add_core = MOR
 trade_goods = fish
+terrain = urban
 life_rating = 35
-terrain = plains
+colonial = 2

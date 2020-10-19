@@ -1,6 +1,5 @@
-owner=CAN
-controller=CAN
-add_core=CAN
-trade_goods = grain
-life_rating = 35
-terrain = arctic
+add_core = RPL
+trade_goods = timber
+life_rating = 10
+colonial = 2
+terrain = new_world_boreal

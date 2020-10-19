@@ -1,7 +1,8 @@
-owner=YEM
-controller=YEM
-add_core=TUR
-add_core=YEM
+add_core = IRQ
 trade_goods = fruit
-life_rating = 35
-terrain = desert
+life_rating = 10
+1861.1.1 = {
+    controller = TUR
+    owner = TUR
+    colonial = 1
+}

@@ -1,6 +1,6 @@
-owner=BRU
-controller=BRU
-add_core=MAL
+owner = NET
+controller = NET
+add_core = SLW
 trade_goods = timber
-life_rating = 30
-terrain = jungle
+life_rating = 32
+colonial = 2

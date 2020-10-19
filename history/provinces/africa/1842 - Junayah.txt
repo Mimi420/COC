@@ -1,6 +1,4 @@
-owner=X24
-controller=X24
-add_core=X24
-trade_goods = grain
+add_core = DAR
+trade_goods = cattle
 life_rating = 10
-terrain = desert
+terrain = semidesert

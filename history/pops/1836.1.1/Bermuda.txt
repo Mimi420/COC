@@ -1,51 +1,65 @@
+#Bermuda Region - 9000
+#Ruled by Britain 1836
+#Bermuda (9000/2250 POPS)
 203 = {
-	soldiers=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 77
-	}
+    clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 15
+    }
 
-	artisans=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 110
-	}
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 100
+    }
 
-	clergymen=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 18
-	}
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 25
+    }
 
-	bureaucrats=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 8
-	}
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 1110
+    }
 
-	officers=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 6
-	}
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 25
+    }
 
-	aristocrats=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 23
-	}
+    bureaucrats = {
+        culture = british
+        religion = protestant
+        size = 5
+    }
 
-	farmers=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 2514
-	}
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 25
+    }
+
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 150
+    }
+
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 25
+    }
+
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 780
+    }
 
 }

@@ -1,7 +1,6 @@
-owner=X31
-controller=X31
-add_core=GRE
-add_core=X31
+owner = TCA
+controller = TCA
+add_core = ARM
+add_core = TCA
 trade_goods = wool
 life_rating = 35
-terrain = mountain

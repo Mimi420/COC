@@ -1,6 +1,6 @@
-owner=VNZ
-controller=VNZ
-add_core=VNZ
-trade_goods = grain
-life_rating = 30
-terrain = mountain
+owner = ECU
+controller = ECU
+add_core = ECU
+trade_goods = wool
+terrain = montane_forest
+life_rating = 33

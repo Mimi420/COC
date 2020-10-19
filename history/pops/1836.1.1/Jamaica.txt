@@ -1,158 +1,91 @@
+#Jamaica Region - 384000
+#Ruled by Britain 1836
+#Jamaica (372000/93000 POPS)
 2217 = {
-	slaves=
-	{
-		culture = carribean
-		religion = animist
-		size= 19504
-	}
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 100
+    }
 
-	soldiers=
-	{
-		culture = carribean
-		religion = animist
-		size= 1154
-	}
+    aristocrats = { #So the state has 2% aristocrats
+        culture = british
+        religion = protestant
+        size = 1890
+    }
 
-	artisans=
-	{
-		culture = carribean
-		religion = animist
-		size= 412
-	}
+    bureaucrats = {
+        culture = british
+        religion = protestant
+        size = 85
+    }
 
-	clergymen=
-	{
-		culture = carribean
-		religion = animist
-		size= 67
-	}
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 75
+    }
 
-	bureaucrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 21
-	}
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 1250
+    }
 
-	officers=
-	{
-		culture = carribean
-		religion = animist
-		size= 22
-	}
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 50
+    }
 
-	aristocrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 260
-	}
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 2190
+    }
 
-	slaves=
-	{
-		culture = afro_norse
-		religion = catholic
-		size= 82843
-	}
+    clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 625
+    }
 
-	soldiers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 4902
-	}
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 3250
+    }
 
-	artisans=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 3914
-	}
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 1100
+    }
 
-	clergymen=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 636
-	}
-
-	bureaucrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 196
-	}
-
-	officers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 205
-	}
-
-	aristocrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 2466
-	}
-
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 84375
+    }
 }
+#Cayman Islands : (1200/300 POPS) #still a British Colony
 2218 = {
-	slaves=
-	{
-		culture = carribean
-		religion = animist
-		size= 67
-	}
+    clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 5
+    }
 
-	soldiers=
-	{
-		culture = carribean
-		religion = animist
-		size= 4
-	}
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 15
+    }
 
-	artisans=
-	{
-		culture = carribean
-		religion = animist
-		size= 3
-	}
-
-	slaves=
-	{
-		culture = afro_norse
-		religion = catholic
-		size= 286
-	}
-
-	soldiers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 16
-	}
-
-	artisans=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 28
-	}
-
-	clergymen=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 5
-	}
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 280
+    }
 
 }

@@ -1,300 +1,127 @@
+#Costa Rica Region (84000)
+#Ruled by Central America 1836
+#San Jose (52000/13000 POPS)
 2201 = {
-	soldiers=
-	{
-		culture = chibchan
-		religion = animist
-		size= 39
-	}
+    aristocrats = {
+        culture = central_american
+        religion = catholic
+        size = 300
+        militancy = 9
+    }
 
-	artisans=
-	{
-		culture = chibchan
-		religion = animist
-		size= 78
-	}
+    bureaucrats = {
+        culture = central_american
+        religion = catholic
+        size = 50
+    }
 
-	clergymen=
-	{
-		culture = chibchan
-		religion = animist
-		size= 13
-	}
+    officers = {
+        culture = central_american
+        religion = catholic
+        size = 25
+        militancy = 9
+    }
 
-	bureaucrats=
-	{
-		culture = chibchan
-		religion = animist
-		size= 6
-	}
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 125
+        militancy = 9
+    }
 
-	officers=
-	{
-		culture = chibchan
-		religion = animist
-		size= 3
-	}
+    artisans = {
+        culture = central_american
+        religion = catholic
+        size = 650
+    }
 
-	aristocrats=
-	{
-		culture = chibchan
-		religion = animist
-		size= 16
-	}
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 525
 
-	farmers=
-	{
-		culture = chibchan
-		religion = animist
-		size= 3727
-	}
+        militancy = 9
+    }
 
-	soldiers=
-	{
-		culture = central_american
-		religion = protestant
-		size= 93
-	}
-
-	artisans=
-	{
-		culture = central_american
-		religion = protestant
-		size= 450
-	}
-
-	clergymen=
-	{
-		culture = central_american
-		religion = protestant
-		size= 73
-	}
-
-	bureaucrats=
-	{
-		culture = central_american
-		religion = protestant
-		size= 34
-	}
-
-	officers=
-	{
-		culture = central_american
-		religion = protestant
-		size= 15
-	}
-
-	aristocrats=
-	{
-		culture = central_american
-		religion = protestant
-		size= 95
-	}
-
-	farmers=
-	{
-		culture = central_american
-		religion = protestant
-		size= 8558
-	}
-
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 11725
+        militancy = 5
+    }
 }
+#Liberia (20000/5000 POPS)
 2202 = {
-	soldiers=
-	{
-		culture = chibchan
-		religion = animist
-		size= 15
-	}
+    aristocrats = {
+        culture = central_american
+        religion = catholic
+        size = 150
+        militancy = 9
+    }
 
-	artisans=
-	{
-		culture = chibchan
-		religion = animist
-		size= 30
-	}
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 50
+        militancy = 9
+    }
 
-	clergymen=
-	{
-		culture = chibchan
-		religion = animist
-		size= 5
-	}
+    artisans = {
+        culture = central_american
+        religion = catholic
+        size = 250
+    }
 
-	bureaucrats=
-	{
-		culture = chibchan
-		religion = animist
-		size= 2
-	}
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 50
 
-	officers=
-	{
-		culture = chibchan
-		religion = animist
-		size= 1
-	}
+        militancy = 9
+    }
 
-	aristocrats=
-	{
-		culture = chibchan
-		religion = animist
-		size= 6
-	}
-
-	farmers=
-	{
-		culture = chibchan
-		religion = animist
-		size= 1438
-	}
-
-	soldiers=
-	{
-		culture = central_american
-		religion = protestant
-		size= 35
-	}
-
-	artisans=
-	{
-		culture = central_american
-		religion = protestant
-		size= 170
-	}
-
-	clergymen=
-	{
-		culture = central_american
-		religion = protestant
-		size= 28
-	}
-
-	bureaucrats=
-	{
-		culture = central_american
-		religion = protestant
-		size= 13
-	}
-
-	officers=
-	{
-		culture = central_american
-		religion = protestant
-		size= 6
-	}
-
-	aristocrats=
-	{
-		culture = central_american
-		religion = protestant
-		size= 36
-	}
-
-	farmers=
-	{
-		culture = central_american
-		religion = protestant
-		size= 3224
-	}
-
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 4500
+        militancy = 5
+    }
 }
+#Limon (12000/3000 POPS)
 2203 = {
-	soldiers=
-	{
-		culture = chibchan
-		religion = animist
-		size= 9
-	}
+    aristocrats = {
+        culture = central_american
+        religion = catholic
+        size = 75
+        militancy = 9
+    }
 
-	artisans=
-	{
-		culture = chibchan
-		religion = animist
-		size= 18
-	}
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 50
+        militancy = 9
+    }
 
-	clergymen=
-	{
-		culture = chibchan
-		religion = animist
-		size= 3
-	}
+    artisans = {
+        culture = central_american
+        religion = catholic
+        size = 150
+    }
 
-	bureaucrats=
-	{
-		culture = chibchan
-		religion = animist
-		size= 1
-	}
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 25
 
-	officers=
-	{
-		culture = chibchan
-		religion = animist
-		size= 1
-	}
+        militancy = 9
+    }
 
-	aristocrats=
-	{
-		culture = chibchan
-		religion = animist
-		size= 7
-	}
-
-	farmers=
-	{
-		culture = chibchan
-		religion = animist
-		size= 842
-	}
-
-	soldiers=
-	{
-		culture = central_american
-		religion = protestant
-		size= 23
-	}
-
-	artisans=
-	{
-		culture = central_american
-		religion = protestant
-		size= 108
-	}
-
-	clergymen=
-	{
-		culture = central_american
-		religion = protestant
-		size= 18
-	}
-
-	bureaucrats=
-	{
-		culture = central_american
-		religion = protestant
-		size= 8
-	}
-
-	officers=
-	{
-		culture = central_american
-		religion = protestant
-		size= 4
-	}
-
-	aristocrats=
-	{
-		culture = central_american
-		religion = protestant
-		size= 46
-	}
-
-	farmers=
-	{
-		culture = central_american
-		religion = protestant
-		size= 2063
-	}
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 2700
+        militancy = 5
+    }
 
 }

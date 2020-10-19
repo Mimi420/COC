@@ -1,6 +1,5 @@
-owner=MCK
-controller=MCK
-trade_goods = coal
-life_rating = 35
-terrain = plains
-naval_base = 1
+owner = KOR
+controller = KOR
+add_core = KOR
+trade_goods = silk
+life_rating = 31

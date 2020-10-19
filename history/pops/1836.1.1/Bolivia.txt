@@ -1,1011 +1,777 @@
+#La Paz Region (784000)
+#Ruled by Bolivia 1836
+#La Paz (392000/98000 POPS)
 2310 = {
-	soldiers=
-	{
-		culture = aimara
-		religion = inti
-		size= 1137
-	}
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 1100
+    }
 
-	artisans=
-	{
-		culture = aimara
-		religion = inti
-		size= 10234
-	}
+    bureaucrats = {
+        culture = south_andean
+        religion = catholic
+        size = 400
+    }
 
-	clergymen=
-	{
-		culture = aimara
-		religion = inti
-		size= 739
-	}
+    officers = {
+        culture = south_andean
+        religion = catholic
+        size = 325
+    }
 
-	bureaucrats=
-	{
-		culture = aimara
-		religion = inti
-		size= 273
-	}
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 650
+    }
 
-	officers=
-	{
-		culture = aimara
-		religion = inti
-		size= 148
-	}
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 5825
+    }
 
-	aristocrats=
-	{
-		culture = aimara
-		religion = inti
-		size= 1114
-	}
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 3000
+    }
 
-	farmers=
-	{
-		culture = aimara
-		religion = inti
-		size= 100061
-	}
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 100
+    }
 
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 19000
+    }
+
+    clergymen = {
+        culture = aimara
+        religion = catholic
+        size = 300
+    }
+
+    artisans = {
+        culture = aimara
+        religion = catholic
+        size = 2525
+    }
+
+    farmers = {
+        culture = aimara
+        religion = catholic
+        size = 64175
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 25
+    }
+
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 150
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 50
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 2775
+    }
 }
+#Cochabamba (352000/88000 POPS)
 2311 = {
-	soldiers=
-	{
-		culture = guarani
-		religion = animist
-		size= 385
-	}
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 1700
+    }
 
-	artisans=
-	{
-		culture = guarani
-		religion = animist
-		size= 769
-	}
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 550
+    }
 
-	aristocrats=
-	{
-		culture = guarani
-		religion = animist
-		size= 163
-	}
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 1150
+    }
 
-	farmers=
-	{
-		culture = guarani
-		religion = animist
-		size= 36907
-	}
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 2100
+    }
 
-	soldiers=
-	{
-		culture = guarani
-		religion = inti
-		size= 597
-	}
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 18600
+    }
 
-	artisans=
-	{
-		culture = guarani
-		religion = inti
-		size= 3156
-	}
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 300
+    }
 
-	clergymen=
-	{
-		culture = guarani
-		religion = inti
-		size= 513
-	}
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 3250
+    }
 
-	bureaucrats=
-	{
-		culture = guarani
-		religion = inti
-		size= 189
-	}
-
-	officers=
-	{
-		culture = guarani
-		religion = inti
-		size= 103
-	}
-
-	aristocrats=
-	{
-		culture = guarani
-		religion = inti
-		size= 663
-	}
-
-	farmers=
-	{
-		culture = guarani
-		religion = inti
-		size= 54472
-	}
-
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 61500
+    }
 }
+#Oruro (40000/10000 POPS)
 2312 = {
-	soldiers=
-	{
-		culture = aimara
-		religion = inti
-		size= 45
-	}
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 225
+    }
 
-	artisans=
-	{
-		culture = aimara
-		religion = inti
-		size= 203
-	}
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 50
+    }
 
-	clergymen=
-	{
-		culture = aimara
-		religion = inti
-		size= 15
-	}
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 150
+    }
 
-	bureaucrats=
-	{
-		culture = aimara
-		religion = inti
-		size= 5
-	}
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 50
+    }
 
-	officers=
-	{
-		culture = aimara
-		religion = inti
-		size= 3
-	}
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 2525
+    }
 
-	aristocrats=
-	{
-		culture = aimara
-		religion = inti
-		size= 19
-	}
+    clergymen = {
+        culture = aimara
+        religion = catholic
+        size = 75
+    }
 
-	farmers=
-	{
-		culture = aimara
-		religion = inti
-		size= 4227
-	}
+    artisans = {
+        culture = aimara
+        religion = catholic
+        size = 350
+    }
 
-	soldiers=
-	{
-		culture = aimara
-		religion = catholic
-		size= 1033
-	}
-
-	artisans=
-	{
-		culture = aimara
-		religion = catholic
-		size= 941
-	}
-
-	clergymen=
-	{
-		culture = aimara
-		religion = catholic
-		size= 68
-	}
-
-	bureaucrats=
-	{
-		culture = aimara
-		religion = catholic
-		size= 21
-	}
-
-	officers=
-	{
-		culture = aimara
-		religion = catholic
-		size= 14
-	}
-
-	aristocrats=
-	{
-		culture = aimara
-		religion = catholic
-		size= 88
-	}
-
-	farmers=
-	{
-		culture = aimara
-		religion = catholic
-		size= 6027
-	}
-
+    farmers = {
+        culture = aimara
+        religion = catholic
+        size = 6575
+    }
 }
+#Chuquisaca Region (288000)
+#Ruled by Bolivia 1836
+#Chuquisaca (116000/29000 POPS)
 2313 = {
-	soldiers=
-	{
-		culture = aimara
-		religion = inti
-		size= 1033
-	}
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 600
+    }
 
-	artisans=
-	{
-		culture = aimara
-		religion = inti
-		size= 2864
-	}
+    bureaucrats = {
+        culture = south_andean
+        religion = catholic
+        size = 75
+    }
 
-	clergymen=
-	{
-		culture = aimara
-		religion = inti
-		size= 207
-	}
+    officers = {
+        culture = south_andean
+        religion = catholic
+        size = 75
+    }
 
-	bureaucrats=
-	{
-		culture = aimara
-		religion = inti
-		size= 76
-	}
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 175
+    }
 
-	officers=
-	{
-		culture = aimara
-		religion = inti
-		size= 41
-	}
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 250
+    }
 
-	aristocrats=
-	{
-		culture = aimara
-		religion = inti
-		size= 267
-	}
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 1050
+    }
 
-	farmers=
-	{
-		culture = aimara
-		religion = inti
-		size= 27337
-	}
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 3825
+    }
 
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 125
+    }
+
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 1200
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 1050
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 23325
+    }
 }
+#Potosi (120000/30000 POPS)
 2314 = {
-	soldiers=
-	{
-		culture = aimara
-		religion = inti
-		size= 7233
-	}
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 625
+    }
 
-	artisans=
-	{
-		culture = aimara
-		religion = inti
-		size= 211
-	}
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 150
+    }
 
-	clergymen=
-	{
-		culture = aimara
-		religion = inti
-		size= 34
-	}
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 150
+    }
 
-	bureaucrats=
-	{
-		culture = aimara
-		religion = inti
-		size= 13
-	}
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 25
+    }
 
-	officers=
-	{
-		culture = aimara
-		religion = inti
-		size= 6
-	}
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 2050
+    }
 
-	aristocrats=
-	{
-		culture = aimara
-		religion = inti
-		size= 44
-	}
+    clergymen = {
+        culture = aimara
+        religion = catholic
+        size = 125
+    }
 
-	farmers=
-	{
-		culture = aimara
-		religion = inti
-		size= 4462
-	}
+    artisans = {
+        culture = aimara
+        religion = catholic
+        size = 1350
+    }
 
-	soldiers=
-	{
-		culture = aimara
-		religion = catholic
-		size= 10333
-	}
-
-	artisans=
-	{
-		culture = aimara
-		religion = catholic
-		size= 870
-	}
-
-	clergymen=
-	{
-		culture = aimara
-		religion = catholic
-		size= 141
-	}
-
-	bureaucrats=
-	{
-		culture = aimara
-		religion = catholic
-		size= 52
-	}
-
-	officers=
-	{
-		culture = aimara
-		religion = catholic
-		size= 28
-	}
-
-	aristocrats=
-	{
-		culture = aimara
-		religion = catholic
-		size= 183
-	}
-
-	farmers=
-	{
-		culture = aimara
-		religion = catholic
-		size= 4928
-	}
-
-	soldiers=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 72
-	}
-
-	artisans=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 352
-	}
-
-	clergymen=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 57
-	}
-
-	bureaucrats=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 21
-	}
-
-	officers=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 11
-	}
-
-	aristocrats=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 74
-	}
-
-	farmers=
-	{
-		culture = nouvellien
-		religion = catholic
-		size= 6660
-	}
-
+    farmers = {
+        culture = aimara
+        religion = catholic
+        size = 25525
+    }
 }
+#Tarija (52000/13000 POPS)
 2315 = {
-	soldiers=
-	{
-		culture = aimara
-		religion = inti
-		size= 132
-	}
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 275
+    }
 
-	artisans=
-	{
-		culture = aimara
-		religion = inti
-		size= 526
-	}
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 75
+    }
 
-	clergymen=
-	{
-		culture = aimara
-		religion = inti
-		size= 86
-	}
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 50
+    }
 
-	bureaucrats=
-	{
-		culture = aimara
-		religion = inti
-		size= 32
-	}
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 25
+    }
 
-	officers=
-	{
-		culture = aimara
-		religion = inti
-		size= 17
-	}
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 575
+    }
 
-	aristocrats=
-	{
-		culture = aimara
-		religion = inti
-		size= 111
-	}
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 50
+    }
 
-	farmers=
-	{
-		culture = aimara
-		religion = inti
-		size= 12256
-	}
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 600
+    }
 
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 125
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 11225
+    }
 }
+#Santa Cruz Region (48000)
+#Ruled by Bolivia 1836
+#Santa Cruz (16000/4000 POPS)
 2316 = {
-	soldiers=
-	{
-		culture = guarani
-		religion = animist
-		size= 10
-	}
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 100
+    }
 
-	farmers=
-	{
-		culture = guarani
-		religion = animist
-		size= 1177
-	}
+    bureaucrats = {
+        culture = south_andean
+        religion = catholic
+        size = 5
+    }
 
-	soldiers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 34
-	}
+    officers = {
+        culture = south_andean
+        religion = catholic
+        size = 10
+    }
 
-	artisans=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 161
-	}
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 75
+    }
 
-	clergymen=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 26
-	}
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 50
+    }
 
-	bureaucrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 12
-	}
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 25
+    }
 
-	officers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 5
-	}
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 735
+    }
 
-	aristocrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 34
-	}
+    clergymen = {
+        culture = guarani
+        religion = animist
+        size = 25
+    }
 
-	farmers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 3137
-	}
+    artisans = {
+        culture = guarani
+        religion = animist
+        size = 150
+    }
 
+    soldiers = {
+        culture = guarani
+        religion = animist
+        size = 50
+    }
+
+    farmers = {
+        culture = guarani
+        religion = animist
+        size = 2775
+    }
 }
+#San Ignacio (20000/5000 POPS)
 2317 = {
-	soldiers=
-	{
-		culture = amazonian
-		religion = animist
-		size= 12
-	}
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 25
+    }
 
-	artisans=
-	{
-		culture = amazonian
-		religion = animist
-		size= 25
-	}
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 50
+    }
 
-	clergymen=
-	{
-		culture = amazonian
-		religion = animist
-		size= 4
-	}
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 25
+    }
 
-	bureaucrats=
-	{
-		culture = amazonian
-		religion = animist
-		size= 2
-	}
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 900
+    }
 
-	officers=
-	{
-		culture = amazonian
-		religion = animist
-		size= 1
-	}
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 25
+    }
 
-	aristocrats=
-	{
-		culture = amazonian
-		religion = animist
-		size= 5
-	}
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
 
-	farmers=
-	{
-		culture = amazonian
-		religion = animist
-		size= 1195
-	}
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 100
+    }
 
-	soldiers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 36
-	}
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 25
+    }
 
-	artisans=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 170
-	}
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 1800
+    }
 
-	clergymen=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 28
-	}
+    aristocrats = {
+        culture = guarani
+        religion = animist
+        size = 25
+    }
 
-	bureaucrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 13
-	}
+    clergymen = {
+        culture = guarani
+        religion = animist
+        size = 50
+    }
 
-	officers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 6
-	}
+    artisans = {
+        culture = guarani
+        religion = animist
+        size = 100
+    }
 
-	aristocrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 36
-	}
+    soldiers = {
+        culture = guarani
+        religion = animist
+        size = 25
+    }
 
-	farmers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 3351
-	}
-
+    farmers = {
+        culture = guarani
+        religion = animist
+        size = 1800
+    }
 }
+#Robore (12000/3000 POPS)
 2318 = {
-	soldiers=
-	{
-		culture = chacoan
-		religion = animist
-		size= 16
-	}
+    aristocrats = {
+        culture = guarani
+        religion = animist
+        size = 50
+    }
 
-	farmers=
-	{
-		culture = chacoan
-		religion = animist
-		size= 805
-	}
+    clergymen = {
+        culture = guarani
+        religion = animist
+        size = 75
+    }
 
-	farmers=
-	{
-		culture = guarani
-		religion = animist
-		size= 37
-	}
+    artisans = {
+        culture = guarani
+        religion = animist
+        size = 150
+    }
 
-	soldiers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 44
-	}
+    soldiers = {
+        culture = guarani
+        religion = animist
+        size = 25
+    }
 
-	artisans=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 106
-	}
-
-	clergymen=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 17
-	}
-
-	bureaucrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 5
-	}
-
-	officers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 3
-	}
-
-	aristocrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 22
-	}
-
-	farmers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 2015
-	}
-
+    farmers = {
+        culture = guarani
+        religion = animist
+        size = 2700
+    }
 }
+#Beni Region (116000) #see Brazil.txt for balance of region
+#Ruled by Bolivia 1836
+#Santa Ana (76000/19000 POPS)
 2319 = {
-	soldiers=
-	{
-		culture = guarani
-		religion = animist
-		size= 56
-	}
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 275
+    }
 
-	artisans=
-	{
-		culture = guarani
-		religion = animist
-		size= 254
-	}
+    bureaucrats = {
+        culture = south_andean
+        religion = catholic
+        size = 25
+    }
 
-	clergymen=
-	{
-		culture = guarani
-		religion = animist
-		size= 18
-	}
+    officers = {
+        culture = south_andean
+        religion = catholic
+        size = 25
+    }
 
-	bureaucrats=
-	{
-		culture = guarani
-		religion = animist
-		size= 8
-	}
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 75
+    }
 
-	officers=
-	{
-		culture = guarani
-		religion = animist
-		size= 4
-	}
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 150
+    }
 
-	aristocrats=
-	{
-		culture = guarani
-		religion = animist
-		size= 24
-	}
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 50
+    }
 
-	farmers=
-	{
-		culture = guarani
-		religion = animist
-		size= 5279
-	}
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 2400
+    }
 
-	soldiers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 173
-	}
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 50
+    }
 
-	artisans=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 1808
-	}
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 500
+    }
 
-	clergymen=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 131
-	}
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 100
+    }
 
-	bureaucrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 60
-	}
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 9350
+    }
 
-	officers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 26
-	}
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 100
+    }
 
-	aristocrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 169
-	}
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
 
-	farmers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 14899
-	}
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 300
+    }
 
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 5475
+    }
 }
+#Riberalta (12000/3000 POPS)
 2320 = {
-	soldiers=
-	{
-		culture = amazonian
-		religion = animist
-		size= 8
-	}
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
 
-	artisans=
-	{
-		culture = amazonian
-		religion = animist
-		size= 15
-	}
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 75
+    }
 
-	clergymen=
-	{
-		culture = amazonian
-		religion = animist
-		size= 2
-	}
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 150
+    }
 
-	bureaucrats=
-	{
-		culture = amazonian
-		religion = animist
-		size= 1
-	}
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 25
+    }
 
-	aristocrats=
-	{
-		culture = amazonian
-		religion = animist
-		size= 3
-	}
-
-	farmers=
-	{
-		culture = amazonian
-		religion = animist
-		size= 730
-	}
-
-	soldiers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 23
-	}
-
-	artisans=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 108
-	}
-
-	clergymen=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 18
-	}
-
-	bureaucrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 8
-	}
-
-	officers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 4
-	}
-
-	aristocrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 23
-	}
-
-	farmers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 2140
-	}
-
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 2700
+    }
 }
+#Cobija (28000/7000 POPS)
 2321 = {
-	soldiers=
-	{
-		culture = amazonian
-		religion = animist
-		size= 18
-	}
+    aristocrats = {
+        culture = south_andean
+        religion = catholic
+        size = 100
+    }
 
-	artisans=
-	{
-		culture = amazonian
-		religion = animist
-		size= 35
-	}
+    clergymen = {
+        culture = south_andean
+        religion = catholic
+        size = 50
+    }
 
-	clergymen=
-	{
-		culture = amazonian
-		religion = animist
-		size= 6
-	}
+    artisans = {
+        culture = south_andean
+        religion = catholic
+        size = 50
+    }
 
-	bureaucrats=
-	{
-		culture = amazonian
-		religion = animist
-		size= 3
-	}
+    soldiers = {
+        culture = south_andean
+        religion = catholic
+        size = 25
+    }
 
-	officers=
-	{
-		culture = amazonian
-		religion = animist
-		size= 1
-	}
+    farmers = {
+        culture = south_andean
+        religion = catholic
+        size = 775
+    }
 
-	aristocrats=
-	{
-		culture = amazonian
-		religion = animist
-		size= 7
-	}
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 25
+    }
 
-	farmers=
-	{
-		culture = amazonian
-		religion = animist
-		size= 1702
-	}
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 150
+    }
 
-	soldiers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 54
-	}
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 50
+    }
 
-	artisans=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 252
-	}
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 2775
+    }
 
-	clergymen=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 41
-	}
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
 
-	bureaucrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 19
-	}
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 75
+    }
 
-	officers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 8
-	}
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 150
+    }
 
-	aristocrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 53
-	}
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 25
+    }
 
-	farmers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 4995
-	}
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 2700
+    }
 
 }

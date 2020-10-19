@@ -1,6 +1,6 @@
-owner=MEX
-controller=MEX
-add_core=MEX
+owner = MEX
+controller = MEX
+terrain = new_world_semidesert
+add_core = MEX
 trade_goods = cattle
-life_rating = 35
-terrain = farmlands
+life_rating = 31

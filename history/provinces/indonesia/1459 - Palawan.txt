@@ -1,8 +1,6 @@
-owner=YEM
-controller=YEM
-add_core=SUL
+owner = SPA
+controller = SPA
+add_core = PHL
 trade_goods = tropical_wood
-life_rating = 30
-terrain = plains
-colonial=2
-naval_base = 2
+life_rating = 35
+colonial = 2

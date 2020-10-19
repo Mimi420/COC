@@ -1,6 +1,5 @@
-owner=SIA
-controller=SIA
-add_core=IDO
+owner = DAI
+controller = DAI
+add_core = DAI
 trade_goods = silk
-life_rating = 30
-terrain = plains
+life_rating = 34

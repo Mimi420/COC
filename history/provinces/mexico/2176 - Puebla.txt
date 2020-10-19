@@ -1,7 +1,12 @@
-owner=BLZ
-controller=BLZ
-add_core=BLZ
-add_core=TEO
+owner = MEX
+controller = MEX
+add_core = MEX
 trade_goods = dye
 life_rating = 35
-terrain = mountain
+1861.1.1 = {
+    state_building = {
+        level = 3
+        building = fabric_factory
+        upgrade = yes
+    }
+}

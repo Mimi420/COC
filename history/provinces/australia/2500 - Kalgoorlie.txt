@@ -1,6 +1,4 @@
-owner=X36
-controller=X36
-add_core=X36
+add_core = AST
 trade_goods = grain
-life_rating = 30
-terrain = plains
+terrain = dryhills
+life_rating = 15

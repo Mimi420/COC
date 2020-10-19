@@ -1,8 +1,7 @@
-owner=RAJ
-controller=RAJ
-add_core=KHA
-add_core=MGL
-add_core=SDR
+owner = BDK
+controller = BDK
+add_core = BDK
+add_core = BUK
+add_core = KOK
 trade_goods = cattle
 life_rating = 35
-terrain = mountain

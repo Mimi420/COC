@@ -1,7 +1,10 @@
-owner=YEM
-controller=YEM
-add_core=TUR
-add_core=YEM
-trade_goods = grain
+owner = NYE
+controller = NYE
+add_core = NYE
+trade_goods = coffee
 life_rating = 35
-terrain = mountain
+1861.1.1 = {
+    owner = TUR
+    controller = TUR
+    colonial = 2
+}

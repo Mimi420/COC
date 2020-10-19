@@ -1,8 +1,9 @@
-owner=SCN
-controller=SCN
-add_core=NOR
-add_core=SCA
-add_core=SCN
-trade_goods = grain
+owner = NOR
+controller = NOR
+add_core = NOR
+trade_goods = precious_metal
+naval_base = 1
 life_rating = 35
-terrain = hills
+1861.1.1 = {
+    naval_base = 2
+}

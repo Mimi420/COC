@@ -1,19 +1,11 @@
-owner=LEO
-controller=LEO
-add_core=SPA
-add_core=LEO
+owner = SPA
+controller = SPA
+add_core = SPA
 trade_goods = coal
 life_rating = 35
-terrain = hills
-state_building=
-{
-	level=1
-	building = ammunition_factory
-	upgrade = yes
-}
-state_building=
-{
-	level=1
-	building = steel_factory
-	upgrade = yes
-}
+#state_building = {
+#    level = 1
+#    building = steel_factory
+#    upgrade = yes
+#}
+1861.1.1 = { railroad = 3 }

@@ -1,5 +1,6 @@
-owner=NOG
-add_core=NOG
+owner = RUS
+controller = RUS
+add_core = KAZ
 trade_goods = coal
-life_rating = 25
-terrain = steppe
+life_rating = 35
+colonial = 2

@@ -1,6 +1,7 @@
-owner=COL
-controller=COL
-add_core=COL
+owner = ENG
+controller = ENG
+add_core = RPL
+colonial = 2
+add_core = MTC
 trade_goods = grain
-life_rating = 30
-terrain = mountain
+life_rating = 31

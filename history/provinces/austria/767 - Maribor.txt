@@ -1,8 +1,7 @@
-owner=AUS
-controller=AUS
-add_core=SLO
-add_core=YUG
-add_core=HRE
-trade_goods = timber
+owner = AUS
+controller = AUS
+add_core = AUS
+add_core = SLO
+trade_goods = coal
 life_rating = 35
-terrain = hills
+1861.1.1 = { railroad = 2 }

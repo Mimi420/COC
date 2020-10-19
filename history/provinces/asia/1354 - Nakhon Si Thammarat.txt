@@ -1,8 +1,5 @@
-owner=SIA
-controller=SIA
-add_core=MLY
-add_core=SIA
+owner = SIA
+controller = SIA
+add_core = SIA
 trade_goods = timber
-life_rating = 30
-terrain = hills
-naval_base = 2
+life_rating = 35

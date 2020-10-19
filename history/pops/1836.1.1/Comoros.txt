@@ -1,116 +1,109 @@
+#Comoro Islands Region (64000)
+#uncolonized in 1836/dominated by sultan of Anjouan
+#Comoro Islands (56000/14000 POPS)
 2123 = {
-	slaves=
-	{
-		culture = malagasy
-		religion = sunni
-		size= 3027
-	}
+    aristocrats = {
+        culture = kilombero
+        religion = sunni
+        size = 150
+    }
 
-	soldiers=
-	{
-		culture = malagasy
-		religion = sunni
-		size= 142
-	}
+    clergymen = {
+        culture = kilombero
+        religion = sunni
+        size = 50
+    }
 
-	artisans=
-	{
-		culture = malagasy
-		religion = sunni
-		size= 567
-	}
+    artisans = {
+        culture = kilombero
+        religion = sunni
+        size = 325
+    }
 
-	clergymen=
-	{
-		culture = malagasy
-		religion = sunni
-		size= 92
-	}
+    soldiers = {
+        culture = kilombero
+        religion = sunni
+        size = 1100
+    }
 
-	bureaucrats=
-	{
-		culture = malagasy
-		religion = sunni
-		size= 28
-	}
+    farmers = {
+        culture = kilombero
+        religion = sunni
+        size = 3425
+    }
 
-	officers=
-	{
-		culture = malagasy
-		religion = sunni
-		size= 11
-	}
+    aristocrats = {
+        culture = kilombero
+        religion = sunni
+        size = 100
+    }
 
-	aristocrats=
-	{
-		culture = malagasy
-		religion = sunni
-		size= 238
-	}
+    clergymen = {
+        culture = kilombero
+        religion = sunni
+        size = 50
+    }
 
-	farmers=
-	{
-		culture = malagasy
-		religion = sunni
-		size= 10070
-	}
+    artisans = {
+        culture = kilombero
+        religion = sunni
+        size = 300
+    }
 
+    soldiers = {
+        culture = kilombero
+        religion = sunni
+        size = 50
+    }
+
+    farmers = {
+        culture = kilombero
+        religion = sunni
+        size = 8219
+    }
+
+    slaves = {
+        culture = kilombero
+        religion = animist
+        size = 281
+    }
 }
+#Mayotte (8000/2000 POPS)
 2124 = {
-	slaves=
-	{
-		culture = malagasy
-		religion = sunni
-		size= 504
-	}
+    aristocrats = {
+        culture = kilombero
+        religion = sunni
+        size = 15
+    }
 
-	soldiers=
-	{
-		culture = malagasy
-		religion = sunni
-		size= 20
-	}
+    clergymen = {
+        culture = kilombero
+        religion = sunni
+        size = 25
+    }
 
-	artisans=
-	{
-		culture = malagasy
-		religion = sunni
-		size= 81
-	}
+    artisans = {
+        culture = kilombero
+        religion = sunni
+        size = 50
+    }
 
-	clergymen=
-	{
-		culture = malagasy
-		religion = sunni
-		size= 13
-	}
+    soldiers = {
+        culture = kilombero
+        religion = sunni
+        size = 10
+    }
 
-	bureaucrats=
-	{
-		culture = malagasy
-		religion = sunni
-		size= 4
-	}
+    farmers = {
+        culture = kilombero
+        religion = sunni
+        size = 500
+    }
 
-	officers=
-	{
-		culture = malagasy
-		religion = sunni
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = malagasy
-		religion = sunni
-		size= 34
-	}
-
-	farmers=
-	{
-		culture = malagasy
-		religion = sunni
-		size= 1359
-	}
+    slaves = {
+        culture = kilombero
+        religion = animist
+        size = 250
+    }
 
 }

@@ -1,8 +1,5 @@
-owner=MCK
-controller=MCK
-add_core=CHI
-add_core=CSH
-add_core=MCK
-trade_goods = coal
+owner = QNG
+controller = QNG
+add_core = CHI
+trade_goods = timber
 life_rating = 32
-terrain = woods

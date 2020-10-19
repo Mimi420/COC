@@ -1,7 +1,6 @@
-owner=YEM
-controller=YEM
-add_core=SUL
+owner = SPA
+controller = SPA
+add_core = PHL
 trade_goods = iron
-life_rating = 30
-terrain = hills
-colonial=2
+life_rating = 35
+colonial = 2

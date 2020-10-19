@@ -1,7 +1,5 @@
-owner=GUG
-controller=GUG
-add_core=GUG
-add_core=TIB
-trade_goods = coal
+owner = QNG
+controller = QNG
+add_core = CHI
+trade_goods = cattle
 life_rating = 32
-terrain = hills

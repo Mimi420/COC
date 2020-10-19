@@ -1,3 +1,6 @@
-trade_goods = wool
+owner = TRZ
+controller = TRZ
+add_core = TRZ
+trade_goods = grain
 life_rating = 15
-terrain = plains
+terrain = semidesert

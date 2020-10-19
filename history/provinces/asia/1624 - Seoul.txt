@@ -1,5 +1,5 @@
-owner=MCK
-controller=MCK
+owner = KOR
+controller = KOR
+add_core = KOR
 trade_goods = grain
-life_rating = 35
-terrain = woods
+life_rating = 31

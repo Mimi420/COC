@@ -1,200 +1,73 @@
+#Hispanola Region (516000) #see Dominican Republic.txt for balance of region
+#Ruled by Haiti 1836
+#Port au Prince (312000/78000 POPS)
 2213 = {
-	slaves=
-	{
-		culture = carribean
-		religion = animist
-		size= 12095
-	}
+    aristocrats = {
+        culture = afro_antillean
+        religion = catholic
+        size = 825
+    }
 
-	soldiers=
-	{
-		culture = carribean
-		religion = animist
-		size= 678
-	}
+    officers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 150
+    }
 
-	artisans=
-	{
-		culture = carribean
-		religion = animist
-		size= 544
-	}
+    clergymen = {
+        culture = afro_antillean
+        religion = catholic
+        size = 175
+    }
 
-	clergymen=
-	{
-		culture = carribean
-		religion = animist
-		size= 40
-	}
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 4050
+    }
 
-	bureaucrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 12
-	}
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 100
+    }
 
-	officers=
-	{
-		culture = carribean
-		religion = animist
-		size= 13
-	}
-
-	aristocrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 152
-	}
-
-	slaves=
-	{
-		culture = afro_norse
-		religion = catholic
-		size= 77415
-	}
-
-	soldiers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 4335
-	}
-
-	artisans=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 7512
-	}
-
-	clergymen=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 543
-	}
-
-	bureaucrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 167
-	}
-
-	officers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 175
-	}
-
-	aristocrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 2103
-	}
-
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 68300
+    }
 }
+#Cap Haitien (204000/51000 POPS)
 2215 = {
-	slaves=
-	{
-		culture = carribean
-		religion = animist
-		size= 7564
-	}
+    aristocrats = {
+        culture = afro_antillean
+        religion = catholic
+        size = 550
+    }
 
-	soldiers=
-	{
-		culture = carribean
-		religion = animist
-		size= 423
-	}
+    clergymen = {
+        culture = afro_antillean
+        religion = catholic
+        size = 75
+    }
 
-	artisans=
-	{
-		culture = carribean
-		religion = animist
-		size= 152
-	}
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 2550
+    }
 
-	clergymen=
-	{
-		culture = carribean
-		religion = animist
-		size= 25
-	}
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 200
+    }
 
-	bureaucrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 8
-	}
-
-	officers=
-	{
-		culture = carribean
-		religion = animist
-		size= 8
-	}
-
-	aristocrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 63
-	}
-
-	slaves=
-	{
-		culture = afro_norse
-		religion = catholic
-		size= 49064
-	}
-
-	soldiers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 2747
-	}
-
-	artisans=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 2114
-	}
-
-	clergymen=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 344
-	}
-
-	bureaucrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 105
-	}
-
-	officers=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 111
-	}
-
-	aristocrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 888
-	}
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 46825
+    }
 
 }

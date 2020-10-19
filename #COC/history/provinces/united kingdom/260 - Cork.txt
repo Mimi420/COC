@@ -1,0 +1,14 @@
+owner=IRE
+controller=IRE
+add_core=ENG
+add_core=IRE
+trade_goods = fish
+life_rating = 35
+terrain = hills
+naval_base = 1
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

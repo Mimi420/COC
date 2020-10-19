@@ -1,8 +1,12 @@
-owner=ENL
-controller=ENL
-add_core=ENG
-add_core=FRA
-add_core=SCO
+owner = FRA
+
+controller = FRA
+
+add_core = FRA
+
+add_core = BRT
 trade_goods = grain
-life_rating = 30
-terrain = farmlands
+
+life_rating = 31
+
+1861.1.1 = { railroad = 3 }

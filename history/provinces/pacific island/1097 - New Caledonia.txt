@@ -1,6 +1,11 @@
-owner=X22
-controller=X22
-add_core=QIN
+add_core = VTU
 trade_goods = coffee
 life_rating = 15
-terrain = plains
+colonial = 2
+1861.1.1 = {
+    owner = FRA
+    controller = FRA
+    colonial = 2
+    naval_base = 1
+    life_rating = 35
+}

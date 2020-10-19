@@ -1,8 +1,6 @@
-owner=RAJ
-controller=SDR
-add_core=KHA
-add_core=MGL
-add_core=SDR
+owner = XIN
+controller = XIN
+add_core = CHI
+add_core = XIN
 trade_goods = sulphur
 life_rating = 32
-terrain = mountain

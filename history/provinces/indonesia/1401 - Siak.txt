@@ -1,7 +1,5 @@
-owner=X23
-controller=X23
-add_core=MLY
+owner = SAK
+controller = SAK
+add_core = SAK
 trade_goods = grain
-life_rating = 30
-terrain = hills
-naval_base = 2
+life_rating = 35

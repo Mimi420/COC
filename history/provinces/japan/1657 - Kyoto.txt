@@ -1,6 +1,7 @@
-owner=MCK
-controller=MCK
-add_core=JAP
-trade_goods = tea
+owner = JAP
+controller = JAP
+add_core = JAP
+add_core = TKG
+trade_goods = fruit
 life_rating = 35
-terrain = hills
+fort = 1

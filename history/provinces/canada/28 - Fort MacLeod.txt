@@ -1,6 +1,7 @@
-owner=COL
-controller=COL
-add_core=COL
+owner = ENG
+controller = ENG
+add_core = RPL
 trade_goods = iron
-life_rating = 35
-terrain = mountain
+terrain = new_world_boreal
+life_rating = 31
+colonial = 2

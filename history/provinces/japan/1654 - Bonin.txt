@@ -1,6 +1,4 @@
-owner=QIN
-controller=REB
-add_core=QIN
+add_core = TKG
 trade_goods = fish
-life_rating = 30
-terrain = plains
+life_rating = 15
+terrain = small_island

@@ -1,9 +1,6 @@
-owner=BOL
-controller=BOL
-add_core=BOL
-add_core=CHM
-add_core=PEU
-trade_goods = coal
+owner = PEU
+controller = PEU
+add_core = PEU
+trade_goods = grain
+terrain = dryhills
 life_rating = 35
-terrain = hills
-naval_base = 1

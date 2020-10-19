@@ -1,7 +1,21 @@
-owner=X36
-controller=X36
-add_core=X36
+owner = ENG
+controller = ENG
+add_core = AST
 trade_goods = grain
-life_rating = 30
-terrain = hills
+life_rating = 35
+colonial = 2
 naval_base = 1
+1861.1.1 = {
+    colonial = 0
+    state_building = {
+        level = 1
+        building = steel_factory
+        upgrade = yes
+    }
+    state_building = {
+        level = 1
+        building = lumber_mill
+        upgrade = yes
+    }
+}
+1861.1.1 = { railroad = 1 }

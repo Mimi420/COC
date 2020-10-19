@@ -1,5 +1,13 @@
-owner=ZIM
-controller=ZIM
+owner = XHO
+controller = XHO
+add_core = XHO
+add_core = SAF
 trade_goods = grain
 life_rating = 35
-terrain = mountain
+1861.1.1 = {
+    owner = ENG
+    controller = ENG
+    add_core = SAF
+    add_core = ENG
+    colonial = 2
+}

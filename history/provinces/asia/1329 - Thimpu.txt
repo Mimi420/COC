@@ -1,6 +1,5 @@
-owner=X30
-controller=X30
-add_core=TIB
+owner = BHU
+controller = BHU
+add_core = BHU
 trade_goods = wool
 life_rating = 25
-terrain = mountain

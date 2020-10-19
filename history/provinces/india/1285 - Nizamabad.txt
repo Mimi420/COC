@@ -1,6 +1,6 @@
-owner=X30
-controller=X22
-add_core=HND
-trade_goods = cotton
+owner = HYD
+controller = HYD
+add_core = HYD
+add_core = HND
+trade_goods = fruit
 life_rating = 32
-terrain = plains

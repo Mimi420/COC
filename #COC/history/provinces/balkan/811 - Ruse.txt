@@ -1,0 +1,13 @@
+owner=BUL
+controller=BUL
+add_core=BUL
+add_core=GRE
+trade_goods = grain
+life_rating = 35
+terrain = plains
+state_building=
+{
+	level=1
+	building = explosives_factory
+	upgrade = yes
+}

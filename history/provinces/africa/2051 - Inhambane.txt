@@ -1,6 +1,6 @@
-owner=GLR
-controller=GLR
-trade_goods = grain
+owner = GAZ
+controller = GAZ
+add_core = GAZ
+trade_goods = fruit
+terrain = savanna
 life_rating = 35
-terrain = plains
-colonial=2

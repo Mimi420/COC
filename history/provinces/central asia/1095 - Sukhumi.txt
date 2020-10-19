@@ -1,8 +1,7 @@
-owner=CRI
-controller=CRI
-add_core=CRI
-add_core=GRE
+owner = ABK
+controller = ABK
+add_core = ABK
+add_core = CIR
+add_core = GEO
 trade_goods = grain
 life_rating = 35
-terrain = mountain
-naval_base = 1

@@ -1,0 +1,7 @@
+owner=X21
+controller=RAJ
+add_core=HND
+add_core=X21
+trade_goods = cotton
+life_rating = 32
+terrain = mountain

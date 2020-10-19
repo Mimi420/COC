@@ -1,6 +1,12 @@
-owner=ML1
-controller=ML1
-add_core=ML1
+owner = SHW
+controller = SHW
+add_core = HAR
+add_core = SHW
+add_core = ETH
 trade_goods = coffee
-life_rating = 30
-terrain = mountain
+life_rating = 35
+1861.1.1 = {
+    owner = ETH
+    controller = ETH
+    remove_core = SHW
+}

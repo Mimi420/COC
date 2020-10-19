@@ -1,0 +1,8 @@
+owner=SCN
+controller=SCN
+add_core=NOR
+add_core=SCA
+add_core=SCN
+trade_goods = grain
+life_rating = 35
+terrain = mountain

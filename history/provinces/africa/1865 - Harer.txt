@@ -1,6 +1,8 @@
-owner=ML1
-controller=ML1
-add_core=ML1
+owner = HAR
+controller = HAR
+add_core = HAR
+add_core = WRL
+add_core = SHW
+add_core = ETH
 trade_goods = coffee
-life_rating = 30
-terrain = mountain
+life_rating = 35

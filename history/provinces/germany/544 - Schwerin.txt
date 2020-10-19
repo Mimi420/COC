@@ -1,9 +1,8 @@
-owner=BRN
-controller=POM
-add_core=BRN
-add_core=GER
-add_core=HRE
+owner = MEC
+controller = MEC
+add_core = MEC
+add_core = GER
 trade_goods = grain
 life_rating = 40
-terrain = woods
 naval_base = 1
+1861.1.1 = { railroad = 3 }

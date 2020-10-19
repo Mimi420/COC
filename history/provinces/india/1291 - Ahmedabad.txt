@@ -1,7 +1,7 @@
-owner=X21
-controller=X21
-add_core=HND
-add_core=X21
+owner = ENG
+controller = ENG
+add_core = BER
+add_core = HND
 trade_goods = tobacco
 life_rating = 32
-terrain = farmlands
+colonial = 2

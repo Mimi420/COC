@@ -1,5 +1,9 @@
-owner=MCK
-controller=MCK
-trade_goods = tea
-life_rating = 32
-terrain = plains
+owner = POR
+controller = POR
+add_core = POR
+add_core = CHI
+add_core = GNG
+trade_goods = precious_goods
+life_rating = 35
+colonial = 2
+terrain = urban

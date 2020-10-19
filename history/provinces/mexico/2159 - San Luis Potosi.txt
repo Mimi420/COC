@@ -1,6 +1,5 @@
-owner=LOU
-controller=LOU
-add_core=OTO
+owner = MEX
+controller = MEX
+add_core = MEX
 trade_goods = grain
 life_rating = 35
-terrain = plains

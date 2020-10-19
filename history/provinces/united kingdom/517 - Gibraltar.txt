@@ -1,8 +1,9 @@
-owner=MOR
-controller=MOR
-add_core=MOR
-add_core=SPA
+owner = ENG
+controller = ENG
+add_core = ENG
+terrain = urban
 trade_goods = fish
 life_rating = 35
-terrain = mountain
-naval_base = 1
+colonial = 2
+naval_base = 2
+fort = 1

@@ -1,9 +1,7 @@
-owner=MAZ
-controller=MAZ
-add_core=GRE
-add_core=WAL
-add_core=HRE
+owner = RUS
+controller = RUS
+add_core = RUS
+add_core = UKR
 trade_goods = fish
-life_rating = 35
-terrain = farmlands
+life_rating = 40
 naval_base = 1

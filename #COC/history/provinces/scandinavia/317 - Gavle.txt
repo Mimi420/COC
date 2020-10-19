@@ -1,0 +1,9 @@
+owner=SCN
+controller=SCN
+add_core=SCN
+add_core=SWE
+add_core=SCA
+trade_goods = timber
+life_rating = 35
+terrain = forest
+naval_base = 1

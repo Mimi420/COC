@@ -1,479 +1,312 @@
-610 = {
-	soldiers=
-	{
-		culture = maori
-		religion = animist
-		size= 13
-	}
-
-	artisans=
-	{
-		culture = maori
-		religion = animist
-		size= 25
-	}
-
-	clergymen=
-	{
-		culture = maori
-		religion = animist
-		size= 4
-	}
-
-	bureaucrats=
-	{
-		culture = maori
-		religion = animist
-		size= 1
-	}
-
-	officers=
-	{
-		culture = maori
-		religion = animist
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = maori
-		religion = animist
-		size= 5
-	}
-
-	farmers=
-	{
-		culture = maori
-		religion = animist
-		size= 578
-	}
-
-}
-1654 = {
-	artisans=
-	{
-		culture = melanesian
-		religion = animist
-		size= 1
-	}
-
-	farmers=
-	{
-		culture = melanesian
-		religion = animist
-		size= 13
-	}
-
-}
+#Western Micronesia (27600)
+#colonized by Spain in 1836
+#Guam (6000/1500 POPS)
 2517 = {
-	soldiers=
-	{
-		culture = melanesian
-		religion = animist
-		size= 30
-	}
+    bureaucrats = {
+        culture = spanish
+        religion = catholic
+        size = 1
+    }
 
-	artisans=
-	{
-		culture = melanesian
-		religion = animist
-		size= 61
-	}
+    clergymen = {
+        culture = spanish
+        religion = catholic
+        size = 4
+    }
 
-	clergymen=
-	{
-		culture = melanesian
-		religion = animist
-		size= 10
-	}
+    soldiers = {
+        culture = spanish
+        religion = catholic
+        size = 5
+    }
 
-	bureaucrats=
-	{
-		culture = melanesian
-		religion = animist
-		size= 2
-	}
+    artisans = {
+        culture = micronesian
+        religion = animist
+        size = 75
+    }
 
-	officers=
-	{
-		culture = melanesian
-		religion = animist
-		size= 1
-	}
+    soldiers = {
+        culture = micronesian
+        religion = animist
+        size = 15
+    }
 
-	aristocrats=
-	{
-		culture = melanesian
-		religion = animist
-		size= 13
-	}
-
-	farmers=
-	{
-		culture = melanesian
-		religion = animist
-		size= 1405
-	}
-
+    farmers = {
+        culture = micronesian
+        religion = animist
+        size = 1490
+    }
 }
-2518 = {
-	soldiers=
-	{
-		culture = maori
-		religion = animist
-		size= 21
-	}
-
-	artisans=
-	{
-		culture = maori
-		religion = animist
-		size= 84
-	}
-
-	clergymen=
-	{
-		culture = maori
-		religion = animist
-		size= 16
-	}
-
-	bureaucrats=
-	{
-		culture = maori
-		religion = animist
-		size= 3
-	}
-
-	officers=
-	{
-		culture = maori
-		religion = animist
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = maori
-		religion = animist
-		size= 18
-	}
-
-	farmers=
-	{
-		culture = maori
-		religion = animist
-		size= 1958
-	}
-
-}
-2519 = {
-	soldiers=
-	{
-		culture = maori
-		religion = animist
-		size= 5
-	}
-
-	artisans=
-	{
-		culture = maori
-		religion = animist
-		size= 21
-	}
-
-	clergymen=
-	{
-		culture = maori
-		religion = animist
-		size= 4
-	}
-
-	bureaucrats=
-	{
-		culture = maori
-		religion = animist
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = maori
-		religion = animist
-		size= 4
-	}
-
-	farmers=
-	{
-		culture = maori
-		religion = animist
-		size= 482
-	}
-
-}
+#Saipan (5600/1400 POPS)
 2521 = {
-	soldiers=
-	{
-		culture = melanesian
-		religion = animist
-		size= 27
-	}
+    clergymen = {
+        culture = spanish
+        religion = catholic
+        size = 2
+    }
 
-	artisans=
-	{
-		culture = melanesian
-		religion = animist
-		size= 54
-	}
+    artisans = {
+        culture = micronesian
+        religion = animist
+        size = 70
+    }
 
-	clergymen=
-	{
-		culture = melanesian
-		religion = animist
-		size= 9
-	}
+    soldiers = {
+        culture = micronesian
+        religion = animist
+        size = 3
+    }
 
-	bureaucrats=
-	{
-		culture = melanesian
-		religion = animist
-		size= 2
-	}
-
-	officers=
-	{
-		culture = melanesian
-		religion = animist
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = melanesian
-		religion = animist
-		size= 11
-	}
-
-	farmers=
-	{
-		culture = melanesian
-		religion = animist
-		size= 1236
-	}
-
+    farmers = {
+        culture = micronesian
+        religion = animist
+        size = 1325
+    }
 }
-2522 = {
-	soldiers=
-	{
-		culture = maori
-		religion = animist
-		size= 27
-	}
+#uncolonized in 1836
+#Palau (8000/2000 POPS)
+2518 = {
+    aristocrats = {
+        culture = micronesian
+        religion = animist
+        size = 25
+    }
 
-	artisans=
-	{
-		culture = maori
-		religion = animist
-		size= 54
-	}
+    clergymen = {
+        culture = micronesian
+        religion = animist
+        size = 50
+    }
 
-	clergymen=
-	{
-		culture = maori
-		religion = animist
-		size= 9
-	}
+    artisans = {
+        culture = micronesian
+        religion = animist
+        size = 100
+    }
 
-	bureaucrats=
-	{
-		culture = maori
-		religion = animist
-		size= 2
-	}
+    soldiers = {
+        culture = micronesian
+        religion = animist
+        size = 25
+    }
 
-	officers=
-	{
-		culture = maori
-		religion = animist
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = maori
-		religion = animist
-		size= 11
-	}
-
-	farmers=
-	{
-		culture = maori
-		religion = animist
-		size= 1250
-	}
-
+    farmers = {
+        culture = micronesian
+        religion = animist
+        size = 1800
+    }
 }
-2523 = {
-	soldiers=
-	{
-		culture = maori
-		religion = animist
-		size= 5
-	}
+#Yap (2200/550 POPS)
+2519 = {
+    aristocrats = {
+        culture = micronesian
+        religion = animist
+        size = 5
+    }
 
-	artisans=
-	{
-		culture = maori
-		religion = animist
-		size= 9
-	}
+    clergymen = {
+        culture = micronesian
+        religion = animist
+        size = 10
+    }
 
-	clergymen=
-	{
-		culture = maori
-		religion = animist
-		size= 2
-	}
+    artisans = {
+        culture = micronesian
+        religion = animist
+        size = 25
+    }
 
-	bureaucrats=
-	{
-		culture = maori
-		religion = animist
-		size= 1
-	}
+    soldiers = {
+        culture = micronesian
+        religion = animist
+        size = 5
+    }
 
-	aristocrats=
-	{
-		culture = maori
-		religion = animist
-		size= 2
-	}
-
-	farmers=
-	{
-		culture = maori
-		religion = animist
-		size= 218
-	}
-
+    farmers = {
+        culture = micronesian
+        religion = animist
+        size = 485
+    }
 }
-2524 = {
-	farmers=
-	{
-		culture = maori
-		religion = animist
-		size= 12
-	}
-
-}
-2525 = {
-	farmers=
-	{
-		culture = maori
-		religion = animist
-		size= 12
-	}
-
-}
-2527 = {
-	soldiers=
-	{
-		culture = maori
-		religion = animist
-		size= 65
-	}
-
-	artisans=
-	{
-		culture = maori
-		religion = animist
-		size= 130
-	}
-
-	clergymen=
-	{
-		culture = maori
-		religion = animist
-		size= 21
-	}
-
-	bureaucrats=
-	{
-		culture = maori
-		religion = animist
-		size= 8
-	}
-
-	officers=
-	{
-		culture = maori
-		religion = animist
-		size= 4
-	}
-
-	aristocrats=
-	{
-		culture = maori
-		religion = animist
-		size= 27
-	}
-
-	farmers=
-	{
-		culture = maori
-		religion = animist
-		size= 2992
-	}
-
-}
+#Truk (3140/785 POPS)
 2579 = {
-	soldiers=
-	{
-		culture = maori
-		religion = animist
-		size= 15
-	}
+    aristocrats = {
+        culture = micronesian
+        religion = animist
+        size = 15
+    }
 
-	artisans=
-	{
-		culture = maori
-		religion = animist
-		size= 30
-	}
+    clergymen = {
+        culture = micronesian
+        religion = animist
+        size = 20
+    }
 
-	clergymen=
-	{
-		culture = maori
-		religion = animist
-		size= 5
-	}
+    artisans = {
+        culture = micronesian
+        religion = animist
+        size = 40
+    }
 
-	bureaucrats=
-	{
-		culture = maori
-		religion = animist
-		size= 1
-	}
+    soldiers = {
+        culture = micronesian
+        religion = animist
+        size = 10
+    }
 
-	officers=
-	{
-		culture = maori
-		religion = animist
-		size= 1
-	}
+    farmers = {
+        culture = micronesian
+        religion = animist
+        size = 700
+    }
+}
+#Ponape (2660/665 POPS)
+610 = {
+    aristocrats = {
+        culture = micronesian
+        religion = animist
+        size = 10
+    }
 
-	aristocrats=
-	{
-		culture = maori
-		religion = animist
-		size= 6
-	}
+    clergymen = {
+        culture = micronesian
+        religion = animist
+        size = 15
+    }
 
-	farmers=
-	{
-		culture = maori
-		religion = animist
-		size= 682
-	}
+    artisans = {
+        culture = micronesian
+        religion = animist
+        size = 35
+    }
+
+    soldiers = {
+        culture = micronesian
+        religion = animist
+        size = 5
+    }
+
+    farmers = {
+        culture = micronesian
+        religion = animist
+        size = 600
+    }
+}
+#Northern Micronesia (180)
+#uncolonized in 1836
+#Bonin (60/15 POPS)
+1654 = {
+    farmers = {
+        culture = yankee
+        religion = protestant
+        size = 7
+    }
+}
+#Marcus (60/15 POPS)
+2525 = {
+    farmers = {
+        culture = micronesian
+        religion = animist
+        size = 15
+    }
+}
+#Easterns Micronesia (21000)
+#uncolonized in 1836
+#Marshall Islands (6000/1500 POPS)
+2522 = {
+    aristocrats = {
+        culture = micronesian
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = micronesian
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = micronesian
+        religion = animist
+        size = 75
+    }
+
+    soldiers = {
+        culture = micronesian
+        religion = animist
+        size = 15
+    }
+
+    farmers = {
+        culture = micronesian
+        religion = animist
+        size = 1375
+    }
+}
+#Nauru (1000/250 POPS)
+2523 = {
+    aristocrats = {
+        culture = micronesian
+        religion = animist
+        size = 5
+    }
+
+    clergymen = {
+        culture = micronesian
+        religion = animist
+        size = 5
+    }
+
+    artisans = {
+        culture = micronesian
+        religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = micronesian
+        religion = animist
+        size = 5
+    }
+
+    farmers = {
+        culture = micronesian
+        religion = animist
+        size = 225
+    }
+}
+#Gilbert Islands (14000/3250 POPS)
+2527 = {
+    aristocrats = {
+        culture = micronesian
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = micronesian
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = micronesian
+        religion = animist
+        size = 175
+    }
+
+    soldiers = {
+        culture = micronesian
+        religion = animist
+        size = 25
+    }
+
+    farmers = {
+        culture = micronesian
+        religion = animist
+        size = 3125
+    }
 
 }

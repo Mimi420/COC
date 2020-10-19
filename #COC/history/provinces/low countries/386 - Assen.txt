@@ -1,0 +1,9 @@
+owner=GLR
+controller=GLR
+add_core=GLR
+add_core=HAN
+add_core=NET
+add_core=HRE
+trade_goods = wool
+life_rating = 35
+terrain = farmlands

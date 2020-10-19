@@ -1,5 +1,6 @@
-owner=VNZ
-controller=VNZ
-trade_goods = timber
-life_rating = 25
-terrain = jungle
+owner = CLM
+controller = CLM
+add_core = CLM
+trade_goods = cattle
+terrain = savanna
+life_rating = 35
