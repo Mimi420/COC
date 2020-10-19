@@ -27,6 +27,8 @@ AES;Anglo-Saxony;Anglo-Saxe;Angelsachsen;Anglo-Saksonia;Anglosajona;Anglo-Sasson
 AES_ADJ;Anglo-Saxon;Anglo-saxon;Angelsächsisch;Anglosaski;anglosajón;Anglosassone;angolszász;Anglosaskı;angolszász;Angelsaksisch;Anglo-saxão;Àíãëîñàêñîíñê.;Anglosaksinen;x
 AFA;Afar;Afar;Afar;Afar;Afar;Afar;Afar;Afar;Afar;Afar;Afar;Àôàğ;Afar;x
 AFA_ADJ;Afar;Afar;Afar;Afar;Afar;di Afar;Afar;Afar;Afar;Afar;Afar;Àôàğ;Afar;x
+AFG;Khurasan;Khurasan;Khurasan;Khurasan;Khurasan;Khurasan;Khurasan;Khurasan;Khurasan;Khurasan;Khurasan;Khurasan;Khurasan;x
+AFG_ADJ;Khurasani;Khurasani;Khurasani;Khurasani;Khurasani;Khurasani;Khurasani;Khurasani;Khurasani;Khurasani;Khurasani;Khurasani;Khurasani;x
 AGC;Angoche;Angotché;Angotsche;Angoche;Angoche;Angoce;Angoche;Angoše;Angoche;Angoche;Angoche;Àíãî÷å;Angoche;x
 AGC_ADJ;Angochean;Angotchien;Angotsche-;Angochean;Angoqueño;Angocese;Angochean;Angoèan;Angochean;Angochean;Angocheano;Àíãî÷ñê.;Angochean;x
 AGU;Anguilla;Anguilla;Anguilla;Anguilla;Anguila;Anguilla;Anguilla;Anguilla;Anguilla;Anguilla;Anguila;Àíãèëüÿ;Anguilla;x
@@ -150,6 +152,8 @@ AYD;Aydin;Aÿdin;Aydin;Aydin;Aydin;Aydin;Aydin;Aydin;Aydin;Aydin;Aydin;Àéäûí;Aydi
 AYD_ADJ;Aydinid;Aÿdinide;Aydinid;Aydinid;Aydinid;Aydinide;Aydinid;Aydinid;Aydinid;Aydinid;Aydinid;Àûäèíèä;Aydinid;x
 AYR;Air;Aïr;Air;Air;Air;Air;Levego;Vzduch;Levego;Lucht;Air;Àãàäåñ;ilma;z
 AYR_ADJ;Air;de l'Aïr;Air-;Airu;Air;di Air;Levego;Vzduch;Levego;Lucht;Air;Àãàäåññê.;ilma;y
+AZB;Atropatene;Atropatene;Atropatene;Atropatene;Atropatene;Atropatene;Atropatene;Atropatene;Atropatene;Atropatene;Atropatene;Atropatene;Atropatene;x
+AZB_ADJ_;Atropatenean;Atropatenean;Atropatenean;Atropatenean;Atropatenean;Atropatenean;Atropatenean;Atropatenean;Atropatenean;Atropatenean;Atropatenean;Atropatenean;Atropatenean;x
 AZT;The Aztec;Les Aztèques;Die Azteken;Aztekowie;Los Aztecas;Gli Aztechi;az azték;aztéckı;az azték;de Azteekse;Asteca;Àöòåêè;atsteekkien;z
 AZT_ADJ;Aztec;Aztèque;Aztekisch;Azteków;Azteca;Azteca;azték;aztéckı;azték;Aztec;asteca;Àöòåêñê.;aztec;y
 BAH;Deccan;Deccan;Dekkan;Dekan;Deccan;Deccan;Dekkán;Deccan;Dekkán;Deccan;Decã;Äåêàí;Deccan;y
@@ -1217,17 +1221,16 @@ TAH;Tahiti;Tahiti;Tahiti;Tahiti;Tahití;Tahiti;Tahiti;Tahiti;Tahiti;Tahiti;Taiti;
 TAH_ADJ;Tahitian;Tahitien;Tahitisch;tahitañski;Tahitiano;Tahitiana;tahiti;Tahitián;tahiti;Tahitian;Taitiano;Òàõèòñê.;Tahitin;x
 TAI;Taiwan;Taïwan;Taiwan;Tajwan;Taiwan;Taiwan;Taiwan;Tchajwan;Taiwan;Taiwan;Taiwan;Òàéâàíü;Taiwan;x
 TAI_ADJ;Taiwanese;Taïwanais;Taiwanisch;Tajwañski;Taiwanés;Taiwanese;tajvani;Tchajwanskı;tajvani;Taiwanees;Taiwanês;Òàéâàíüñê.;taiwanilainen;x
-TAJ;Tajikistan;Tadjikistan;Tadschikistan;Tad¿ykistan;Tayikistán;Tagichistan;Tádzsikisztán;Tádikistán;Tádzsikisztán;Tadzjikistan;Tajiquistão;Òàäæèêèñòàí;Tadikistan;x
-TAJ_ADJ;Tajik;Tadjik;Tadschikisch;tad¿ycki;Tayiko;Tagica;tádzsik;Tádik;tádzsik;Tadzjiekse;Tadjique;òàäæèêñê.;Tadikistanin;x
-TAJ_proletarian_dictatorship;SSR Tajikistan;RSS Tadjikistan;SSR Tadschikistan;Tad¿ykistan SSR;SSR Tayikistán;RSS Tagica;SSR Tádzsikisztán;SSR Tádikistán;SSR Tádzsikisztán;SSR Tadzjikistan;SSR Tadjiquistão;ÑÑĞ Òàäæèêèñòàí;SSR Tajikistan;x
+TAJ;Parthia;Parthia;Parthia;Parthia;Parthia;Parthia;Parthia;Parthia;Parthia;Parthia;Parthia;Parthia;Parthia;x
+TAJ_ADJ;Parthian;Parthian;Parthian;Parthian;Parthian;Parthian;Parthian;Parthian;Parthian;Parthian;Parthian;Parthian.;Parthian;x
 TAR;Tatarstan;Tatarstan;Tatarstan;Tatarstan;Tartaristán;Tatarstan;Tatár;Tatarstan;Tatár;Tatarstan;Tartaristão;Òàòàğñòàí;Tatarstan;x
 TAR_ADJ;Tatar;Tatar;Tatarisch;Tatar;Tártaro;Tatara;tatár;Tatar;tatár;Tartaar;Tatar;òàòàğèí;Tatar;x
 TBK;Tumbuka;Tumbukas;Tumbuka;Tumbuka;Tumbuka;Tumbuka;tumbuka;tumbukština;tumbuka;Tumbuka;Tumbuka;Òóìáóêà;tumbuka;z
 TBK_ADJ;Tumbukan;Tumbuka;Tumbuka-;Tumbuka;Tumbukana;di Tumbuka;Tumbukan;Tumbukan;Tumbukan;Tumbukan;Tumbukan;Òóìáóêñê.;Tumbukan;y
 TBZ;Trebizond;Trébizonde;Trabzon;Trapezunt;Trebisonda;Trebisonda;Trebizond;Trebizond;Trebizond;Trebizond;Trebizonda;Òğàïåçóíä;Trebizond;z
 TBZ_ADJ;Trebizondian;Trébizondais;Trabzon-;Trapezuntu;Trebisondana;di Trebisonda;Trebizondian;Trebizondian;Trebizondian;Trebizondian;Trebizondian;Òğàïåçóíäñê.;Trebizondian;y
-TCA;Transcaucasia;Transcaucasie;Transkaukasien;Zakaukaziu;Transcaucasia;Transcaucasia;Transzkaukáziába;Zakavkazství;Transzkaukáziába;Transcaucasia;Transcaucasia;Çàêàâêàçüş;Transkaukasia;x
-TCA_ADJ;Transcaucasian;Transcaucasien;Transkaukasisch;Zakaukaska;Transcaucasio;Transcaucasica;transzkaukáziai;Zakaukazská;transzkaukáziai;Transkaukasische;Transcaucasiano;Çàêàâêàçñê.;Transkaukasian;x
+TCA;Caucasia;Caucasia;Caucasia;Caucasia;Caucasia;Caucasia;Caucasia;Caucasia;Caucasia;Caucasia;Caucasia;Caucasia;Caucasia;x
+TCA_ADJ;Caucasian;Caucasian;Caucasian;Caucasian;Caucasian;Caucasian;Caucasian;Caucasian;Caucasian;Caucasian;Caucasian;Caucasian.;Caucasian;x
 TER;Trier;Trèves;Trier;Trewir;Tréveris;Treviri;Trier;Trier;Trier;Trier;Tréveris;Òğèğ;kokeilija;z
 TER_ADJ;Trierian;Trévois;Trier;Trewiru;Trévera;di Treviri;Trierian;Trierian;Trierian;Trierian;Trierian;Òğèğñê.;Trierian;y
 TEU;The Teutonic Order;L'Ordre Teutonique;Der Deutsche Orden;Krzy¿acy;La Orden Teutónica;L'Ordine Teutonico;A Német Lovagrend;germánská objednávka;A Német Lovagrend;de Duitse Orde;A Ordem Teutônica;Òåâòîíñêèé Îğäåí;Saksalaisen ritarikunnan;z
@@ -1248,8 +1251,8 @@ TKD;Takeda;Takeda;Takeda;Takeda;Takeda;Takeda;Takeda;Takeda;Takeda;Takeda;Takeda
 TKD_ADJ;Takeda;de Takeda;Takeda-;Takedy;Takeda;di Takeda;Takeda;Takeda;Takeda;Takeda;Takeda;Òàêıäñê.;Takeda;y
 TKG;Tokugawa;Tokugawa;Tokugawa;Tokugawa;Tokugawa;Tokugawa;Tokugawa;Tokugawa;Tokugawa;Tokugawa;Tokugawa;Òîêóãàâà;Tokugawa;z
 TKG_ADJ;Tokugawa;de Tokugawa;Tokugawa-;Tokugawy;Tokugawa;di Tokugawa;Tokugawa;Tokugawa;Tokugawa;Tokugawa;Tokugawa;Òîêóãàâñê.;Tokugawa;y
-TKM;Turkmenistan;Turkménistan;Turkmenistan;Turkmenia;Turkmenistán;Turkmenistan;Türkmenisztán;Turkmenistán;Türkmenisztán;Turkmenistan;Turcomenistão;Òóğêìåíèñòàí;Turkmenistan;x
-TKM_ADJ;Turkmen;Turkmène;Turkmenisch;Turkmenowie;Turcomano;Turcomanna;Türkmén;Turkmenisté;Türkmén;Turkmeens;Turcomano;òóğêìåíñê.;Turkmenistanin;x
+TKM;Turcomania;Turcomania;Turcomania;Turcomania;Turcomania;Turcomania;Turcomania;Turcomania;Turcomania;Turcomania;Turcomania;Turcomania;Turcomania;x
+TKM_ADJ;Turcoman;Turcoman;Turcoman;Turcoman;Turcoman;Turcoman;Turcoman;Turcoman;Turcoman;Turcoman;Turcoman;Turcoman.;Turcoman;x
 TKS;Turkestan;Turkestan;Turkestan;Turkiestan;Turquestán;Turkestan;Turkesztán;Turkestán;Turkesztán;Turkestan;Turkestan;Òóğêåñòàí;Turkestan;x
 TKS_ADJ;Turkestani;Turkestannais;Turkestanisch;Turkiestañski;Turquestáno;Turchestana;Turkesztáni;Turkestáni;Turkesztáni;Turkestaans;Turkestani;Òóğêåñòàíñê.;Turkestani;x
 TMR;Timor;Timor;Timor;Timor;Timor;Timor;Timor;Timor;Timor;Timor;Timor;Òèìîğ;timor;x
@@ -1329,8 +1332,8 @@ UTR;Utrecht;Utrecht;Utrecht;Utrecht;Utrecht;Utrecht;Utrecht;Utrecht;Utrecht;Utre
 UTR_ADJ;Utrechtian;Utrechtois;Utrechtisch;Utrechtu;Utrechtiana;di Utrecht;Utrechtian;Utrechtian;Utrechtian;Utrechtse;Utrechtian;Óòğåõòñê.;Utrechtian;y
 UYG;Uyghurstan;Ouïghourstan;Uiguristan;Uyghurstan;Uyghurstan;Uiguristan;Uyghurstan;Uyghurstan;Uyghurstan;Uyghurstan;Uigurana;Óéãóğèñòàí;Uyghurstan;x
 UYG_ADJ;Uyghur;Ouïghour;Uigurisch;Uyghur;Uyghur;Uigura;ujgur;Ujghur;ujgur;Uyghur;Uigur;Óéãóğñê.;uiguuri;x
-UZB;Uzbekistan;Ouzbékistan;Usbekistan;Uzbekistan;Uzbekistán;Usbechistan;Üzbegisztán;Uzbekistán;Üzbegisztán;Oezbekistan;Uzbequistão;Óçáåêèñòàí;Uzbekistan;x
-UZB_ADJ;Uzbek;Ouzbek;Usbekisch;uzbecki;Uzbekistán;Usbeca;üzbég;Uzbekistán;üzbég;Oezbeeks;Uzbeque;óçáåê;uzbekki;x
+UZB;Transoxiana;Transoxiana;Transoxiana;Transoxiana;Transoxiana;Transoxiana;Transoxiana;Transoxiana;Transoxiana;Transoxiana;Transoxiana;Transoxiana;Transoxiana;x
+UZB_ADJ;Transoxianian;Transoxianian;Transoxianian;Transoxianian;Transoxianian;Transoxianian;Transoxianian;Transoxianian;Transoxianian;Transoxianian;Transoxianian;Transoxianian;Transoxianian;x
 VAT_bourgeois_dictatorship;The Commonwealth of Rome;La Communauté de Rome;Das Gemeintum von Rom;Commonwealth of Rome;La Mancomunidad de Roma;Il Commonwealth di Roma;A Római Nemzetközösség;Øímské Spoleèenství;A Római Nemzetközösség;Het Gemenebest van Rome;A Comunidade de Roma;Ñîäğóæåñòâî Ğèìà;Rooman yhteisö;x
 VAT_bourgeois_dictatorship_ADJ;Roman;Romain;Römisch;Rzymski;Romano;Romana;Római;Øímskı;Római;Romeins;Romano;Ğèìñê.;Roomalainen;x
 VAT_fascist_dictatorship;The Kingdom of God;Le Royaume de Dieu;Das Königreich Gottes;Królestwo Bo¿e;El Reino de Dios;Il Regno di Dio;Isten Országa;Boí království;Isten Országa;Het koninkrijk van God;O Reino de Deus;Öàğñòâî Áîæüå;Jumalan valtakunta;x
@@ -1626,8 +1629,8 @@ SHU_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowsk
 SHU_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Ëèáåğàëüíàÿ Ïàğòèÿ;Liberaalipuolue;x
 SHU_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Íàöèîíàëüíàÿ Ïàğòèÿ;Kansallispuolue;x
 SHU_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
-TAB;Tabaristan;Tabaristan;Tabaristan;Tabarestan;Tabaristán;Tabarestan;Tabarestan;Tabarestan;Tabarestan;Tabarestan;Tabarestan;Tabarestan;Tabarestan;x
-TAB_ADJ;Mazandarian;mazandarani;Masandarisch;Mazandarian;Mazandaraní;Mazandarian;Mazandarian;Mazandarian;Mazandarian;Mazandarian;Mazandarian;Mazandarian;Mazandarian;x
+TAB;Tapuria;Tapuria;Tapuria;Tapuria;Tapuria;Tapuria;Tapuria;Tapuria;Tapuria;Tapuria;Tapuria;Tapuria;Tapuria;x
+TAB_ADJ;Tapurian;Tapurienne;Tapurisch;Tapurian;Tapurian;Tapurian;Tapurian;Tapurian;Tapurian;Tapurian;Tapurian;Tapurian;Tapurian;x
 TAB_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;Ğàäèêàëüíàÿ Ïàğòèÿ;Radikaalipuolue;x
 TAB_communist;Communist Party;Parti Communiste;Kommunistische Partei;Partia Komunistyczna;Partido Comunista;Partito Comunista;Kommunista Párt;Komunistická Strana;Kommunista Párt;Communistische Partij;Partido Comunista;Êîììóíèñòè÷åñêàÿ Ïàğòèÿ;Kommunistinenpuolue;x
 TAB_conservative;Conservative Party;Parti Conservateur;Konservative Partei;Partia Konserwatywna;Partido Conservador;Partito Conservatore;Konzervatív Párt;Konzervativní Strana;Konzervatív Párt;Conservatieve Partij;Partido Conservador;Êîíñåğâàòèâíàÿ Ïàğòèÿ;Konservatiivipuolue;x
@@ -1941,8 +1944,8 @@ X30_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowsk
 X30_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Ëèáåğàëüíàÿ Ïàğòèÿ;Liberaalipuolue;x
 X30_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Íàöèîíàëüíàÿ Ïàğòèÿ;Kansallispuolue;x
 X30_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
-X31;Mosul;Mossoul;Mosul;d_mosul;Mosul;d_mosul;d_mosul;d_mosul;d_mosul;d_mosul;d_mosul;d_mosul;d_mosul;x
-X31_ADJ;Mosulian;mossoulienne;Mosulisch;Mosulian;Mosulí;Mosulian;Mosulian;Mosulian;Mosulian;Mosulian;Mosulian;Mosulian;Mosulian;x
+X31;Mepsila;Mepsila;Mepsila;Mepsila;Mepsila;Mepsila;Mepsila;Mepsila;Mepsila;Mepsila;Mepsila;Mepsila;Mepsila;x
+X31_ADJ;Mepsilan;Mepsilan;Mepsilan;Mepsilan;Mepsilan;Mepsilan;Mepsilan;Mepsilan;Mepsilan;Mepsilan;Mepsilan;Mepsilan;Mepsilan;x
 X31_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;Ğàäèêàëüíàÿ Ïàğòèÿ;Radikaalipuolue;x
 X31_communist;Communist Party;Parti Communiste;Kommunistische Partei;Partia Komunistyczna;Partido Comunista;Partito Comunista;Kommunista Párt;Komunistická Strana;Kommunista Párt;Communistische Partij;Partido Comunista;Êîììóíèñòè÷åñêàÿ Ïàğòèÿ;Kommunistinenpuolue;x
 X31_conservative;Conservative Party;Parti Conservateur;Konservative Partei;Partia Konserwatywna;Partido Conservador;Partito Conservatore;Konzervatív Párt;Konzervativní Strana;Konzervatív Párt;Conservatieve Partij;Partido Conservador;Êîíñåğâàòèâíàÿ Ïàğòèÿ;Konservatiivipuolue;x

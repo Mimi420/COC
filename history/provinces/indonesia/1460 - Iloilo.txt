@@ -1,5 +1,5 @@
-owner=YEM
-controller=YEM
+owner=TKS
+controller=TKS
 add_core=PHI
 trade_goods = fish
 life_rating = 30

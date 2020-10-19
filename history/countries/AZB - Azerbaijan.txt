@@ -1,11 +1,11 @@
-capital = 1102
-primary_culture = azerbaijani
-culture = zzz_religion_sunni
-religion = sunni
+capital = 1108
+primary_culture = greek
+culture = zzz_religion_orthodox
+religion = orthodox
 government = democracy
 plurality = 0
 nationalvalue = nv_order
-literacy = 0
+literacy = 0.44931
 
 civilized = yes
 
@@ -28,13 +28,13 @@ press_rights=censored_press
 trade_unions=all_trade_unions
 political_parties=gerrymandering
 
-ruling_party = conservative
+ruling_party = GRE_conservative
 upper_house = 
 {
 	fascist = 0
-	liberal = 25
-	conservative = 65
-	reactionary = 10
+	liberal = 12
+	conservative = 83
+	reactionary = 5
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0

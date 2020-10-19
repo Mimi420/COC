@@ -1,6 +1,6 @@
 owner=VLD
 controller=VLD
-add_core=TUR
+add_core=TKS
 trade_goods = grain
 life_rating = 35
 terrain = forest

@@ -1,7 +1,6 @@
-owner=TAB
-controller=TAB
-add_core=GRE
-add_core=TAB
+owner=AZB
+controller=AZB
+add_core=AZB
 trade_goods = coal
 life_rating = 35
 terrain = hills

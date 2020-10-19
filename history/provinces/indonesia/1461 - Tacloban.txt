@@ -1,5 +1,5 @@
-owner=YEM
-controller=YEM
+owner=TKS
+controller=TKS
 add_core=SUL
 trade_goods = grain
 life_rating = 30

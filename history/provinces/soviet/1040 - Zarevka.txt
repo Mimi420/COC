@@ -1,6 +1,6 @@
-owner=TAB
-controller=TAB
-add_core=HRE
+owner=VLD
+controller=VLD
+add_core=VLD
 trade_goods = wool
 life_rating = 35
 terrain = steppe

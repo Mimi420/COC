@@ -1,5 +1,5 @@
 owner=GRE
-controller=X31
+controller=SYR
 add_core=GRE
 trade_goods = fish
 life_rating = 35

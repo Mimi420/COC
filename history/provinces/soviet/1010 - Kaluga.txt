@@ -1,5 +1,5 @@
 owner=VLD
-controller=X32
+controller=EGY
 add_core=VLD
 trade_goods = timber
 life_rating = 35

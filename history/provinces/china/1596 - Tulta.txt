@@ -1,10 +1,6 @@
-owner=X17
-controller=X17
-add_core=KHA
-add_core=MGL
+owner=SDR
+controller=SDR
 add_core=SDR
-add_core=X17
-add_core=X19
 trade_goods = cotton
 life_rating = 32
 terrain = hills

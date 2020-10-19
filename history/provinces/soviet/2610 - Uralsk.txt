@@ -1,5 +1,5 @@
 owner=VLD
-controller=X32
+controller=VLD
 add_core=NOG
 add_core=VLD
 trade_goods = wool
