@@ -1,7 +1,7 @@
 owner=PIS
 controller=PIS
+add_core=SCY
 add_core=FRA
-add_core=OCC
 add_core=PIS
 trade_goods = sulphur
 life_rating = 35

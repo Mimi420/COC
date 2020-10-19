@@ -1,5 +1,7 @@
-owner=HAN
-controller=HAN
+owner=GLR
+controller=GLR
+add_core=GLR
+add_core=HAN
 add_core=NET
 add_core=HRE
 trade_goods = fish

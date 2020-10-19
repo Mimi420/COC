@@ -1,7 +1,7 @@
-owner=MAZ
-controller=MAZ
-add_core=GRE
+owner=WAL
+controller=WAL
 add_core=WAL
+add_core=GRE
 trade_goods = grain
 life_rating = 35
 terrain = farmlands

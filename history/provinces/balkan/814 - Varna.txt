@@ -1,7 +1,7 @@
-owner=X31
-controller=GRE
+owner=BUL
+controller=BUL
+add_core=BUL
 add_core=GRE
-add_core=X31
 trade_goods = cotton
 life_rating = 35
 terrain = plains

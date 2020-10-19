@@ -1,5 +1,5 @@
 owner=ML1
-controller=YEM
+controller=ML1
 add_core=ML1
 add_core=SOM
 trade_goods = cotton

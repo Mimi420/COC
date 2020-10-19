@@ -1,6 +1,6 @@
-owner=YEM
-controller=YEM
-add_core=IRQ
+owner=X32
+controller=X32
+add_core=X32
 add_core=X20
 trade_goods = cotton
 life_rating = 35

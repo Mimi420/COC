@@ -1,7 +1,6 @@
-owner=X31
-controller=X31
+owner=GRE
+controller=GRE
 add_core=GRE
-add_core=WAL
 trade_goods = fish
 life_rating = 35
 terrain = plains

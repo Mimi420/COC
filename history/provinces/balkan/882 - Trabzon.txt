@@ -1,8 +1,8 @@
-owner=X31
-controller=X31
+owner=BYZ
+controller=BYZ
+add_core=BYZ
 add_core=GRE
 add_core=TBZ
-add_core=X31
 trade_goods = cattle
 life_rating = 35
 terrain = plains

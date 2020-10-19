@@ -1,7 +1,6 @@
-owner=X31
-controller=GRE
+owner=WAL
+controller=WAL
 add_core=GRE
-add_core=SCY
 add_core=WAL
 trade_goods = coal
 life_rating = 35

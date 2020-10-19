@@ -1,6 +1,6 @@
-owner=YEM
-controller=YEM
-add_core=IRQ
+owner=X24
+controller=X24
+add_core=X24
 add_core=X20
 trade_goods = grain
 life_rating = 35

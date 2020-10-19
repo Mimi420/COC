@@ -1,7 +1,8 @@
-owner=GRE
-controller=GRE
+owner=MCD
+controller=MCD
+add_core=MCD
 add_core=GRE
-add_core=WAL
+add_core=BUL
 trade_goods = wool
 life_rating = 35
 terrain = hills

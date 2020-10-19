@@ -1,5 +1,6 @@
-owner=YEM
-controller=YEM
+owner=X32
+controller=X32
+add_core=X32
 add_core=EGY
 add_core=X20
 trade_goods = cotton

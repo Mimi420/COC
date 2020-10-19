@@ -1,5 +1,5 @@
 owner=GRE
-controller=X31
+controller=GRE
 add_core=GRE
 trade_goods = grain
 life_rating = 35

@@ -1,8 +1,7 @@
-owner=X31
-controller=GRE
-add_core=GRE
-add_core=SCY
+owner=WAL
+controller=WAL
 add_core=WAL
+add_core=GRE
 trade_goods = coal
 life_rating = 35
 terrain = woods

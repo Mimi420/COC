@@ -1,5 +1,6 @@
-owner=GRE
-controller=GRE
+owner=MCD
+controller=MCD
+add_core=MCD
 add_core=GRE
 trade_goods = timber
 life_rating = 35

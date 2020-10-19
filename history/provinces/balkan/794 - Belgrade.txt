@@ -1,6 +1,5 @@
-owner=GRE
-controller=GRE
-add_core=CRI
+owner=X33
+controller=X33
 add_core=GRE
 add_core=X33
 add_core=HRE
