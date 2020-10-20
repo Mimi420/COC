@@ -1,5 +1,9 @@
 capital = 513
+<<<<<<< Updated upstream
 primary_culture = andalucian
+=======
+primary_culture = amerikaner
+>>>>>>> Stashed changes
 culture = spanish
 culture = zzz_religion_sunni
 religion = sunni

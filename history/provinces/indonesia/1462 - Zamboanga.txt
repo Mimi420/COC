@@ -1,5 +1,5 @@
-owner=YEM
-controller=YEM
+owner=SUL
+controller=SUL
 add_core=SUL
 trade_goods = iron
 life_rating = 30

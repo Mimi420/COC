@@ -1,8 +1,6 @@
-owner=ENL
-controller=ENL
-add_core=ENG
+owner=WHA
+controller=WHA
 add_core=WHA
-add_core=X27
 trade_goods = sulphur
 life_rating = 35
 terrain = woods

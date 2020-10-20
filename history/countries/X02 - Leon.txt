@@ -1,4 +1,4 @@
-capital = 482
+capital = 477
 primary_culture = german
 culture = spanish
 culture = zzz_religion_protestant
