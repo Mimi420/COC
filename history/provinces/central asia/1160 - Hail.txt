@@ -1,7 +1,7 @@
-owner=YEM
-controller=YEM
+owner=TKS
+controller=TKS
 add_core=GRE
-add_core=YEM
+add_core=TKS
 trade_goods = wool
 life_rating = 10
 terrain = desert

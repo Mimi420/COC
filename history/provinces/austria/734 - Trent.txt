@@ -1,8 +1,8 @@
-owner=X06
-controller=X06
+owner=TEM
+controller=TEM
 add_core=GER
 add_core=LOM
-add_core=X06
+add_core=TEM
 add_core=HRE
 trade_goods = grain
 life_rating = 35

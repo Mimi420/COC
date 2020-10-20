@@ -2,7 +2,7 @@ color = { 153 210 135 }
 graphical_culture = AfricanGC
 
 party = {
-	name = "ML1_conservative"
+	name = "ZUL_conservative"
 	start_date = 1000.1.1
 	end_date = 2000.1.1
 
@@ -16,7 +16,7 @@ party = {
 }
 
 party = {
-	name = "ML1_liberal"
+	name = "ZUL_liberal"
 	start_date = 1680.1.1
 	end_date = 1936.1.1
 
@@ -30,7 +30,7 @@ party = {
 }
 
 party = {
-	name = "ML1_reactionary"
+	name = "ZUL_reactionary"
 	start_date = 1680.1.1
 	end_date = 2000.1.1
 
@@ -44,7 +44,7 @@ party = {
 }
 
 party = {
-	name = "ML1_anarcho_liberal"
+	name = "ZUL_anarcho_liberal"
 	start_date = 1710.1.1
 	end_date = 2000.1.1
 
@@ -58,7 +58,7 @@ party = {
 }
 
 party = {
-	name = "ML1_socialist"
+	name = "ZUL_socialist"
 	start_date = 1790.1.1
 	end_date = 2000.1.1
 
@@ -72,7 +72,7 @@ party = {
 }
 
 party = {
-	name = "ML1_communist"
+	name = "ZUL_communist"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -86,7 +86,7 @@ party = {
 }
 
 party = {
-	name = "ML1_fascist"
+	name = "ZUL_fascist"
 	start_date = 1905.1.1
 	end_date = 2000.1.1
 

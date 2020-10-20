@@ -1,6 +1,6 @@
-owner=RAJ
-controller=RAJ
-add_core=TKS
+owner=TAJ
+controller=TAJ
+add_core=TAJ
 trade_goods = wool
 life_rating = 35
 terrain = hills

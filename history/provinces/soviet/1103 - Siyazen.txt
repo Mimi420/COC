@@ -1,6 +1,6 @@
-owner=TAB
-controller=TAB
-add_core=ARM
+owner=ALN
+controller=ALN
+add_core=ALN
 trade_goods = fruit
 life_rating = 35
 terrain = hills

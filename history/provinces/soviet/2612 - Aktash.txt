@@ -1,8 +1,6 @@
-owner=X18
-controller=TAB
-add_core=KHA
-add_core=MGL
-add_core=X18
+owner=NOG
+controller=NOG
+add_core=NOG
 trade_goods = coal
 life_rating = 25
 terrain = steppe

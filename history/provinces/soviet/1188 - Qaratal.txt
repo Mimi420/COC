@@ -1,9 +1,6 @@
-owner=X17
-controller=RAJ
-add_core=KHA
-add_core=MGL
-add_core=X08
-add_core=X17
+owner=SDR
+controller=SDR
+add_core=SDR
 trade_goods = fish
 life_rating = 25
 terrain = steppe

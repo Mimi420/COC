@@ -1,6 +1,6 @@
-owner=X02
-controller=X02
-add_core=X02
+owner=LEO
+controller=LEO
+add_core=LEO
 trade_goods = fruit
 life_rating = 35
 terrain = hills

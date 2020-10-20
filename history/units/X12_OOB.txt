@@ -367,7 +367,7 @@ WAL = {
 	value = 0
 	level = 2
 }
-X00 = {
+VPS = {
 	value = 24
 	level = 2
 }
@@ -375,11 +375,11 @@ X01 = {
 	value = 0
 	level = 2
 }
-X02 = {
+LEO = {
 	value = 0
 	level = 2
 }
-X03 = {
+LAZ = {
 	value = 0
 	level = 2
 }
@@ -387,23 +387,23 @@ X04 = {
 	value = 0
 	level = 2
 }
-X05 = {
+SWB = {
 	value = 0
 	level = 2
 }
-X06 = {
+TEM = {
 	value = 0
 	level = 2
 }
-X07 = {
+SCN = {
 	value = 5
 	level = 2
 }
-X08 = {
+SDR = {
 	value = 0
 	level = 2
 }
-X09 = {
+MRV = {
 	value = 0
 	level = 2
 }
@@ -412,7 +412,7 @@ X10 = {
 	influence_value = 34
 	level = 4
 }
-X11 = {
+VLD = {
 	value = 73
 	influence_value = 5
 	level = 2
@@ -421,7 +421,7 @@ X12 = {
 	value = 0
 	level = 2
 }
-X13 = {
+BRH = {
 	value = 0
 	level = 2
 }

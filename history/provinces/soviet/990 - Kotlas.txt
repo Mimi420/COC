@@ -1,5 +1,5 @@
-owner=X00
-controller=X00
+owner=VPS
+controller=VPS
 add_core=HND
 add_core=OLD
 trade_goods = timber

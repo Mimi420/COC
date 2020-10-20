@@ -142,7 +142,7 @@ party = {
 }
 
 party = {
-	name = "ARG_socialist_2"
+	name = "ARG_socialist"
 	start_date = 1848.1.1
 	end_date = 1911.1.1
 

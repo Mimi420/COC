@@ -1,8 +1,8 @@
 color = { 56 32 172}
-graphical_culture = Generic
+graphical_culture = UsGC
 
 party = {
-	name = "AZB_reactionary"
+	name = "GRE_reactionary"
 	start_date = 1680.1.1
 	end_date = 2000.1.1
 
@@ -16,7 +16,7 @@ party = {
 }
 
 party = {
-	name = "AZB_liberal"
+	name = "GRE_liberal"
 	start_date = 1680.1.1
 	end_date = 2000.1.1
 
@@ -30,7 +30,7 @@ party = {
 }
 
 party = {
-	name = "AZB_conservative"
+	name = "GRE_conservative"
 	start_date = 1000.1.1
 	end_date = 2000.1.1
 
@@ -44,7 +44,7 @@ party = {
 }
 
 party = {
-	name = "AZB_anarcho_liberal"
+	name = "GRE_anarcho_liberal"
 	start_date = 1710.1.1
 	end_date = 2000.1.1
 
@@ -58,7 +58,7 @@ party = {
 }
 
 party = {
-	name = "AZB_socialist"
+	name = "GRE_socialist"
 	start_date = 1790.1.1
 	end_date = 2000.1.1
 
@@ -72,7 +72,7 @@ party = {
 }
 
 party = {
-	name = "AZB_communist"
+	name = "GRE_communist"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -86,7 +86,7 @@ party = {
 }
 
 party = {
-	name = "AZB_fascist"
+	name = "GRE_fascist"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -101,50 +101,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		Azerbaijan "Nader Shah" "Hasan Zardabi" "Fatali Akhundov" Mammadguluzadeh "Mirza Alakbar Sabir"  Narimanov Baku Shirvan Karabakh 	
-
-		Ganja Quba Shaki Talysh Erivan Nakchivan
+		Kilkis Aspis "Vasilefs Konstantinos" Salamis Athina Constantinopolis Sparta Leonidas "Mégas Aléxandros" Pericles Olympias 
 	}
 	ironclad = {
-		Azerbaijan "Nader Shah" "Hasan Zardabi" "Fatali Akhundov" Mammadguluzadeh "Mirza Alakbar Sabir"  Narimanov Baku Shirvan Karabakh 	
-
-		Ganja Quba Shaki Talysh Erivan Nakchivan
-		
+		Karteria Panopi Pliksavra Afroessa Sfendoni Hydra Spetsai Psara Limnos "Vasilissa Olga" 
 	}
 	manowar = {
-		Azerbaijan "Nader Shah" "Hasan Zardabi" "Fatali Akhundov" Mammadguluzadeh "Mirza Alakbar Sabir"  Narimanov Baku Shirvan Karabakh 	
-
-		Ganja Quba Shaki Talysh Erivan Nakchivan
-		
+		"Nikolis Apostolis" Tombazis Poros "Andreas Vokos" "Laskarina Bouboulina" "Constantine Kanaris" Plixavra Averof 
 	}
 	cruiser = {
-		Azerbaijan "Nader Shah" "Hasan Zardabi" "Fatali Akhundov" Mammadguluzadeh "Mirza Alakbar Sabir"  Narimanov Baku Shirvan Karabakh 	
-
-		Ganja Quba Shaki Talysh Erivan Nakchivan
-		
+		"Navarhos Miaoulis" "Georgios Averof" Elli "Antinaurkos Condoriotis" "Lambros Katsonis" Árgos Agamemnon Gyáros Tilemachos Delfoí
 	}
 	frigate = {
-		Azerbaijan "Nader Shah" "Hasan Zardabi" "Fatali Akhundov" Mammadguluzadeh "Mirza Alakbar Sabir"  Narimanov Baku Shirvan Karabakh 	
-
-		Ganja Quba Shaki Talysh Erivan Nakchivan
-		
+		Hellas Navarino Psara "Prinkips Maximilianos" Maxamillianos "Mount Othrys" Thíva Skirka Heratos Aeolus
 	}
 	monitor = {
-		Azerbaijan "Nader Shah" "Hasan Zardabi" "Fatali Akhundov" Mammadguluzadeh "Mirza Alakbar Sabir"  Narimanov Baku Shirvan Karabakh 	
+		Sfendoni Thessalía Apeiros Attikí Pelopónnisos Circe Eurýkleia Aiolia Kriti Ródos
+	}
+	clipper_transport = { 
+		 
 
-		Ganja Quba Shaki Talysh Erivan Nakchivan
-		
 	}
-	clipper_transport = {
+	steam_transport = { 
 		
-	}
-	steam_transport = {
-		
+
 	}
 	commerce_raider = {
-		Azerbaijan "Nader Shah" "Hasan Zardabi" "Fatali Akhundov" Mammadguluzadeh "Mirza Alakbar Sabir"  Narimanov Baku Shirvan Karabakh 	
-
-		Ganja Quba Shaki Talysh Erivan Nakchivan
-		
+		Aetos Ierax Leon Panthir Ifestos Makedonía Naxos Évia Limnos Zakynthos
 	}
 }

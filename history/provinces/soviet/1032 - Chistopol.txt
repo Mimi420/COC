@@ -1,6 +1,6 @@
-owner=X11
-controller=X32
-add_core=X11
+owner=VLD
+controller=EGY
+add_core=VLD
 trade_goods = timber
 life_rating = 35
 terrain = forest

@@ -156,11 +156,11 @@ X01 = {
 	value = 0
 	level = 2
 }
-X02 = {
+LEO = {
 	value = 0
 	level = 2
 }
-X07 = {
+SCN = {
 	value = 0
 	level = 2
 }

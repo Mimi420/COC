@@ -1,8 +1,6 @@
-owner=RAJ
-controller=RAJ
-add_core=KHA
-add_core=MGL
-add_core=X08
+owner=SDR
+controller=SDR
+add_core=SDR
 trade_goods = wool
 life_rating = 35
 terrain = steppe

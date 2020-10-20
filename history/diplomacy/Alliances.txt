@@ -56,23 +56,23 @@ alliance=
 
 alliance=
 {
-	first="X00"
-	second="X13"
+	first="VPS"
+	second="BRH"
 	start_date="1555.3.2"
 	end_date="1936.1.1"
 }
 
 alliance=
 {
-	first="X00"
-	second="X11"
+	first="VPS"
+	second="VLD"
 	start_date="1666.12.7"
 	end_date="1936.1.1"
 }
 
 alliance=
 {
-	first="X00"
+	first="VPS"
 	second="MAZ"
 	start_date="1783.8.12"
 	end_date="1936.1.1"
@@ -80,8 +80,8 @@ alliance=
 
 alliance=
 {
-	first="X00"
-	second="X07"
+	first="VPS"
+	second="SCN"
 	start_date="1784.4.26"
 	end_date="1936.1.1"
 }
@@ -89,7 +89,7 @@ alliance=
 alliance=
 {
 	first="BRN"
-	second="X07"
+	second="SCN"
 	start_date="1513.4.26"
 	end_date="1936.1.1"
 }
@@ -161,7 +161,7 @@ alliance=
 alliance=
 {
 	first="FRA"
-	second="X02"
+	second="LEO"
 	start_date="1729.2.6"
 	end_date="1936.1.1"
 }
@@ -281,7 +281,7 @@ alliance=
 alliance=
 {
 	first="KOL"
-	second="X05"
+	second="SWB"
 	start_date="1726.10.22"
 	end_date="1936.1.1"
 }
@@ -304,7 +304,7 @@ alliance=
 
 alliance=
 {
-	first="X02"
+	first="LEO"
 	second="SCY"
 	start_date="1749.3.23"
 	end_date="1936.1.1"
@@ -337,7 +337,7 @@ alliance=
 alliance=
 {
 	first="MDR"
-	second="X11"
+	second="VLD"
 	start_date="1757.1.31"
 	end_date="1936.1.1"
 }
@@ -345,7 +345,7 @@ alliance=
 alliance=
 {
 	first="MAZ"
-	second="X09"
+	second="MRV"
 	start_date="1753.4.16"
 	end_date="1936.1.1"
 }
@@ -417,7 +417,7 @@ alliance=
 alliance=
 {
 	first="NSS"
-	second="X02"
+	second="LEO"
 	start_date="1720.9.22"
 	end_date="1936.1.1"
 }
@@ -433,7 +433,7 @@ alliance=
 alliance=
 {
 	first="PIS"
-	second="X02"
+	second="LEO"
 	start_date="1782.2.26"
 	end_date="1936.1.1"
 }
@@ -465,7 +465,7 @@ alliance=
 alliance=
 {
 	first="SVY"
-	second="X05"
+	second="SWB"
 	start_date="1642.10.20"
 	end_date="1936.1.1"
 }
@@ -473,7 +473,7 @@ alliance=
 alliance=
 {
 	first="SVY"
-	second="X09"
+	second="MRV"
 	start_date="1730.12.2"
 	end_date="1936.1.1"
 }
@@ -529,14 +529,14 @@ alliance=
 alliance=
 {
 	first="SLZ"
-	second="X09"
+	second="MRV"
 	start_date="1721.3.31"
 	end_date="1936.1.1"
 }
 
 alliance=
 {
-	first="X03"
+	first="LAZ"
 	second="KOL"
 	start_date="1763.7.20"
 	end_date="1936.1.1"
@@ -544,7 +544,7 @@ alliance=
 
 alliance=
 {
-	first="X03"
+	first="LAZ"
 	second="GLR"
 	start_date="1776.12.30"
 	end_date="1936.1.1"
@@ -561,7 +561,7 @@ alliance=
 alliance=
 {
 	first="SWE"
-	second="X07"
+	second="SCN"
 	start_date="1466.4.1"
 	end_date="1936.1.1"
 }
@@ -616,15 +616,15 @@ alliance=
 
 alliance=
 {
-	first="X07"
-	second="X11"
+	first="SCN"
+	second="VLD"
 	start_date="1755.3.6"
 	end_date="1936.1.1"
 }
 
 alliance=
 {
-	first="X09"
+	first="MRV"
 	second="AUS"
 	start_date="1710.12.21"
 	end_date="1936.1.1"
@@ -632,7 +632,7 @@ alliance=
 
 alliance=
 {
-	first="X09"
+	first="MRV"
 	second="ANS"
 	start_date="1755.5.10"
 	end_date="1936.1.1"
@@ -656,7 +656,7 @@ alliance=
 
 alliance=
 {
-	first="X11"
+	first="VLD"
 	second="MAZ"
 	start_date="1652.2.9"
 	end_date="1936.1.1"
@@ -664,7 +664,7 @@ alliance=
 
 alliance=
 {
-	first="X11"
+	first="VLD"
 	second="GRE"
 	start_date="1808.1.3"
 	end_date="1936.1.1"
@@ -704,15 +704,15 @@ alliance=
 
 alliance=
 {
-	first="X13"
-	second="X03"
+	first="BRH"
+	second="LAZ"
 	start_date="1491.11.10"
 	end_date="1936.1.1"
 }
 
 alliance=
 {
-	first="X13"
+	first="BRH"
 	second="X33"
 	start_date="1522.2.6"
 	end_date="1936.1.1"
@@ -809,7 +809,7 @@ alliance=
 alliance=
 {
 	first="X25"
-	second="X05"
+	second="SWB"
 	start_date="1653.6.7"
 	end_date="1936.1.1"
 }
@@ -817,7 +817,7 @@ alliance=
 alliance=
 {
 	first="X26"
-	second="X05"
+	second="SWB"
 	start_date="1636.1.2"
 	end_date="1936.1.1"
 }

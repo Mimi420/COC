@@ -1,5 +1,5 @@
-owner=X07
-controller=X07
+owner=SCN
+controller=SCN
 add_core=SCA
 add_core=SMI
 trade_goods = timber
