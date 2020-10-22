@@ -1,8 +1,7 @@
-owner=MAZ
-controller=MAZ
+owner=MOL
+controller=MOL
 add_core=GRE
-add_core=WAL
-add_core=HRE
+add_core=MOL
 trade_goods = grain
 life_rating = 35
 terrain = plains

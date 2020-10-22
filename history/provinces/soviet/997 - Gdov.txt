@@ -1,6 +1,6 @@
-owner=MAZ
-controller=MAZ
-add_core=HRE
+owner=EST
+controller=EST
+add_core=EST
 trade_goods = grain
 life_rating = 35
 terrain = forest

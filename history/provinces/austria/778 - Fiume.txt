@@ -1,7 +1,7 @@
-owner=X26
-controller=X26
+owner=CRO
+controller=CRO
+add_core=CRO
 add_core=SLO
-add_core=X26
 add_core=YUG
 add_core=HRE
 trade_goods = fruit

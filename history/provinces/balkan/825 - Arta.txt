@@ -1,5 +1,6 @@
-owner=GRE
-controller=GRE
+owner=ALB
+controller=ALB
+add_core=ALB
 add_core=GRE
 trade_goods = wool
 life_rating = 35

@@ -1,9 +1,6 @@
-owner=FIN
-controller=FIN
-add_core=NOR
-add_core=SCA
-add_core=X29
-add_core=HRE
+owner=EST
+controller=EST
+add_core=EST
 trade_goods = fish
 life_rating = 35
 terrain = farmlands

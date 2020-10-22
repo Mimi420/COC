@@ -1,5 +1,5 @@
-owner=GRA
-controller=GRA
+owner=ADU
+controller=ADU
 add_core=GRA
 add_core=ADU
 trade_goods = fruit
