@@ -1,5 +1,6 @@
-owner=MCK
-controller=MCK
+owner=CMI
+controller=CMI
+add_core=CMI
 add_core=CHI
 trade_goods = silk
 life_rating = 32

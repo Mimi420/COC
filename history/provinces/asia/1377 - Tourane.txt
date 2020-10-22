@@ -1,5 +1,5 @@
-owner=MCK
-controller=MCK
+owner=DAI
+controller=DAI
 add_core=DAI
 add_core=IDO
 trade_goods = tobacco

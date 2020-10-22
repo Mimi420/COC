@@ -1,5 +1,5 @@
-owner=X23
-controller=X23
+owner=SIA
+controller=SIA
 add_core=IDO
 add_core=LNA
 add_core=SIA

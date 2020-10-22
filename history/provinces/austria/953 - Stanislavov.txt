@@ -1,8 +1,8 @@
-owner=MAZ
-controller=MAZ
+owner=UKR
+controller=UKR
+add_core=UKR
 add_core=PLC
 add_core=UKR
-add_core=HRE
 trade_goods = grain
 life_rating = 35
 terrain = woods

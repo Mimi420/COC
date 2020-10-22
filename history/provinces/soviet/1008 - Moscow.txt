@@ -1,6 +1,6 @@
-owner=GLC
-controller=FIN
-add_core=GLC
+owner=BYE
+controller=BYE
+add_core=BYE
 trade_goods = timber
 life_rating = 35
 terrain = forest

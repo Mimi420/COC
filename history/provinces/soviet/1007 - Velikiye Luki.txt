@@ -1,5 +1,6 @@
-owner=MAZ
-controller=MAZ
+owner=BYE
+controller=BYE
+add_core=BYE
 add_core=RUS
 add_core=HRE
 trade_goods = grain

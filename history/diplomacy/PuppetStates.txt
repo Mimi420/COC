@@ -5,6 +5,13 @@ vassal=
 	start_date="1553.6.2"
 	end_date="1936.1.1"
 }
+vassal=
+{
+	first="ENL"
+	second="WHA"
+	start_date="1643.4.2"
+	end_date="1936.1.1"
+}
 
 vassal=
 {
@@ -292,5 +299,19 @@ vassal=
 	first="GRE"
 	second="BYZ"
 	start_date="1766.4.4"
+	end_date="1936.1.1"
+}
+vassal=
+{
+	first="UKR"
+	second="MOL"
+	start_date="1766.4.4"
+	end_date="1936.1.1"
+}
+vassal=
+{
+	first="MCK"
+	second="KOR"
+	start_date="1553.6.2"
 	end_date="1936.1.1"
 }

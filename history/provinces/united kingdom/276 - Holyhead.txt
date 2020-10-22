@@ -1,7 +1,6 @@
-owner=ENL
-controller=ENL
-add_core=ENG
-add_core=ENL
+owner=WHA
+controller=WHA
+add_core=WHA
 trade_goods = fish
 life_rating = 35
 terrain = hills

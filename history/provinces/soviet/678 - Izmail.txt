@@ -1,5 +1,6 @@
-owner=MAZ
-controller=MAZ
+owner=WAL
+controller=WAL
+add_core=UKR
 add_core=GRE
 add_core=WAL
 trade_goods = fish

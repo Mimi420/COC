@@ -1,5 +1,5 @@
-capital = 2133
-primary_culture = amerikaner
+capital = 513
+primary_culture = andalucian
 culture = spanish
 culture = zzz_religion_protestant
 religion = protestant

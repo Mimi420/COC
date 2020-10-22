@@ -1,8 +1,8 @@
-owner=MCK
-controller=MCK
-add_core=CHI
-add_core=MCK
+owner=MNG
+controller=MNG
 add_core=MNG
+add_core=LNG
+add_core=CHI
 trade_goods = silk
 life_rating = 32
 terrain = plains

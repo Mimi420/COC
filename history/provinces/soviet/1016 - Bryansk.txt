@@ -1,6 +1,6 @@
-owner=GLC
-controller=GLC
-add_core=GLC
+owner=BYE
+controller=BYE
+add_core=BYE
 add_core=HUN
 trade_goods = cattle
 life_rating = 35
