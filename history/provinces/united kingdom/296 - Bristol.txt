@@ -1,5 +1,5 @@
-owner=WHA
-controller=WHA
+owner=ENL
+controller=ENL
 add_core=ENL
 trade_goods = iron
 life_rating = 35

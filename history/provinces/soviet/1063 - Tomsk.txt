@@ -1,5 +1,5 @@
 owner=X17
-controller=MCK
+controller=X17
 add_core=SIB
 add_core=X17
 trade_goods = coal

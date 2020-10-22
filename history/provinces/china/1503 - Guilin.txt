@@ -1,7 +1,7 @@
-owner=MCK
-controller=MCK
-add_core=CHI
+owner=CMI
+controller=CMI
 add_core=CMI
+add_core=CHI
 trade_goods = cotton
 life_rating = 32
 terrain = plains
