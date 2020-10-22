@@ -1,5 +1,5 @@
-owner=SCA
-controller=SCA
+owner=SCN
+controller=SCN
 add_core=SWE
 add_core=SCA
 add_core=SCN

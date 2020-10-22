@@ -1,8 +1,6 @@
-owner=FIN
-controller=FIN
-add_core=FIN
-add_core=GER
-add_core=GLC
+owner=VPS
+controller=VPS
+add_core=VPS
 trade_goods = grain
 life_rating = 35
 terrain = forest

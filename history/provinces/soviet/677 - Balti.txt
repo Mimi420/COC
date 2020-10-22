@@ -1,8 +1,8 @@
-owner=MAZ
-controller=MAZ
+owner=MOL
+controller=MOL
 add_core=PLC
 add_core=UKR
-add_core=HRE
+add_core=MOL
 trade_goods = fruit
 life_rating = 35
 terrain = woods
