@@ -1,8 +1,7 @@
-owner=MCK
-controller=MCK
-add_core=CHI
+owner=CSH
+controller=CSH
 add_core=CSH
-add_core=MCK
+add_core=CHI
 trade_goods = grain
 life_rating = 32
 terrain = hills

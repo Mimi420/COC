@@ -1,5 +1,6 @@
-owner=MCK
-controller=MCK
+owner=CHC
+controller=CHC
+add_core=CHC
 add_core=CHI
 trade_goods = tropical_wood
 life_rating = 32

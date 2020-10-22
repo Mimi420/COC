@@ -1,8 +1,8 @@
-owner=MCK
-controller=MCK
-add_core=CHI
+owner=MNG
+controller=MNG
+add_core=MNG
 add_core=LNG
-add_core=MCK
+add_core=CHI
 trade_goods = tea
 life_rating = 32
 terrain = plains

@@ -1,5 +1,5 @@
-owner=RAJ
-controller=RAJ
+owner=VLD
+controller=VLD
 add_core=MGL
 add_core=UGR
 trade_goods = timber

@@ -1,5 +1,3 @@
-owner=MCK
-controller=MCK
 trade_goods = timber
 life_rating = 15
 terrain = arctic

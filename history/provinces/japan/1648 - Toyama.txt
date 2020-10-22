@@ -1,6 +1,5 @@
-owner=MCK
-controller=MCK
-add_core=IMG
+owner=JAP
+controller=JAP
 add_core=JAP
 trade_goods = tea
 life_rating = 35
