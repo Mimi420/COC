@@ -1,5 +1,5 @@
-owner=BLZ
-controller=BLZ
+owner=MEX
+controller=MEX
 add_core=MIX
 add_core=TEO
 trade_goods = grain

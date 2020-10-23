@@ -1,5 +1,5 @@
-owner=X39
-controller=X39
+owner=LOU
+controller=LOU
 trade_goods = cattle
 life_rating = 35
 terrain = plains

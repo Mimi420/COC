@@ -1,5 +1,6 @@
-owner=SCY
-controller=X40
+owner=CAN
+controller=CAN
+add_core=CAN
 trade_goods = cattle
 life_rating = 35
 terrain = forest

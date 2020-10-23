@@ -1,7 +1,6 @@
-owner=X39
-controller=X39
+owner=CAN
+controller=CAN
 add_core=CAN
-add_core=X38
 trade_goods = cattle
 life_rating = 35
 terrain = farmlands

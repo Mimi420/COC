@@ -1,6 +1,6 @@
-owner=LOU
-controller=LOU
-add_core=LOU
+owner=TEX
+controller=TEX
+add_core=TEX
 add_core=OTO
 trade_goods = fish
 life_rating = 35

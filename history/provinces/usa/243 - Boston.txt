@@ -1,6 +1,6 @@
-owner=X40
-controller=X40
-add_core=X40
+owner=NEN
+controller=NEN
+add_core=NEN
 trade_goods = grain
 life_rating = 40
 terrain = farmlands
