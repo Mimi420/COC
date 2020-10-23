@@ -1,5 +1,5 @@
-owner=X30
-controller=X30
+owner=BUR
+controller=BUR
 add_core=BUR
 add_core=IDO
 trade_goods = grain

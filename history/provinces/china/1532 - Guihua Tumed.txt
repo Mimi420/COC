@@ -1,5 +1,5 @@
-owner=MCK
-controller=MCK
+owner=KHA
+controller=KHA
 add_core=KHA
 add_core=MGL
 trade_goods = coal

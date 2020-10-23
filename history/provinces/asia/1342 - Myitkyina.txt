@@ -1,5 +1,5 @@
-owner=MNI
-controller=GUG
+owner=BUR
+controller=BUR
 add_core=BUR
 add_core=IDO
 add_core=MNI
