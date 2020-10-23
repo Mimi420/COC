@@ -1,5 +1,6 @@
-owner=X17
-controller=X17
+owner=KHA
+controller=KHA
+add_core=KHA
 add_core=XIN
 trade_goods = cotton
 life_rating = 32

@@ -2,7 +2,6 @@ owner=TIB
 controller=TIB
 add_core=TIB
 add_core=CHI
-add_core=MCK
 trade_goods = cotton
 life_rating = 32
 terrain = desert
