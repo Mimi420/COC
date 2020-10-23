@@ -1,6 +1,6 @@
-owner=BLZ
-controller=BLZ
-add_core=BLZ
+owner=MEX
+controller=MEX
+add_core=MEX
 add_core=KIC
 trade_goods = timber
 life_rating = 30

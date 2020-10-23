@@ -1,5 +1,6 @@
-owner=X39
-controller=X39
+owner=IRO
+controller=IRO
+add_core=IRO
 trade_goods = iron
 life_rating = 35
 terrain = forest
