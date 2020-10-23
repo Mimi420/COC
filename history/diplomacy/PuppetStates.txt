@@ -1,5 +1,19 @@
 vassal=
 {
+	first="DEN"
+	second="SCN"
+	start_date="1553.6.2"
+	end_date="1936.1.1"
+}
+vassal=
+{
+	first="DEN"
+	second="NOR"
+	start_date="1553.6.2"
+	end_date="1936.1.1"
+}
+vassal=
+{
 	first="ENL"
 	second="ARG"
 	start_date="1553.6.2"

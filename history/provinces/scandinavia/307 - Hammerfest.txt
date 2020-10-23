@@ -1,8 +1,7 @@
-owner=SCN
-controller=SCN
+owner=FIN
+controller=FIN
 add_core=NOR
 add_core=SCA
-add_core=SCN
 trade_goods = timber
 life_rating = 35
 terrain = arctic

@@ -1,8 +1,7 @@
-owner=SCN
-controller=SCN
+owner=DEN
+controller=DEN
 add_core=DEN
 add_core=SCA
-add_core=SCN
 trade_goods = cattle
 life_rating = 35
 terrain = woods
