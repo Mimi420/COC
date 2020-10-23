@@ -1,5 +1,5 @@
-owner=BLZ
-controller=BLZ
+owner=MEX
+controller=MEX
 add_core=KIC
 trade_goods = cotton
 life_rating = 30

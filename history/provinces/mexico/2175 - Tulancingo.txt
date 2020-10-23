@@ -1,6 +1,6 @@
-owner=BLZ
-controller=BLZ
-add_core=BLZ
+owner=MEX
+controller=MEX
+add_core=MEX
 add_core=TEO
 trade_goods = grain
 life_rating = 35

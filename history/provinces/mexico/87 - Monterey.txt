@@ -1,7 +1,7 @@
-owner=X44
-controller=X44
+owner=CAL
+controller=CAL
 add_core=CAL
-add_core=X44
+add_core=CAL
 trade_goods = fruit
 life_rating = 40
 terrain = plains

@@ -1,6 +1,6 @@
-owner=BLZ
-controller=BLZ
-add_core=BLZ
+owner=TEX
+controller=TEX
+add_core=TEX
 trade_goods = grain
 life_rating = 35
 terrain = mountain

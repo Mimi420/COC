@@ -1,5 +1,5 @@
-owner=YOK
-controller=REB
+owner=MEX
+controller=MEX
 add_core=YOK
 trade_goods = coffee
 life_rating = 30

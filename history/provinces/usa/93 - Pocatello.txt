@@ -1,8 +1,6 @@
-owner=X41
-controller=X41
+owner=CAL
+controller=CAL
 add_core=CAL
-add_core=LSK
-add_core=X41
 trade_goods = cattle
 life_rating = 35
 terrain = mountain
