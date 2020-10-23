@@ -1,7 +1,6 @@
-owner=HON
+owner=CRB
 controller=CRB
-add_core=HAI
-add_core=HON
+add_core=CRB
 trade_goods = tobacco
 life_rating = 35
 terrain = hills

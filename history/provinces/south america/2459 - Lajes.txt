@@ -1,5 +1,5 @@
-owner=BRZ
-controller=BRZ
+owner=RGS
+controller=RGS
 trade_goods = fruit
 life_rating = 35
 terrain = hills

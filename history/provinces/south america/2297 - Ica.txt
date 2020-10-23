@@ -1,5 +1,6 @@
 owner=BOL
 controller=BOL
+add_core=PRG
 add_core=PEU
 trade_goods = fish
 life_rating = 35
