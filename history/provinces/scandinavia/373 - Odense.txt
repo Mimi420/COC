@@ -1,5 +1,5 @@
-owner=POM
-controller=POM
+owner=DEN
+controller=DEN
 add_core=DEN
 add_core=SCA
 trade_goods = grain

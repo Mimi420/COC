@@ -1,5 +1,5 @@
-owner=SCN
-controller=SCN
+owner=FIN
+controller=FIN
 add_core=SCA
 add_core=SMI
 trade_goods = timber
