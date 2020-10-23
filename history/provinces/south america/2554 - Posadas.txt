@@ -1,5 +1,5 @@
-owner=BRZ
-controller=BRZ
+owner=RGS
+controller=RGS
 trade_goods = cattle
 life_rating = 30
 terrain = jungle
