@@ -1,4 +1,4 @@
-capital = 724
+capital = 726
 primary_culture = south_german
 culture = zzz_religion_protestant
 religion = protestant

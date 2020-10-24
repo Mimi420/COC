@@ -1,6 +1,6 @@
-owner=X36
-controller=X36
-add_core=X36
+owner=ABO
+controller=ABO
+add_core=ABO
 trade_goods = wool
 life_rating = 30
 terrain = farmlands

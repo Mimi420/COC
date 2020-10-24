@@ -1,7 +1,7 @@
-owner=SWA
-controller=SWA
+owner=SWB
+controller=SWB
 add_core=GER
-add_core=SWA
+add_core=SWB
 add_core=HRE
 trade_goods = grain
 life_rating = 40

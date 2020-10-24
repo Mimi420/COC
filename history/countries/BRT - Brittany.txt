@@ -1,4 +1,5 @@
-primary_culture = dummy
+capital = 422
+primary_culture = breton
 culture = zzz_religion_shamanist
 religion = shamanist
 government = absolute_monarchy

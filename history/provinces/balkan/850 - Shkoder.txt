@@ -1,5 +1,5 @@
-owner=ALB
-controller=ALB
+owner=KOS
+controller=KOS
 add_core=ALB
 add_core=GRE
 trade_goods = grain

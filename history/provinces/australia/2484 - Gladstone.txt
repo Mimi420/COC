@@ -1,6 +1,6 @@
-owner=X35
-controller=X35
-add_core=X35
+owner=ABO
+controller=ABO
+add_core=ABO
 trade_goods = wool
 life_rating = 30
 terrain = hills

@@ -1,14 +1,35 @@
 vassal=
 {
-	first="DEN"
+	first="NOR"
 	second="SCN"
 	start_date="1553.6.2"
 	end_date="1936.1.1"
 }
 vassal=
 {
-	first="DEN"
-	second="NOR"
+	first="NOR"
+	second="DEN"
+	start_date="1553.6.2"
+	end_date="1936.1.1"
+}
+vassal=
+{
+	first="FRA"
+	second="CAT"
+	start_date="1553.6.2"
+	end_date="1936.1.1"
+}
+vassal=
+{
+	first="FRA"
+	second="BRT"
+	start_date="1553.6.2"
+	end_date="1936.1.1"
+}
+vassal=
+{
+	first="IRE"
+	second="SCO"
 	start_date="1553.6.2"
 	end_date="1936.1.1"
 }
@@ -150,24 +171,8 @@ vassal=
 vassal=
 {
 	first="LOR"
-	second="MUN"
-	start_date="1512.4.28"
-	end_date="1936.1.1"
-}
-
-vassal=
-{
-	first="LOR"
 	second="NEW"
 	start_date="1719.10.2"
-	end_date="1936.1.1"
-}
-
-vassal=
-{
-	first="LOR"
-	second="SAX"
-	start_date="1722.10.8"
 	end_date="1936.1.1"
 }
 

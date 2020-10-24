@@ -1,6 +1,6 @@
-owner=PAP
-controller=PAP
-add_core=GER
+owner=VEN
+controller=VEN
+add_core=VEN
 trade_goods = fruit
 life_rating = 35
 terrain = farmlands

@@ -1,7 +1,7 @@
-owner=SWA
-controller=SWA
+owner=SWB
+controller=SWB
 add_core=GER
-add_core=SWA
+add_core=SWH
 add_core=HRE
 trade_goods = timber
 life_rating = 35

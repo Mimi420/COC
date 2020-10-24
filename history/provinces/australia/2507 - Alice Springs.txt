@@ -1,6 +1,3 @@
-owner=ORI
-controller=X35
-add_core=ORI
 trade_goods = cattle
 life_rating = 20
 terrain = desert
