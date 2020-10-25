@@ -1,8 +1,0 @@
-owner=ML1
-controller=ML1
-add_core=ML1
-add_core=SOM
-trade_goods = grain
-life_rating = 15
-terrain = plains
-naval_base = 2

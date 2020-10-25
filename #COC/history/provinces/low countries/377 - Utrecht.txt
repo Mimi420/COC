@@ -1,8 +1,0 @@
-owner=LOR
-controller=LOR
-add_core=HLL
-add_core=NET
-add_core=HRE
-trade_goods = grain
-life_rating = 35
-terrain = farmlands

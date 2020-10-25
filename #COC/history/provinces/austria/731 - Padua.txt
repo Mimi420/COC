@@ -1,7 +1,0 @@
-owner=PAP
-controller=PAP
-add_core=GER
-trade_goods = fruit
-life_rating = 35
-terrain = farmlands
-naval_base = 1

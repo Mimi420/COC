@@ -1,7 +1,0 @@
-owner=LEO
-controller=LEO
-add_core=LEO
-trade_goods = fruit
-life_rating = 35
-terrain = hills
-naval_base = 1

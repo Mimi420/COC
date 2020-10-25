@@ -1,6 +1,0 @@
-owner=UIL
-controller=X40
-add_core=X38
-trade_goods = iron
-life_rating = 35
-terrain = forest

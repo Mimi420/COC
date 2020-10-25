@@ -1,6 +1,0 @@
-owner=MAZ
-controller=MAZ
-add_core=HRE
-trade_goods = wool
-life_rating = 35
-terrain = forest

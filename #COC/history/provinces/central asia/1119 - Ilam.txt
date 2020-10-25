@@ -1,6 +1,0 @@
-owner=YEM
-controller=YEM
-add_core=KDS
-trade_goods = cotton
-life_rating = 35
-terrain = plains

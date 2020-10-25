@@ -1,7 +1,0 @@
-owner=MAZ
-controller=VPS
-add_core=RUS
-add_core=HRE
-trade_goods = grain
-life_rating = 35
-terrain = forest

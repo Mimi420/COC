@@ -1,7 +1,0 @@
-owner=POM
-controller=POM
-trade_goods = coal
-life_rating = 15
-terrain = plains
-colonial=2
-naval_base = 1

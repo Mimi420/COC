@@ -1,8 +1,0 @@
-owner=X10
-controller=X10
-add_core=ROM
-add_core=X10
-add_core=HRE
-trade_goods = grain
-life_rating = 35
-terrain = mountain

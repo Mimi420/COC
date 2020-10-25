@@ -1,9 +1,0 @@
-owner=CRI
-controller=CRI
-add_core=CRI
-add_core=GRE
-add_core=HRE
-trade_goods = iron
-life_rating = 35
-terrain = mountain
-naval_base = 1

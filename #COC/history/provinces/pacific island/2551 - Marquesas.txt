@@ -1,5 +1,0 @@
-owner=X21
-controller=REB
-trade_goods = fish
-life_rating = 15
-terrain = plains

@@ -1,6 +1,0 @@
-owner=IRE
-controller=ENL
-add_core=AES
-trade_goods = coal
-life_rating = 35
-terrain = plains

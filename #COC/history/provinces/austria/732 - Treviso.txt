@@ -1,8 +1,0 @@
-owner=X14
-controller=X14
-add_core=ITA
-add_core=X14
-add_core=HRE
-trade_goods = iron
-life_rating = 35
-terrain = hills

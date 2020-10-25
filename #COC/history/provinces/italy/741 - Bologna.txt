@@ -1,6 +1,0 @@
-owner=PAP
-controller=PAP
-add_core=PAP
-trade_goods = timber
-life_rating = 35
-terrain = farmlands

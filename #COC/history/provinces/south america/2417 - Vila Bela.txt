@@ -1,7 +1,0 @@
-owner=X42
-controller=X42
-add_core=PEU
-add_core=X42
-trade_goods = tobacco
-life_rating = 25
-terrain = jungle

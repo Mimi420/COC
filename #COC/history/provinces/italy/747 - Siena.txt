@@ -1,6 +1,0 @@
-owner=SNA
-controller=SNA
-add_core=SNA
-trade_goods = grain
-life_rating = 35
-terrain = hills

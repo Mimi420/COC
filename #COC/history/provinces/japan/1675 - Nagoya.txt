@@ -1,8 +1,0 @@
-owner=IMG
-controller=IMG
-add_core=IMG
-add_core=JAP
-trade_goods = silk
-life_rating = 35
-terrain = hills
-naval_base = 1

@@ -1,7 +1,0 @@
-owner=CRB
-controller=CRB
-add_core=CRB
-add_core=HAI
-trade_goods = tobacco
-life_rating = 35
-terrain = hills

@@ -1,7 +1,0 @@
-owner=MCK
-controller=MCK
-add_core=JAP
-trade_goods = tea
-life_rating = 35
-terrain = hills
-naval_base = 2

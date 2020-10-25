@@ -1,9 +1,0 @@
-owner=GLR
-controller=GLR
-add_core=GLR
-add_core=NET
-add_core=HRE
-trade_goods = cattle
-life_rating = 35
-terrain = farmlands
-naval_base = 1

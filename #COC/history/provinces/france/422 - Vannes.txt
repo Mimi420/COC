@@ -1,8 +1,0 @@
-owner=ENL
-controller=ENL
-add_core=BRT
-add_core=FRA
-trade_goods = fish
-life_rating = 32
-terrain = farmlands
-naval_base = 2

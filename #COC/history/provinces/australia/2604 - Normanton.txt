@@ -1,6 +1,0 @@
-owner=X35
-controller=X35
-add_core=X35
-trade_goods = tropical_wood
-life_rating = 30
-terrain = plains

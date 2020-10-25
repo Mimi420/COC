@@ -1,6 +1,0 @@
-owner=SCY
-controller=X40
-add_core=MTC
-trade_goods = grain
-life_rating = 35
-terrain = forest

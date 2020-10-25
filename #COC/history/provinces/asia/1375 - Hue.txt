@@ -1,7 +1,0 @@
-owner=MCK
-controller=MCK
-add_core=DAI
-add_core=IDO
-trade_goods = grain
-life_rating = 30
-terrain = plains

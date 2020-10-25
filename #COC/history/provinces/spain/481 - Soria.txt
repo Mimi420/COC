@@ -1,7 +1,0 @@
-owner=LEO
-controller=LEO
-add_core=LEO
-add_core=SPA
-trade_goods = grain
-life_rating = 35
-terrain = hills

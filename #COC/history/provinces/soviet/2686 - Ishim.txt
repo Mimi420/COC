@@ -1,7 +1,0 @@
-owner=X17
-controller=X17
-add_core=SIB
-add_core=X17
-trade_goods = sulphur
-life_rating = 35
-terrain = forest

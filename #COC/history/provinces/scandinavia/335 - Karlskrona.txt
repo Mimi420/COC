@@ -1,8 +1,0 @@
-owner=SCN
-controller=SWE
-add_core=DEN
-add_core=SCA
-add_core=SCN
-trade_goods = fish
-life_rating = 35
-terrain = farmlands

@@ -1,6 +1,0 @@
-owner=VLD
-controller=X32
-add_core=VLD
-trade_goods = cattle
-life_rating = 35
-terrain = steppe

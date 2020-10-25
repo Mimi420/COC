@@ -1,6 +1,0 @@
-owner=BLZ
-controller=BLZ
-add_core=KIC
-trade_goods = cotton
-life_rating = 30
-terrain = plains

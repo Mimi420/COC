@@ -1,8 +1,0 @@
-owner=ANS
-controller=ANS
-add_core=ANS
-add_core=GER
-add_core=HRE
-trade_goods = coal
-life_rating = 40
-terrain = farmlands

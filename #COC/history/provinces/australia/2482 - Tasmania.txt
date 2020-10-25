@@ -1,7 +1,0 @@
-owner=X35
-controller=X35
-add_core=X35
-trade_goods = timber
-life_rating = 30
-terrain = plains
-naval_base = 1

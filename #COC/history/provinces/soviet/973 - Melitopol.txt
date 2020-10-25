@@ -1,8 +1,0 @@
-owner=VLD
-controller=X32
-add_core=VLD
-add_core=HRE
-trade_goods = coal
-life_rating = 35
-terrain = plains
-naval_base = 1

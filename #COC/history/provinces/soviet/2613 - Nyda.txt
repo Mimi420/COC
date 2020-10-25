@@ -1,6 +1,0 @@
-owner=X17
-controller=RAJ
-add_core=MGL
-trade_goods = timber
-life_rating = 15
-terrain = arctic

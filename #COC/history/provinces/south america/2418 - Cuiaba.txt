@@ -1,7 +1,0 @@
-owner=X42
-controller=BRZ
-add_core=PEU
-add_core=X42
-trade_goods = fruit
-life_rating = 25
-terrain = jungle

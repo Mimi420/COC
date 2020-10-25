@@ -1,5 +1,0 @@
-owner=MCK
-controller=MCK
-trade_goods = tea
-life_rating = 32
-terrain = plains

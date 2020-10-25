@@ -1,6 +1,0 @@
-owner=TAB
-controller=TAB
-add_core=ALN
-trade_goods = fruit
-life_rating = 35
-terrain = hills

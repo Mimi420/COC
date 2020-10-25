@@ -1,8 +1,0 @@
-owner=YEM
-controller=YEM
-add_core=SUL
-trade_goods = iron
-life_rating = 30
-terrain = jungle
-colonial=2
-naval_base = 2

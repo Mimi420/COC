@@ -1,7 +1,0 @@
-owner=BLZ
-controller=BLZ
-add_core=BLZ
-add_core=YOK
-trade_goods = iron
-life_rating = 35
-terrain = plains

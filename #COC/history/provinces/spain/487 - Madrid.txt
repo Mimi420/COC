@@ -1,6 +1,0 @@
-owner=ADU
-controller=ADU
-add_core=ADU
-trade_goods = cattle
-life_rating = 40
-terrain = farmlands

@@ -1,9 +1,0 @@
-owner=FRA
-controller=FRA
-add_core=LEO
-add_core=SPA
-add_core=FRA
-trade_goods = cattle
-life_rating = 35
-terrain = plains
-naval_base = 1

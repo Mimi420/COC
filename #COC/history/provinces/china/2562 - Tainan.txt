@@ -1,6 +1,0 @@
-owner=TDO
-controller=TDO
-add_core=TDO
-trade_goods = tea
-life_rating = 32
-terrain = plains
