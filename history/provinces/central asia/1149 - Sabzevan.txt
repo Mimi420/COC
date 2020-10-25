@@ -1,6 +1,5 @@
-owner=TAB
-controller=TAB
-add_core=TAB
+owner=TAJ
+controller=TAJ
 add_core=TAJ
 trade_goods = coal
 life_rating = 35
