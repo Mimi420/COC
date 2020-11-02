@@ -1,264 +1,261 @@
-#Uruguay Region (200000)
-#Under rule of Uruguay 1836
-#Montevideo (112000/28000 POPS)
+#Uruguay Region (160000)
+#Under rule of Argentina 1836
+#Montevideo (35000 POPS)
 2344 = {
-    aristocrats = {
-        culture = platinean
-        religion = catholic
-        size = 575
-        militancy = 9
-        rebel_type = liberal_rebels
-    }
-
-    bureaucrats = {
-        culture = platinean
-        religion = catholic
-        size = 100
-        militancy = 9
-        rebel_type = liberal_rebels
-    }
-
-    officers = {
-        culture = platinean
-        religion = catholic
-        size = 50
-        militancy = 9
-        rebel_type = liberal_rebels
-    }
-
-    clergymen = {
-        culture = platinean
-        religion = catholic
-        size = 250
-    }
-
-    artisans = {
-        culture = platinean
-        religion = catholic
-        size = 980
-        militancy = 9
-        rebel_type = liberal_rebels
-    }
-
-    soldiers = {
-        culture = platinean
-        religion = catholic
-        size = 5000
-        militancy = 9
-        rebel_type = liberal_rebels
-    }
-
     farmers = {
-        culture = platinean
-        religion = catholic
-        size = 18095
-        militancy = 9
-        rebel_type = liberal_rebels
-    }
-
-    clergymen = {
-        culture = afro_caribeno
-        religion = catholic
-        size = 50
-    }
-
-    artisans = {
-        culture = afro_caribeno
-        religion = catholic
-        size = 250
-        militancy = 9
-        rebel_type = liberal_rebels
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = catholic
-        size = 500
-        militancy = 9
-        rebel_type = liberal_rebels
-    }
-
-    farmers = {
-        culture = afro_caribeno
-        religion = catholic
-        size = 3150
-        militancy = 9
-        rebel_type = liberal_rebels
-    }
-
-    slaves = {
-        culture = afro_caribeno
-        religion = catholic
-        size = 3500
-        militancy = 9
-        rebel_type = liberal_rebels
-    }
+		culture = patagonian
+		religion = animist
+		size = 4150
+	}
+	
+	soldiers = {
+		culture = patagonian
+		religion = animist
+		size = 184
+	}
+	
+	artisans = {
+		culture = patagonian
+		religion = animist
+		size = 184
+	}
+	
+	aristocrats = {
+		culture = patagonian
+		religion = animist
+		size = 23
+	}
+	
+	clergymen = {
+		culture = patagonian
+		religion = animist
+		size = 92
+	}
+	
+	farmers = {
+		culture = argentine
+		religion = catholic
+		size = 25554
+	}
+	
+	soldiers = {
+		culture = argentine
+		religion = catholic
+		size = 1111
+	}
+	
+	artisans = {
+		culture = argentine
+		religion = catholic
+		size = 2777
+	}
+	
+	clergymen = {
+		culture = argentine
+		religion = catholic
+		size = 617
+	}
+	
+	officers = {
+		culture = argentine
+		religion = catholic
+		size = 61
+	}
+	
 }
-#Paysandu (36000/9000 POPS)
+#Paysandu (93000 POPS)
 2345 = {
-    aristocrats = {
-        culture = platinean
-        religion = catholic
-        size = 25
-    }
-
-    bureaucrats = {
-        culture = platinean
-        religion = catholic
-        size = 10
-    }
-
-    clergymen = {
-        culture = platinean
-        religion = catholic
-        size = 50
-    }
-
-    artisans = {
-        culture = platinean
-        religion = catholic
-        size = 100
-    }
-
-    soldiers = {
-        culture = platinean
-        religion = catholic
-        size = 100
-    }
-
     farmers = {
-        culture = platinean
-        religion = catholic
-        size = 1800
-    }
-
-    artisans = {
-        culture = brazilian
-        religion = catholic
-        size = 100
-    }
-
-    soldiers = {
-        culture = brazilian
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = brazilian
-        religion = catholic
-        size = 840
-    }
+		culture = patagonian
+		religion = animist
+		size = 4044
+	}
+	
+	soldiers = {
+		culture = patagonian
+		religion = animist
+		size = 93
+	}
+	
+	artisans = {
+		culture = patagonian
+		religion = animist
+		size = 420
+	}
+	
+	aristocrats = {
+		culture = patagonian
+		religion = animist
+		size = 23
+	}
+	
+	clergymen = {
+		culture = patagonian
+		religion = animist
+		size = 93
+	}
+	
+	farmers = {
+		culture = argentine
+		religion = catholic
+		size = 71079
+	}
+	
+	soldiers = {
+		culture = argentine
+		religion = catholic
+		size = 3198
+	}
+	
+	artisans = {
+		culture = argentine
+		religion = catholic
+		size = 11550
+	}
+	
+	aristocrats = {
+		culture = argentine
+		religion = catholic
+		size = 1599
+	}
+	
+	clergymen = {
+		culture = argentine
+		religion = catholic
+		size = 1776
+	}
+	
+	bureaucrats = {
+		culture = argentine
+		religion = catholic
+		size = 533
+	}
+	
+	officers = {
+		culture = argentine
+		religion = catholic
+		size = 177
+	}
 
 }
-#Tacumba (12000/3000 POPS)
+#Colonia (16000 POPS)
 2346 = {
 
-    aristocrats = {
-        culture = platinean
-        religion = catholic
-        size = 200
-    }
-
-    bureaucrats = {
-        culture = platinean
-        religion = catholic
-        size = 20
-    }
-
-    clergymen = {
-        culture = platinean
-        religion = catholic
-        size = 75
-    }
-
-    artisans = {
-        culture = platinean
-        religion = catholic
-        size = 450
-    }
-
-    soldiers = {
-        culture = platinean
-        religion = catholic
-        size = 1000
-    }
-
-    soldiers = {
-        culture = platinean
-        religion = catholic
-        size = 1500
-        militancy = 9
-        rebel_type = liberal_rebels
-    }
-
     farmers = {
-        culture = platinean
-        religion = catholic
-        size = 7275
-    }
+		culture = patagonian
+		religion = animist
+		size = 3918
+	}
+	
+	soldiers = {
+		culture = patagonian
+		religion = animist
+		size = 174
+	}
+	
+	artisans = {
+		culture = patagonian
+		religion = animist
+		size = 174
+	}
+	
+	aristocrats = {
+		culture = patagonian
+		religion = animist
+		size = 21
+	}
+	
+	clergymen = {
+		culture = patagonian
+		religion = animist
+		size = 65
+	}
+	
+	farmers = {
+		culture = argentine
+		religion = catholic
+		size = 10217
+	}
+	
+	soldiers = {
+		culture = argentine
+		religion = catholic
+		size = 423
+	}
+	
+	artisans = {
+		culture = argentine
+		religion = catholic
+		size = 706
+	}
+	
+	clergymen = {
+		culture = argentine
+		religion = catholic
+		size = 117
+	}
 
 }
-#Melo (40000/10000 POPS)
+#Melo (19000 POPS)
 2347 = {
-    aristocrats = {
-        culture = platinean
-        religion = catholic
-        size = 150
-    }
-
-    bureaucrats = {
-        culture = platinean
-        religion = catholic
-        size = 10
-    }
-
-    clergymen = {
-        culture = platinean
-        religion = catholic
-        size = 50
-    }
-
-    artisans = {
-        culture = platinean
-        religion = catholic
-        size = 350
-    }
-
-    soldiers = {
-        culture = platinean
-        religion = catholic
-        size = 400
-    }
-
     farmers = {
-        culture = platinean
-        religion = catholic
-        size = 5450
-    }
+		culture = patagonian
+		religion = animist
+		size = 4005
+	}
+	
+	soldiers = {
+		culture = patagonian
+		religion = animist
+		size = 178
+	}
+	
+	artisans = {
+		culture = patagonian
+		religion = animist
+		size = 178
+	}
+	
+	aristocrats = {
+		culture = patagonian
+		religion = animist
+		size = 22
+	}
+	
+	clergymen = {
+		culture = patagonian
+		religion = animist
+		size = 66
+	}
+	
+	farmers = {
+		culture = argentine
+		religion = catholic
+		size = 12783
+	}
+	
+	soldiers = {
+		culture = argentine
+		religion = catholic
+		size = 536
+	}
+	
+	artisans = {
+		culture = argentine
+		religion = catholic
+		size = 1042
+	}
 
-    clergymen = {
-        culture = brazilian
-        religion = catholic
-        size = 50
-    }
-
-    artisans = {
-        culture = brazilian
-        religion = catholic
-        size = 150
-    }
-
-    soldiers = {
-        culture = brazilian
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = brazilian
-        religion = catholic
-        size = 2775
-    }
+	clergymen = {
+		culture = argentine
+		religion = catholic
+		size = 148
+	}
+	
+	bureaucrats = {
+		culture = argentine
+		religion = catholic
+		size = 89
+	}
 
 }
