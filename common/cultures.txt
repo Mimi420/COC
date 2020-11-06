@@ -1720,6 +1720,15 @@ native_american = {
         Curruchic Ixquiac López Manzanero Mas Menchú Mérida Mes Osorio Pek
         Poot Pop Puk Shal Sho Tecú Teul Tuyuc Xicara Xiloj }
     }
+    muiscan = {
+        color = {196 207 37}
+        first_names = { Aníbal Augusto Bento Bernardo César Daniel David Donato Duarte Ernesto
+        Estevão Fernando Francisco Gabriel Graciano Hugo João Julio Leopoldo Lucas
+        Miguel Nuno Óscar Rafael Roberto Sebastião Sergio Simão Vasco Zeferino }
+
+        last_names = { Arawá Arawak Bororo Garifuna Gê Guayaná Jeikó Kaingang Kalinago Kamakán
+        Karajá Kayapó Matsés Maxakalí Purí Timbira Xavante Xerente Xokieng Yanomamö }
+    }
     nahua = {
         color = {88 175 160}
         first_names = { Antonio Carlos Diego Emiliano Emilio Felipe Fernando Francisco Gaspar Hernando

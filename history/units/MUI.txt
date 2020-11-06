@@ -1,0 +1,36 @@
+
+
+#========================= L A N D =========================
+
+army = {
+name = "Army of Muisca"
+location = 2247
+regiment = {
+name = "Imperial Guard"
+type = infantry
+home = 2247
+}
+regiment = {
+name = "Imperial Guard"
+type = infantry
+home = 2247
+}
+regiment = {
+name = "Imperial Guard"
+type = infantry
+home = 2247
+}
+regiment = {
+name = "Imperial Guard"
+type = infantry
+home = 2247
+}
+}
+
+
+#========================= S E A =========================
+
+
+
+#========================= END OF FILE =========================
+

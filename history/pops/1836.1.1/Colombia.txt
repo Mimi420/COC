@@ -41,7 +41,7 @@
     farmers = {
         culture = north_andean
         religion = catholic
-        size = 76875
+        size = 26875
     }
 
     clergymen = {
@@ -65,37 +65,37 @@
     farmers = {
         culture = afro_caribeno
         religion = catholic
-        size = 2475
+        size = 1275
     }
 
     slaves = {
         culture = afro_caribeno
         religion = catholic
-        size = 1250
+        size = 1050
     }
 
     clergymen = {
-        culture = native_american_minor
-        religion = catholic
-        size = 50
+        culture = muiscan
+        religion = animist
+        size = 850
     }
 
     artisans = {
-        culture = native_american_minor
-        religion = catholic
-        size = 200
+        culture = muiscan
+        religion = animist
+        size = 2000
     }
 
     soldiers = {
-        culture = native_american_minor
-        religion = catholic
-        size = 50
+        culture = muiscan
+        religion = animist
+        size = 1500
     }
 
     farmers = {
-        culture = native_american_minor
-        religion = catholic
-        size = 3700
+        culture = muiscan
+        religion = animist
+        size = 37000
     }
 }
 #Ibaque (88000/22000 POPS)
@@ -217,27 +217,27 @@
     }
 
     clergymen = {
-        culture = native_american_minor
-        religion = catholic
+        culture = muiscan
+        religion = animist
         size = 50
     }
 
     artisans = {
-        culture = native_american_minor
-        religion = catholic
+        culture = muiscan
+        religion = animist
         size = 250
     }
 
     soldiers = {
-        culture = native_american_minor
-        religion = catholic
+        culture = muiscan
+        religion = animist
         size = 50
     }
 
     farmers = {
-        culture = native_american_minor
-        religion = catholic
-        size = 4700
+        culture = muiscan
+        religion = animist
+        size = 47000
     }
 }
 #Manizales (116000/29000 POPS)
@@ -1089,31 +1089,31 @@
     }
 
     aristocrats = {
-        culture = amazonian
+        culture = muiscan
         religion = animist
         size = 125
     }
 
     clergymen = {
-        culture = amazonian
+        culture = muiscan
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = amazonian
+        culture = muiscan
         religion = animist
         size = 400
     }
 
     soldiers = {
-        culture = amazonian
+        culture = muiscan
         religion = animist
         size = 75
     }
 
     farmers = {
-        culture = amazonian
+        culture = muiscan
         religion = animist
         size = 7325
     }
