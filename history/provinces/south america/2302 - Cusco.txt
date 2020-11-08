@@ -1,5 +1,5 @@
-owner = BOL
-controller = BOL
-add_core = BOL
+owner = TAW
+controller = TAW
+add_core = TAW
 trade_goods = wool
 life_rating = 37

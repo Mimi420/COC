@@ -1,0 +1,36 @@
+
+
+#========================= L A N D =========================
+
+army = {
+name = "Royal Incan Army"
+location = 2302
+regiment = {
+name = "Royal Forces"
+type = infantry
+home = 2302
+}
+regiment = {
+name = "Royal Forces"
+type = infantry
+home = 2302
+}
+regiment = {
+name = "Royal Forces"
+type = infantry
+home = 2302
+}
+regiment = {
+name = "Royal Forces"
+type = infantry
+home = 2302
+}
+}
+
+
+#========================= S E A =========================
+
+
+
+#========================= END OF FILE =========================
+

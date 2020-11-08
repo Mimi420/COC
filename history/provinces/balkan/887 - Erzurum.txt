@@ -1,6 +1,6 @@
-owner = TUR
-controller = TUR
-add_core = TUR
+owner = ANA
+controller = ANA
+add_core = ANA
 add_core = ARM
 add_core = KDS
 trade_goods = cattle

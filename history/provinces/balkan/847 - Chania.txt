@@ -1,6 +1,5 @@
-owner = EGY
-controller = EGY
-add_core = TUR
+owner = CRE
+controller = CRE
 add_core = CRE
 add_core = GRE
 trade_goods = fruit

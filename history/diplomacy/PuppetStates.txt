@@ -538,3 +538,56 @@ vassal = {
     # start_date = 1861.1.1
     # end_date = 1936.1.1
 # }
+
+#######################
+#       GREECE        #
+#######################
+
+vassal = {
+    first = GRE
+    second = ANA
+    start_date = 1836.1.1
+    end_date = 1876.1.1
+}
+vassal = {
+    first = GRE
+    second = ATH
+    start_date = 1836.1.1
+    end_date = 1876.1.1
+}
+vassal = {
+    first = GRE
+    second = EPR
+    start_date = 1836.1.1
+    end_date = 1876.1.1
+}
+vassal = {
+    first = GRE
+    second = BUL
+    start_date = 1836.1.1
+    end_date = 1876.1.1
+}
+vassal = {
+    first = GRE
+    second = ALB
+    start_date = 1836.1.1
+    end_date = 1876.1.1
+}
+vassal = {
+    first = GRE
+    second = MCD
+    start_date = 1836.1.1
+    end_date = 1876.1.1
+}
+vassal = {
+    first = GRE
+    second = CRE
+    start_date = 1836.1.1
+    end_date = 1876.1.1
+}
+vassal = {
+    first = GRE
+    second = CYP
+    start_date = 1836.1.1
+    end_date = 1876.1.1
+}

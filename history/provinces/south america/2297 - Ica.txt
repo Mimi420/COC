@@ -1,6 +1,6 @@
-owner = BOL
-controller = BOL
-add_core = BOL
+owner = TAW
+controller = TAW
+add_core = TAW
 trade_goods = fish
 terrain = dryhills
 life_rating = 35

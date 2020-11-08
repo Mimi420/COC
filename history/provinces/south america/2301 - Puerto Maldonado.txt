@@ -1,6 +1,6 @@
-owner = PRG
-controller = PRG
-add_core = PRG
+owner = TAW
+controller = TAW
+add_core = TAW
 trade_goods = fruit
 terrain = jungle
 life_rating = 31

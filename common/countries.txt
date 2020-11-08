@@ -171,6 +171,7 @@ TKM        = "countries/Turkmenistan.txt"
 TKS        = "countries/Turkestan.txt"
 UYG        = "countries/Uyghurstan.txt"
 UZB        = "countries/Uzbekistan.txt"
+ANA        = "countries/Anatolia.txt"
 
 #India
 ASM        = "countries/Assam.txt"
@@ -400,6 +401,8 @@ SLO        ="countries/Slovenia.txt"
 TUR        ="countries/Ottoman Empire.txt"
 WAL        ="countries/Wallachia.txt"
 YUG        ="countries/Yugoslavia.txt"
+ATH        ="countries/Athens.txt"
+EPR        ="countries/Epirus.txt"
 
 # Africa
 ALD        ="countries/Aldjazair.txt"
@@ -529,6 +532,7 @@ PRG        ="countries/Paraguay.txt"
 URU        ="countries/Uruguay.txt"
 VNZ        ="countries/Venezuela.txt"
 MUI        ="countries/Muisca.txt"
+TAW        ="countries/Tawantinsuyu.txt"
 
 # Australasia
 AST        ="countries/Australia.txt"
