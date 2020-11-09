@@ -1,0 +1,66 @@
+
+
+#========================= L A N D =========================
+
+army = {
+name = "Leónese Army"
+location = 477
+regiment = {
+name = "1st Artillary Company"
+type = artillery
+home = 477
+}
+regiment = {
+name = "2nd Artillary Company"
+type = artillery
+home = 477
+}
+regiment = {
+name = "3rd Artillary Company"
+type = artillery
+home = 477
+}
+regiment = {
+name = "4th Artillary Company"
+type = artillery
+home = 477
+}
+regiment = {
+name = "1st Army Corp"
+type = infantry
+home = 477
+}
+regiment = {
+name = "2nd Army Corp"
+type = infantry
+home = 477
+}
+regiment = {
+name = "3rd Army Corp"
+type = infantry
+home = 477
+}
+regiment = {
+name = "4th Army Corp"
+type = infantry
+home = 477
+}
+regiment = {
+name = "5th Artillary Company"
+type = artillery
+home = 477
+}
+regiment = {
+name = "1st Hussar Division"
+type = hussar
+home = 477
+}
+}
+
+
+#========================= S E A =========================
+
+
+
+#========================= END OF FILE =========================
+

@@ -591,3 +591,30 @@ vassal = {
     start_date = 1836.1.1
     end_date = 1876.1.1
 }
+#######################
+#       IBERIA        #
+#######################
+vassal = {
+    first = LEO
+    second = POR
+    start_date = 1836.1.1
+    end_date = 1876.1.1
+}
+vassal = {
+    first = ALA
+    second = GRA
+    start_date = 1836.1.1
+    end_date = 1876.1.1
+}
+vassal = {
+    first = ALA
+    second = VAL
+    start_date = 1836.1.1
+    end_date = 1876.1.1
+}
+vassal = {
+    first = ALA
+    second = TOL
+    start_date = 1836.1.1
+    end_date = 1876.1.1
+}

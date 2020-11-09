@@ -327,6 +327,11 @@ POR        = "countries/Portugal.txt"
 SCO        = "countries/Scotland.txt"
 SPA        = "countries/Spain.txt"
 WLL        = "countries/Wallonia.txt"
+LEO        = "countries/Leon.txt"
+VAL        = "countries/Valencia.txt"
+ALA        = "countries/Al Andalus.txt"
+GRA        = "countries/Granada.txt"
+TOL        = "countries/Toledo.txt"
 
 # Germany
 ANH        = "countries/Anhalt.txt"
