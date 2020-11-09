@@ -2,584 +2,253 @@
 #Under rule of Argentina 1836
 #Buenos Aires (132000/33000 POPS)
 2348 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 1625
+    }
+
+    bureaucrats = {
+        culture = platinean
+        religion = catholic
+        size = 500
+    }
+
+    officers = {
+        culture = platinean
+        religion = catholic
+        size = 75
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 375
+    }
+
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 15000
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 6000
+    }
+
     farmers = {
-		culture = patagonian
-		religion = animist
-		size = 9229
-	}
-	
-	soldiers = {
-		culture = patagonian
-		religion = animist
-		size = 410
-	}
-	
-	artisans = {
-		culture = patagonian
-		religion = animist
-		size = 410
-	}
-	
-	aristocrats = {
-		culture = patagonian
-		religion = animist
-		size = 51
-	}
-	
-	clergymen = {
-		culture = patagonian
-		religion = animist
-		size = 153
-	}
-	
-	farmers = {
-		culture = argentine
-		religion = catholic
-		size = 128535
-	}
-	
-	soldiers = {
-		culture = argentine
-		religion = catholic
-		size = 5784
-	}
-	
-	artisans = {
-		culture = argentine
-		religion = catholic
-		size = 19441
-	}
-	
-	aristocrats = {
-		culture = argentine
-		religion = catholic
-		size = 2892
-	}
-	
-	clergymen = {
-		culture = argentine
-		religion = catholic
-		size = 2731
-	}
-	
-	bureaucrats = {
-		culture = argentine
-		religion = catholic
-		size = 964
-	}
-	
-	officers = {
-		culture = argentine
-		religion = catholic
-		size = 321
-	}
+        culture = platinean
+        religion = catholic
+        size = 105825
+    }
+
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 3000
+    }
 }
 #Junin (56000/14000 POPS)
 2349 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 275
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 175
+    }
+
+    artisans = {
+        culture = platinean
+        religion = catholic
+        size = 5100
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 4000
+    }
+
     farmers = {
-		culture = patagonian
-		religion = animist
-		size = 4905
-	}
-	
-	soldiers = {
-		culture = patagonian
-		religion = animist
-		size = 218
-	}
-	
-	artisans = {
-		culture = patagonian
-		religion = animist
-		size = 218
-	}
-	
-	aristocrats = {
-		culture = patagonian
-		religion = animist
-		size = 27
-	}
-	
-	clergymen = {
-		culture = patagonian
-		religion = animist
-		size = 81
-	}
-	
-	farmers = {
-		culture = argentine
-		religion = catholic
-		size = 29179
-	}
-	
-	soldiers = {
-		culture = argentine
-		religion = catholic
-		size = 1313
-	}
-	
-	artisans = {
-		culture = argentine
-		religion = catholic
-		size = 4413
-	}
-	
-	aristocrats = {
-		culture = argentine
-		religion = catholic
-		size = 656
-	}
-	
-	clergymen = {
-		culture = argentine
-		religion = catholic
-		size = 620
-	}
-	
-	bureaucrats = {
-		culture = argentine
-		religion = catholic
-		size = 218
-	}
-	
-	officers = {
-		culture = argentine
-		religion = catholic
-		size = 72
-	}
+        culture = platinean
+        religion = catholic
+        size = 25550
+    }
 }
 #Azul (12000/3000 POPS)
 2350 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 50
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 75
+    }
+
+
     farmers = {
-		culture = patagonian
-		religion = animist
-		size = 4527
-	}
-	
-	soldiers = {
-		culture = patagonian
-		religion = animist
-		size = 201
-	}
-	
-	artisans = {
-		culture = patagonian
-		religion = animist
-		size = 201
-	}
-	
-	aristocrats = {
-		culture = patagonian
-		religion = animist
-		size = 25
-	}
-	
-	clergymen = {
-		culture = patagonian
-		religion = animist
-		size = 75
-	}
-	
-	farmers = {
-		culture = argentine
-		religion = catholic
-		size = 29515
-	}
-	
-	soldiers = {
-		culture = argentine
-		religion = catholic
-		size = 1328
-	}
-	
-	artisans = {
-		culture = argentine
-		religion = catholic
-		size = 4464
-	}
-	
-	aristocrats = {
-		culture = argentine
-		religion = catholic
-		size = 664
-	}
-	
-	clergymen = {
-		culture = argentine
-		religion = catholic
-		size = 627
-	}
-	
-	bureaucrats = {
-		culture = argentine
-		religion = catholic
-		size = 221
-	}
-	
-	officers = {
-		culture = argentine
-		religion = catholic
-		size = 73
-	}
+        culture = platinean
+        religion = catholic
+        size = 15700
+    }
 }
 #La Plata (4000/1000 POPS)
 2351 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 15
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 25
+    }
+
     farmers = {
-		culture = patagonian
-		religion = animist
-		size = 4353
-	}
-	
-	soldiers = {
-		culture = patagonian
-		religion = animist
-		size = 193
-	}
-	
-	artisans = {
-		culture = patagonian
-		religion = animist
-		size = 193
-	}
-	
-	aristocrats = {
-		culture = patagonian
-		religion = animist
-		size = 24
-	}
-	
-	clergymen = {
-		culture = patagonian
-		religion = animist
-		size = 72
-	}
-	
-	farmers = {
-		culture = argentine
-		religion = catholic
-		size = 3870
-	}
-	
-	soldiers = {
-		culture = argentine
-		religion = catholic
-		size = 174
-	}
-	
-	artisans = {
-		culture = argentine
-		religion = catholic
-		size = 585
-	}
-	
-	aristocrats = {
-		culture = argentine
-		religion = catholic
-		size = 87
-	}
-	
-	clergymen = {
-		culture = argentine
-		religion = catholic
-		size = 82
-	}
-	
-	bureaucrats = {
-		culture = argentine
-		religion = catholic
-		size = 29
-	}
-	
-	officers = {
-		culture = argentine
-		religion = catholic
-		size = 9
-	}
+        culture = platinean
+        religion = catholic
+        size = 19000
+    }
 }
 #Mar del Plata (12000/3000 POPS)
 2352 = {
+    aristocrats = {
+        culture = platinean
+        religion = catholic
+        size = 50
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 75
+    }
+
     farmers = {
-		culture = patagonian
-		religion = animist
-		size = 2176
-	}
-	
-	soldiers = {
-		culture = patagonian
-		religion = animist
-		size = 96
-	}
-	
-	artisans = {
-		culture = patagonian
-		religion = animist
-		size = 96
-	}
-	
-	aristocrats = {
-		culture = patagonian
-		religion = animist
-		size = 12
-	}
-	
-	clergymen = {
-		culture = patagonian
-		religion = animist
-		size = 36
-	}
-	
-	soldiers = {
-		culture = argentine
-		religion = catholic
-		size = 40
-	}
-	
-	artisans = {
-		culture = argentine
-		religion = catholic
-		size = 161
-	}
-	
-	aristocrats = {
-		culture = argentine
-		religion = catholic
-		size = 241
-	}
-	
-	clergymen = {
-		culture = argentine
-		religion = catholic
-		size = 40
-	}
-	
-	bureaucrats = {
-		culture = argentine
-		religion = catholic
-		size = 241
-	}
-	
-	officers = {
-		culture = argentine
-		religion = catholic
-		size = 80
-	}
+        culture = platinean
+        religion = catholic
+        size = 20700
+    }
 }
 #Under loose authority of Argentina 1836
 #Trenque Lanquen (12000/9000 POPS)
 2353 = {
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 25
+    }
+
+
     farmers = {
-		culture = patagonian
-		religion = animist
-		size = 4527
-	}
-	
-	soldiers = {
-		culture = patagonian
-		religion = animist
-		size = 201
-	}
-	
-	artisans = {
-		culture = patagonian
-		religion = animist
-		size = 201
-	}
-	
-	aristocrats = {
-		culture = patagonian
-		religion = animist
-		size = 25
-	}
-	
-	clergymen = {
-		culture = patagonian
-		religion = animist
-		size = 75
-	}
-	
-	farmers = {
-		culture = argentine
-		religion = catholic
-		size = 3715
-	}
-	
-	soldiers = {
-		culture = argentine
-		religion = catholic
-		size = 167
-	}
-	
-	artisans = {
-		culture = argentine
-		religion = catholic
-		size = 561
-	}
-	
-	aristocrats = {
-		culture = argentine
-		religion = catholic
-		size = 83
-	}
-	
-	clergymen = {
-		culture = argentine
-		religion = catholic
-		size = 78
-	}
-	
-	bureaucrats = {
-		culture = argentine
-		religion = catholic
-		size = 27
-	}
-	
-	officers = {
-		culture = argentine
-		religion = catholic
-		size = 9
-	}
+        culture = platinean
+        religion = catholic
+        size = 900
+    }
+
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 50
+    }
+
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 1800
+    }
 }
 #Bahia Blanca (24000/6000 POPS)
 2354 = {
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 75
+    }
+
     farmers = {
-		culture = patagonian
-		religion = animist
-		size = 2322
-	}
-	
-	soldiers = {
-		culture = patagonian
-		religion = animist
-		size = 103
-	}
-	
-	artisans = {
-		culture = patagonian
-		religion = animist
-		size = 103
-	}
-	
-	aristocrats = {
-		culture = patagonian
-		religion = animist
-		size = 12
-	}
-	
-	clergymen = {
-		culture = patagonian
-		religion = animist
-		size = 38
-	}
-	
-	soldiers = {
-		culture = argentine
-		religion = catholic
-		size = 32
-	}
-	
-	artisans = {
-		culture = argentine
-		religion = catholic
-		size = 129
-	}
-	
-	aristocrats = {
-		culture = argentine
-		religion = catholic
-		size = 193
-	}
-	
-	clergymen = {
-		culture = argentine
-		religion = catholic
-		size = 32
-	}
-	
-	bureaucrats = {
-		culture = argentine
-		religion = catholic
-		size = 193
-	}
-	
-	officers = {
-		culture = argentine
-		religion = catholic
-		size = 64
-	}
+        culture = platinean
+        religion = catholic
+        size = 2725
+    }
+
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 75
+    }
+
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 2700
+    }
 }
 #Carmen (20000/5000 POPS)
 2355 = {
+    clergymen = {
+        culture = platinean
+        religion = catholic
+        size = 50
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 25
+    }
+
     farmers = {
-		culture = patagonian
-		religion = animist
-		size = 4411
-	}
-	
-	soldiers = {
-		culture = patagonian
-		religion = animist
-		size = 196
-	}
-	
-	artisans = {
-		culture = patagonian
-		religion = animist
-		size = 196
-	}
-	
-	aristocrats = {
-		culture = patagonian
-		religion = animist
-		size = 24
-	}
-	
-	clergymen = {
-		culture = patagonian
-		religion = animist
-		size = 73
-	}
-	
-	farmers = {
-		culture = argentine
-		religion = catholic
-		size = 45098
-	}
-	
-	soldiers = {
-		culture = argentine
-		religion = catholic
-		size = 2029
-	}
-	
-	artisans = {
-		culture = argentine
-		religion = catholic
-		size = 6821
-	}
-	
-	aristocrats = {
-		culture = argentine
-		religion = catholic
-		size = 1014
-	}
-	
-	clergymen = {
-		culture = argentine
-		religion = catholic
-		size = 958
-	}
-	
-	bureaucrats = {
-		culture = argentine
-		religion = catholic
-		size = 338
-	}
-	
-	officers = {
-		culture = argentine
-		religion = catholic
-		size = 112
-	}
+        culture = platinean
+        religion = catholic
+        size = 1875
+    }
+
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 75
+    }
+
+
+    farmers = {
+        culture = patagonian
+        religion = animist
+        size = 5700
+    }
 }
 #Corrientes Region (164000)
 #Under rule of Argentina 1836
@@ -1985,151 +1654,55 @@
 #Under the loose rule of Argentina 1836
 #Viedma (12000/3000 POPS)
 2392 = {
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 75
+    }
+
+    soldiers = {
+        culture = patagonian
+        religion = animist
+        size = 175
+    }
+
     farmers = {
-		culture = patagonian
-		religion = animist
-		size = 4876
-	}
-	
-	soldiers = {
-		culture = patagonian
-		religion = animist
-		size = 216
-	}
-	
-	artisans = {
-		culture = patagonian
-		religion = animist
-		size = 216
-	}
-	
-	aristocrats = {
-		culture = patagonian
-		religion = animist
-		size = 27
-	}
-	
-	clergymen = {
-		culture = patagonian
-		religion = animist
-		size = 81
-	}
-	
-	farmers = {
-		culture = argentine
-		religion = catholic
-		size = 31785
-	}
-	
-	soldiers = {
-		culture = argentine
-		religion = catholic
-		size = 1430
-	}
-	
-	artisans = {
-		culture = argentine
-		religion = catholic
-		size = 4807
-	}
-	
-	aristocrats = {
-		culture = argentine
-		religion = catholic
-		size = 715
-	}
-	
-	clergymen = {
-		culture = argentine
-		religion = catholic
-		size = 675
-	}
-	
-	bureaucrats = {
-		culture = argentine
-		religion = catholic
-		size = 238
-	}
-	
-	officers = {
-		culture = argentine
-		religion = catholic
-		size = 79
-	}
+        culture = patagonian
+        religion = animist
+        size = 2700
+    }
 }
 #Telen (12000/3000 POPS)
 2393 = {
+    aristocrats = {
+        culture = patagonian
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = patagonian
+        religion = animist
+        size = 75
+    }
+
+    soldiers = {
+        culture = patagonian
+        religion = animist
+        size = 175
+    }
+
     farmers = {
-		culture = patagonian
-		religion = animist
-		size = 4063
-	}
-	
-	soldiers = {
-		culture = patagonian
-		religion = animist
-		size = 180
-	}
-	
-	artisans = {
-		culture = patagonian
-		religion = animist
-		size = 180
-	}
-	
-	aristocrats = {
-		culture = patagonian
-		religion = animist
-		size = 22
-	}
-	
-	clergymen = {
-		culture = patagonian
-		religion = animist
-		size = 67
-	}
-	
-	farmers = {
-		culture = argentine
-		religion = catholic
-		size = 1548
-	}
-	
-	soldiers = {
-		culture = argentine
-		religion = catholic
-		size = 69
-	}
-	
-	artisans = {
-		culture = argentine
-		religion = catholic
-		size = 234
-	}
-	
-	aristocrats = {
-		culture = argentine
-		religion = catholic
-		size = 34
-	}
-	
-	clergymen = {
-		culture = argentine
-		religion = catholic
-		size = 32
-	}
-	
-	bureaucrats = {
-		culture = argentine
-		religion = catholic
-		size = 11
-	}
-	
-	officers = {
-		culture = argentine
-		religion = catholic
-		size = 3
-	}
+        culture = patagonian
+        religion = animist
+        size = 2700
+    }
 }
 #Bariloche (16000/4000 POPS)
 2394 = {
