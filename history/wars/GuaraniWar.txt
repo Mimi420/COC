@@ -1,0 +1,14 @@
+name = "Argentinian Conquest of Caingua"
+
+1835.12.12 = {
+    add_attacker = ARG
+    add_defender = CAY
+
+    war_goal = {
+        casus_belli = conquest
+        actor = ARG
+        receiver = CAY
+    }
+
+}
+

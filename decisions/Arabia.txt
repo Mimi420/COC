@@ -70,6 +70,7 @@ political_decisions = {
             OR = {
                 tag = CYR
                 tag = ALD
+				tag = CAY
                 primary_culture = kurdish
             }
             NOT = { has_country_modifier = rally_tribesmen }

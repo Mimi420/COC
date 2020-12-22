@@ -1,6 +1,7 @@
 owner = PRG
 controller = PRG
 add_core = PRG
+add_core = CAY
 trade_goods = wool
 terrain = savanna
 life_rating = 31
