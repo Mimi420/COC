@@ -1,6 +1,7 @@
-owner = RGS
-controller = RGS
-add_core = RGS
+owner = ANT
+controller = ANT
+add_core = ANT
 trade_goods = fruit
 terrain = jungle
 life_rating = 31
+is_slave = yes

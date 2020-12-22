@@ -1,6 +1,5 @@
-capital = 2432
-primary_culture = brazilian
-culture = afro_brazilian
+capital = 2431
+primary_culture = pernambucan
 religion = catholic
 government = democracy
 plurality = 0.0

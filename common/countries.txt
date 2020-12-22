@@ -539,6 +539,7 @@ VNZ        ="countries/Venezuela.txt"
 MUI        ="countries/Muisca.txt"
 TAW        ="countries/Tawantinsuyu.txt"
 CAY        ="countries/Guarani.txt"
+ANT        ="countries/Antarktika.txt"
 
 # Australasia
 AST        ="countries/Australia.txt"

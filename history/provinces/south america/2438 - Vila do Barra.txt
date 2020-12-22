@@ -1,7 +1,7 @@
 owner = PNB
 controller = PNB
 add_core = PNB
-add_core = BAH
+add_core = ANT
 trade_goods = cattle
 terrain = new_world_semidesert
 life_rating = 31

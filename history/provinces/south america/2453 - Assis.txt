@@ -1,5 +1,5 @@
-owner = RGS
-controller = RGS
-add_core = RGS
+owner = ANT
+controller = ANT
+add_core = ANT
 trade_goods = timber
 life_rating = 35
