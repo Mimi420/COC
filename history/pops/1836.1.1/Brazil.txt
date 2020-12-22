@@ -785,69 +785,69 @@
 #Dourados (44000/11000 POPS)
 2416 = {
     aristocrats = {
-        culture = brazilian
+        culture = argentine
         religion = catholic
-        size = 225
+        size = 200
     }
 
     bureaucrats = {
-        culture = brazilian
+        culture = argentine
         religion = catholic
-        size = 10
+        size = 20
     }
 
     officers = {
-        culture = brazilian
+        culture = argentine
         religion = catholic
-        size = 15
+        size = 20
     }
 
     clergymen = {
-        culture = brazilian
+        culture = argentine
         religion = catholic
-        size = 125
+        size = 100
     }
 
     artisans = {
-        culture = brazilian
+        culture = argentine
         religion = catholic
+        size = 100
+    }
+
+    soldiers = {
+        culture = argentine
+        religion = catholic
+        size = 100
+    }
+
+    farmers = {
+        culture = argentine
+        religion = catholic
+        size = 2400
+    }
+
+    clergymen = {
+        culture = guarani
+        religion = animist
+        size = 60
+    }
+
+    artisans = {
+        culture = guarani
+        religion = animist
         size = 250
     }
 
     soldiers = {
-        culture = brazilian
-        religion = catholic
-        size = 75
-    }
-
-    farmers = {
-        culture = brazilian
-        religion = catholic
-        size = 5400
-    }
-
-    clergymen = {
-        culture = guarani
-        religion = animist
-        size = 50
-    }
-
-    artisans = {
         culture = guarani
         religion = animist
         size = 250
     }
 
-    soldiers = {
-        culture = guarani
-        religion = animist
-        size = 50
-    }
-
     farmers = {
         culture = guarani
         religion = animist
-        size = 4650
+        size = 7650
     }
 }
 #Under loose authority of Brazil 1836
@@ -996,57 +996,51 @@
 #Corumba (8000/2000 POPS)
 2419 = {
     clergymen = {
-        culture = brazilian
-        religion = catholic
-        size = 25
+        culture = guarani
+        religion = animist
+        size = 35
     }
 
     artisans = {
-        culture = brazilian
-        religion = catholic
-        size = 50
+        culture = guarani
+        religion = animist
+        size = 30
     }
-
-    soldiers = {
-        culture = brazilian
-        religion = catholic
-        size = 25
-    }
-
-    farmers = {
-        culture = brazilian
-        religion = catholic
-        size = 900
-    }
-
-    aristocrats = {
-        culture = amazonian
+	
+	aristocrats = {
+        culture = guarani
         religion = animist
         size = 10
     }
 
-    clergymen = {
-        culture = amazonian
+    soldiers = {
+        culture = guarani
         religion = animist
         size = 25
     }
 
-    artisans = {
-        culture = amazonian
+    farmers = {
+        culture = guarani
         religion = animist
-        size = 50
+        size = 1200
+    }
+
+    clergymen = {
+        culture = tupinamba
+        religion = animist
+        size = 25
     }
 
     soldiers = {
-        culture = amazonian
+        culture = tupinamba
         religion = animist
         size = 15
     }
 
     farmers = {
-        culture = amazonian
+        culture = tupinamba
         religion = animist
-        size = 900
+        size = 600
     }
 }
 #Paraguay Region (20000) #see Paraguay.txt & Argentina.txt for balance of region
@@ -1054,57 +1048,39 @@
 #Igautemi (20000/5000 POPS) #now part of Brazil
 2420 = {
     clergymen = {
-        culture = brazilian
+        culture = argentine
         religion = catholic
-        size = 50
-    }
-
-    artisans = {
-        culture = brazilian
-        religion = catholic
-        size = 100
-    }
-
-    soldiers = {
-        culture = brazilian
-        religion = catholic
-        size = 25
-    }
-
-    farmers = {
-        culture = brazilian
-        religion = catholic
-        size = 1825
-    }
-
-    aristocrats = {
-        culture = guarani
-        religion = animist
-        size = 50
-    }
-
-    clergymen = {
-        culture = guarani
-        religion = animist
-        size = 75
-    }
-
-    artisans = {
-        culture = guarani
-        religion = animist
         size = 150
     }
 
+    artisans = {
+        culture = argentine
+        religion = catholic
+        size = 500
+    }
+
+    soldiers = {
+        culture = argentine
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = argentine
+        religion = catholic
+        size = 4000
+    }
+
     soldiers = {
         culture = guarani
         religion = animist
-        size = 25
+        size = 320
     }
 
     farmers = {
         culture = guarani
         religion = animist
-        size = 2700
+        size = 9600
     }
 }
 #Goias Region (64000)

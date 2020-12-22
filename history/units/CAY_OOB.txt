@@ -1,0 +1,60 @@
+
+
+#========================= L A N D =========================
+
+army = {
+	name = "Army of Xolotas"
+	location = 2367
+	
+	regiment = {
+		name= "Xolotas Brigade"
+		type = infantry
+		home = 2367
+	}
+	regiment = {
+		name= "Xolotas Brigade"
+		type = infantry
+		home = 2367
+	}
+	regiment = {
+		name= "Argentine Volunteers"
+		type = infantry
+		home = 2367
+	}
+	regiment = {
+		name= "Breton Artillery"
+		type = artillery
+		home = 2367
+	}
+	
+}
+
+army = {
+	name = "Tribal Army"
+	location = 2337
+	
+	regiment = {
+		name= "Xolotas Tribal Army"
+		type = irregular
+		home = 2338
+	}
+	regiment = {
+		name= "Xolotas Tribal Army"
+		type = irregular
+		home = 2337
+	}
+	regiment = {
+		name= "Argentine Volunteers"
+		type = irregular
+		home = 2366
+	}
+	
+}
+
+
+#========================= S E A =========================
+
+
+
+#========================= END OF FILE =========================
+

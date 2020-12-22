@@ -45,7 +45,7 @@
 	}
 	
 }
-#Paysandu (93000 POPS)
+#Paysandu (30000 POPS)
 2345 = {
     farmers = {
 		culture = patagonian
@@ -56,43 +56,43 @@
 	farmers = {
 		culture = argentine
 		religion = catholic
-		size = 71079
+		size = 23079
 	}
 	
 	soldiers = {
 		culture = argentine
 		religion = catholic
-		size = 3198
+		size = 1198
 	}
 	
 	artisans = {
 		culture = argentine
 		religion = catholic
-		size = 11550
+		size = 3550
 	}
 	
 	aristocrats = {
 		culture = argentine
 		religion = catholic
-		size = 1599
+		size = 599
 	}
 	
 	clergymen = {
 		culture = argentine
 		religion = catholic
-		size = 1776
+		size = 676
 	}
 	
 	bureaucrats = {
 		culture = argentine
 		religion = catholic
-		size = 533
+		size = 233
 	}
 	
 	officers = {
 		culture = argentine
 		religion = catholic
-		size = 177
+		size = 67
 	}
 
 }
