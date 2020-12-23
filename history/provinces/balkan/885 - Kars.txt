@@ -1,5 +1,5 @@
-owner = ANA
-controller = ANA
+owner = ARM
+controller = ARM
 add_core = ANA
 add_core = ARM
 add_core = KDS

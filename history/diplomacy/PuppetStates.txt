@@ -102,14 +102,6 @@ vassal = {
     end_date = 1936.1.1
 }
 
-#Russia-Finland
-vassal = {
-    first = RUS
-    second = FIN
-    start_date = 1836.1.1
-    end_date = 1863.1.1
-}
-
 ##Sokoto - Adamawa Emirate
 #vassal = {
 #    first = SOK
@@ -171,62 +163,6 @@ vassal = {
     second = NOR
     start_date = 1836.1.1
     end_date = 1905.1.1
-}
-
-#Russia - Transcaucasia Namestnik
-substate = {
-    first = RUS
-    second = TCA
-    start_date = 1836.1.1
-    end_date = 1881.1.1
-}
-
-#Russia - Baltic Governorate
-substate = {
-    first = RUS
-    second = UBD
-    start_date = 1836.1.1
-    end_date = 1881.1.1
-}
-
-#Russia - Abkhazia
-vassal = {
-    first = RUS
-    second = ABK
-    start_date = 1836.1.1
-    end_date = 1865.1.1
-}
-
-#Ottoman Empire-Wallachia
-vassal = {
-    first = TUR
-    second = WAL
-    start_date = 1836.1.1
-    end_date = 1859.1.24    # Reunification of Wallachia and Moldavia
-}
-
-# Ottoman Empire-Moldavia
-vassal = {
-    first = TUR
-    second = MOL
-    start_date = 1836.1.1
-    end_date = 1859.1.24    # Reunification of Wallachia and Moldavia
-}
-
-# Ottoman Empire-Tunisia
-vassal = {
-    first = TUR
-    second = TUN
-    start_date = 1836.1.1
-    end_date = 1881.1.24    # French annexation due to bankruptcy
-}
-
-# Ottoman Empire-Egypt
-vassal = {
-    first = TUR
-    second = EGY
-    start_date = 1836.1.1
-    end_date = 1840.7.1    # the Oriental Crisis
 }
 
 # Egypt-Hedjaz
@@ -543,48 +479,56 @@ vassal = {
 #       GREECE        #
 #######################
 
+# Greece - Anatolia
 vassal = {
     first = GRE
     second = ANA
     start_date = 1836.1.1
     end_date = 1876.1.1
 }
+# Greece - Athens
 vassal = {
     first = GRE
     second = ATH
     start_date = 1836.1.1
     end_date = 1876.1.1
 }
+# Greece - Epirus
 vassal = {
     first = GRE
     second = EPR
     start_date = 1836.1.1
     end_date = 1876.1.1
 }
+# Greece - Bulgaria
 vassal = {
     first = GRE
     second = BUL
     start_date = 1836.1.1
     end_date = 1876.1.1
 }
+# Greece - Albania
 vassal = {
     first = GRE
     second = ALB
     start_date = 1836.1.1
     end_date = 1876.1.1
 }
+# Greece - Macedonia
 vassal = {
     first = GRE
     second = MCD
     start_date = 1836.1.1
     end_date = 1876.1.1
 }
+# Greece - Crete
 vassal = {
     first = GRE
     second = CRE
     start_date = 1836.1.1
     end_date = 1876.1.1
 }
+# Greece - Cyprus
 vassal = {
     first = GRE
     second = CYP
@@ -594,24 +538,28 @@ vassal = {
 #######################
 #       IBERIA        #
 #######################
+# Leon - Portugal
 vassal = {
     first = LEO
     second = POR
     start_date = 1836.1.1
     end_date = 1876.1.1
 }
+# Al-Andalus - Granada
 vassal = {
     first = ALA
     second = GRA
     start_date = 1836.1.1
     end_date = 1876.1.1
 }
+# Al-Andalus - Valencia
 vassal = {
     first = ALA
     second = VAL
     start_date = 1836.1.1
     end_date = 1876.1.1
 }
+# Al-Andalus - Toledo
 vassal = {
     first = ALA
     second = TOL
