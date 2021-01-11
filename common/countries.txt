@@ -388,6 +388,10 @@ RUT        = "countries/Ruthenia.txt"
 SIE        = "countries/Siebenburgen.txt"
 UKR        = "countries/Ukraine.txt"
 CZH        = "countries/Czechoslovakia.txt"
+RYA        = "countries/Ryazan.txt"
+OMS        = "countries/Omsk.txt"
+NOV        = "countries/Novgorod.txt"
+VLD        = "countries/Vladimir.txt"
 
 # Balkans
 ALB        ="countries/Albania.txt"

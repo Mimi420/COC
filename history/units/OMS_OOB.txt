@@ -1,0 +1,51 @@
+
+
+#========================= L A N D =========================
+
+army = {
+name = "Omsk National Army"
+location = 1064
+regiment = {
+name = "1st Omsk Division"
+type = infantry
+home = 1064
+}
+regiment = {
+name = "1st Artiliary Division"
+type = artillery
+home = 1064
+}
+regiment = {
+name = "2nd Artiliary Division"
+type = artillery
+home = 1064
+}
+regiment = {
+name = "3rd Artiliary Division"
+type = artillery
+home = 1064
+}
+regiment = {
+name = "2nd Omsk Division"
+type = infantry
+home = 1064
+}
+regiment = {
+name = "3rd Omsk Division"
+type = infantry
+home = 1064
+}
+regiment = {
+name = "4th Omsk Division"
+type = infantry
+home = 1064
+}
+}
+
+
+#========================= S E A =========================
+
+
+
+#========================= END OF FILE =========================
+

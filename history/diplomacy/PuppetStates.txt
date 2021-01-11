@@ -535,6 +535,13 @@ vassal = {
     start_date = 1836.1.1
     end_date = 1876.1.1
 }
+# Greece - Wallachia
+vassal = {
+    first = GRE
+    second = WAL
+    start_date = 1836.1.1
+    end_date = 1876.1.1
+}
 #######################
 #       IBERIA        #
 #######################
@@ -566,3 +573,6 @@ vassal = {
     start_date = 1836.1.1
     end_date = 1876.1.1
 }
+#######################
+#       RUSSIA        #
+#######################

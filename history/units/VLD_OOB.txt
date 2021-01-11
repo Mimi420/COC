@@ -1,0 +1,87 @@
+
+
+#========================= L A N D =========================
+
+army = {
+name = "The Green Army"
+location = 1003
+regiment = {
+name = "1st Russian Brigade"
+type = infantry
+home = 1003
+}
+regiment = {
+name = "4th Russian Brigade"
+type = artillery
+home = 1003
+}
+regiment = {
+name = "5th Russian Brigade"
+type = artillery
+home = 1003
+}
+regiment = {
+name = "6th Russian Brigade"
+type = artillery
+home = 1003
+}
+regiment = {
+name = "7th Russian Brigade"
+type = hussar
+home = 1003
+}
+regiment = {
+name = "2nd Russian Brigade"
+type = infantry
+home = 1003
+}
+regiment = {
+name = "3rd Russian Brigade"
+type = infantry
+home = 1003
+}
+}
+
+
+#========================= S E A =========================
+
+navy = {
+name = "Navy of Novgorod"
+location = 996
+ship = {
+name = "Clipper 1"
+type = clipper_transport
+}
+ship = {
+name = "Clipper 2"
+type = clipper_transport
+}
+ship = {
+name = "Clipper 3"
+type = clipper_transport
+}
+ship = {
+name = "Frigate 1"
+type = frigate
+}
+ship = {
+name = "Frigate 2"
+type = frigate
+}
+ship = {
+name = "Frigate 3"
+type = frigate
+}
+ship = {
+name = "Frigate 4"
+type = frigate
+}
+ship = {
+name = "Manowar 1"
+type = manowar
+}
+}
+
+
+#========================= END OF FILE =========================
+
