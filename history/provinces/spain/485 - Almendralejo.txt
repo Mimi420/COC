@@ -1,5 +1,6 @@
-owner = ALA
-controller = ALA
+owner = LEO
+controller = LEO
+add_core = LEO
 add_core = ALA
 trade_goods = wool
 life_rating = 35

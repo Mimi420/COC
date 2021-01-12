@@ -545,31 +545,24 @@ vassal = {
 #######################
 #       IBERIA        #
 #######################
-# Leon - Portugal
+# Morocco - Granada
 vassal = {
-    first = LEO
-    second = POR
-    start_date = 1836.1.1
-    end_date = 1876.1.1
-}
-# Al-Andalus - Granada
-vassal = {
-    first = ALA
+    first = MOR
     second = GRA
     start_date = 1836.1.1
     end_date = 1876.1.1
 }
-# Al-Andalus - Valencia
+# Morocco - Valencia
 vassal = {
-    first = ALA
+    first = MOR
     second = VAL
     start_date = 1836.1.1
     end_date = 1876.1.1
 }
-# Al-Andalus - Toledo
+# Morocco - Al-Andalus
 vassal = {
-    first = ALA
-    second = TOL
+    first = MOR
+    second = ALA
     start_date = 1836.1.1
     end_date = 1876.1.1
 }
