@@ -1,5 +1,6 @@
-owner = ENG
-controller = ENG
+owner = QUE
+controller = QUE
+add_core = QUE
 add_core = MTC
 add_core = RPL
 trade_goods = grain

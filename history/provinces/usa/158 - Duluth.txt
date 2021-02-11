@@ -1,7 +1,6 @@
-owner = USA
-controller = USA
-add_core = USA
-add_core = CAN
+owner = SIU
+controller = SIU
+add_core = SIU
 trade_goods = fish
 life_rating = 35
 colonial = 2

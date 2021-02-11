@@ -97,6 +97,9 @@ UIL        = "countries/Illinois.txt"
 UNB        = "countries/Nebraska.txt"
 UNM        = "countries/New Mexico.txt"
 UOR        = "countries/Oregon.txt"
+NVI        = "countries/Novo Italia.txt"
+SIU        = "countries/Sioux.txt"
+IQU        = "countries/Iroquois.txt"
 
 #Europe
 ALS        = "countries/Elsass.txt"

@@ -1,6 +1,6 @@
-owner = USA
-controller = USA
-add_core = USA
+owner = NVI
+controller = NVI
+add_core = NVI
 trade_goods = coal
 life_rating = 35
 party_loyalty = {

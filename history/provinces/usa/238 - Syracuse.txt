@@ -1,6 +1,6 @@
-owner = USA
-controller = USA
-add_core = USA
+owner = IQU
+controller = IQU
+add_core = IQU
 trade_goods = grain
 life_rating = 35
 

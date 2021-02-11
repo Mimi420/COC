@@ -1,5 +1,6 @@
-owner = ENG
-controller = ENG
+owner = NEW
+controller = NEW
+add_core = NEW
 add_core = MTC
 add_core = RPL
 trade_goods = fish
