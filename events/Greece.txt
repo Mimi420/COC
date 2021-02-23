@@ -1,0 +1,36 @@
+#################################################################
+#                                                                #
+#                      Greek Events                              #
+#                                                                #
+#################################################################
+
+country_event = {
+    id = 150000
+    title = "EVTNAME150000" #The Great Anatolian War
+    desc = "EVTDESC150000"
+    picture = "pioneer_wagons"
+
+    trigger = {
+		year = 1840
+        tag = GRE
+        ANA = {
+            exists = yes
+            vassal_of = GRE
+        }
+    }
+
+    is_triggered_only = yes
+
+    option = {
+        name = "EVT150000PTA"
+        set_global_flag = great_anatolian_war
+        release_vassal = ANA
+		prestige = -60
+        war = {
+            target = ANA
+            attacker_goal = { casus_belli = conquest_any }
+            call_ally = no
+        }
+        }
+    }
+}

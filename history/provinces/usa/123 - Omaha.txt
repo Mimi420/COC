@@ -1,5 +1,3 @@
-owner = SIU
-controller = SIU
 add_core = SIU
 trade_goods = fruit
 life_rating = 35

@@ -39,7 +39,7 @@ vassal = {
 }
 
 #Ottoman - Baban
-vassal = {
+#vassal = {
     first = TUR
     second = BNB
     start_date = 1836.1.1
@@ -47,7 +47,7 @@ vassal = {
 }
 
 #Ottoman - Bitlis
-vassal = {
+#vassal = {
     first = TUR
     second = BTL
     start_date = 1836.1.1
@@ -55,7 +55,7 @@ vassal = {
 }
 
 #Ottoman - Bahdinan
-vassal = {
+#vassal = {
     first = TUR
     second = BDN
     start_date = 1836.1.1
@@ -63,7 +63,7 @@ vassal = {
 }
 
 #Ottoman - Bhotan
-vassal = {
+#vassal = {
     first = TUR
     second = BHT
     start_date = 1836.1.1

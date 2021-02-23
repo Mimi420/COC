@@ -1,5 +1,6 @@
-owner = KAZ
-controller = KAZ
+owner = TAR
+controller = TAR
+add_core = TAR
 add_core = KAZ
 trade_goods = coal
 life_rating = 30
