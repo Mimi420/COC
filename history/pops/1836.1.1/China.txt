@@ -785,7 +785,7 @@
     }
 
     artisans = {
-        culture = beifaren
+        culture = manchu
         religion = mahayana
         size = 5600
     }
@@ -797,7 +797,7 @@
     }
 
     farmers = {
-        culture = beifaren
+        culture = manchu
         religion = mahayana
         size = 115100
     }
@@ -8492,7 +8492,7 @@
     }
 
     labourers = {
-        culture = beifaren
+        culture = manchu
         religion = mahayana
         size = 20000
     }
@@ -8537,7 +8537,7 @@
     }
 
     clergymen = {
-        culture = beifaren
+        culture = manchu
         religion = mahayana
         size = 450
     }
@@ -8555,7 +8555,7 @@
     }
 
     farmers = {
-        culture = beifaren
+        culture = manchu
         religion = mahayana
         size = 60000
     }

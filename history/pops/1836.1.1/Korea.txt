@@ -95,15 +95,15 @@
     }
 
     farmers = {
-        culture = korean
+        culture = manchu
         religion = mahayana
-        size = 223625
+        size = 203625
     }
 
     slaves = {
         culture = korean
         religion = mahayana
-        size = 25000
+        size = 45000
     }
 }
 #Hamgyong Region (920000)
@@ -163,13 +163,25 @@
     aristocrats = {
         culture = korean
         religion = mahayana
-        size = 3500
+        size = 500
+    }
+
+    aristocrats = {
+        culture = manchu
+        religion = mahayana
+        size = 3000
     }
 
     clergymen = {
         culture = korean
         religion = mahayana
-        size = 1800
+        size = 800
+    }
+
+    clergymen = {
+        culture = manchu
+        religion = mahayana
+        size = 1000
     }
 
     artisans = {
@@ -185,15 +197,15 @@
     }
 
     farmers = {
-        culture = korean
+        culture = manchu
         religion = mahayana
-        size = 152600
+        size = 122600
     }
 
     slaves = {
         culture = korean
         religion = mahayana
-        size = 17000
+        size = 47000
     }
 }
 #Kimchaek (260000/65000 POPS)
@@ -201,7 +213,13 @@
     aristocrats = {
         culture = korean
         religion = mahayana
-        size = 1150
+        size = 150
+    }
+
+    aristocrats = {
+        culture = manchu
+        religion = mahayana
+        size = 1000
     }
 
     clergymen = {
@@ -223,15 +241,15 @@
     }
 
     farmers = {
-        culture = korean
+        culture = manchu
         religion = mahayana
-        size = 154625
+        size = 114625
     }
 
     slaves = {
         culture = korean
         religion = mahayana
-        size = 12000
+        size = 52000
     }
 }
 #Kyonggi Region (2620000)
