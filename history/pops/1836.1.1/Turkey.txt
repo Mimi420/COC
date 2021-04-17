@@ -155,19 +155,19 @@
     }
 
     clergymen = {
-        culture = thracian
+        culture = rhoman
         religion = orthodox
         size = 685
     }
 
     artisans = {
-        culture = thracian
+        culture = rhoman
         religion = orthodox
         size = 2580
     }
 
     soldiers = {
-        culture = thracian
+        culture = rhoman
         religion = orthodox
         size = 1720
     }
@@ -175,11 +175,11 @@
     farmers = {
         culture = thracian
         religion = orthodox
-        size = 79980
+        size = 39980
     }
 	
 	artisans = {
-        culture = rhoman
+        culture = thracian
         religion = orthodox
         size = 612
     }
@@ -187,7 +187,7 @@
 	farmers = {
         culture = rhoman
         religion = orthodox
-        size = 2250
+        size = 42250
     }
 }
 #Gelibolu (80000/20000 POPS)
@@ -211,19 +211,19 @@
     }
 
     clergymen = {
-        culture = thracian
+        culture = rhoman
         religion = orthodox
         size = 560
     }
 
     artisans = {
-        culture = thracian
+        culture = rhoman
         religion = orthodox
         size = 2130
     }
 	
 	artisans = {
-        culture = rhoman
+        culture = thracian
         religion = orthodox
         size = 300
     }
@@ -231,11 +231,11 @@
 	farmers = {
         culture = rhoman
         religion = orthodox
-        size = 3100
+        size = 33100
     }
 
     soldiers = {
-        culture = thracian
+        culture = rhoman
         religion = orthodox
         size = 1420
     }
@@ -243,7 +243,7 @@
     farmers = {
         culture = thracian
         religion = orthodox
-        size = 66030
+        size = 36030
     }
 }
 #Istanbul Region (1268000)
@@ -269,7 +269,7 @@
     }
 
     clergymen = {
-        culture = thracian
+        culture = rhoman
         religion = orthodox
         size = 4000
     }
@@ -277,11 +277,11 @@
     artisans = {
         culture = thracian
         religion = orthodox
-        size = 39750
+        size = 2750
     }
 
     soldiers = {
-        culture = thracian
+        culture = rhoman
         religion = orthodox
         size = 10000
     }
@@ -289,7 +289,7 @@
     farmers = {
         culture = thracian
         religion = orthodox
-        size = 202300
+        size = 62300
     }
 	
 	aristocrats = {
@@ -301,11 +301,11 @@
     artisans = {
         culture = rhoman
         religion = orthodox
-        size = 41000
+        size = 68000
     }
 	
 	soldiers = {
-        culture = rhoman
+        culture = thracian
         religion = orthodox
         size = 2000
     }
@@ -313,11 +313,11 @@
     farmers = {
         culture = rhoman
         religion = orthodox
-        size = 95500
+        size = 195500
     }
 	
 	clergymen = {
-        culture = rhoman
+        culture = thracian
         religion = orthodox
         size = 550
     }
@@ -344,15 +344,15 @@
     }
 
     clergymen = {
-        culture = ionian
+        culture = rhoman
         religion = orthodox
         size = 425
     }
 
     artisans = {
-        culture = ionian
+        culture = rhoman
         religion = orthodox
-        size = 1600
+        size = 600
     }
 
     soldiers = {
@@ -364,19 +364,19 @@
     farmers = {
         culture = ionian
         religion = orthodox
-        size = 49300
+        size = 29300
     }
 	
 	artisans = {
         culture = rhoman
         religion = orthodox
-        size = 218
+        size = 1218
     }
 	
 	farmers = {
         culture = rhoman
         religion = orthodox
-        size = 642
+        size = 20642
     }
 
 }
