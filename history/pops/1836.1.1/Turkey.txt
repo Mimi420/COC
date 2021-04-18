@@ -3,135 +3,57 @@
 #Edirne (172000/43000 POPS)
 828 = {
     aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 900
+        culture = thracian
+        religion = orthodox
+        size = 550
     }
 
     bureaucrats = {
-        culture = turkish
-        religion = sunni
-        size = 225
+        culture = thracian
+        religion = orthodox
+        size = 275
+    }
+
+    officers = {
+        culture = thracian
+        religion = orthodox
+        size = 75
     }
 
     clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 175
+        culture = thracian
+        religion = orthodox
+        size = 750
     }
 
     artisans = {
-        culture = turkish
-        religion = sunni
-        size = 1000
+        culture = thracian
+        religion = orthodox
+        size = 2500
     }
 
     soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 1100
+        culture = thracian
+        religion = orthodox
+        size = 2200
     }
 
     farmers = {
-        culture = turkish
-        religion = sunni
-        size = 17825
-    }
-
-    clergymen = {
-        culture = greek
+        culture = thracian
         religion = orthodox
-        size = 175
+        size = 30000
     }
-
-    artisans = {
-        culture = greek
+	
+	artisans = {
+        culture = rhoman
         religion = orthodox
-        size = 1000
+        size = 3000
     }
-
-    soldiers = {
-        culture = greek
+	
+	farmers = {
+        culture = rhoman
         religion = orthodox
-        size = 500
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 11525
-    }
-
-    clergymen = {
-        culture = bulgarian
-        religion = orthodox
-        size = 120
-    }
-
-    artisans = {
-        culture = bulgarian
-        religion = orthodox
-        size = 500
-    }
-
-    soldiers = {
-        culture = bulgarian
-        religion = orthodox
-        size = 500
-    }
-
-    farmers = {
-        culture = bulgarian
-        religion = orthodox
-        size = 9950
-    }
-
-    clergymen = {
-        culture = armenian
-        religion = coptic
-        size = 200
-    }
-
-    artisans = {
-        culture = armenian
-        religion = coptic
-        size = 400
-    }
-
-    soldiers = {
-        culture = armenian
-        religion = coptic
-        size = 400
-    }
-
-    farmers = {
-        culture = armenian
-        religion = coptic
-        size = 500
-    }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 200
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 600
-    }
-
-    soldiers = {
-        culture = sephardic
-        religion = jewish
-        size = 200
-    }
-
-    farmers = {
-        culture = sephardic
-        religion = jewish
-        size = 1000
+        size = 30000
     }
 }
 #Kirklareli (112000/28000 POPS)
@@ -963,168 +885,106 @@
 #Izmir (340000/85000 POPS)
 869 = {
     aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 575
+        culture = ionian
+        religion = orthodox
+        size = 630
     }
 
     bureaucrats = {
-        culture = turkish
-        religion = sunni
-        size = 425
-    }
-
-    officers = {
-        culture = turkish
-        religion = sunni
-        size = 100
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 550
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 10000
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 3000
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
+        culture = ionian
+        religion = orthodox
         size = 500
     }
 
-    farmers = {
-        culture = turkish
-        religion = sunni
-        size = 40350
-    }
-
-    aristocrats = {
-        culture = greek
-        religion = orthodox
-        size = 120
-    }
-
     officers = {
-        culture = greek
+        culture = ionian
         religion = orthodox
-        size = 120
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 200
+        size = 125
     }
 
     clergymen = {
-        culture = greek
+        culture = ionian
         religion = orthodox
-        size = 250
+        size = 850
     }
 
     artisans = {
-        culture = greek
+        culture = ionian
         religion = orthodox
-        size = 10000
+        size = 3937
     }
 
-    artisans = {
-        culture = greek
+    soldiers = {
+        culture = ionian
         religion = orthodox
-        size = 10000
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 400
+        size = 2953
     }
 
     farmers = {
-        culture = greek
+        culture = ionian
         religion = orthodox
-        size = 4750
+        size = 71662
     }
 
     aristocrats = {
-        culture = armenian
-        religion = coptic
-        size = 120
-    }
-
-    officers = {
-        culture = armenian
-        religion = coptic
-        size = 120
-    }
-
-    soldiers = {
-        culture = armenian
-        religion = coptic
-        size = 150
+        culture = south_greek
+        religion = orthodox
+        size = 230
     }
 
     clergymen = {
-        culture = armenian
-        religion = coptic
-        size = 120
+        culture = south_greek
+        religion = orthodox
+        size = 195
     }
 
     artisans = {
-        culture = armenian
-        religion = coptic
-        size = 400
+        culture = south_greek
+        religion = orthodox
+        size = 1035
+    }
+
+    soldiers = {
+        culture = south_greek
+        religion = orthodox
+        size = 776
     }
 
     farmers = {
-        culture = armenian
-        religion = coptic
-        size = 580
+        culture = south_greek
+        religion = orthodox
+        size = 26162
     }
 
-    ######Jews
     aristocrats = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = sephardic
-        religion = jewish
-        size = 200
+        culture = rhoman
+        religion = orthodox
+        size = 140
     }
 
     clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 100
+        culture = rhoman
+        religion = orthodox
+        size = 112
     }
 
     artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 1500
+        culture = rhoman
+        religion = orthodox
+        size = 594
+    }
+
+    soldiers = {
+        culture = rhoman
+        religion = orthodox
+        size = 446
     }
 
     farmers = {
-        culture = sephardic
-        religion = jewish
-        size = 1100
+        culture = rhoman
+        religion = orthodox
+        size = 15925
     }
-    ########
 }
 #Manisa (244000/61000 POPS)
 870 = {
