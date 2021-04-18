@@ -41,7 +41,13 @@
     farmers = {
         culture = macedonian_greek
         religion = orthodox
-        size = 30500
+        size = 23500
+    }
+	
+	farmers = {
+        culture = serb
+        religion = orthodox
+        size = 7000
     }
 	
 	artisans = {
@@ -99,7 +105,13 @@
     farmers = {
         culture = macedonian_greek
         religion = orthodox
-        size = 43000
+        size = 32000
+    }
+	
+	farmers = {
+        culture = serb
+        religion = orthodox
+        size = 11000
     }
 	
 	artisans = {
