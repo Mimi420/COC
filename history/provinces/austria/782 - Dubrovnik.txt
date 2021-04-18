@@ -1,6 +1,6 @@
-owner = CRO
-controller = CRO
-add_core = CRO
+owner = SER
+controller = SER
+add_core = SER
 add_core = DLM
 add_core = VEN
 trade_goods = fish
