@@ -1032,93 +1032,75 @@
 #Dubrovnik (52000/13000 POPS)
 782 = {
     aristocrats = {
-        culture = croat
-        religion = catholic
-        size = 100
+        culture = illyrian
+        religion = orthodox
+        size = 165
+    }
+
+    bureaucrats = {
+        culture = illyrian
+        religion = orthodox
+        size = 182
+    }
+
+    officers = {
+        culture = illyrian
+        religion = orthodox
+        size = 36
     }
 
     clergymen = {
-        culture = croat
-        religion = catholic
-        size = 100
+        culture = illyrian
+        religion = orthodox
+        size = 236
     }
 
     artisans = {
-        culture = croat
-        religion = catholic
-        size = 500
+        culture = illyrian
+        religion = orthodox
+        size = 1184
     }
 
     soldiers = {
-        culture = croat
-        religion = catholic
-        size = 100
+        culture = illyrian
+        religion = orthodox
+        size = 592
     }
 
     farmers = {
-        culture = croat
-        religion = catholic
-        size = 9125
-    }
-
-    farmers = {
-        culture = croat
-        religion = sunni
-        size = 100
+        culture = illyrian
+        religion = orthodox
+        size = 21323
     }
 
     aristocrats = {
-        culture = north_italian
-        religion = catholic
-        size = 100
+        culture = north_greek
+        religion = orthodox
+        size = 89
     }
 
     clergymen = {
-        culture = north_italian
-        religion = catholic
-        size = 100
+        culture = north_greek
+        religion = orthodox
+        size = 108
     }
 
     artisans = {
-        culture = north_italian
-        religion = catholic
-        size = 500
+        culture = north_greek
+        religion = orthodox
+        size = 574
     }
 
     soldiers = {
-        culture = north_italian
-        religion = catholic
-        size = 100
+        culture = north_greek
+        religion = orthodox
+        size = 287
     }
 
     farmers = {
-        culture = north_italian
-        religion = catholic
-        size = 400
-    }
-
-    clergymen = {
-        culture = serb
+        culture = north_greek
         religion = orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = serb
-        religion = orthodox
-        size = 100
-    }
-
-    soldiers = {
-        culture = serb
-        religion = orthodox
-        size = 100
-    }
-
-    serfs = {
-        culture = serb
-        religion = orthodox
-        size = 1825
+        size = 11481
     }
 
 }
