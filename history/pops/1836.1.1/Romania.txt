@@ -2007,280 +2007,452 @@
 #Bucharest (260000/65000 POPS)
 664 = {
     aristocrats = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 4100
+        size = 315
     }
 
     bureaucrats = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 350
+        size = 346
     }
 
     officers = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 300
+        size = 69
     }
 
     clergymen = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 600
+        size = 608
     }
 
     artisans = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 10000
+        size = 3380
     }
 
     soldiers = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 1100
+        size = 1408
     }
 
     farmers = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 81650
+        size = 36118
     }
 
-    slaves = {
-        culture = gypsy
-        religion = orthodox
-        size = 6967
-    }
-
-    ######Jews
     aristocrats = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = sephardic
-        religion = jewish
-        size = 100
+        culture = rhoman
+        religion = orthodox
+        size = 169
     }
 
     clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 100
+        culture = rhoman
+        religion = orthodox
+        size = 206
     }
 
     artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 1100
+        culture = rhoman
+        religion = orthodox
+        size = 1310
+    }
+
+    soldiers = {
+        culture = rhoman
+        religion = orthodox
+        size = 546
     }
 
     farmers = {
-        culture = sephardic
-        religion = jewish
-        size = 1000
+        culture = rhoman
+        religion = orthodox
+        size = 25602
     }
-    ########
+
 }
 #Tirgu Jiu (172000/43000 POPS)
 665 = {
     aristocrats = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 750
+        size = 269
+    }
+
+    bureaucrats = {
+        culture = dacian
+        religion = orthodox
+        size = 321
+    }
+
+    officers = {
+        culture = dacian
+        religion = orthodox
+        size = 64
     }
 
     clergymen = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 400
+        size = 520
     }
 
     artisans = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 1950
+        size = 2890
     }
 
     soldiers = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 1100
+        size = 1204
     }
 
     farmers = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 58500
+        size = 34302
     }
 
-    slaves = {
-        culture = gypsy
+    aristocrats = {
+        culture = rhoman
         religion = orthodox
-        size = 2000
+        size = 179
     }
+
+    clergymen = {
+        culture = rhoman
+        religion = orthodox
+        size = 218
+    }
+
+    artisans = {
+        culture = rhoman
+        religion = orthodox
+        size = 1387
+    }
+
+    soldiers = {
+        culture = rhoman
+        religion = orthodox
+        size = 578
+    }
+
+    farmers = {
+        culture = rhoman
+        religion = orthodox
+        size = 22868
+    }
+
 }
 #Craiova (196000/49000 POPS)
 666 = {
     aristocrats = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 900
+        size = 247
+    }
+
+    bureaucrats = {
+        culture = dacian
+        religion = orthodox
+        size = 256
+    }
+
+    officers = {
+        culture = dacian
+        religion = orthodox
+        size = 51
     }
 
     clergymen = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 450
+        size = 477
     }
 
     artisans = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 2250
+        size = 2652
     }
 
     soldiers = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 1100
+        size = 1105
     }
 
     farmers = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 55950
+        size = 28472
     }
 
-    slaves = {
-        culture = gypsy
+    aristocrats = {
+        culture = rhoman
         religion = orthodox
-        size = 5000
+        size = 111
     }
+
+    clergymen = {
+        culture = rhoman
+        religion = orthodox
+        size = 135
+    }
+
+    artisans = {
+        culture = rhoman
+        religion = orthodox
+        size = 857
+    }
+
+    soldiers = {
+        culture = rhoman
+        religion = orthodox
+        size = 357
+    }
+
+    farmers = {
+        culture = rhoman
+        religion = orthodox
+        size = 17139
+    }
+
 }
 #Tirgoviste (188000/47000 POPS)
 667 = {
     aristocrats = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 750
+        size = 366
+    }
+
+    bureaucrats = {
+        culture = dacian
+        religion = orthodox
+        size = 689
+    }
+
+    officers = {
+        culture = dacian
+        religion = orthodox
+        size = 137
     }
 
     clergymen = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 425
+        size = 707
     }
 
     artisans = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 2150
+        size = 3932
     }
 
     soldiers = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 1100
+        size = 1638
     }
 
     farmers = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 52025
+        size = 46660
     }
 
-    slaves = {
-        culture = gypsy
+    aristocrats = {
+        culture = rhoman
         religion = orthodox
-        size = 4000
+        size = 598
     }
+
+    clergymen = {
+        culture = rhoman
+        religion = orthodox
+        size = 727
+    }
+
+    artisans = {
+        culture = rhoman
+        religion = orthodox
+        size = 4619
+    }
+
+    soldiers = {
+        culture = rhoman
+        religion = orthodox
+        size = 1924
+    }
+
+    farmers = {
+        culture = rhoman
+        religion = orthodox
+        size = 76130
+    }
+
 }
 #Braila (272000/68000 POPS)
 668 = {
     aristocrats = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 1200
+        size = 296
+    }
+
+    bureaucrats = {
+        culture = dacian
+        religion = orthodox
+        size = 365
+    }
+
+    officers = {
+        culture = dacian
+        religion = orthodox
+        size = 73
     }
 
     clergymen = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 625
+        size = 571
     }
 
     artisans = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 3100
+        size = 3175
     }
 
     soldiers = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 1100
+        size = 1323
     }
 
     farmers = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 62075
+        size = 37682
     }
 
-    slaves = {
-        culture = gypsy
+    aristocrats = {
+        culture = rhoman
         religion = orthodox
-        size = 6000
+        size = 214
     }
+
+    clergymen = {
+        culture = rhoman
+        religion = orthodox
+        size = 260
+    }
+
+    artisans = {
+        culture = rhoman
+        religion = orthodox
+        size = 1655
+    }
+
+    soldiers = {
+        culture = rhoman
+        religion = orthodox
+        size = 689
+    }
+
+    farmers = {
+        culture = rhoman
+        religion = orthodox
+        size = 27287
+    }
+
 }
 #Calarasi (140000/35000 POPS)
 669 = {
     aristocrats = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 650
+        size = 310
+    }
+
+    bureaucrats = {
+        culture = dacian
+        religion = orthodox
+        size = 418
+    }
+
+    officers = {
+        culture = dacian
+        religion = orthodox
+        size = 83
     }
 
     clergymen = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 325
+        size = 598
     }
 
     artisans = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 1600
+        size = 3323
     }
 
     soldiers = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 1100
+        size = 1384
     }
 
     farmers = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 50425
+        size = 39434
     }
 
-    slaves = {
-        culture = gypsy
+    aristocrats = {
+        culture = rhoman
         religion = orthodox
-        size = 3000
+        size = 275
     }
+
+    clergymen = {
+        culture = rhoman
+        religion = orthodox
+        size = 333
+    }
+
+    artisans = {
+        culture = rhoman
+        religion = orthodox
+        size = 2121
+    }
+
+    soldiers = {
+        culture = rhoman
+        religion = orthodox
+        size = 884
+    }
+
+    farmers = {
+        culture = rhoman
+        religion = orthodox
+        size = 34969
+    }
+
 }
 #Moldavia Region (1356000)
 #under the rule of Moldavia in 1836
@@ -2502,253 +2674,151 @@
 #under the rule of the Ottoman Empire in 1836
 #Constanta (128000/32000 POPS)
 674 = {
-
     aristocrats = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 100
-    }
-
-    officers = {
-        culture = romanian
-        religion = orthodox
-        size = 100
-    }
-
-    soldiers = {
-        culture = romanian
-        religion = orthodox
-        size = 100
-    }
-
-    clergymen = {
-        culture = romanian
-        religion = orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = romanian
-        religion = orthodox
-        size = 550
-    }
-
-    farmers = {
-        culture = romanian
-        religion = orthodox
-        size = 18150
-    }
-
-    farmers = {
-        culture = tatar
-        religion = sunni
-        size = 6000
-    }
-
-    slaves = {
-        culture = tatar
-        religion = orthodox
-        size = 2000
-    }
-
-    aristocrats = {
-        culture = bulgarian
-        religion = orthodox
-        size = 100
-    }
-
-    officers = {
-        culture = bulgarian
-        religion = orthodox
-        size = 100
-    }
-
-    soldiers = {
-        culture = bulgarian
-        religion = orthodox
-        size = 100
-    }
-
-    clergymen = {
-        culture = bulgarian
-        religion = orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = bulgarian
-        religion = orthodox
-        size = 550
-    }
-
-    farmers = {
-        culture = bulgarian
-        religion = orthodox
-        size = 12050
-    }
-
-    aristocrats = {
-        culture = greek
-        religion = orthodox
-        size = 100
-    }
-
-    officers = {
-        culture = greek
-        religion = orthodox
-        size = 100
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 100
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 200
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 400
-    }
-
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 650
+        size = 247
     }
 
     bureaucrats = {
-        culture = turkish
-        religion = sunni
-        size = 75
+        culture = dacian
+        religion = orthodox
+        size = 315
     }
 
     officers = {
-        culture = turkish
-        religion = sunni
-        size = 100
+        culture = dacian
+        religion = orthodox
+        size = 63
     }
 
     clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 100
+        culture = dacian
+        religion = orthodox
+        size = 477
     }
 
     artisans = {
-        culture = turkish
-        religion = sunni
-        size = 1100
+        culture = dacian
+        religion = orthodox
+        size = 5300
     }
 
     soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 1100
+        culture = dacian
+        religion = orthodox
+        size = 1104
     }
 
     farmers = {
-        culture = turkish
-        religion = sunni
-        size = 4165
-    }
-}
-#Tulcea (40000/10000 POPS)
-675 = {
-
-    soldiers = {
-        culture = romanian
+        culture = dacian
         religion = orthodox
-        size = 100
-    }
-
-    clergymen = {
-        culture = romanian
-        religion = orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = romanian
-        religion = orthodox
-        size = 250
-    }
-
-    farmers = {
-        culture = romanian
-        religion = orthodox
-        size = 3600
-    }
-
-    slaves = {
-        culture = tatar
-        religion = orthodox
-        size = 1100
+        size = 29328
     }
 
     aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 150
+        culture = rhoman
+        religion = orthodox
+        size = 194
     }
 
     clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 100
+        culture = rhoman
+        religion = orthodox
+        size = 235
     }
 
     artisans = {
-        culture = turkish
-        religion = sunni
-        size = 200
+        culture = rhoman
+        religion = orthodox
+        size = 2998
     }
 
     soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 1100
+        culture = rhoman
+        religion = orthodox
+        size = 624
     }
 
     farmers = {
-        culture = turkish
-        religion = sunni
-        size = 600
+        culture = rhoman
+        religion = orthodox
+        size = 23044
     }
 
-    soldiers = {
-        culture = ukrainian
+}
+#Tulcea (40000/10000 POPS)
+675 = {
+    aristocrats = {
+        culture = dacian
         religion = orthodox
-        size = 100
+        size = 105
+    }
+
+    bureaucrats = {
+        culture = dacian
+        religion = orthodox
+        size = 121
+    }
+
+    officers = {
+        culture = dacian
+        religion = orthodox
+        size = 24
     }
 
     clergymen = {
-        culture = ukrainian
+        culture = dacian
         religion = orthodox
-        size = 100
+        size = 203
     }
 
     artisans = {
-        culture = ukrainian
+        culture = dacian
         religion = orthodox
-        size = 150
+        size = 1129
+    }
+
+    soldiers = {
+        culture = dacian
+        religion = orthodox
+        size = 470
     }
 
     farmers = {
-        culture = ukrainian
+        culture = dacian
         religion = orthodox
-        size = 2825
+        size = 13408
     }
+
+    aristocrats = {
+        culture = rhoman
+        religion = orthodox
+        size = 64
+    }
+
+    clergymen = {
+        culture = rhoman
+        religion = orthodox
+        size = 78
+    }
+
+    artisans = {
+        culture = rhoman
+        religion = orthodox
+        size = 498
+    }
+
+    soldiers = {
+        culture = rhoman
+        religion = orthodox
+        size = 207
+    }
+
+    farmers = {
+        culture = rhoman
+        religion = orthodox
+        size = 8218
+    }
+
 }

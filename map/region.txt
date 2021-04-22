@@ -413,26 +413,28 @@ TUR_809 = { 815 817 808 816 } #Eastern Rumelia
 
 TUR_810 = { 809 810 811 812 813 814 } #Bulgaria
 
-TUR_823 = { 823 829 830 } #Eastern Macedonia
+TUR_823 = { 828 823 829 830 } #Eastern Macedonia
 
-GRE_826 = { 834 842 839 840 841 } #Peloponnese
+GRE_826 = { 839 842 841 } #Peloponnese
 
-TUR_832 = { 832 831 833 825 824 826 } #Thessalia
+GRE_834 = { 834 840 838 835 } #Athens
 
-GRE_837 = { 837 836 835 838 845 827 } #Attica - Central Greece
+TUR_832 = { 832 831 833 836 } #Thessalia
 
-EGY_843 = { 848 843 844 846 847 } #Aegean Islands
+GRE_837 = { 824 837 827 825 826 } #Epirus
+
+EGY_843 = { 845 848 843 844 846 847 } #Aegean Islands
 
 TUR_853 = { 849 853 852 851 850 } #Albania
 
 TUR_855 = { 855 856 857 } #Cyprus
 
-TUR_860 = { 860 828 858 859 } #Thrace
+TUR_860 = { 860 858 859 861 } #Thrace
 
 
 ### Middle East
 
-TUR_863 = { 863 861 862 864 865 867 } #Hudavendigar
+TUR_863 = { 863 862 864 865 867 } #Hudavendigar
 
 TUR_869 = { 869 870 871 872 } #Aydin
 

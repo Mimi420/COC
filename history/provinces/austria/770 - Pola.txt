@@ -1,6 +1,6 @@
-owner = VEN
-controller = VEN
-add_core = VEN
+owner = CRO
+controller = CRO
+add_core = CRO
 add_core = FIU
 add_core = CRO
 trade_goods = grain

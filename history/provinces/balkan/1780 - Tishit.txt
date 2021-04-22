@@ -1,7 +1,7 @@
 owner = ALB
 controller = ALB
 add_core = BUL
-add_core = SER
+add_core = ALB
 add_core = MCD
 add_core = ALB
 trade_goods = fruit
