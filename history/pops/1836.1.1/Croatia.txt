@@ -1,648 +1,1250 @@
-#Friuli-Istria Region (188000) #see Italy.txt for balance of region
-#under the rule of Austria in 1836
-#Pola (188000/47000 POPS) #now part of Croatia
 770 = {
     aristocrats = {
-        culture = north_italian
-        religion = catholic
-        size = 750
-    }
-
-    clergymen = {
-        culture = north_italian
-        religion = catholic
-        size = 200
-    }
-
-    artisans = {
-        culture = north_italian
-        religion = catholic
-        size = 1450
-    }
-
-    soldiers = {
-        culture = north_italian
-        religion = catholic
-        size = 225
-    }
-
-    farmers = {
-        culture = north_italian
-        religion = catholic
-        size = 20875
-    }
-
-    clergymen = {
         culture = croat
-        religion = catholic
-        size = 225
-    }
-
-    artisans = {
-        culture = croat
-        religion = catholic
-        size = 900
-    }
-
-    soldiers = {
-        culture = croat
-        religion = catholic
-        size = 250
-    }
-
-    farmers = {
-        culture = croat
-        religion = catholic
-        size = 20625
-    }
-
-    farmers = {
-        culture = gypsy
-        religion = catholic
-        size = 300
-    }
-}
-#Croatia Region (870000)
-#under the rule of Austria in 1836
-#Zagreb (224000/56000 POPS)
-771 = {
-    aristocrats = {
-        culture = croat
-        religion = catholic
-        size = 450
+        religion = protestant
+        size = 775
     }
 
     bureaucrats = {
         culture = croat
-        religion = catholic
-        size = 250
-    }
-
-    bureaucrats = {
-        culture = south_german
-        religion = catholic
-        size = 500
+        religion = protestant
+        size = 2280
     }
 
     officers = {
         culture = croat
-        religion = catholic
-        size = 100
+        religion = protestant
+        size = 456
     }
 
     clergymen = {
         culture = croat
-        religion = catholic
-        size = 450
+        religion = protestant
+        size = 465
     }
 
     artisans = {
         culture = croat
-        religion = catholic
-        size = 2500
+        religion = protestant
+        size = 5814
     }
 
     soldiers = {
         culture = croat
-        religion = catholic
-        size = 1100
+        religion = protestant
+        size = 1162
     }
 
     farmers = {
         culture = croat
-        religion = catholic
-        size = 43050
-    }
-
-    farmers = {
-        culture = croat
-        religion = sunni
-        size = 300
-    }
-
-    serfs = {
-        culture = gypsy
-        religion = catholic
-        size = 1000
-    }
-
-    serfs = {
-        culture = croat
-        religion = catholic
-        size = 12000
+        religion = protestant
+        size = 30077
     }
 
     aristocrats = {
-        culture = hungarian
-        religion = catholic
-        size = 700
+        culture = south_german
+        religion = protestant
+        size = 957
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = protestant
+        size = 488
+    }
+
+    artisans = {
+        culture = south_german
+        religion = protestant
+        size = 6463
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = protestant
+        size = 1292
+    }
+
+    farmers = {
+        culture = south_german
+        religion = protestant
+        size = 37154
+    }
+
+    aristocrats = {
+        culture = slovene
+        religion = protestant
+        size = 2827
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = protestant
+        size = 1357
+    }
+
+    artisans = {
+        culture = slovene
+        religion = protestant
+        size = 18023
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = protestant
+        size = 3604
+    }
+
+    farmers = {
+        culture = slovene
+        religion = protestant
+        size = 109695
+    }
+
+}
+778 = {
+    aristocrats = {
+        culture = croat
+        religion = protestant
+        size = 121
     }
 
     bureaucrats = {
-        culture = hungarian
-        religion = catholic
-        size = 100
+        culture = croat
+        religion = protestant
+        size = 265
     }
 
     officers = {
-        culture = hungarian
-        religion = catholic
-        size = 150
+        culture = croat
+        religion = protestant
+        size = 53
     }
 
     clergymen = {
-        culture = hungarian
-        religion = catholic
-        size = 100
+        culture = croat
+        religion = protestant
+        size = 97
     }
 
     artisans = {
-        culture = hungarian
-        religion = catholic
-        size = 700
+        culture = croat
+        religion = protestant
+        size = 487
     }
 
     soldiers = {
-        culture = hungarian
-        religion = catholic
-        size = 100
+        culture = croat
+        religion = protestant
+        size = 316
     }
 
     farmers = {
-        culture = hungarian
-        religion = catholic
-        size = 3250
+        culture = croat
+        religion = protestant
+        size = 11092
     }
 
-    bureaucrats = {
-        culture = south_german
-        religion = catholic
-        size = 50
-    }
-
-    clergymen = {
-        culture = south_german
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = south_german
-        religion = catholic
-        size = 300
-    }
-
-    soldiers = {
-        culture = south_german
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = south_german
-        religion = catholic
-        size = 6500
-    }
-
-    ######Jews
     aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
+        culture = south_german
+        religion = protestant
+        size = 47
     }
 
     clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
+        culture = south_german
+        religion = protestant
+        size = 32
     }
 
     artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 800
+        culture = south_german
+        religion = protestant
+        size = 171
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = protestant
+        size = 111
     }
 
     farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 500
+        culture = south_german
+        religion = protestant
+        size = 4340
     }
-    ########
-}
-#Sisak (116000/29000 POPS)
-772 = {
+
     aristocrats = {
-        culture = croat
-        religion = catholic
-        size = 350
+        culture = slovene
+        religion = protestant
+        size = 360
     }
 
     clergymen = {
-        culture = croat
-        religion = catholic
-        size = 175
+        culture = slovene
+        religion = protestant
+        size = 230
     }
 
     artisans = {
-        culture = croat
-        religion = catholic
-        size = 900
+        culture = slovene
+        religion = protestant
+        size = 1225
     }
 
     soldiers = {
-        culture = croat
-        religion = catholic
-        size = 175
+        culture = slovene
+        religion = protestant
+        size = 796
     }
 
     farmers = {
-        culture = croat
-        religion = catholic
-        size = 16300
+        culture = slovene
+        religion = protestant
+        size = 32796
     }
 
-    farmers = {
-        culture = croat
-        religion = sunni
-        size = 100
-    }
-
-    clergymen = {
-        culture = serb
-        religion = orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = serb
-        religion = orthodox
-        size = 550
-    }
-
-    soldiers = {
-        culture = serb
-        religion = orthodox
-        size = 125
-    }
-
-    serfs = {
-        culture = serb
-        religion = orthodox
-        size = 10225
-    }
-
-    ######Jews
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-    ########
 }
-#Karlovac (184000/46000 POPS)
-773 = {
-    aristocrats = {
-        culture = croat
-        religion = catholic
-        size = 550
-    }
-
-    clergymen = {
-        culture = croat
-        religion = catholic
-        size = 350
-    }
-
-    artisans = {
-        culture = croat
-        religion = catholic
-        size = 1700
-    }
-
-    soldiers = {
-        culture = croat
-        religion = catholic
-        size = 1100
-    }
-
-    farmers = {
-        culture = croat
-        religion = catholic
-        size = 29400
-    }
-
-    clergymen = {
-        culture = serb
-        religion = orthodox
-        size = 125
-    }
-
-    artisans = {
-        culture = serb
-        religion = orthodox
-        size = 600
-    }
-
-    soldiers = {
-        culture = serb
-        religion = orthodox
-        size = 150
-    }
-
-    serfs = {
-        culture = serb
-        religion = orthodox
-        size = 2125
-    }
-}
-#Senj (96000/24000 POPS)
 774 = {
     aristocrats = {
         culture = croat
-        religion = catholic
-        size = 275
-    }
-
-    clergymen = {
-        culture = croat
-        religion = catholic
-        size = 125
+        religion = protestant
+        size = 571
     }
 
     bureaucrats = {
         culture = croat
-        religion = catholic
-        size = 200
+        religion = protestant
+        size = 321
+    }
+
+    officers = {
+        culture = croat
+        religion = protestant
+        size = 64
+    }
+
+    clergymen = {
+        culture = croat
+        religion = protestant
+        size = 457
     }
 
     artisans = {
         culture = croat
-        religion = catholic
-        size = 650
+        religion = protestant
+        size = 2287
     }
 
     soldiers = {
         culture = croat
-        religion = catholic
-        size = 125
+        religion = protestant
+        size = 1486
     }
 
     farmers = {
         culture = croat
-        religion = catholic
-        size = 11325
+        religion = protestant
+        size = 52036
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = protestant
+        size = 44
     }
 
     clergymen = {
-        culture = serb
-        religion = orthodox
-        size = 100
+        culture = south_german
+        religion = protestant
+        size = 30
     }
 
     artisans = {
-        culture = serb
-        religion = orthodox
-        size = 550
+        culture = south_german
+        religion = protestant
+        size = 161
     }
 
     soldiers = {
-        culture = serb
-        religion = orthodox
-        size = 125
+        culture = south_german
+        religion = protestant
+        size = 105
     }
 
-    serfs = {
-        culture = serb
-        religion = orthodox
-        size = 10225
+    farmers = {
+        culture = south_german
+        religion = protestant
+        size = 4092
     }
+
+    aristocrats = {
+        culture = slovene
+        religion = protestant
+        size = 25
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = protestant
+        size = 16
+    }
+
+    artisans = {
+        culture = slovene
+        religion = protestant
+        size = 87
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = protestant
+        size = 56
+    }
+
+    farmers = {
+        culture = slovene
+        religion = protestant
+        size = 2338
+    }
+
 }
-#Varadzin (68000/17000 POPS)
+781 = {
+    aristocrats = {
+        culture = croat
+        religion = protestant
+        size = 671
+    }
+
+    bureaucrats = {
+        culture = croat
+        religion = protestant
+        size = 365
+    }
+
+    officers = {
+        culture = croat
+        religion = protestant
+        size = 73
+    }
+
+    clergymen = {
+        culture = croat
+        religion = protestant
+        size = 537
+    }
+
+    artisans = {
+        culture = croat
+        religion = protestant
+        size = 2686
+    }
+
+    soldiers = {
+        culture = croat
+        religion = protestant
+        size = 1746
+    }
+
+    farmers = {
+        culture = croat
+        religion = protestant
+        size = 61115
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = protestant
+        size = 58
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = protestant
+        size = 39
+    }
+
+    artisans = {
+        culture = south_german
+        religion = protestant
+        size = 210
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = protestant
+        size = 136
+    }
+
+    farmers = {
+        culture = south_german
+        religion = protestant
+        size = 5314
+    }
+
+}
+780 = {
+    aristocrats = {
+        culture = croat
+        religion = protestant
+        size = 2224
+    }
+
+    bureaucrats = {
+        culture = croat
+        religion = protestant
+        size = 1340
+    }
+
+    officers = {
+        culture = croat
+        religion = protestant
+        size = 268
+    }
+
+    clergymen = {
+        culture = croat
+        religion = protestant
+        size = 1334
+    }
+
+    artisans = {
+        culture = croat
+        religion = protestant
+        size = 16683
+    }
+
+    soldiers = {
+        culture = croat
+        religion = protestant
+        size = 3336
+    }
+
+    farmers = {
+        culture = croat
+        religion = protestant
+        size = 86306
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = protestant
+        size = 134
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = protestant
+        size = 68
+    }
+
+    artisans = {
+        culture = south_german
+        religion = protestant
+        size = 904
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = protestant
+        size = 180
+    }
+
+    farmers = {
+        culture = south_german
+        religion = protestant
+        size = 5199
+    }
+
+    aristocrats = {
+        culture = illyrian
+        religion = orthodox
+        size = 321
+    }
+
+    clergymen = {
+        culture = illyrian
+        religion = orthodox
+        size = 154
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = orthodox
+        size = 2050
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = orthodox
+        size = 410
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = orthodox
+        size = 12478
+    }
+
+}
+773 = {
+    aristocrats = {
+        culture = croat
+        religion = protestant
+        size = 266
+    }
+
+    bureaucrats = {
+        culture = croat
+        religion = protestant
+        size = 190
+    }
+
+    officers = {
+        culture = croat
+        religion = protestant
+        size = 38
+    }
+
+    clergymen = {
+        culture = croat
+        religion = protestant
+        size = 212
+    }
+
+    artisans = {
+        culture = croat
+        religion = protestant
+        size = 1064
+    }
+
+    soldiers = {
+        culture = croat
+        religion = protestant
+        size = 691
+    }
+
+    farmers = {
+        culture = croat
+        religion = protestant
+        size = 24206
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = protestant
+        size = 68
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = protestant
+        size = 46
+    }
+
+    artisans = {
+        culture = south_german
+        religion = protestant
+        size = 246
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = protestant
+        size = 160
+    }
+
+    farmers = {
+        culture = south_german
+        religion = protestant
+        size = 6224
+    }
+
+    aristocrats = {
+        culture = slovene
+        religion = protestant
+        size = 45
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = protestant
+        size = 29
+    }
+
+    artisans = {
+        culture = slovene
+        religion = protestant
+        size = 155
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = slovene
+        religion = protestant
+        size = 4149
+    }
+
+}
+772 = {
+    aristocrats = {
+        culture = croat
+        religion = protestant
+        size = 235
+    }
+
+    bureaucrats = {
+        culture = croat
+        religion = protestant
+        size = 155
+    }
+
+    officers = {
+        culture = croat
+        religion = protestant
+        size = 31
+    }
+
+    clergymen = {
+        culture = croat
+        religion = protestant
+        size = 188
+    }
+
+    artisans = {
+        culture = croat
+        religion = protestant
+        size = 942
+    }
+
+    soldiers = {
+        culture = croat
+        religion = protestant
+        size = 612
+    }
+
+    farmers = {
+        culture = croat
+        religion = protestant
+        size = 21439
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = protestant
+        size = 49
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = protestant
+        size = 33
+    }
+
+    artisans = {
+        culture = south_german
+        religion = protestant
+        size = 178
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = protestant
+        size = 116
+    }
+
+    farmers = {
+        culture = south_german
+        religion = protestant
+        size = 4513
+    }
+
+    aristocrats = {
+        culture = slovene
+        religion = protestant
+        size = 24
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = protestant
+        size = 15
+    }
+
+    artisans = {
+        culture = slovene
+        religion = protestant
+        size = 84
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = protestant
+        size = 54
+    }
+
+    farmers = {
+        culture = slovene
+        religion = protestant
+        size = 2256
+    }
+
+}
+771 = {
+    aristocrats = {
+        culture = croat
+        religion = protestant
+        size = 1770
+    }
+
+    bureaucrats = {
+        culture = croat
+        religion = protestant
+        size = 1180
+    }
+
+    officers = {
+        culture = croat
+        religion = protestant
+        size = 236
+    }
+
+    clergymen = {
+        culture = croat
+        religion = protestant
+        size = 1061
+    }
+
+    artisans = {
+        culture = croat
+        religion = protestant
+        size = 13275
+    }
+
+    soldiers = {
+        culture = croat
+        religion = protestant
+        size = 2655
+    }
+
+    farmers = {
+        culture = croat
+        religion = protestant
+        size = 68675
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = protestant
+        size = 354
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = protestant
+        size = 180
+    }
+
+    artisans = {
+        culture = south_german
+        religion = protestant
+        size = 2389
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = protestant
+        size = 477
+    }
+
+    farmers = {
+        culture = south_german
+        religion = protestant
+        size = 13735
+    }
+
+    aristocrats = {
+        culture = slovene
+        religion = protestant
+        size = 236
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = protestant
+        size = 113
+    }
+
+    artisans = {
+        culture = slovene
+        religion = protestant
+        size = 1504
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = protestant
+        size = 300
+    }
+
+    farmers = {
+        culture = slovene
+        religion = protestant
+        size = 9156
+    }
+
+}
 775 = {
     aristocrats = {
         culture = croat
-        religion = catholic
-        size = 200
+        religion = protestant
+        size = 672
+    }
+
+    bureaucrats = {
+        culture = croat
+        religion = protestant
+        size = 480
+    }
+
+    officers = {
+        culture = croat
+        religion = protestant
+        size = 96
     }
 
     clergymen = {
         culture = croat
-        religion = catholic
-        size = 175
+        religion = protestant
+        size = 537
     }
 
     artisans = {
         culture = croat
-        religion = catholic
-        size = 850
+        religion = protestant
+        size = 2688
     }
 
     soldiers = {
         culture = croat
-        religion = catholic
-        size = 175
+        religion = protestant
+        size = 1747
     }
 
     farmers = {
         culture = croat
-        religion = catholic
-        size = 10600
+        religion = protestant
+        size = 61152
     }
 
-    serfs = {
-        culture = croat
-        religion = catholic
-        size = 5000
-    }
-
-    ######Jews
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
+    aristocrats = {
+        culture = south_german
+        religion = protestant
+        size = 192
     }
 
     clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
+        culture = south_german
+        religion = protestant
+        size = 130
     }
 
     artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
+        culture = south_german
+        religion = protestant
+        size = 691
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = protestant
+        size = 449
     }
 
     farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
+        culture = south_german
+        religion = protestant
+        size = 17472
     }
-    ########
+
+    aristocrats = {
+        culture = slovene
+        religion = protestant
+        size = 96
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = protestant
+        size = 61
+    }
+
+    artisans = {
+        culture = slovene
+        religion = protestant
+        size = 326
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = protestant
+        size = 212
+    }
+
+    farmers = {
+        culture = slovene
+        religion = protestant
+        size = 8736
+    }
+
 }
-#Bjelovar (52000/13000 POPS)
 776 = {
+    aristocrats = {
+        culture = croat
+        religion = protestant
+        size = 224
+    }
+
+    bureaucrats = {
+        culture = croat
+        religion = protestant
+        size = 135
+    }
+
+    officers = {
+        culture = croat
+        religion = protestant
+        size = 27
+    }
+
     clergymen = {
         culture = croat
-        religion = catholic
-        size = 100
+        religion = protestant
+        size = 179
     }
 
     artisans = {
+        culture = croat
+        religion = protestant
+        size = 896
+    }
+
+    soldiers = {
+        culture = croat
+        religion = protestant
+        size = 582
+    }
+
+    farmers = {
+        culture = croat
+        religion = protestant
+        size = 20393
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = protestant
+        size = 32
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = protestant
+        size = 22
+    }
+
+    artisans = {
+        culture = south_german
+        religion = protestant
+        size = 116
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = protestant
+        size = 75
+    }
+
+    farmers = {
+        culture = south_german
+        religion = protestant
+        size = 2948
+    }
+
+    aristocrats = {
+        culture = slovene
+        religion = protestant
+        size = 13
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = protestant
+        size = 8
+    }
+
+    artisans = {
+        culture = slovene
+        religion = protestant
+        size = 45
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = protestant
+        size = 29
+    }
+
+    farmers = {
+        culture = slovene
+        religion = protestant
+        size = 1228
+    }
+
+}
+776 = {
+    aristocrats = {
+        culture = croat
+        religion = protestant
+        size = 224
+    }
+
+    bureaucrats = {
+        culture = croat
+        religion = protestant
+        size = 135
+    }
+
+    officers = {
+        culture = croat
+        religion = protestant
+        size = 27
+    }
+
+    clergymen = {
+        culture = croat
+        religion = protestant
+        size = 179
+    }
+
+    artisans = {
+        culture = croat
+        religion = protestant
+        size = 896
+    }
+
+    soldiers = {
+        culture = croat
+        religion = protestant
+        size = 582
+    }
+
+    farmers = {
+        culture = croat
+        religion = protestant
+        size = 20393
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = protestant
+        size = 32
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = protestant
+        size = 22
+    }
+
+    artisans = {
+        culture = south_german
+        religion = protestant
+        size = 116
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = protestant
+        size = 75
+    }
+
+    farmers = {
+        culture = south_german
+        religion = protestant
+        size = 2948
+    }
+
+    aristocrats = {
+        culture = slovene
+        religion = protestant
+        size = 13
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = protestant
+        size = 8
+    }
+
+    artisans = {
+        culture = slovene
+        religion = protestant
+        size = 45
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = protestant
+        size = 29
+    }
+
+    farmers = {
+        culture = slovene
+        religion = protestant
+        size = 1228
+    }
+
+}
+777 = {
+    aristocrats = {
+        culture = croat
+        religion = protestant
+        size = 592
+    }
+
+    bureaucrats = {
+        culture = croat
+        religion = protestant
+        size = 380
+    }
+
+    officers = {
+        culture = croat
+        religion = protestant
+        size = 76
+    }
+
+    clergymen = {
+        culture = croat
+        religion = protestant
+        size = 474
+    }
+
+    artisans = {
+        culture = croat
+        religion = protestant
+        size = 2371
+    }
+
+    soldiers = {
+        culture = croat
+        religion = protestant
+        size = 1541
+    }
+
+    farmers = {
+        culture = croat
+        religion = protestant
+        size = 53944
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = protestant
+        size = 60
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = protestant
+        size = 41
+    }
+
+    artisans = {
+        culture = south_german
+        religion = protestant
+        size = 218
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = protestant
+        size = 142
+    }
+
+    farmers = {
+        culture = south_german
+        religion = protestant
+        size = 5532
+    }
+
+    aristocrats = {
+        culture = illyrian
+        religion = orthodox
+        size = 106
+    }
+
+    clergymen = {
+        culture = illyrian
+        religion = orthodox
+        size = 68
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = orthodox
+        size = 361
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = orthodox
+        size = 235
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = orthodox
+        size = 9682
+    }
+
+}
+793 = {
+    clergymen = {
         culture = croat
         religion = catholic
         size = 150
     }
 
+    artisans = {
+        culture = croat
+        religion = catholic
+        size = 800
+    }
+
     soldiers = {
         culture = croat
         religion = catholic
-        size = 100
+        size = 175
     }
 
     farmers = {
         culture = croat
         religion = catholic
-        size = 2675
-    }
-
-    clergymen = {
-        culture = serb
-        religion = orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = serb
-        religion = orthodox
-        size = 250
-    }
-
-    soldiers = {
-        culture = serb
-        religion = orthodox
-        size = 100
+        size = 10775
     }
 
     serfs = {
-        culture = serb
-        religion = orthodox
-        size = 4625
-    }
-
-    clergymen = {
-        culture = czech
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = czech
-        religion = catholic
-        size = 250
-    }
-
-    soldiers = {
-        culture = czech
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = czech
-        religion = catholic
-        size = 4650
-    }
-
-    ######Jews
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-    ########
-}
-#Pozega (80000/20000 POPS)
-777 = {
-    aristocrats = {
         culture = croat
         religion = catholic
-        size = 225
-    }
-
-    clergymen = {
-        culture = croat
-        religion = catholic
-        size = 200
-    }
-
-    artisans = {
-        culture = croat
-        religion = catholic
-        size = 1100
-    }
-
-    soldiers = {
-        culture = croat
-        religion = catholic
-        size = 200
-    }
-
-    farmers = {
-        culture = croat
-        religion = catholic
-        size = 10275
+        size = 4000
     }
 
     farmers = {
@@ -651,95 +1253,134 @@
         size = 100
     }
 
-    serfs = {
-        culture = croat
-        religion = catholic
-        size = 8000
-    }
-}
-#Fiume (52000/13000 POPS)
-778 = {
     clergymen = {
-        culture = croat
-        religion = catholic
+        culture = serb
+        religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = croat
-        religion = catholic
-        size = 1200
+        culture = serb
+        religion = orthodox
+        size = 350
     }
 
     soldiers = {
-        culture = croat
-        religion = catholic
+        culture = serb
+        religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = croat
-        religion = catholic
-        size = 4700
+        culture = serb
+        religion = orthodox
+        size = 7475
     }
 
     aristocrats = {
-        culture = north_italian
+        culture = south_german
         religion = catholic
-        size = 150
+        size = 100
     }
 
     clergymen = {
-        culture = north_italian
+        culture = south_german
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = north_italian
+        culture = south_german
         religion = catholic
-        size = 1300
+        size = 100
     }
 
     soldiers = {
-        culture = north_italian
+        culture = south_german
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = north_italian
+        culture = south_german
         religion = catholic
-        size = 4425
-    }
-
-    clergymen = {
-        culture = hungarian
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = hungarian
-        religion = catholic
-        size = 250
-    }
-
-    soldiers = {
-        culture = hungarian
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = hungarian
-        religion = catholic
-        size = 700
+        size = 1785
     }
 }
-#Baranya Region (180000) #see Hungary.txt for balance of Region
-#under the rule of Austria in 1836
-#Osijek (180000/45000 POPS)
+782 = {
+    aristocrats = {
+        culture = illyrian
+        religion = orthodox
+        size = 165
+    }
+
+    bureaucrats = {
+        culture = illyrian
+        religion = orthodox
+        size = 182
+    }
+
+    officers = {
+        culture = illyrian
+        religion = orthodox
+        size = 36
+    }
+
+    clergymen = {
+        culture = illyrian
+        religion = orthodox
+        size = 236
+    }
+
+    artisans = {
+        culture = illyrian
+        religion = orthodox
+        size = 1184
+    }
+
+    soldiers = {
+        culture = illyrian
+        religion = orthodox
+        size = 592
+    }
+
+    farmers = {
+        culture = illyrian
+        religion = orthodox
+        size = 21323
+    }
+
+    aristocrats = {
+        culture = north_greek
+        religion = orthodox
+        size = 89
+    }
+
+    clergymen = {
+        culture = north_greek
+        religion = orthodox
+        size = 108
+    }
+
+    artisans = {
+        culture = north_greek
+        religion = orthodox
+        size = 574
+    }
+
+    soldiers = {
+        culture = north_greek
+        religion = orthodox
+        size = 287
+    }
+
+    farmers = {
+        culture = north_greek
+        religion = orthodox
+        size = 11481
+    }
+
+}
 779 = {
     clergymen = {
         culture = croat
@@ -853,348 +1494,5 @@
         culture = south_german
         religion = catholic
         size = 2300
-    }
-}
-#Dalmatia Region (320000) #see Montenegro.txt for balance of region
-#under the rule of Austria in 1836
-#Split (140000/35000 POPS)
-780 = {
-    aristocrats = {
-        culture = croat
-        religion = catholic
-        size = 400
-    }
-
-    clergymen = {
-        culture = croat
-        religion = catholic
-        size = 350
-    }
-
-    artisans = {
-        culture = croat
-        religion = catholic
-        size = 2000
-    }
-
-    soldiers = {
-        culture = croat
-        religion = catholic
-        size = 350
-    }
-
-    farmers = {
-        culture = croat
-        religion = catholic
-        size = 23250
-    }
-
-    farmers = {
-        culture = croat
-        religion = sunni
-        size = 100
-    }
-
-    serfs = {
-        culture = gypsy
-        religion = catholic
-        size = 1000
-    }
-
-    serfs = {
-        culture = croat
-        religion = catholic
-        size = 10000
-    }
-
-    clergymen = {
-        culture = north_italian
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = north_italian
-        religion = catholic
-        size = 500
-    }
-
-    soldiers = {
-        culture = north_italian
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = north_italian
-        religion = catholic
-        size = 450
-    }
-}
-#Zadar (128000/32000 POPS)
-781 = {
-    aristocrats = {
-        culture = croat
-        religion = catholic
-        size = 250
-    }
-
-    bureaucrats = {
-        culture = croat
-        religion = catholic
-        size = 100
-    }
-
-    officers = {
-        culture = croat
-        religion = catholic
-        size = 75
-    }
-
-    clergymen = {
-        culture = croat
-        religion = catholic
-        size = 225
-    }
-
-    artisans = {
-        culture = croat
-        religion = catholic
-        size = 600
-    }
-
-    soldiers = {
-        culture = croat
-        religion = catholic
-        size = 225
-    }
-
-    farmers = {
-        culture = croat
-        religion = catholic
-        size = 20525
-    }
-
-    bureaucrats = {
-        culture = north_italian
-        religion = catholic
-        size = 75
-    }
-
-    clergymen = {
-        culture = north_italian
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = north_italian
-        religion = catholic
-        size = 700
-    }
-
-    soldiers = {
-        culture = north_italian
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = north_italian
-        religion = catholic
-        size = 2125
-    }
-
-    clergymen = {
-        culture = serb
-        religion = orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = serb
-        religion = orthodox
-        size = 300
-    }
-
-    soldiers = {
-        culture = serb
-        religion = orthodox
-        size = 100
-    }
-
-    serfs = {
-        culture = serb
-        religion = orthodox
-        size = 6550
-    }
-}
-#Dubrovnik (52000/13000 POPS)
-782 = {
-    aristocrats = {
-        culture = illyrian
-        religion = orthodox
-        size = 165
-    }
-
-    bureaucrats = {
-        culture = illyrian
-        religion = orthodox
-        size = 182
-    }
-
-    officers = {
-        culture = illyrian
-        religion = orthodox
-        size = 36
-    }
-
-    clergymen = {
-        culture = illyrian
-        religion = orthodox
-        size = 236
-    }
-
-    artisans = {
-        culture = illyrian
-        religion = orthodox
-        size = 1184
-    }
-
-    soldiers = {
-        culture = illyrian
-        religion = orthodox
-        size = 592
-    }
-
-    farmers = {
-        culture = illyrian
-        religion = orthodox
-        size = 21323
-    }
-
-    aristocrats = {
-        culture = north_greek
-        religion = orthodox
-        size = 89
-    }
-
-    clergymen = {
-        culture = north_greek
-        religion = orthodox
-        size = 108
-    }
-
-    artisans = {
-        culture = north_greek
-        religion = orthodox
-        size = 574
-    }
-
-    soldiers = {
-        culture = north_greek
-        religion = orthodox
-        size = 287
-    }
-
-    farmers = {
-        culture = north_greek
-        religion = orthodox
-        size = 11481
-    }
-
-}
-#Banat-Bacska Region (104000) #See Serbia.txt and Romania.txt for balance of region
-#under the rule of Austria in 1836
-#Vukovar (104000/26000 POPS) #part of Croatia today
-793 = {
-    clergymen = {
-        culture = croat
-        religion = catholic
-        size = 150
-    }
-
-    artisans = {
-        culture = croat
-        religion = catholic
-        size = 800
-    }
-
-    soldiers = {
-        culture = croat
-        religion = catholic
-        size = 175
-    }
-
-    farmers = {
-        culture = croat
-        religion = catholic
-        size = 10775
-    }
-
-    serfs = {
-        culture = croat
-        religion = catholic
-        size = 4000
-    }
-
-    farmers = {
-        culture = croat
-        religion = sunni
-        size = 100
-    }
-
-    clergymen = {
-        culture = serb
-        religion = orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = serb
-        religion = orthodox
-        size = 350
-    }
-
-    soldiers = {
-        culture = serb
-        religion = orthodox
-        size = 100
-    }
-
-    farmers = {
-        culture = serb
-        religion = orthodox
-        size = 7475
-    }
-
-    aristocrats = {
-        culture = south_german
-        religion = catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = south_german
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = south_german
-        religion = catholic
-        size = 100
-    }
-
-    soldiers = {
-        culture = south_german
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = south_german
-        religion = catholic
-        size = 1785
     }
 }
