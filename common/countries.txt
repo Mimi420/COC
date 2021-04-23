@@ -335,6 +335,8 @@ VAL        = "countries/Valencia.txt"
 ALA        = "countries/Al Andalus.txt"
 GRA        = "countries/Granada.txt"
 TOL        = "countries/Toledo.txt"
+LIS        = "countries/Lisboa.txt"
+EVO        = "countries/Evora.txt"
 
 # Germany
 ANH        = "countries/Anhalt.txt"

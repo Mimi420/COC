@@ -1,5 +1,5 @@
-owner = POR
-controller = POR
-add_core = POR
+owner = ALA
+controller = ALA
+add_core = ALA
 trade_goods = fruit
 life_rating = 35

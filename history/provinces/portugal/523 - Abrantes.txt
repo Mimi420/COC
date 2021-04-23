@@ -1,5 +1,5 @@
-owner = POR
-controller = POR
-add_core = POR
+owner = LIS
+controller = LIS
+add_core = LIS
 trade_goods = grain
 life_rating = 35
