@@ -1,6 +1,6 @@
-owner = SWI
-controller = SWI
-add_core = SWI
+owner = LOT
+controller = LOT
+add_core = LOT
 trade_goods = grain
 life_rating = 33
 party_loyalty = {

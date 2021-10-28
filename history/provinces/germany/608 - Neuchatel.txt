@@ -1,8 +1,6 @@
-owner = NEH
-controller = NEH
-add_core = NEH
-add_core = SWI
-add_core = PRU
+owner = LOT
+controller = LOT
+add_core = LOT
 trade_goods = coal
 life_rating = 32
 

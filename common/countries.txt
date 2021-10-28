@@ -123,7 +123,7 @@ SRD        = "countries/Sardinia.txt"
 SVY        = "countries/Savoy.txt"
 SWH        = "countries/Schleswig-Holstein.txt"
 WHA        = "countries/Wales.txt"
-
+LOT        = "countries/Lotharingia.txt"
 #Germany
 DNB        = "countries/Danubian Federation.txt"
 LUZ        = "countries/Luzica.txt"

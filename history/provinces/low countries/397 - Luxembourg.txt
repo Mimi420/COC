@@ -1,5 +1,6 @@
-owner = BEL
-controller = BEL
+owner = LOT
+controller = LOT
+add_core = LOT
 add_core = LUX
 add_core = NET
 trade_goods = coal
