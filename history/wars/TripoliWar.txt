@@ -1,8 +1,8 @@
-name = "War of the Farrapos"
+name = "Egyptian Conquest of Tripoli"
 
 1835.10.2 = {
-    add_attacker = BRZ
-    add_defender = RGS
+    add_attacker = EGY
+    add_defender = TRI
 
     # actor
     # receiver
@@ -11,13 +11,13 @@ name = "War of the Farrapos"
     # state_province_id - target state capital
     war_goal = {
         casus_belli = annex_core_country
-        actor = BRZ
-        receiver = RGS
+        actor = EGY
+        receiver = TRI
     }
 
 }
 
 1836.4.21 = {
-    rem_attacker = BRZ
-    rem_defender = RGS
+    rem_attacker = EGY
+    rem_defender = TRI
 }

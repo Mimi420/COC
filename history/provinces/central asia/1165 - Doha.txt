@@ -1,5 +1,6 @@
-owner = QAT
-controller = QAT
+owner = TUR
+controller = TUR
+add_core = TUR
 add_core = BHR
 add_core = QAT
 trade_goods = fish

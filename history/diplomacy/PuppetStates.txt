@@ -120,7 +120,7 @@ vassal = {
 # Egypt-Hedjaz
 vassal = {
     first = EGY
-    second = HDJ
+    second = LHJ
     start_date = 1836.1.1
     end_date = 1840.7.1
 }

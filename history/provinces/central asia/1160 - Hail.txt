@@ -1,5 +1,6 @@
-owner = HAL
-controller = HAL
+owner = TUR
+controller = TUR
+add_core = TUR
 add_core = HAL
 trade_goods = wool
 life_rating = 35

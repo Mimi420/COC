@@ -1,5 +1,6 @@
-owner = FDL
-controller = FDL
+owner = TUR
+controller = TUR
+add_core = TUR
 add_core = KTH
 add_core = MHR
 add_core = FDL
